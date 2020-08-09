@@ -5,74 +5,309 @@
         "submenu":"نادي ريال مدريد",
         "iap":false,
         "tabs":[
-            {
-                "title":"الرئيسية",
-                "provider":"wordpress",
-                "arguments":[
-                    "http://www.hihi2.com/wp-json/wp/v2/",
-                    "13"
-                ]
-            },
+            
             {
                 "title":"بطولات",
-                "provider":"rss",
-                "drawable":"News-32",
+                "provider":"wordpress",
+                "image":"News-32",
                 "arguments":[
-                    "https://www.btolat.com/RSS/newsfeed?teamid=16110"
+                    "https://www.koorapress.com/wp-json/wp/v2/"
                 ]
             }
         ]
     },
     
-    
     {
-        "title":"تويتر",
-        "drawable":"twitter-32",
-        "submenu":"مواقع التواصل",
+        "title":"في الواجهة",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
         "iap":false,
         "tabs":[
             {
-                "title":"realmadridarab",
-                "provider":"twitter",
-                "image":"twitter-32",
+                "title":"في الواجهة",
+                "provider":"wordpress",
+                "image":"News-32",
                 "arguments":[
-                    "realmadridarab"
-                ]
-            },
-            {
-                "title":"RM4Arab",
-                "provider":"twitter",
-                "image":"twitter-32",
-                "arguments":[
-                    "RM4Arab"
-                ]
-            },
-            {
-                "title":"RMADailyNews",
-                "provider":"twitter",
-                "image":"twitter-32",
-                "arguments":[
-                    "RMADailyNews"
-                ]
-            },
-            {
-                "title":"realmadridarabi",
-                "provider":"twitter",
-                "image":"twitter-32",
-                "arguments":[
-                    "realmadridarabi"
-                ]
-            },
-            {
-                "title":"ArabRM",
-                "provider":"twitter",
-                "image":"twitter-32",
-                "arguments":[
-                    "ArabRM"
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "70",
                 ]
             }
         ]
     },
-    
+    {
+        "title":"صوت وصورة",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"صوت وصورة",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "2",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"أخبار 24",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"أخبار 24",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "4",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"أخبار وترتيب الدوري الاسباني",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"أخبار وترتيب الدوري الاسباني",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "6",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"سوق الانتقالات",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"سوق الانتقالات",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "13",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"منتخب المغرب",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"منتخب المغرب",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "16",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"دوري أبطال أوروبا",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"دوري أبطال أوروبا",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "10",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"واك راجا",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"واك راجا",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "3",
+                ]
+            }
+        ]
+    },
+  
+    {
+        "title":"دوري أبطال أفريقيا",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"دوري أبطال أفريقيا",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "18",
+                ]
+            }
+        ]
+    },
+  
+    {
+        "title":"مشاهدة مباريات قنوات رياضية اليوم بث مباشر",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"مشاهدة مباريات قنوات رياضية اليوم بث مباشر",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "231",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"أخبار وترتيب الدوري المغربي",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"أخبار وترتيب الدوري المغربي",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "5",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الكرة المغربية",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الكرة المغربية",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "20",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الدوري الايطالي",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الدوري الايطالي",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "7",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"أسرار النجوم",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"أسرار النجوم",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "68",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الدوري الإنجليزي",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الدوري الإنجليزي",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "17",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"ملخص المباريات",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"ملخص المباريات",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "4971",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"كأس الاتحاد الإفريقي",
+        "drawable":"News-32",
+        "submenu":"ريال مدريد",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"كأس الاتحاد الإفريقي",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.koorapress.com/wp-json/wp/v2/",
+                    "19",
+                ]
+            }
+        ]
+    },
+   
     
 ]
