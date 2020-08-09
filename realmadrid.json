@@ -1,0 +1,345 @@
+ [
+  
+  
+   
+   
+   
+   {
+   "title":"أحدث الأخبار",
+   "drawable":"newspaper.png",
+   "submenu":"نادي ريال مدريد",
+   "iap":false,
+   "tabs":[
+           
+           {
+           "title":"أحدث الأخبار",
+           "provider":"wordpress",
+           "image":"newspaper.png",
+           "arguments":[
+                        "http://www.hihi2.com/wp-json/wp/v2/",
+                        "13"
+                        ]
+           },
+           
+           {
+           "title":"بطولات",
+           "provider":"rss",
+           "image":"newspaper.png",
+           "arguments":[
+                        "https://www.btolat.com/RSS/newsfeed?teamid=16110"
+                        ]
+           }
+           
+           
+           ]
+   },
+   
+   
+   {
+   "title":"اهداف",
+   "drawable":"newspaper.png",
+   "submenu":"الاهداف والمباريات",
+   "iap":false,
+   "tabs":[
+           
+           {
+           "title":"اهداف",
+           "provider":"wordpress",
+           "image":"newspaper.png",
+           "arguments":[
+                        "http://www.hihi2.com/wp-json/wp/v2/",
+                        "3051"
+                        ]
+           }
+           ]
+   },
+   
+   
+   {
+   "title":"قناة ريال مدريد",
+   "drawable":"youtubex.png",
+   "submenu":"الاهداف والمباريات",
+   "iap":false,
+   "tabs":[
+           {
+           "title":"قناة ريال مدريد",
+           "provider":"youtube",
+           "image":"youtubex.png",
+           "arguments":[
+                        "UUaQHxlbPAmh7VWRudyRkwjw",
+                        "UCaQHxlbPAmh7VWRudyRkwjw"
+                        ]
+           },
+           {
+           "title":"Latest Videos",
+           "provider":"youtube",
+           "image":"youtubex.png",
+           "arguments":[
+                        "PLh22Rt_ifLRwEwMyPkJcYCKpPsZ_0WO0y",
+                        ""
+                        ]
+           },
+           {
+           "title":"Highlights",
+           "provider":"youtube",
+           "image":"youtubex.png",
+           "arguments":[
+                        "PLh22Rt_ifLRzt1gKuPGgmnZf-uW6uXdVV",
+                        ""
+                        ]
+           },
+           {
+           "title":"Popular Videos",
+           "provider":"youtube",
+           "image":"youtubex.png",
+           "arguments":[
+                        "PLh22Rt_ifLRwX50MOvoAGEi5z9hmFkOyr",
+                        ""
+                        ]
+           }
+           ]
+   },
+   
+   
+   {
+   "title":"تويتر",
+   "drawable":"twitter.png",
+   "submenu":"مواقع التواصل",
+   "iap":false,
+   "tabs":[
+           {
+           "title":"realmadridarab",
+           "provider":"twitter",
+           "image":"twitter.png",
+           "arguments":[
+                        "realmadridarab"
+                        ]
+           },
+           {
+           "title":"RM4Arab",
+           "provider":"twitter",
+           "image":"twitter.png",
+           "arguments":[
+                        "RM4Arab"
+                        ]
+           },
+           {
+           "title":"RMADailyNews",
+           "provider":"twitter",
+           "image":"twitter.png",
+           "arguments":[
+                        "RMADailyNews"
+                        ]
+           },
+           {
+           "title":"realmadridarabi",
+           "provider":"twitter",
+           "image":"twitter.png",
+           "arguments":[
+                        "realmadridarabi"
+                        ]
+           },
+           {
+           "title":"ArabRM",
+           "provider":"twitter",
+           "image":"twitter.png",
+           "arguments":[
+                        "ArabRM"
+                        ]
+           }
+           ]
+   },
+   
+   {
+   "title":"فيث بوك",
+   "drawable":"facebook.png",
+   "submenu":"مواقع التواصل",
+   "iap":false,
+   "tabs":[
+           {
+           "title":"ريال مدريد بالعربية",
+           "provider":"facebook",
+           "image":"facebook.png",
+           "arguments":[
+                        "231298511853"
+                        ]
+           },
+           {
+           "title":"ريال مدريد نيوز",
+           "provider":"facebook",
+           "image":"facebook.png",
+           "arguments":[
+                        "1874800396097276"
+                        ]
+           },
+           
+           {
+           "title":"عشاق ريال مدريد",
+           "provider":"facebook",
+           "image":"facebook.png",
+           "arguments":[
+                        "1562299394075077"
+                        ]
+           }
+           
+           ]
+   },
+   
+   {
+   "title":"صور",
+   "drawable":"tumblr.png",
+   "submenu":"مواقع التواصل",
+   "iap":false,
+   "tabs":[
+           {
+           "title":"1realmadridlife",
+           "provider":"tumblr",
+           "image":"tumblr.png",
+           "arguments":[
+                        "1realmadridlife"
+                        ]
+           },
+           {
+           "title":"realmadridperu",
+           "provider":"tumblr",
+           "image":"tumblr.png",
+           "arguments":[
+                        "realmadridperu"
+                        ]
+           },
+           {
+           "title":"teamrealmadrid",
+           "provider":"tumblr",
+           "image":"tumblr.png",
+           "arguments":[
+                        "teamrealmadrid"
+                        ]
+           },
+           {
+           "title":"dailyrmadrid",
+           "provider":"tumblr",
+           "image":"tumblr.png",
+           "arguments":[
+                        "dailyrmadrid"
+                        ]
+           }
+           ]
+   },
+   
+   
+   
+   
+   
+   
+   
+   
+   {
+   "title":"أخبار الدوري الاسبانى",
+   "drawable":"newspaper.png",
+   "submenu":"الدوري الاسبانى",
+   "iap":false,
+   "tabs":[
+           {
+           "title":"أخبار أخرى",
+           "provider":"rss",
+           "image":"newspaper.png",
+           "arguments":[
+                        "https://www.btolat.com/RSS/newsfeed?leagueid=1399"
+                        ]
+           },
+           {
+           "title":"أخبار الدوري الاسبانى",
+           "provider":"wordpress",
+           "image":"newspaper.png",
+           "arguments":[
+                        "http://www.hihi2.com/wp-json/wp/v2/",
+                        "11"
+                        ]
+           }
+           ]
+   },
+  
+  {
+  "title":"اهداف",
+  "drawable":"newspaper.png",
+  "submenu":"الدوري الاسبانى",
+  "iap":false,
+  "tabs":[
+          
+          {
+          "title":"اهداف",
+          "provider":"wordpress",
+          "image":"newspaper.png",
+          "arguments":[
+                       "http://www.hihi2.com/wp-json/wp/v2/",
+                       "3049"
+                       ]
+          }
+          ]
+  },
+  
+  {
+  "title":"قناة الدورى الاسبانى",
+  "drawable":"youtubex.png",
+  "submenu":"الدوري الاسبانى",
+  "iap":false,
+  "tabs":[
+          {
+          "title":"قناة الدورى الاسبانى",
+          "provider":"youtube",
+          "image":"youtubex.png",
+          "arguments":[
+                       "UUs3Gqvp1tO-nK-XNzFlopsg",
+                       "UCs3Gqvp1tO-nK-XNzFlopsg"
+                       ]
+          }
+          
+          ]
+  },
+   
+   {
+   "title":"تويتر",
+   "drawable":"twitter.png",
+  "submenu":"الدوري الاسبانى",
+   "iap":false,
+   "tabs":[
+           {
+           "title":"LaLigaArab",
+           "provider":"twitter",
+           "image":"circle",
+           "arguments":[
+                        "LaLigaArab"
+                        ]
+           }
+          
+           ]
+   },
+   
+   
+   {
+   "title":"احصائيات",
+   "drawable":"web.png",
+  "submenu":"الدوري الاسبانى",
+   "iap":false,
+   "tabs":[
+           {
+           "title":"ترتيب الدورى الاسبانى",
+           "provider":"webview",
+           "image":"web.png",
+           "arguments":[
+                        "http://www.soccerway.mobi/?sport=soccer&page=competition&id=7&localization_id=www"
+                        ]
+           }
+         
+           ]
+   }
+   
+   
+   
+   
+   
+   
+  
+  
+  ]
+
