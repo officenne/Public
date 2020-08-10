@@ -92,38 +92,21 @@
         ]
     },
     {
-        "title":"شاهد",
-        "drawable":"TV-Show-32",
-        "submenu":"فديو",
-        "iap":false,
-        "tabs":[
-            
-            {
-                "title":"شاهد",
-                "provider":"youtube",
-                "image":"TV-Show-32",
-                "arguments":[
-                    "UCe4kZbXDz3DCbszW1rY5iUw",
-                    "channel"
-                ]
-            }
-            
-        ]
-    },    {
-        "title":"تويتر",
-        "drawable":"Twitter-32",
-        "submenu":"",
+        "title":"راديو",
+        "drawable":"Microphone-32",
+        "submenu":"القاهرة 24",
         "iap":false,
         "tabs":[
             {
-                "title":"تويتر",
-                "provider":"twitter",
+                "title":"راديو",
+                "provider":"radio",
                 "arguments":[
-                    "cairo24_"
+                    "http://66.45.232.130:9994/"
                 ]
             }
         ]
     },
+  
     {
         "title":"تقارير",
         "drawable":"News-32",
