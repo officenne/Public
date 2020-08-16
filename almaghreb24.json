@@ -310,6 +310,90 @@
                 ]
             }
         ]
-    }
+    },
+     {
+        "title":"هبة بريس",
+        "drawable":"News-32",
+        "submenu":"الأخبار العربية",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"هبة بريس",
+                "provider":"wordpress",
+                "arguments":[
+                    "https://ar.hibapress.com/wp-json/wp/v2/"
+                ]
+            }
+        ]
+    },
+    
+   
+     {
+          "title":"سيت انفو",
+          "drawable":"News-32",
+        "submenu":"الأخبار العربية",
+          "iap":false,
+          "tabs":[
+              {
+                  "title":"سيت انفو",
+                  "provider":"wordpress",
+                  "arguments":[
+                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+                  ]
+              }
+          ]
+      },
+      
+    
+    
+    
+    
+    {
+        "title":"LeSiteinfo French",
+        "drawable":"News-32",
+        "submenu":"French",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"LeSiteinfo",
+                "provider":"wordpress",
+                "arguments":[
+                    "http://lesiteinfo.com//wp-json/wp/v2/",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"hibapress",
+        "drawable":"News-32",
+        "submenu":"French",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"hibapress",
+                "provider":"wordpress",
+                "arguments":[
+                    "https://fr.hibapress.com/wp-json/wp/v2/"
+                ]
+            }
+        ]
+    },
+    
+    {
+         "title":"À la une",
+         "drawable":"News-32",
+         "submenu":"French",
+         "iap":false,
+         "tabs":[
+            {
+               "title":"À la une",
+               "provider":"rss",
+               "image":"News-32",
+               "arguments":[
+                  "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtWnlHZ0pOUVNnQVAB?hl=fr&gl=MA&ceid=MA%3Afr"
+               ]
+            }
+         ]
+      },
     
 ]
