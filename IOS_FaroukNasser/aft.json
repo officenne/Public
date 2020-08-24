@@ -1,316 +1,237 @@
 [
-  
-      
-      {
-          "title":"أحدث الأخبار",
-          "drawable":"News-32",
-          "submenu":"أخبار النادي الأهلى",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"أحدث الأخبار",
-                  "provider":"wordpress",
-                  "image":"News-32",
-                  "arguments":[
-                      "http://alahlyegypt.com/wp-json/wp/v2/",
-                      ""
-                  ]
-              }
-          ]
-      },
-      
-      
-      
-      {
-          "title":"كرة القدم",
-          "drawable":"News-32",
-          "submenu":"أخبار النادي الأهلى",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"كرة القدم",
-                  "provider":"wordpress",
-                  "image":"circle",
-                  "arguments":[
-                      "http://alahlyegypt.com/wp-json/wp/v2/",
-                      "61"
-                  ]
-              }
-          ]
-      },
-      
-      
-      
-      {
-          "title":"ألعاب أخرى",
-          "drawable":"News-32",
-          "submenu":"أخبار النادي الأهلى",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"ألعاب أخرى",
-                  "provider":"wordpress",
-                  "image":"News-32",
-                  "arguments":[
-                      "http://alahlyegypt.com/wp-json/wp/v2/",
-                      "62"
-                  ]
-              },
-              {
-                  "title":"كرة الطائرة",
-                  "provider":"wordpress",
-                  "image":"News-32",
-                  "arguments":[
-                      "http://alahlyegypt.com/wp-json/wp/v2/",
-                      "81"
-                  ]
-              },
-              {
-                  "title":"كرة اليد",
-                  "provider":"wordpress",
-                  "image":"News-32",
-                  "arguments":[
-                      "http://alahlyegypt.com/wp-json/wp/v2/",
-                      "62"
-                  ]
-              },
-              {
-                  "title":"أخبار مجلس الإدارة",
-                  "provider":"wordpress",
-                  "image":"News-32",
-                  "arguments":[
-                      "http://alahlyegypt.com/wp-json/wp/v2/",
-                      "84"
-                  ]
-              }
-          ]
-      },
-      
-      
-      
-      
-      
-      {
-          "title":"نتائج وترتيب الدوري",
-          "drawable":"Domain-32",
-          "submenu":"ترتيب الدوري",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"النتائج",
-                  "provider":"webview",
-                  "arguments":[
-                      "https://www.google.com/search?rlz=1C5CHFA_enUS846US846&ei=0PKJXe3vMNO31fAPiqquGA&q=%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%89+%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%89+%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%89&oq=%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A+%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A+&gs_l=psy-ab.1.1.0l6j0i22i30l4.829.829..2651...0.2..0.177.177.0j1......0....1..gws-wiz.......0i71._TBIhcRJd5Y#sie=t;/m/0518mq;2;/m/092b7b;mt;fp;1;;"
-                  ]
-              }
-          ]
-      },
-      
-      
-      
-      
-      
-      {
-          "title":"الاهداف",
-          "drawable":"TV-Show-32",
-          "submenu":"فديوهات",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"الاهلى",
-                  "provider":"youtube",
-                  "image":"TV-Show-32",
-                  "arguments":[
-                      "UCA86pBGxVPZGrTeTecOtjew",
-                      "channel"
-                  ]
-              },
-              {
-                  "title":"قناة الاهلى",
-                  "provider":"youtube",
-                  "image":"TV-Show-32",
-                  "arguments":[
-                      "UCmeqakSoEdmxEtTnCFSbunw",
-                      "channel"
-                  ]
-              },
-              {
-                  "title":"الاهداف",
-                  "provider":"youtube",
-                  "image":"TV-Show-32",
-                  "arguments":[
-                      "UCB36jBOj5L5YcwUGj82rOCQ",
-                      "channel"
-                  ]
-              },
-              {
-                  "title":"اهداف الدورى",
-                  "provider":"youtube",
-                  "image":"TV-Show-32",
-                  "arguments":[
-                      "UCNyKhK1GI6CUbJ-BDtJ44DA",
-                      "channel"
-                  ]
-              }
-          ]
-      },
-      
-      
-      
+    {
+        "title":"الرئيسية",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"مسلسلات كرتون",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/"
+                ]
+            }
+        ]
+    },
     
-      
-      
-      {
-          "title":"تويتر",
-          "drawable":"Twitter-32",
-          "submenu":"مواقع التواصل",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"alahly",
-                  "provider":"twitter",
-                  "image":"Twitter-32",
-                  "arguments":[
-                      "alahly"
-                  ]
-              },
-              {
-                  "title":"AlAhlyTV",
-                  "provider":"twitter",
-                  "image":"Twitter-32",
-                  "arguments":[
-                      "AlAhlyTV"
-                  ]
-              },
-              {
-                  "title":"AlAhlyInfo",
-                  "provider":"twitter",
-                  "image":"Twitter-32",
-                  "arguments":[
-                      "AlAhlyInfo"
-                  ]
-              }
-          ]
-      },
-      
-      {
-          "title":"تويتر لاعبين",
-          "drawable":"Twitter-32",
-          "submenu":"مواقع التواصل",
-          "iap":false,
-          "tabs":[
-              
-              {
-                  "title":"trikaofficial",
-                  "provider":"twitter",
-                  "image":"Twitter-32",
-                  "arguments":[
-                      "trikaofficial"
-                  ]
-              },
-              {
-                  "title":"bibo",
-                  "provider":"twitter",
-                  "image":"Twitter-32",
-                  "arguments":[
-                      "bibo"
-                  ]
-              },
-              {
-                  "title":"MoamenZakaria",
-                  "provider":"twitter",
-                  "image":"Twitter-32",
-                  "arguments":[
-                      "MoamenZakaria"
-                  ]
-              },
-              {
-                  "title":"SSamir",
-                  "provider":"twitter",
-                  "image":"Twitter-32",
-                  "arguments":[
-                      "SSamir"
-                  ]
-              },
-              {
-                  "title":"amrelsolia",
-                  "provider":"twitter",
-                  "image":"Twitter-32",
-                  "arguments":[
-                      "amrelsolia"
-                  ]
-              }
-          ]
-      },
-   
-   
-   {
-       "title":"اغاني الاهلي",
-       "drawable":"SoundCloud-32@2x.png",
-       "submenu":"",
-       "iap":false,
-       "tabs":[
-           {
-               "title":"اغاني الاهلي",
-               "provider":"soundcloud",
-               "arguments":[
-                   "289198855", "playlist"
-               ]
-           }
-           
-       ]
-   },
-   
-      
-      
+    {
+        "title":"مسلسلات كرتون",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"مسلسلات كرتون",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "2185",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"قصص الاطفال",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"قصص الاطفال",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "1887",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"التلوين",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"التلوين",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "474",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"التعليم",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"التعليم",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "475",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"معلومات قصيرة",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"معلومات قصيرة",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "1676",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الألغاز",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الألغاز",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "476",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"قصص الانبياء",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"قصص الانبياء",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "1888",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"اشغال و نشاطات",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"اشغال و نشاطات",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "481",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الترفيه",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الترفيه",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "1886",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الطبخات",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الطبخات",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "487",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الاناشيد",
+        "drawable":"News-32",
+        "submenu":"كرتون قصص الاميرات",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الاناشيد",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/",
+                    "485",
+                ]
+            }
+        ]
+    },
     
-      
-      {
-          "title":"أخبار الدوري المصري",
-          "drawable":"News-32",
-          "submenu":"الدوري المصري",
-          "iap":false,
-          "tabs":[
-              
-              {
-                  "title":"بطولات",
-                  "provider":"rss",
-                  "image":"News-32",
-                  "arguments":[
-                      "https://www.btolat.com/RSS/newsfeed?leagueid=1193"
-                  ]
-              },
-              
-              {
-                  "title":"في الجول",
-                  "provider":"rss",
-                  "image":"News-32",
-                  "arguments":[
-                      "https://www.filgoal.com/section/1/rss/%D9%85%D8%B5%D8%B1"
-                  ]
-              },
-              
-              {
-                  "title":"الدوري المصري",
-                  "provider":"wordpress",
-                  "image":"News-32",
-                  "arguments":[
-                      "http://www.hihi2.com/wp-json/wp/v2/",
-                      "64"
-                  ]
-              }
-              
-          ]
-      }
-      
-      
-
-      
-   
-  
-  
-  
-  
-  
-  
-  ]
+    
+    
+    
+    
+    
+    {
+        "title":"اغاني الاهلي",
+        "drawable":"SoundCloud-32@2x.png",
+        "submenu":"",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"اغاني الاهلي",
+                "provider":"soundcloud",
+                "arguments":[
+                    "289198855", "playlist"
+                ]
+            }
+            
+        ]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]
