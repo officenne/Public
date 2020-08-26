@@ -86,143 +86,20 @@
         ]
     },
     {
-        "title":"سوق الانتقالات",
-        "drawable":"News-32",
-        "submenu":"ريال مدريد",
-        "iap":false,
+        "title":"راديو",
+        "drawable":"Microphone-32",
+        "submenu":"أخرى",
+        "iap":true,
         "tabs":[
             {
-                "title":"سوق الانتقالات",
-                "provider":"wordpress",
-                "image":"News-32",
+                "title":"راديو",
+                "provider":"radio",
                 "arguments":[
-                    "https://www.koorapress.com/wp-json/wp/v2/",
-                    "13",
+                    "http://66.45.232.130:9994/"
                 ]
             }
         ]
     },
-    {
-        "title":"منتخب المغرب",
-        "drawable":"News-32",
-        "submenu":"ريال مدريد",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"منتخب المغرب",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.koorapress.com/wp-json/wp/v2/",
-                    "16",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"دوري أبطال أوروبا",
-        "drawable":"News-32",
-        "submenu":"ريال مدريد",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"دوري أبطال أوروبا",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.koorapress.com/wp-json/wp/v2/",
-                    "10",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"واك راجا",
-        "drawable":"News-32",
-        "submenu":"ريال مدريد",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"واك راجا",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.koorapress.com/wp-json/wp/v2/",
-                    "3",
-                ]
-            }
-        ]
-    },
-  
-    {
-        "title":"دوري أبطال أفريقيا",
-        "drawable":"News-32",
-        "submenu":"ريال مدريد",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"دوري أبطال أفريقيا",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.koorapress.com/wp-json/wp/v2/",
-                    "18",
-                ]
-            }
-        ]
-    },
-  
-    {
-        "title":"مشاهدة مباريات قنوات رياضية اليوم بث مباشر",
-        "drawable":"News-32",
-        "submenu":"ريال مدريد",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"مشاهدة مباريات قنوات رياضية اليوم بث مباشر",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.koorapress.com/wp-json/wp/v2/",
-                    "231",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"أخبار وترتيب الدوري المغربي",
-        "drawable":"News-32",
-        "submenu":"ريال مدريد",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"أخبار وترتيب الدوري المغربي",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.koorapress.com/wp-json/wp/v2/",
-                    "5",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"الكرة المغربية",
-        "drawable":"News-32",
-        "submenu":"ريال مدريد",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"الكرة المغربية",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.koorapress.com/wp-json/wp/v2/",
-                    "20",
-                ]
-            }
-        ]
-    }
   
     
 ]
