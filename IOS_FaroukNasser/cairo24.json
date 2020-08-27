@@ -2,297 +2,222 @@
     {
         "title":"القاهرة ٢٤",
         "drawable":"News-32",
-        "submenu":"القاهرة 24",
+        "submenu":"الأخبار",
         "iap":false,
         "tabs":[
             {
-                "title":"آخر الأخبار",
+                "title":"القاهرة ٢٤",
                 "provider":"wordpress",
                 "image":"News-32",
-                
                 "arguments":[
                     "153514435",
                 ]
-            },            {
-                "title":"أخبار مصر",
+            }
+        ]
+    },
+    {
+        "title":"مصر فايف",
+        "drawable":"News-32",
+        "submenu":"الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"مصر فايف",
                 "provider":"wordpress",
                 "image":"News-32",
                 "arguments":[
-                    "https://misr5.com/wp-json/wp/v2/"
-                    
+                    "https://misr5.com/wp-json/wp/v2/",
                 ]
             }
-            
+        ]
+    },
+    
+    
+    
+    {
+        "title":"اليوم السابع",
+        "drawable":"Twitter-32",
+        "submenu":"الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"اليوم السابع",
+                "provider":"twitter",
+                "arguments":[
+                    "youm7"
+                ]
+            }
         ]
     },
     
     
     {
-        "title":"توب ستوري",
+        "title":"دليل الوطن",
         "drawable":"News-32",
-        "submenu":"القاهرة 24",
+        "submenu":"الأخبار",
         "iap":false,
         "tabs":[
             {
-                "title":"توب ستوري",
+                "title":"دليل الوطن",
                 "provider":"wordpress",
+                "image":"News-32",
                 "arguments":[
-                    "153514435",
-                    "%d8%aa%d9%88%d8%a8-%d8%b3%d8%aa%d9%88%d8%b1%d9%8a",
+                    "https://www.elwatan140.com/wp-json/wp/v2/",
                 ]
             }
         ]
     },
+    
     {
-        "title":"رياضة",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
+        "title":"المصرى اليوم",
+        "drawable":"Twitter-32",
+        "submenu":"الأخبار",
         "iap":false,
         "tabs":[
             {
-                "title":"رياضة",
-                "provider":"wordpress",
+                "title":"المصرى اليوم",
+                "provider":"twitter",
                 "arguments":[
-                    "153514435",
-                    "%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9",
+                    "AlMasryAlYoum"
                 ]
             }
         ]
     },
+    
+    
+    
+    
+    
+    
+    
+    
     {
-        "title":"فن",
+        "title":"بالجول",
         "drawable":"News-32",
-        "submenu":"القاهرة 24",
+        "submenu":"أخبار الرياضة",
         "iap":false,
         "tabs":[
             {
-                "title":"فن",
+                "title":"بالجول",
                 "provider":"wordpress",
+                "image":"News-32",
                 "arguments":[
-                    "153514435",
-                    "%d9%81%d9%86",
+                    "https://www.belgoal.com/wp-json/wp/v2/",
                 ]
             }
         ]
     },
+    
     {
-        "title":"رياضة محلية",
+        "title":"كورة ١١",
         "drawable":"News-32",
-        "submenu":"القاهرة 24",
+        "submenu":"أخبار الرياضة",
         "iap":false,
         "tabs":[
             {
-                "title":"رياضة محلية",
+                "title":"كورة ١١",
                 "provider":"wordpress",
+                "image":"News-32",
                 "arguments":[
-                    "153514435",
-                    "%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9-%d9%85%d8%ad%d9%84%d9%8a%d8%a9",
+                    "https://kora11.com/wp-json/wp/v2/",
                 ]
             }
         ]
     },
+    
     {
-        "title":"راديو",
+        "title":"نجم الجماهير",
+        "drawable":"News-32",
+        "submenu":"أخبار الرياضة",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"نجم الجماهير",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.ngmalgmahir.com/wp-json/wp/v2/",
+                ]
+            }
+        ]
+    },
+    
+    
+    {
+        "title":"النادى الاهلى",
+        "drawable":"News-32",
+        "submenu":"أخبار الرياضة",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"النادى الاهلى",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "http://alahlyegypt.com/wp-json/wp/v2/",
+                ]
+            }
+        ]
+    },
+    
+    
+    {
+        "title":"النادى الزمالك",
+        "drawable":"News-32",
+        "submenu":"أخبار الرياضة",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"النادى الزمالك",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "http://el-zamalek.com/wp-json/wp/v2/",
+                ]
+            }
+        ]
+    },
+    
+    {
+        "title":"استمع راديو",
         "drawable":"Microphone-32",
-        "submenu":"القاهرة 24",
-        "iap":true,
+        "submenu":"",
+        "iap":false,
         "tabs":[
             {
-                "title":"راديو",
+                "title":"القران الكريم",
                 "provider":"radio",
+                "image":"Microphone-32",
                 "arguments":[
-                    "http://66.45.232.130:9994/"
+                    "https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8"
                 ]
-            }
+            },
+            {
+                "title":"البرنامج العام",
+                "provider":"radio",
+                "image":"Microphone-32",
+                "arguments":[
+                    "https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8"
+                ]
+            },
+            {
+                "title":"الشرق الأوسط",
+                "provider":"radio",
+                "image":"Microphone-32",
+                "arguments":[
+                    "https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8"
+                ]
+            },
+            {
+                "title":"الشباب والرياضة",
+                "provider":"radio",
+                "image":"Microphone-32",
+                "arguments":[
+                    "https://livestreaming5.onlinehorizons.net/hls-live/Shabawreada/_definst_/liveevent/livestream.m3u8"
+                ]
+            },
         ]
     },
-  
-    {
-        "title":"تقارير",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"تقارير",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"سياسة",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"سياسة",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"حوادث",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"حوادث",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d8%ad%d9%88%d8%a7%d8%af%d8%ab",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"منوعات ومجتمع",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"منوعات ومجتمع",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d9%85%d9%86%d9%88%d8%b9%d8%a7%d8%aa",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"اقتصاد",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"اقتصاد",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"رياضة عالمية",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"رياضة عالمية",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"عاجل",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"عاجل",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d8%b9%d8%a7%d8%ac%d9%84",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"مجتمع",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"مجتمع",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d9%85%d8%ac%d8%aa%d9%85%d8%b9",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"محافظات",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"محافظات",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d9%85%d8%ad%d8%a7%d9%81%d8%b8%d8%a7%d8%aa",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"صحة وطب",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"صحة وطب",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d8%b5%d8%ad%d8%a9-%d9%88%d8%b7%d8%a8",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"ثقافة",
-        "drawable":"News-32",
-        "submenu":"القاهرة 24",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"ثقافة",
-                "provider":"wordpress",
-                "arguments":[
-                    "153514435",
-                    "%d8%ab%d9%82%d8%a7%d9%81%d8%a9",
-                ]
-            }
-        ]
-    }
-
-   
-    
-    
-  
-    
-    
-    
-    
-    
     
     
     
