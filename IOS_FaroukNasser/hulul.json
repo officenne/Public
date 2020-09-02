@@ -1,21 +1,5 @@
 [
-    {
-        "title":"حلول",
-        "drawable":"Domain-32",
-        "submenu":"حلول الرئيسية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"حلول",
-                "provider":"webview",
-                "arguments":[
-                    "https://www.hululkitab.com/"
-                ]
-            }
-        ]
-        
-    },
-    
+       
     {
         "title":"حلول الرئيسية",
         "drawable":"News-32",
@@ -26,7 +10,7 @@
                 "title":"حلول الرئيسية",
                 "provider":"overview",
                 "arguments":[
-                    "overview.json"
+                    "https://github.com/officenne/Public/raw/master/IOS_FaroukNasser/hulul_overview.json"
                 ]
             }
         ]
@@ -35,115 +19,7 @@
     
     
     
-    {
-        "title":"وزارة التعليم",
-        "drawable":"Twitter-32",
-        "submenu":"وزارة التعليم",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"وزارة التعليم",
-                "provider":"twitter",
-                "image":"Twitter-32",
-                "arguments":[
-                    "moe_gov_sa"
-                ]
-            },
-            {
-                "title":"وكالة تعليق الدراسة",
-                "provider":"twitter",
-                "image":"Twitter-32",
-                "arguments":[
-                    "News_Ejazah"
-                ]
-            }
-            
-        ]
-    },
-    
-    {
-        "title":"قناة عين",
-        "drawable":"TV-Show-32",
-        "submenu":"فديوهات تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"قناة عين",
-                "provider":"youtube",
-                "image":"Playlist-32",
-                "arguments":[
-                    "UCndb1LGM5oQJVhjh2NViU5g",
-                    "channel"
-                ]
-            },
-            {
-                "title":"وسم الرياضيات التعليمية",
-                "provider":"youtube",
-                "image":"Playlist-32",
-                "arguments":[
-                    "UCxwhZqClmGzfIirtW9Iwj8A",
-                    "channel"
-                ]
-            },
-            {
-                "title":"شبكة فاهم التعليمية",
-                "provider":"youtube",
-                "image":"Playlist-32",
-                "arguments":[
-                    "UC3O-2MWIOCf6K6B2JSSJZaQ",
-                    "channel"
-                ]
-            },
-            {
-                "title":"تعليم السعودية",
-                "provider":"youtube",
-                "image":"Playlist-32",
-                "arguments":[
-                    "UCfoZWaalablDpxCJoSNq5Iw",
-                    "channel"
-                ]
-            }
-            
-        ]
-    },
-    
-    
-    
-    
-    
-    
-    {
-        "title":"أخبار وزارة التعليم",
-        "drawable":"News-32",
-        "submenu":"مواقع التواصل",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"أخبار وزارة التعليم",
-                "provider":"rss",
-                "arguments":[
-                    "https://www.moe.gov.sa/_layouts/15/feed.aspx?xsl=1&web=/ar&page=a9d929f3-4573-4dfc-aa75-ff85e699b7c8&wp=8ee06663-ec3b-4fd9-ac3c-6fade5a536c8&pageurl=/ar/Pages/MoENewsRss.aspx"
-                ]
-            }
-        ]
-    },
-    
-    
-    {
-        "title":"راديو",
-        "drawable":"Microphone-32",
-        "submenu":"استمع",
-        "iap":true,
-        "tabs":[
-            {
-                "title":"راديو",
-                "provider":"radio",
-                "arguments":[
-                    "http://66.45.232.130:9994/"
-                ]
-            }
-        ]
-    },
+   
     {
         "title":"المصحف المعلم",
         "drawable":"SoundCloud-32@2x.png",
@@ -162,20 +38,6 @@
     },
     
     
-    {
-        "title":"موقع الوزارة",
-        "drawable":"Location-32",
-        "submenu":"",
-        "iap":true,
-        "tabs":[
-            {
-                "title":"الموقع الجغرافي",
-                "provider":"maps",
-                "arguments":[
-                    "GeoJSON_Sample"
-                ]
-            }
-        ]
-    }
+  
     
 ]
