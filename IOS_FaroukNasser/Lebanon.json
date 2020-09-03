@@ -154,5 +154,20 @@
        },
 
 
+      {
+      "title":"استمع",
+      "drawable":"Microphone-32",
+      "submenu":"راديو",
+      "iap":false,
+      "tabs":[
+         {
+      "title":"استمع",
+            "provider":"radio",
+            "arguments":[
+               "https://rsbi.radioca.st/stream?type=http&nocache=91"
+            ]
+         }
+      ]
+   },
     
 ]
