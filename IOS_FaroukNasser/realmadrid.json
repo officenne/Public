@@ -17,7 +17,22 @@
             }
         ]
     },
-    
+     {
+     "title":"اغاني ",
+     "drawable":"SoundCloud-32@2x.png",
+        "submenu":"نادي ريال مدريد",
+     "iap":false,
+     "tabs":[
+         {
+             "title":"اغاني ",
+             "provider":"soundcloud",
+             "arguments":[
+                 "289198855", "playlist"
+             ]
+         }
+         
+     ]
+ },
     {
         "title":"في الواجهة",
         "drawable":"News-32",
