@@ -1,5 +1,22 @@
 [
     {
+        "title":"اليوم السابع",
+        "drawable":"News-32",
+        "submenu":"الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"اليوم السابع",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://masriy.com/wp-json/wp/v2/",
+                    "2434"
+                ]
+            }
+        ]
+    },
+    {
         "title":"القاهرة ٢٤",
         "drawable":"News-32",
         "submenu":"الأخبار",
