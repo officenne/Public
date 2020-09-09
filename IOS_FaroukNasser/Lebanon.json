@@ -9,135 +9,234 @@
                 "title":"الرئيسية",
                 "provider":"wordpress",
                 "arguments":[
+                    "https://masriy.com/wp-json/wp/v2/",
+                    "2392"
+                ]
+            }
+        ]
+    },
+    
+    {
+        "title":"صوت بيروت",
+        "drawable":"News-32",
+        "submenu":"عاجل لبنان",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"صوت بيروت",
+                "provider":"wordpress",
+                "arguments":[
                     "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الخبر برس",
+        "drawable":"News-32",
+        "submenu":"عاجل لبنان",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الخبر برس",
+                "provider":"wordpress",
+                "arguments":[
+                    "https://alkhabrpress.com/wp-json/wp/v2/",
                 ]
             }
         ]
     },
     
     
-   {
-           "title":"أخبار العالم",
-           "drawable":"News-32",
-           "submenu":"عاجل لبنان",
-           "iap":false,
-           "tabs":[
-               {
-                   "title":"أخبار العالم",
-                   "provider":"wordpress",
-                    "image":"News-32",
-                   "arguments":[
-                       "https://www.sawtbeirut.com/wp-json/wp/v2/",
-                       "14",
-                   ]
-               }
-           ]
-       },
-   {
-           "title":"أخبار لبنان",
-           "drawable":"News-32",
-           "submenu":"عاجل لبنان",
-           "iap":false,
-           "tabs":[
-               {
-                   "title":"أخبار لبنان",
-                   "provider":"wordpress",
-                    "image":"News-32",
-                   "arguments":[
-                       "https://www.sawtbeirut.com/wp-json/wp/v2/",
-                       "22",
-                   ]
-               }
-           ]
-       },
-   {
-           "title":"منوعات",
-           "drawable":"News-32",
-           "submenu":"عاجل لبنان",
-           "iap":false,
-           "tabs":[
-               {
-                   "title":"منوعات",
-                   "provider":"wordpress",
-                    "image":"News-32",
-                   "arguments":[
-                       "https://www.sawtbeirut.com/wp-json/wp/v2/",
-                       "20",
-                   ]
-               }
-           ]
-       },
-   {
-           "title":"تكنولوجيا وعلوم",
-           "drawable":"News-32",
-           "submenu":"عاجل لبنان",
-           "iap":false,
-           "tabs":[
-               {
-                   "title":"تكنولوجيا وعلوم",
-                   "provider":"wordpress",
-                    "image":"News-32",
-                   "arguments":[
-                       "https://www.sawtbeirut.com/wp-json/wp/v2/",
-                       "18",
-                   ]
-               }
-           ]
-       },
-   
-   {
-           "title":"مقالات",
-           "drawable":"News-32",
-           "submenu":"عاجل لبنان",
-           "iap":false,
-           "tabs":[
-               {
-                   "title":"مقالات",
-                   "provider":"wordpress",
-                    "image":"News-32",
-                   "arguments":[
-                       "https://www.sawtbeirut.com/wp-json/wp/v2/",
-                       "21",
-                   ]
-               }
-           ]
-       },
-   {
-           "title":"أخبار أخرى",
-           "drawable":"News-32",
-           "submenu":"عاجل لبنان",
-           "iap":false,
-           "tabs":[
-               {
-                   "title":"أخبار أخرى",
-                   "provider":"wordpress",
-                    "image":"News-32",
-                   "arguments":[
-                       "https://www.sawtbeirut.com/wp-json/wp/v2/",
-                       "1",
-                   ]
-               }
-           ]
-       },
-   {
-           "title":"الصحافة",
-           "drawable":"News-32",
-           "submenu":"عاجل لبنان",
-           "iap":false,
-           "tabs":[
-               {
-                   "title":"الصحافة",
-                   "provider":"wordpress",
-                    "image":"News-32",
-                   "arguments":[
-                       "https://www.sawtbeirut.com/wp-json/wp/v2/",
-                       "17",
-                   ]
-               }
-           ]
-       },
-
-
     
+    
+    {
+        "title":"أخبار العالم",
+        "drawable":"News-32",
+        "submenu":"أقسام الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"أخبار العالم",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "14",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"أخبار لبنان",
+        "drawable":"News-32",
+        "submenu":"أقسام الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"أخبار لبنان",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "22",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"منوعات",
+        "drawable":"News-32",
+        "submenu":"أقسام الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"منوعات",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "20",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"تكنولوجيا وعلوم",
+        "drawable":"News-32",
+        "submenu":"أقسام الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"تكنولوجيا وعلوم",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "18",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الصحة",
+        "drawable":"News-32",
+        "submenu":"أقسام الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الصحة",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "412",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"مقالات",
+        "drawable":"News-32",
+        "submenu":"أقسام الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"مقالات",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "21",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"أخبار أخرى",
+        "drawable":"News-32",
+        "submenu":"أقسام الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"أخبار أخرى",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "1",
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الصحافة",
+        "drawable":"News-32",
+        "submenu":"أقسام الأخبار",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الصحافة",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "17",
+                ]
+            }
+        ]
+    },
+    
+    
+    {
+        "title":"بالجول",
+        "drawable":"News-32",
+        "submenu":"أخبار الرياضة",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"بالجول",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.belgoal.com/wp-json/wp/v2/",
+                ]
+            }
+        ]
+    },
+    
+    {
+        "title":"كورة ١١",
+        "drawable":"News-32",
+        "submenu":"أخبار الرياضة",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"كورة ١١",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://kora11.com/wp-json/wp/v2/",
+                ]
+            }
+        ]
+    },
+    
+    {
+        "title":"نجم الجماهير",
+        "drawable":"News-32",
+        "submenu":"أخبار الرياضة",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"نجم الجماهير",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://www.ngmalgmahir.com/wp-json/wp/v2/",
+                ]
+            }
+        ]
+    },
     
 ]
