@@ -533,6 +533,20 @@
         ]
     },
     
-    
+    {
+       "title":"Radio",
+       "drawable":"Microphone-32",
+       "submenu":"Radio",
+       "iap":false,
+       "tabs":[
+          {
+             "title":"Radio",
+             "provider":"radio",
+             "arguments":[
+                "http://sc5.vie.llnw.net:80/stream/bbcmedia_radio5live_mf_p"
+             ]
+          }
+       ]
+    },
     
 ]
