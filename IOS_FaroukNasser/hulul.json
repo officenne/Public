@@ -1,195 +1,153 @@
 [
-       
- 
-    
-    
-   
-   
-    
-        {
-        "title":"الرئيسية",
-        "drawable":"News-32",
-        "submenu":"حلول تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-        "title":"الرئيسية",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.hululktab.com/wp-json/wp/v2/",
-                ]
-            }
-        ]
-    },
-       
-        {
-        "title":"المصحف المعلم",
-        "drawable":"SoundCloud-32@2x.png",
-        "submenu":"استمع",
-        "iap":true,
-        "tabs":[
-            {
-                "title":"المصحف المعلم",
-                "provider":"soundcloud",
-                "arguments":[
-                    "286674953", "playlist"
-                ]
-            }
-            
-        ]
-    },
-       
-       
-   
-    {
-        "title":"ثالث متوسط",
-        "drawable":"News-32",
-        "submenu":"حلول تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"ثالث متوسط",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.hululktab.com/wp-json/wp/v2/",
-                    "8",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"مناهج",
-        "drawable":"News-32",
-        "submenu":"حلول تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"مناهج",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.hululktab.com/wp-json/wp/v2/",
-                    "60",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"نماج اختبارات ثالث ثانوي",
-        "drawable":"News-32",
-        "submenu":"حلول تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"نماج اختبارات ثالث ثانوي",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.hululktab.com/wp-json/wp/v2/",
-                    "48",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"ثاني متوسط",
-        "drawable":"News-32",
-        "submenu":"حلول تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"ثاني متوسط",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.hululktab.com/wp-json/wp/v2/",
-                    "7",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"اسئلة اختبارات سادس الفصل الاول",
-        "drawable":"News-32",
-        "submenu":"حلول تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"اسئلة اختبارات سادس الفصل الاول",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.hululktab.com/wp-json/wp/v2/",
-                    "44",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"اسئلة اختبار ثالث ابتدائي",
-        "drawable":"News-32",
-        "submenu":"حلول تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"اسئلة اختبار ثالث ابتدائي",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.hululktab.com/wp-json/wp/v2/",
-                    "19",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"اول ثانوي",
-        "drawable":"News-32",
-        "submenu":"حلول تعليمية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"اول ثانوي",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.hululktab.com/wp-json/wp/v2/",
-                    "13",
-                ]
-            }
-        ]
-    },
-  
-    
-  
-       
-    {
-        "title":"تويتر التعليم",
-        "drawable":"Twitter-32",
-        "submenu":"تويت",
-        "iap":false,
-        "tabs":[
-            {
-        "title":"تويتر التعليم",
-                "provider":"twitter",
-                "image":"Twitter-32",
-                "arguments":[
-                    "moe_gov_sa"
-                ]
-            },
-            {
-                "title":"وكالة تعليق الدراسة",
-                "provider":"twitter",
-                "image":"Twitter-32",
-                "arguments":[
-                    "News_Ejazah"
-                ]
-            }
-            
-        ]
-    },
-    
-    
+   {
+      "title":"الرئيسية",
+      "drawable":"News-32",
+      "submenu":"حلول تعليمية",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"الرئيسية",
+            "provider":"wordpress",
+            "image":"News-32",
+            "arguments":[
+               "https://www.hululktab.com/wp-json/wp/v2/"
+            ]
+         }
+      ]
+   },
+   {
+      "title":"ثالث متوسط",
+      "drawable":"News-32",
+      "submenu":"حلول تعليمية",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"ثالث متوسط",
+            "provider":"wordpress",
+            "image":"News-32",
+            "arguments":[
+               "https://www.hululktab.com/wp-json/wp/v2/",
+               "8"
+            ]
+         }
+      ]
+   },
+   {
+      "title":"مناهج",
+      "drawable":"News-32",
+      "submenu":"حلول تعليمية",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"مناهج",
+            "provider":"wordpress",
+            "image":"News-32",
+            "arguments":[
+               "https://www.hululktab.com/wp-json/wp/v2/",
+               "60"
+            ]
+         }
+      ]
+   },
+   {
+      "title":"نماج اختبارات ثالث ثانوي",
+      "drawable":"News-32",
+      "submenu":"حلول تعليمية",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"نماج اختبارات ثالث ثانوي",
+            "provider":"wordpress",
+            "image":"News-32",
+            "arguments":[
+               "https://www.hululktab.com/wp-json/wp/v2/",
+               "48"
+            ]
+         }
+      ]
+   },
+   {
+      "title":"ثاني متوسط",
+      "drawable":"News-32",
+      "submenu":"حلول تعليمية",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"ثاني متوسط",
+            "provider":"wordpress",
+            "image":"News-32",
+            "arguments":[
+               "https://www.hululktab.com/wp-json/wp/v2/",
+               "7"
+            ]
+         }
+      ]
+   },
+   {
+      "title":"اسئلة اختبارات سادس الفصل الاول",
+      "drawable":"News-32",
+      "submenu":"حلول تعليمية",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"اسئلة اختبارات سادس الفصل الاول",
+            "provider":"wordpress",
+            "image":"News-32",
+            "arguments":[
+               "https://www.hululktab.com/wp-json/wp/v2/",
+               "44"
+            ]
+         }
+      ]
+   },
+   {
+      "title":"اسئلة اختبار ثالث ابتدائي",
+      "drawable":"News-32",
+      "submenu":"حلول تعليمية",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"اسئلة اختبار ثالث ابتدائي",
+            "provider":"wordpress",
+            "image":"News-32",
+            "arguments":[
+               "https://www.hululktab.com/wp-json/wp/v2/",
+               "19"
+            ]
+         }
+      ]
+   },
+   {
+      "title":"اول ثانوي",
+      "drawable":"News-32",
+      "submenu":"حلول تعليمية",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"اول ثانوي",
+            "provider":"wordpress",
+            "image":"News-32",
+            "arguments":[
+               "https://www.hululktab.com/wp-json/wp/v2/",
+               "13"
+            ]
+         }
+      ]
+   },
+   {
+      "title":"المصحف المعلم",
+      "drawable":"SoundCloud-32@2x.png",
+      "submenu":"استمع",
+      "iap":true,
+      "tabs":[
+         {
+            "title":"المصحف المعلم",
+            "provider":"soundcloud",
+            "arguments":[
+               "286674953",
+               "playlist"
+            ]
+         }
+      ]
+   }
 ]
