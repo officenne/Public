@@ -135,19 +135,18 @@
       ]
    },
    {
-      "title":"المصحف المعلم",
-      "drawable":"SoundCloud-32@2x.png",
-      "submenu":"استمع",
-      "iap":true,
-      "tabs":[
-         {
-            "title":"المصحف المعلم",
-            "provider":"soundcloud",
-            "arguments":[
-               "286674953",
-               "playlist"
-            ]
-         }
-      ]
-   }
+        "title":"راديو",
+        "drawable":"Microphone-32",
+        "submenu":"استمع",
+        "iap":true,
+        "tabs":[
+            {
+                "title":"راديو",
+                "provider":"radio",
+                "arguments":[
+                    "http://66.45.232.130:9994/"
+                ]
+            }
+        ]
+    },
 ]
