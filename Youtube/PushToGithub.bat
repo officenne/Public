@@ -1,3 +1,5 @@
+git pull
+
 cd C:\Users\medisaapps\Public\Youtube\mmoshaya
 
 
