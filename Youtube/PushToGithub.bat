@@ -18,7 +18,7 @@ curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCk8Gz
 
 cd C:\Users\medisaapps\Public\Youtube\EgyptApps\Madrestna
 
-curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCGgeDgjIJ3GXZcLUnExAybw&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" > Madrestna.json
+curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCGgeDgjIJ3GXZcLUnExAybw&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" > Madrestna_Channel.json
 
 
 
