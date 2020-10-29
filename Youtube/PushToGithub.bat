@@ -21,6 +21,11 @@ cd C:\Users\medisaapps\Public\Youtube\EgyptApps\Madrestna
 curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCGgeDgjIJ3GXZcLUnExAybw&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" > Madrestna_Channel.json
 
 
+curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCGgeDgjIJ3GXZcLUnExAybw&type=video&eventType=live&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" > Madrestna_Channel_Live.json
+
+
+
+
 
 
 
