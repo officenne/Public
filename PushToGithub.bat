@@ -26,7 +26,7 @@ curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCGgeD
 
 
 
-cd C:\Users\medisaapps\Public\Android\EgyptApps\Kids Shows
+cd C:\Users\medisaapps\Public\Android\EgyptApps\KidsShows
 curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCk8GzjMOrta8yxDcKfylJYw&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" > KidsDianaShow.json
 curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCbCmjCuTUZos6Inko4u57UQ&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" > Cocomelon.json
 curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCJplp5SjeGSdVdwsfb9Q7lQ&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" >  LikeNastya.json
