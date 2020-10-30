@@ -26,7 +26,7 @@ curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCGgeD
 
 
 
-
+pause 
 
 
 git add -A
@@ -39,4 +39,4 @@ git commit -m "file updated "
 git push origin master
 
 
-
+pause 
