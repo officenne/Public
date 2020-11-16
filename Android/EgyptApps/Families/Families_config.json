@@ -1,5 +1,30 @@
 ﻿[
   {
+    "title":"عائلة مشيع",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"عائلة مشيع",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya.json",
+          "channelx",
+          "channelx"
+        ]
+      },
+      {
+        "title":"تويتر",
+        "provider":"twitter",
+        "arguments":[
+          "MohamedMoshaya"
+        ]
+      }
+    ]
+  },
+
+  {
     "title":"عصابة بدر",
     "drawable":"@drawable/pro_youtube",
     "submenu":"فلوقات سعودية",
@@ -53,23 +78,6 @@
     ]
   },
 
-  {
-    "title":"عائلة مشيع",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عائلة مشيع",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
 
   {
     "title":"عائلة مشيع2",
@@ -107,7 +115,41 @@
     ]
   },
 
-  
+  {
+    "title":"عائلة يزن",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"عائلة يزن",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Yazan_Family.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"أنس و أصالة",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"أنس و أصالة",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/anasala_family.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
 
   {
     "title":"اعدادات",
