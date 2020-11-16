@@ -43,9 +43,9 @@ cd C:\Users\medisaapps\Public\Android\EgyptApps\Families
 
 
 
-curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCYogOW28QIQdfvfY5KyzDsw&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" > Badr_Family.json
-curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCsc0cXTWBI7suJmQXvfs5Hw&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" > riyadrzq.json
-curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UC_Bd5Yrn9kL8fisLfPmH5ww&type=video&order=date&maxResults=100&key=AIzaSyCYxmlE2_KKAPQkbo2TnyrzS_ujoVwBsrE" >  feehan.json
+curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCYogOW28QIQdfvfY5KyzDsw&type=video&order=date&maxResults=100&key=AIzaSyDVXHy2D-umGU-ExrjJr62tmovs5BBXh44" > Badr_Family.json
+curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCsc0cXTWBI7suJmQXvfs5Hw&type=video&order=date&maxResults=100&key=AIzaSyDVXHy2D-umGU-ExrjJr62tmovs5BBXh44" > riyadrzq.json
+curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UC_Bd5Yrn9kL8fisLfPmH5ww&type=video&order=date&maxResults=100&key=AIzaSyDVXHy2D-umGU-ExrjJr62tmovs5BBXh44" >  feehan.json
 
 
 
