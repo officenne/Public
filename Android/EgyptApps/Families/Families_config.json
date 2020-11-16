@@ -6,7 +6,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"قناة مدرستنا",
+        "title":"عصابة بدر",
         "provider":"youtube",
         "arguments":[
           "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Badr_Family.json",
@@ -24,7 +24,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"قناة مدرستنا",
+        "title":"عائلة رياض",
         "provider":"youtube",
         "arguments":[
           "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/riyadrzq.json",
@@ -42,7 +42,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"قناة مدرستنا",
+        "title":"عائلة فيحان",
         "provider":"youtube",
         "arguments":[
           "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/feehan.json",
@@ -54,21 +54,60 @@
   },
 
   {
-    "title":"توييت",
-    "drawable":"@drawable/pro_twitter",
-    "submenu":"",
+    "title":"عائلة مشيع",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
     "iap":false,
     "tabs":[
-
       {
-        "title":"توييت",
-        "provider":"twitter",
+        "title":"عائلة مشيع",
+        "provider":"youtube",
         "arguments":[
-          "moe_gov_sa"
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya.json",
+          "channelx",
+          "channelx"
         ]
       }
     ]
   },
+
+  {
+    "title":"عائلة مشيع2",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"عائلة مشيع2",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya2.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"عائلة ايمان",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"عائلة ايمان",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Iman_Moshaya.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
+  
 
   {
     "title":"اعدادات",
