@@ -1,50 +1,53 @@
 ﻿[
   {
-    "title":"حلول",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"منصتى",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"أخبار التعليم",
-        "provider":"wordpress",
-        "arguments":[
-          "https://www.hululktab.com/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"كتبى",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"منصتى",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"أخبار التعليم",
-        "provider":"wordpress",
-        "arguments":[
-          "https://moalmy.com/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"قناة مدرستنا",
+    "title":"عصابة بدر",
     "drawable":"@drawable/pro_youtube",
-    "submenu":"تواصل",
+    "submenu":"فلوقات سعودية",
     "iap":false,
     "tabs":[
-
       {
         "title":"قناة مدرستنا",
         "provider":"youtube",
         "arguments":[
-          "UC0s6otAswvWTyFD3-Uxoohw",
-          "channel",
-          "AIzaSyAEqbbGzfn2fBIYql7sdxyaIWxtmKGHeoU"
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Badr_Family.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"عائلة رياض",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"قناة مدرستنا",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/riyadrzq.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"عائلة فيحان",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"قناة مدرستنا",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/feehan.json",
+          "channelx",
+          "channelx"
         ]
       }
     ]
