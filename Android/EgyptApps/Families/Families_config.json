@@ -1,0 +1,85 @@
+﻿[
+  {
+    "title":"حلول",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"منصتى",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"أخبار التعليم",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.hululktab.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"كتبى",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"منصتى",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"أخبار التعليم",
+        "provider":"wordpress",
+        "arguments":[
+          "https://moalmy.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"قناة مدرستنا",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"تواصل",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"قناة مدرستنا",
+        "provider":"youtube",
+        "arguments":[
+          "UC0s6otAswvWTyFD3-Uxoohw",
+          "channel",
+          "AIzaSyAEqbbGzfn2fBIYql7sdxyaIWxtmKGHeoU"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"توييت",
+    "drawable":"@drawable/pro_twitter",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"توييت",
+        "provider":"twitter",
+        "arguments":[
+          "moe_gov_sa"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"اعدادات",
+    "drawable":"@drawable/pro_settings",
+    "submenu":"اعدادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"اعدادات",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
