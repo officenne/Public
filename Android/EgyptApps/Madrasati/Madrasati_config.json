@@ -1,4 +1,26 @@
-﻿[
+[
+  {
+    "title":"واجباتى",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"منصتى",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"واجباتى",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.wajibati.net/wp-json/wp/v2/"
+        ]
+      },
+      {
+        "title":"موقع واجباتى",
+        "provider":"webview",
+        "arguments":[
+          "https://www.wajibati.net/"
+        ]
+      }
+    ]
+  },
   {
     "title":"حلول",
     "drawable":"@drawable/pro_newspaper",
@@ -6,7 +28,14 @@
     "iap":false,
     "tabs":[
       {
-        "title":"أخبار التعليم",
+        "title":"موقع حلول",
+        "provider":"webview",
+        "arguments":[
+          "https://www.hululktab.com/"
+        ]
+      },
+      {
+        "title":"حلول",
         "provider":"wordpress",
         "arguments":[
           "https://www.hululktab.com/wp-json/wp/v2/"
@@ -22,7 +51,14 @@
     "iap":false,
     "tabs":[
       {
-        "title":"أخبار التعليم",
+        "title":"موقع كتبى",
+        "provider":"webview",
+        "arguments":[
+          "https://ktbbys.com/"
+        ]
+      },
+      {
+        "title":"كتبى",
         "provider":"wordpress",
         "arguments":[
           "https://moalmy.com/wp-json/wp/v2/"
@@ -31,42 +67,120 @@
     ]
   },
 
+
+
+
+
+
+
   {
-    "title":"قناة مدرستنا",
+    "title":"قناة مدرستى",
     "drawable":"@drawable/pro_youtube",
-    "submenu":"تواصل",
+    "submenu":"شاهد",
     "iap":false,
     "tabs":[
-
       {
-        "title":"قناة مدرستنا",
+        "title":"قناة مدرستى",
         "provider":"youtube",
         "arguments":[
-          "UC0s6otAswvWTyFD3-Uxoohw",
-          "channel",
-          "AIzaSyAEqbbGzfn2fBIYql7sdxyaIWxtmKGHeoU"
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/Madrasati.json",
+          "channelx",
+          "channelx"
         ]
       }
     ]
   },
-
   {
-    "title":"توييت",
+    "title":"قناة عين",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"شاهد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"قناة عين",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/DorosIEN.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"تويتر",
     "drawable":"@drawable/pro_twitter",
     "submenu":"",
     "iap":false,
     "tabs":[
-
       {
-        "title":"توييت",
+        "title":"وزارة التعليم ",
         "provider":"twitter",
         "arguments":[
           "moe_gov_sa"
         ]
+      },
+      {
+        "title":"عين",
+        "provider":"twitter",
+        "arguments":[
+          "ien_tv"
+        ]
+      },
+      {
+        "title":"وكالة تعليق الدراسة",
+        "provider":"twitter",
+        "arguments":[
+          "News_Ejazah"
+        ]
       }
     ]
   },
-
+  {
+    "title":"مدرستي",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"منصات مهمة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"مدرستي",
+        "provider":"webview",
+        "arguments":[
+          "https://schools.madrasati.sa/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"كلاسيرا",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"منصات مهمة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"كلاسيرا",
+        "provider":"webview",
+        "arguments":[
+          "https://me.classera.com/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"عين بوابة التعليم الوطنية",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"منصات مهمة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"عين بوابة التعليم الوطنية",
+        "provider":"webview",
+        "arguments":[
+          "https://ien.edu.sa/Home/dashbord"
+        ]
+      }
+    ]
+  },
   {
     "title":"اعدادات",
     "drawable":"@drawable/pro_settings",
