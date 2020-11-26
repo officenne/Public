@@ -1,64 +1,20 @@
-﻿[
+[
   {
-    "title":"عائلة مشيع",
-    "drawable":"@drawable/pro_youtube",
+    "title":"فلوقات",
+    "drawable":"@drawable/pro_newspaper",
     "submenu":"فلوقات سعودية",
     "iap":false,
     "tabs":[
       {
-        "title":"عائلة مشيع",
-        "provider":"youtube",
+        "title":"فلوقات",
+        "provider":"wordpress",
         "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya.json",
-          "channelx",
-          "channelx"
-        ]
-      },
-      {
-        "title":"تويتر",
-        "provider":"twitter",
-        "arguments":[
-          "MohamedMoshaya"
+          "https://www.almowaten.net/wp-json/wp/v2/"
         ]
       }
     ]
   },
 
-  {
-    "title":"عصابة بدر",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عصابة بدر",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Badr_Family.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"عائلة رياض",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عائلة رياض",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/riyadrzq.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
 
   {
     "title":"عائلة فيحان",
@@ -79,41 +35,6 @@
   },
 
 
-  {
-    "title":"عائلة مشيع2",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عائلة مشيع2",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya2.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"عائلة ايمان",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عائلة ايمان",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Iman_Moshaya.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
 
   {
     "title":"عائلة يزن",
@@ -132,23 +53,7 @@
       }
     ]
   },
-  {
-    "title":"أنس و أصالة",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"أنس و أصالة",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/anasala_family.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
+ 
 
 
   {
