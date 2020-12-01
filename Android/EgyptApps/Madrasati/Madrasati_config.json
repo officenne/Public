@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "title":"واجباتى",
     "drawable":"@drawable/pro_newspaper",
@@ -177,6 +177,21 @@
         "provider":"webview",
         "arguments":[
           "https://ien.edu.sa/Home/dashbord"
+        ]
+      }
+    ]
+  },
+{
+    "title":"المصحف المدرسى",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"المصحف المدرسى",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"المصحف المدرسى",
+        "provider":"webview",
+        "arguments":[
+          "https://quran.ksu.edu.sa/index.php#aya=1_1&m=hafs&qaree=husary&trans=ar_mu"
         ]
       }
     ]
