@@ -67,6 +67,28 @@
     ]
   },
 
+{
+    "title":"معلمى",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"منصتى",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"موقع معلمى",
+        "provider":"webview",
+        "arguments":[
+          "https://moalmy.com/"
+        ]
+      },
+      {
+        "title":"معلمى",
+        "provider":"wordpress",
+        "arguments":[
+          "https://moalmy.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
 
 
 
