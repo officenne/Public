@@ -1,32 +1,557 @@
-[
+﻿[
   {
-    "title":"أخبار التعليم",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"منصة مدرستنا",
-    "iap":false,
-    "tabs":[
+    "title": "أخبار التعليم",
+    "drawable": "@drawable/pro_newspaper",
+    "submenu": "منصة مدرستنا",
+    "iap": false,
+    "tabs": [
       {
-        "title":"أخبار التعليم",
-        "provider":"wordpress",
-        "arguments":[
+        "title": "أخبار التعليم",
+        "provider": "wordpress",
+        "arguments": [
           "https://www.egymoe.com/wp-json/wp/v2/"
         ]
       }
     ]
   },
-
-
   {
-    "title":"اعدادات",
-    "drawable":"@drawable/pro_settings",
-    "submenu":"اعدادات",
-    "iap":false,
-    "tabs":[
+    "title": "قناة مدرستنا",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "قنوات تعليمية",
+    "iap": false,
+    "tabs": [
       {
-        "title":"اعدادات",
-        "provider":"custom",
-        "arguments":[
-          "com.sherdle.universal.SettingsFragment", "fragment"
+        "title": "قناة مدرستنا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Madrestna_Channel.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة مدرستنا مباشر",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "قنوات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة مدرستنا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Madrestna_Channel_Live.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الصف الرابع الابتدائى",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Math",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Math_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%A5%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "Science",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Science_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%A5%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_العربية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الدراسات_الاجتماعية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الرياضيات",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "العلوم",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_الانجليزية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الصف الخامس الابتدائى",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Math",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Math_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%A5%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "Science",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Science_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%A5%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_العربية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الدراسات_الاجتماعية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الرياضيات",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "العلوم",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_الانجليزية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الصف السادس الابتدائى",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Math",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Math_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A5%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "Science",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/science_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A5%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_العربية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الدراسات_الاجتماعية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الرياضيات",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "العلوم",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_الانجليزية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%D8%A6%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الصف الأول الاعدادى",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "المرحلة الاعدادية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Math",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Math_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "Science",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A_-_Science.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_العربية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الدراسات_الاجتماعية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الرياضيات",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "العلوم",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_الانجليزية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%A7%D9%88%D9%84_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الصف الثانى الاعدادى",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "المرحلة الاعدادية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Math",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Math_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_العربية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%89_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الدراسات_الاجتماعية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%89_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الرياضيات",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%89_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "العلوم",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%89_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_الانجليزية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%89_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الصف الثالث الاعدادى",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "المرحلة الاعدادية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Math",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Math_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "Science",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Science_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_العربية",
+        "provider": "youtube",
+        "arguments": [
+          "https://github.com/officenne/Public/raw/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الدراسات_الاجتماعية",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "الرياضيات",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "العلوم",
+        "provider": "youtube",
+        "arguments": [
+          "https://github.com/officenne/Public/raw/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "اللغة_الانجليزية",
+        "provider": "youtube",
+        "arguments": [
+          "https://github.com/officenne/Public/raw/master/Android/EgyptApps/Madrestna/%D9%85%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B5%D9%81_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%D9%89.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "منصة البث المباشر",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "منصة البث المباشر",
+        "provider": "webview",
+        "arguments": [
+          "https://stream.moe.gov.eg/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "بنك المعرفة",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "بنك المعرفة",
+        "provider": "webview",
+        "arguments": [
+          "http://www.ekb.eg/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "بوابة المناهج",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "بوابة المناهج",
+        "provider": "webview",
+        "arguments": [
+          "https://lms.ekb.eg/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ادمودو",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "ادمودو",
+        "provider": "webview",
+        "arguments": [
+          "https://geo.edmodo.com/egypt/?lang=ar"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "منصة حصص مصر",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "ادمودو",
+        "provider": "webview",
+        "arguments": [
+          "https://www.hesas.eg/home"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "اعدادات",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "اعدادات",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "اعدادات",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
         ]
       }
     ]
