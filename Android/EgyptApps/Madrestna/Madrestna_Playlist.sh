@@ -1,4 +1,10 @@
-﻿curl "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PLZpdfXc71P-SHhaRooLATdI3jQ_YX08hc&key=AIzaSyCT6mFtx_a5gqWpvjnSnUS7lDd6wrrLmgI" > Math_-_الصف_السادس_الإبتدائي.json
+﻿curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCnxju7_Ug6VbC6en6tBL6Aw&type=video&order=date&maxResults=100&key=AIzaSyCT6mFtx_a5gqWpvjnSnUS7lDd6wrrLmgI" > Madrestna_Channel.json
+
+
+curl "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCnxju7_Ug6VbC6en6tBL6Aw&type=video&eventType=live&key=AIzaSyCT6mFtx_a5gqWpvjnSnUS7lDd6wrrLmgI" > Madrestna_Channel_Live.json
+
+
+curl "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PLZpdfXc71P-SHhaRooLATdI3jQ_YX08hc&key=AIzaSyCT6mFtx_a5gqWpvjnSnUS7lDd6wrrLmgI" > Math_-_الصف_السادس_الإبتدائي.json
 curl "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PLZpdfXc71P-Q9VZESQd61-89p1wl_YEfK&key=AIzaSyCT6mFtx_a5gqWpvjnSnUS7lDd6wrrLmgI" > science_|_الصف_الثاني_الإعدادي.json
 curl "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PLZpdfXc71P-StWx58VVCwZVeHa9CLmoUR&key=AIzaSyCT6mFtx_a5gqWpvjnSnUS7lDd6wrrLmgI" > Math_-_الصف_الخامس_الإبتدائي.json
 curl "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PLZpdfXc71P-QAsd5JbXHJPfP7TAaHJiWG&key=AIzaSyCT6mFtx_a5gqWpvjnSnUS7lDd6wrrLmgI" > Math_-_الصف_الثالث_الإعدادي.json
