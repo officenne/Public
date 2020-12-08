@@ -540,6 +540,21 @@
       }
     ]
   },
+    {
+    "title": "منصة المذاكرة الرقمية",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+    "title": "منصة المذاكرة الرقمية",
+        "provider": "webview",
+        "arguments": [
+          "https://study.ekb.eg/"
+        ]
+      }
+    ]
+  },
   {
     "title": "اعدادات",
     "drawable": "@drawable/pro_settings",
