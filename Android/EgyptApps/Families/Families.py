@@ -100,5 +100,5 @@ with request.urlopen(YoutubeUrl + "UCqJNTGwKmgMCwfYDbnz514Q" + YoutubeUrl2 + You
     else:
         print('An error occurred while attempting to retrieve data from the API.')
 
-subprocess.call([r'C:\example\UpdateOnly.bat'])
+subprocess.call([r'C:\GitHub\Public\UpdateOnly.bat'])
 
