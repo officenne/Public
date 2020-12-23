@@ -31,6 +31,23 @@
       }
     ]
   },
+ {
+    "title": "2قناة مدرستنا",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "قنوات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة مدرستنا2",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Madrestna_Channel2.json",
+          "channelx",
+          "farouk"
+        ]
+      }
+    ]
+  },
   {
     "title": "قناة مدرستنا مباشر",
     "drawable": "@drawable/pro_youtube",
