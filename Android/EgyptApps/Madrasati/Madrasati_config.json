@@ -421,6 +421,36 @@
       }
     ]
   },
+ {
+    "title":"نظام فارس",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"منصات مهمة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"نظام فارس",
+        "provider":"webview",
+        "arguments":[
+          "https://edu.moe.gov.sa/Wadi/ElectronicServices/Faris/Pages/default.aspx"
+        ]
+      }
+    ]
+  },
+{
+    "title":"نظام نور",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"منصات مهمة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"نظام نور",
+        "provider":"webview",
+        "arguments":[
+          "https://noor.moe.gov.sa/Noor/Login.aspx"
+        ]
+      }
+    ]
+  },
 {
     "title":"المصحف المدرسى",
     "drawable":"@drawable/pro_internet",
