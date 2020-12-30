@@ -10,7 +10,7 @@ YoutubeChannelID = 'UCnxju7_Ug6VbC6en6tBL6Aw'
 YoutubeUrl = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId='
 YoutubeUrl2 = '&type=video&order=date&maxResults=100&key='
 
-save_path = 'C:\GitHub\Public\Android\EgyptApps\Families'
+save_path = 'D:\Github\Android\EgyptApps\Families'
 
 with request.urlopen(YoutubeUrl + "UCYogOW28QIQdfvfY5KyzDsw" + YoutubeUrl2 + YoutubeApiKey) as response:
     if response.getcode() == 200:
@@ -100,5 +100,5 @@ with request.urlopen(YoutubeUrl + "UCqJNTGwKmgMCwfYDbnz514Q" + YoutubeUrl2 + You
     else:
         print('An error occurred while attempting to retrieve data from the API.')
 
-subprocess.call([r'C:\GitHub\Public\UpdateOnly.bat'])
+#subprocess.call([r'C:\GitHub\Public\UpdateOnly.bat'])
 
