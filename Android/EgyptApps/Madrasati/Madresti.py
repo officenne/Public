@@ -9,7 +9,7 @@ YoutubeChannelID = 'UCnxju7_Ug6VbC6en6tBL6Aw'
 YoutubeUrl = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId='
 YoutubeUrl2 = '&type=video&order=date&maxResults=100&key='
 
-save_path = 'C:\GitHub\Public\Android\EgyptApps\Madrasati'
+save_path = 'D:\Github\Android\EgyptApps\Madrasati'
 
 with request.urlopen(YoutubeUrl + "UCndb1LGM5oQJVhjh2NViU5g" + YoutubeUrl2 + YoutubeApiKey) as response:
     if response.getcode() == 200:
