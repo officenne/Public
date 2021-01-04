@@ -572,7 +572,21 @@
       }
     ]
   },
-   
+     {
+    "title": "تسجيل استمارة التقدم للامتحان للعام الدراسي",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات تعليمية",
+    "iap": false,
+    "tabs": [
+      {
+    "title": "تسجيل استمارة التقدم للامتحان للعام الدراسي",
+        "provider": "webview",
+        "arguments": [
+          "https://moe-register.emis.gov.eg/"
+        ]
+      }
+    ]
+  },
    {
     "title":"المصحف المدرسى",
     "drawable":"@drawable/pro_internet",
