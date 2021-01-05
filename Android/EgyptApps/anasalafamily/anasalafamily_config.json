@@ -1,137 +1,123 @@
-[
+﻿[
   {
-    "title":"عائلة مشيع",
+    "title":"أنس و أصالة",
     "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
+    "submenu":"فديو",
     "iap":false,
     "tabs":[
       {
-        "title":"عائلة مشيع",
+        "title":"أنس و أصالة",
         "provider":"youtube",
         "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya.json",
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/anasalafamily/anasala_Channel.json",
           "channelx",
           "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"المفضلة",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فديو",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"المفضلة",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/anasalafamily/Favorites.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"تحديات",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فديو",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"تحديات",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/anasalafamily/Challenges.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"tiktok",
+    "drawable":"@drawable/pro_tiktok",
+    "submenu":"أنس و أصالة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"tiktok",
+        "provider":"webview",
+        "arguments":[
+          "https://www.tiktok.com/@anasalafam"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"website",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"أنس و أصالة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"website",
+        "provider":"webview",
+        "arguments":[
+          "https://www.anasalafamily.com/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Instagram",
+    "drawable":"@drawable/pro_instagram",
+    "submenu":"أنس و أصالة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"anasalafamily",
+        "provider":"webview",
+        "arguments":[
+          "https://www.instagram.com/anasalafamily/"
         ]
       },
       {
-        "title":"تويتر",
-        "provider":"twitter",
+        "title":"anasmarwah",
+        "provider":"webview",
         "arguments":[
-          "MohamedMoshaya"
+          "https://www.instagram.com/anasmarwah/"
         ]
-      }
-    ]
-  },
-
-  {
-    "title":"عصابة بدر",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
+      },
       {
-        "title":"عصابة بدر",
-        "provider":"youtube",
+        "title":"asalamaleh",
+        "provider":"webview",
         "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Badr_Family.json",
-          "channelx",
-          "channelx"
+          "https://www.instagram.com/asalamaleh/"
         ]
-      }
-    ]
-  },
-
-  {
-    "title":"عائلة رياض",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
+      },
       {
-        "title":"عائلة رياض",
-        "provider":"youtube",
+        "title":"milamarwah",
+        "provider":"webview",
         "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/riyadrzq.json",
-          "channelx",
-          "channelx"
+          "https://www.instagram.com/milamarwah/"
         ]
       }
     ]
   },
 
-  {
-    "title":"عائلة فيحان",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عائلة فيحان",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/feehan.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
-
-
-  {
-    "title":"عائلة مشيع2",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عائلة مشيع2",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya2.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"عائلة ايمان",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عائلة ايمان",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Iman_Moshaya.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"عائلة يزن",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"عائلة يزن",
-        "provider":"youtube",
-        "arguments":[
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Yazan_Family.json",
-          "channelx",
-          "channelx"
-        ]
-      }
-    ]
-  },
   {
     "title":"أنس و أصالة",
     "drawable":"@drawable/pro_youtube",
@@ -149,6 +135,8 @@
       }
     ]
   },
+
+
 
 
   {
