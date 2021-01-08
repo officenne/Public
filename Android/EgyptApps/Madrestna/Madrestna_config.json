@@ -14,6 +14,29 @@
       }
     ]
   },
+ {
+    "title":"تويتر",
+    "drawable":"@drawable/pro_twitter",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"وزارة التربية والتعليم والتعليم الفني",
+        "provider":"twitter",
+        "arguments":[
+          "MoeteEg"
+        ]
+      },
+      {
+        "title":"مدرستنا 2",
+        "provider":"twitter",
+        "arguments":[
+          "MadrasetnaSec"
+        ]
+      }
+    ]
+  },
+
   {
     "title": "قناة مدرستنا",
     "drawable": "@drawable/pro_youtube",
