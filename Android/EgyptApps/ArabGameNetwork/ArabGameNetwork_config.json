@@ -1,0 +1,69 @@
+﻿[
+     {
+    "title":"فلوقات",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"فلوقات",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.almowaten.net/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   
+  {
+    "title": "شفا",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "فديوهات شفا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شفا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/shfa.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "شفا 2",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "فديوهات شفا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شفا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/shfa2.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+ 
+  {
+    "title": "اعدادات",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "اعدادات",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "اعدادات",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
