@@ -2,7 +2,7 @@
      {
     "title":"فلوقات",
     "drawable":"@drawable/pro_newspaper",
-    "submenu":"فلوقات سعودية",
+    "submenu": "شبكة العرب",
     "iap":false,
     "tabs":[
       {
@@ -16,16 +16,16 @@
   },
    
   {
-    "title": "شفا",
+    "title": "قناة العرب",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "فديوهات شفا",
+    "submenu": "شبكة العرب",
     "iap": false,
     "tabs": [
       {
         "title": "شفا",
         "provider": "youtube",
         "arguments": [
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/shfa.json",
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/agn.json",
           "channelx",
           "channelx"
         ]
@@ -33,23 +33,22 @@
     ]
   },
   {
-    "title": "شفا 2",
+    "title": "سيد",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "فديوهات شفا",
+    "submenu": "شبكة العرب",
     "iap": false,
     "tabs": [
       {
         "title": "شفا",
         "provider": "youtube",
         "arguments": [
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/shfa2.json",
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/SAYED.json",
           "channelx",
           "channelx"
         ]
       }
     ]
   },
- 
   {
     "title": "اعدادات",
     "drawable": "@drawable/pro_settings",
