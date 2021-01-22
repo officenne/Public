@@ -1,0 +1,89 @@
+﻿[
+   {
+    "title":"فلوقات",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"فلوقات",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.almowaten.net/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   
+  {
+    "title":"أنس و أصالة",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فديو",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"أنس و أصالة",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/anasalafamily/anasala_Channel.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"المفضلة",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فديو",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"المفضلة",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/anasalafamily/Favorites.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"تحديات",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فديو",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"تحديات",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/anasalafamily/Challenges.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  
+
+
+
+
+  {
+    "title":"اعدادات",
+    "drawable":"@drawable/pro_settings",
+    "submenu":"اعدادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"اعدادات",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
