@@ -1,20 +1,4 @@
 ﻿[
-     {
-    "title":"فلوقات",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"فلوقات",
-        "provider":"wordpress",
-        "arguments":[
-          "https://www.almowaten.net/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-   
   {
     "title": "شفا",
     "drawable": "@drawable/pro_youtube",
@@ -49,7 +33,91 @@
       }
     ]
   },
- 
+  {
+    "title": "Like Shfa Vlog",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "فديوهات شفا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شفا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/LikeShfaVlog.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "shfa gaming",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "فديوهات شفا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شفا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/shfa_gaming.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "shfa show India",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "فديوهات شفا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شفا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/shfa_show_India.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "shfa family IDN",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "فديوهات شفا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شفا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/shfa_family_IDN.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "shfa spanish",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "فديوهات شفا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شفا",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/shfa/shfa_spanish.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
   {
     "title": "اعدادات",
     "drawable": "@drawable/pro_settings",
