@@ -1,20 +1,4 @@
 ﻿[
-   {
-    "title":"فلوقات",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"فلوقات سعودية",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"فلوقات",
-        "provider":"wordpress",
-        "arguments":[
-          "https://www.almowaten.net/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-   
   {
     "title":"أنس و أصالة",
     "drawable":"@drawable/pro_youtube",
@@ -66,7 +50,91 @@
       }
     ]
   },
-  
+  {
+    "title":"tiktok",
+    "drawable":"@drawable/pro_tiktok",
+    "submenu":"أنس و أصالة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"tiktok",
+        "provider":"webview",
+        "arguments":[
+          "https://www.tiktok.com/@anasalafam"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"website",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"أنس و أصالة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"website",
+        "provider":"webview",
+        "arguments":[
+          "https://www.anasalafamily.com/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Instagram",
+    "drawable":"@drawable/pro_instagram",
+    "submenu":"أنس و أصالة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"anasalafamily",
+        "provider":"webview",
+        "arguments":[
+          "https://www.instagram.com/anasalafamily/"
+        ]
+      },
+      {
+        "title":"anasmarwah",
+        "provider":"webview",
+        "arguments":[
+          "https://www.instagram.com/anasmarwah/"
+        ]
+      },
+      {
+        "title":"asalamaleh",
+        "provider":"webview",
+        "arguments":[
+          "https://www.instagram.com/asalamaleh/"
+        ]
+      },
+      {
+        "title":"milamarwah",
+        "provider":"webview",
+        "arguments":[
+          "https://www.instagram.com/milamarwah/"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"أنس و أصالة",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"فلوقات سعودية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"أنس و أصالة",
+        "provider":"youtube",
+        "arguments":[
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/anasala_family.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
 
 
 
