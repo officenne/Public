@@ -1,46 +1,77 @@
 [
- {
-    "title":"funcraftskids",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu": "funcraftskids",
-    "iap":false,
-    "tabs":[
+  {
+    "title": "????? ????",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "?????? ??????",
+    "iap": false,
+    "tabs": [
       {
-        "title":"funcraftskids",
-        "provider":"wordpress",
-        "arguments":[
-          "https://funcraftskids.com/wp-json/wp/v2/"
+        "title": "????? ????",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya.json",
+          "channelx",
+          "channelx"
+        ]
+      },
+      {
+        "title": "?????",
+        "provider": "twitter",
+        "arguments": [
+          "MohamedMoshaya"
+        ]
+      },
+      {
+        "title": "????????",
+        "provider": "webview",
+        "arguments": [
+          "https://www.instagram.com/mmoshaya/"
         ]
       }
     ]
   },
-   
   {
-    "title": "Miss Katy",
+    "title": "????? ????2",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "Mister Max",
+    "submenu": "?????? ??????",
     "iap": false,
     "tabs": [
       {
-        "title": "Miss Katy",
+        "title": "????? ????2",
         "provider": "youtube",
         "arguments": [
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MisterMax/MissKaty.json",
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/mmoshaya2.json",
           "channelx",
           "channelx"
         ]
       }
     ]
   },
-  
   {
-    "title": "Settings",
-    "drawable": "@drawable/pro_settings",
-    "submenu": "Settings",
+    "title": "????? ?????",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "?????? ??????",
     "iap": false,
     "tabs": [
       {
-        "title": "Settings",
+        "title": "????? ?????",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Families/Iman_Moshaya.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "?????????",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "",
         "provider": "custom",
         "arguments": [
           "com.sherdle.universal.SettingsFragment",
