@@ -1,21 +1,4 @@
 [
- {
-    "title":"funcraftskids",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu": "funcraftskids",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"funcraftskids",
-        "provider":"wordpress",
-        "arguments":[
-          "https://funcraftskids.com/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-   
-
   {
     "title": "Mister Max",
     "drawable": "@drawable/pro_youtube",
@@ -29,6 +12,72 @@
           "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MisterMax/MisterMax.json",
           "channelx",
           "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Miss Katy",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Mister Max",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Miss Katy",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MisterMax/MissKaty.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mister Max Play",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Mister Max",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Mister Max Play",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MisterMax/MisterMaxPlay.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "FedorUK Vlogs",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Mister Max",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "FedorUK Vlogs",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MisterMax/FedorUKVlogs.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"instagram",
+    "drawable":"@drawable/pro_instagram",
+    "submenu":"instagram",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"instagram",
+        "provider":"webview",
+        "arguments":[
+          "https://www.instagram.com/maxim.fedoruk/"
         ]
       }
     ]
