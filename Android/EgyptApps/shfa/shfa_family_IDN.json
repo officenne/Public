@@ -1,13 +1,47 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "uEChl1N2U-MgXty60BIoj3HxaNQ",
+    "etag": "mTk7pnXY7aWyq7pIA8_XHIZ2VNs",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 56,
+        "totalResults": 57,
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ysYKAvp8dn5jdvsKfu83E2bxQ7M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mO7T-8HNUU0"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-06T09:29:20Z",
+                "channelId": "UCCLyyLeiiARb8Rg3K4K_8iA",
+                "title": "Shfa tidak mau memberikan kembarannya Jelly",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mO7T-8HNUU0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mO7T-8HNUU0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mO7T-8HNUU0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "shfa family IDN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-06T09:29:20Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "2tZFdZkBoIrGWke4Gxq61DbQoRI",
@@ -1672,40 +1706,6 @@
                 "channelTitle": "shfa family IDN",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-08-27T18:00:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "doWYiM9Uo_h3gqfGkfxxDR3-354",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "v1Soy_kZirg"
-            },
-            "snippet": {
-                "publishedAt": "2020-08-27T15:10:25Z",
-                "channelId": "UCCLyyLeiiARb8Rg3K4K_8iA",
-                "title": "shfa berpura-pura bermain dengan bayi dan orang tua",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/v1Soy_kZirg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/v1Soy_kZirg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/v1Soy_kZirg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "shfa family IDN",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-08-27T15:10:25Z"
             }
         }
     ]
