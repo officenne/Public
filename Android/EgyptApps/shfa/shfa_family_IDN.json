@@ -1,13 +1,47 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "Xz7uhmgdAb4G4xPFsq_3V7wyk6Y",
+    "etag": "xdgcAiPQHVTGcqb2I8LEogqLAkY",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 56,
+        "totalResults": 57,
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xEq1xkhLJazvxqVYFEWCWXuFfvM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xjZJOatv2fo"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-11T12:54:12Z",
+                "channelId": "UCCLyyLeiiARb8Rg3K4K_8iA",
+                "title": "Shfa dan Ayah melakukan perjalanan, kegemberiaan bepergian yang menyenangkan untuk Anak-anak",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xjZJOatv2fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xjZJOatv2fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xjZJOatv2fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "shfa family IDN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-11T12:54:12Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "ysYKAvp8dn5jdvsKfu83E2bxQ7M",
@@ -1672,40 +1706,6 @@
                 "channelTitle": "shfa family IDN",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-08-29T07:00:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "U2eE_itQZHwlouElaLHWvHnQbuQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Iw0C6MT2PHM"
-            },
-            "snippet": {
-                "publishedAt": "2020-08-27T18:00:02Z",
-                "channelId": "UCCLyyLeiiARb8Rg3K4K_8iA",
-                "title": "Shfa Bermain dengan Seekor Anak Kucing",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Iw0C6MT2PHM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Iw0C6MT2PHM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Iw0C6MT2PHM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "shfa family IDN",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-08-27T18:00:02Z"
             }
         }
     ]
