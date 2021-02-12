@@ -4,7 +4,7 @@ import os.path
 
 # Get Latest from Youtube
 
-YoutubeApiKey = 'AIzaSyACJCHu-oaZUtC6gaygvqii3LiBvMrGWBY'
+YoutubeApiKey = 'AIzaSyDnnQb152LtaUR3dBCXNDoRbuV7cGdtb6I'
 YoutubeChannelID = 'UCqJNTGwKmgMCwfYDbnz514Q'
 YoutubeUrl = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId='
 YoutubeUrl2 = '&type=video&order=date&maxResults=100&key='
@@ -13,84 +13,37 @@ save_path = 'C:\GitHub\Android\EgyptApps\Badr_Family'
 
 
 with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCwHE1kM1CPJd_pI9FQ0-4dg&type=video&order=date&maxResults=100&key=AIzaSyB2nXPdK7FHisTZbvW-qNZuQ82NPZKSzd4") as response:
+        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCYogOW28QIQdfvfY5KyzDsw&type=video&order=date&maxResults=100&key=AIzaSyDnnQb152LtaUR3dBCXNDoRbuV7cGdtb6I") as response:
     if response.getcode() == 200:
         source = response.read()
         data = json.loads(source)
         # print(data)
-        completeName = os.path.join(save_path, "shfa.json")
+        completeName = os.path.join(save_path, "Badr_Family.json")
+        with open(completeName, 'w') as outfile:
+            json.dump(data, outfile, indent=4)
+    else:
+        print('An error occurred while attempting to retrieve data from the API.')
+
+
+with request.urlopen(
+        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLVnWQ4Ee6xUQ9__gVa5H4EPJCKrt6G3at&key=AIzaSyDnnQb152LtaUR3dBCXNDoRbuV7cGdtb6I") as response:
+    if response.getcode() == 200:
+        source = response.read()
+        data = json.loads(source)
+        # print(data)
+        completeName = os.path.join(save_path, "Challenges.json")
         with open(completeName, 'w') as outfile:
             json.dump(data, outfile, indent=4)
     else:
         print('An error occurred while attempting to retrieve data from the API.')
 
 with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCQ7x25F6YXY9DvGeHFxLhRQ&type=video&order=date&maxResults=100&key=AIzaSyB2nXPdK7FHisTZbvW-qNZuQ82NPZKSzd4") as response:
+        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLVnWQ4Ee6xUR_jAoD76k3OuLlrgKhnovG&key=AIzaSyDnnQb152LtaUR3dBCXNDoRbuV7cGdtb6I") as response:
     if response.getcode() == 200:
         source = response.read()
         data = json.loads(source)
         # print(data)
-        completeName = os.path.join(save_path, "shfa2.json")
-        with open(completeName, 'w') as outfile:
-            json.dump(data, outfile, indent=4)
-    else:
-        print('An error occurred while attempting to retrieve data from the API.')
-
-with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UC1hNgneuRwhoWhfzSem86fA&type=video&order=date&maxResults=100&key=AIzaSyB2nXPdK7FHisTZbvW-qNZuQ82NPZKSzd4") as response:
-    if response.getcode() == 200:
-        source = response.read()
-        data = json.loads(source)
-        # print(data)
-        completeName = os.path.join(save_path, "LikeShfaVlog.json")
-        with open(completeName, 'w') as outfile:
-            json.dump(data, outfile, indent=4)
-    else:
-        print('An error occurred while attempting to retrieve data from the API.')
-
-with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCItvCYsrioqP8bHqJvbAejA&type=video&order=date&maxResults=100&key=AIzaSyB2nXPdK7FHisTZbvW-qNZuQ82NPZKSzd4") as response:
-    if response.getcode() == 200:
-        source = response.read()
-        data = json.loads(source)
-        # print(data)
-        completeName = os.path.join(save_path, "shfa_gaming.json")
-        with open(completeName, 'w') as outfile:
-            json.dump(data, outfile, indent=4)
-    else:
-        print('An error occurred while attempting to retrieve data from the API.')
-
-with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCNvYCW3cMbkWy2g2v4Wb6xw&type=video&order=date&maxResults=100&key=AIzaSyB2nXPdK7FHisTZbvW-qNZuQ82NPZKSzd4") as response:
-    if response.getcode() == 200:
-        source = response.read()
-        data = json.loads(source)
-        # print(data)
-        completeName = os.path.join(save_path, "shfa_show_India.json")
-        with open(completeName, 'w') as outfile:
-            json.dump(data, outfile, indent=4)
-    else:
-        print('An error occurred while attempting to retrieve data from the API.')
-
-with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCCLyyLeiiARb8Rg3K4K_8iA&type=video&order=date&maxResults=100&key=AIzaSyB2nXPdK7FHisTZbvW-qNZuQ82NPZKSzd4") as response:
-    if response.getcode() == 200:
-        source = response.read()
-        data = json.loads(source)
-        # print(data)
-        completeName = os.path.join(save_path, "shfa_family_IDN.json")
-        with open(completeName, 'w') as outfile:
-            json.dump(data, outfile, indent=4)
-    else:
-        print('An error occurred while attempting to retrieve data from the API.')
-
-with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCkV2W_4Zur037NrECHHtKMg&type=video&order=date&maxResults=100&key=AIzaSyB2nXPdK7FHisTZbvW-qNZuQ82NPZKSzd4") as response:
-    if response.getcode() == 200:
-        source = response.read()
-        data = json.loads(source)
-        # print(data)
-        completeName = os.path.join(save_path, "shfa_spanish.json")
+        completeName = os.path.join(save_path, "Travel.json")
         with open(completeName, 'w') as outfile:
             json.dump(data, outfile, indent=4)
     else:
