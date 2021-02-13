@@ -1,0 +1,70 @@
+[
+ {
+    "title":"funcraftskids",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu": "funcraftskids",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"funcraftskids",
+        "provider":"wordpress",
+        "arguments":[
+          "https://funcraftskids.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   
+  {
+    "title": "CKN Toys",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CKN Toys",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CKN Toys",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/CKNToys.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title": "Toys Review",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CKN Toys PlayList",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CKN Toys",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/ToysReview.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  
+  {
+    "title": "Settings",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "Settings",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Settings",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
