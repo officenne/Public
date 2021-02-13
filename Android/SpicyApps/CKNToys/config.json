@@ -16,16 +16,34 @@
   },
    
   {
-    "title": "Miss Katy",
+    "title": "CKN Toys",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "Mister Max",
+    "submenu": "CKN Toys",
     "iap": false,
     "tabs": [
       {
-        "title": "Miss Katy",
+        "title": "CKN Toys",
         "provider": "youtube",
         "arguments": [
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MisterMax/MissKaty.json",
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/CKNToys.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title": "Toys Review",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CKN Toys PlayList",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CKN Toys",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/ToysReview.json",
           "channelx",
           "channelx"
         ]
