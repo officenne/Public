@@ -1,0 +1,52 @@
+[
+ {
+    "title":"funcraftskids",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu": "funcraftskids",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"funcraftskids",
+        "provider":"wordpress",
+        "arguments":[
+          "https://funcraftskids.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   
+  {
+    "title": "Miss Katy",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Mister Max",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Miss Katy",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MisterMax/MissKaty.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  
+  {
+    "title": "Settings",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "Settings",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Settings",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
