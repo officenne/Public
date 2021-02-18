@@ -14,7 +14,7 @@
       }
     ]
   },
- {
+  {
     "title": "المنصة التعليمية",
     "drawable": "@drawable/pro_newspaper",
     "submenu": "منصة مدرستنا",
@@ -29,29 +29,28 @@
       }
     ]
   },
- {
-    "title":"تويتر",
-    "drawable":"@drawable/pro_twitter",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
+  {
+    "title": "تويتر",
+    "drawable": "@drawable/pro_twitter",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
       {
-        "title":"وزارة التربية والتعليم والتعليم الفني",
-        "provider":"twitter",
-        "arguments":[
+        "title": "وزارة التربية والتعليم والتعليم الفني",
+        "provider": "twitter",
+        "arguments": [
           "MoeteEg"
         ]
       },
       {
-        "title":"مدرستنا 2",
-        "provider":"twitter",
-        "arguments":[
+        "title": "مدرستنا 2",
+        "provider": "twitter",
+        "arguments": [
           "MadrasetnaSec"
         ]
       }
     ]
   },
-
   {
     "title": "قناة مدرستنا",
     "drawable": "@drawable/pro_youtube",
@@ -62,14 +61,104 @@
         "title": "قناة مدرستنا",
         "provider": "youtube",
         "arguments": [
-          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Madrestna_Channel.json",
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/Recent.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/1.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/2.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/3.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/4.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/5.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/6.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/7.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/8.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/9.json",
+          "channelx",
+          "farouk"
+        ]
+      },
+      {
+        "title": "1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrestna/10.json",
           "channelx",
           "farouk"
         ]
       }
     ]
   },
- {
+  {
     "title": "2قناة مدرستنا",
     "drawable": "@drawable/pro_youtube",
     "submenu": "قنوات تعليمية",
@@ -86,7 +175,6 @@
       }
     ]
   },
-  
   {
     "title": "الصف الرابع الابتدائى",
     "drawable": "@drawable/pro_internet",
@@ -579,14 +667,14 @@
       }
     ]
   },
-    {
+  {
     "title": "منصة المذاكرة الرقمية",
     "drawable": "@drawable/pro_internet",
     "submenu": "منصات تعليمية",
     "iap": false,
     "tabs": [
       {
-    "title": "منصة المذاكرة الرقمية",
+        "title": "منصة المذاكرة الرقمية",
         "provider": "webview",
         "arguments": [
           "https://study.ekb.eg/"
@@ -594,14 +682,14 @@
       }
     ]
   },
-     {
+  {
     "title": "تسجيل استمارة التقدم للامتحان للعام الدراسي",
     "drawable": "@drawable/pro_internet",
     "submenu": "منصات تعليمية",
     "iap": false,
     "tabs": [
       {
-    "title": "تسجيل استمارة التقدم للامتحان للعام الدراسي",
+        "title": "تسجيل استمارة التقدم للامتحان للعام الدراسي",
         "provider": "webview",
         "arguments": [
           "https://moe-register.emis.gov.eg/"
@@ -609,22 +697,21 @@
       }
     ]
   },
-   {
-    "title":"المصحف المدرسى",
-    "drawable":"@drawable/pro_internet",
-    "submenu":"المصحف المدرسى",
-    "iap":false,
-    "tabs":[
+  {
+    "title": "المصحف المدرسى",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "المصحف المدرسى",
+    "iap": false,
+    "tabs": [
       {
-        "title":"المصحف المدرسى",
-        "provider":"webview",
-        "arguments":[
+        "title": "المصحف المدرسى",
+        "provider": "webview",
+        "arguments": [
           "https://quran.ksu.edu.sa/index.php#aya=1_1&m=hafs&qaree=husary&trans=ar_mu"
         ]
       }
     ]
   },
-   
   {
     "title": "اعدادات",
     "drawable": "@drawable/pro_settings",
