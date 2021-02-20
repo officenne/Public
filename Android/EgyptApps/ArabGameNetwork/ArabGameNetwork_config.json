@@ -1,22 +1,6 @@
 ﻿[
-     {
-    "title":"فلوقات",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu": "شبكة العرب",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"فلوقات",
-        "provider":"wordpress",
-        "arguments":[
-          "https://www.almowaten.net/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-   
   {
-    "title": "قناة العرب",
+    "title": "الرئيسية",
     "drawable": "@drawable/pro_youtube",
     "submenu": "شبكة العرب",
     "iap": false,
@@ -33,7 +17,7 @@
     ]
   },
   {
-    "title": "سيد",
+    "title": "قناة سيد",
     "drawable": "@drawable/pro_youtube",
     "submenu": "شبكة العرب",
     "iap": false,
@@ -43,6 +27,213 @@
         "provider": "youtube",
         "arguments": [
           "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/SAYED.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "مواقع التواصل",
+    "drawable": "@drawable/pro_twitter",
+    "submenu": "مواقع التواصل",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "تويتر",
+        "provider": "twitter",
+        "arguments": [
+          "ArabGameNetwork"
+        ]
+      },
+      {
+        "title": "انستقرام",
+        "provider": "webview",
+        "arguments": [
+          "https://www.instagram.com/arabgamesnetwork/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "البث المباشر",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "البث المباشر",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "انستقرام",
+        "provider": "webview",
+        "arguments": [
+          "https://www.twitch.tv/arabgamesnetwork"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 1",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/1.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 2",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/2.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 3",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/3.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 4",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/4.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 5",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/5.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 6",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/6.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 7",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/7.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 8",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/8.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 9",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/9.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة العرب 10",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شبكة العرب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة العرب 1",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/ArabGameNetwork/10.json",
           "channelx",
           "channelx"
         ]
