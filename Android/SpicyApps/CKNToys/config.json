@@ -1,20 +1,4 @@
 [
- {
-    "title":"funcraftskids",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu": "funcraftskids",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"funcraftskids",
-        "provider":"wordpress",
-        "arguments":[
-          "https://funcraftskids.com/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-   
   {
     "title": "CKN Toys",
     "drawable": "@drawable/pro_youtube",
@@ -50,7 +34,79 @@
       }
     ]
   },
-  
+  {
+    "title": "Paw Patrol Toys",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CKN Toys PlayList",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CKN Toys",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/PawPatrolToys.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Games and Playtime Fun",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CKN Toys PlayList",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CKN Toys",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/GamesandPlaytimeFun.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Unboxing Battery Powered Ride On Cars",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CKN Toys PlayList",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CKN Toys",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/UnboxingBatteryPoweredRideOnCars.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Play-Doh Surprise Egg",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CKN Toys PlayList",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CKN Toys",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/PlayDohSurpriseEgg.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
+
+
+
+
   {
     "title": "Settings",
     "drawable": "@drawable/pro_settings",
