@@ -19,16 +19,17 @@
             ]
     },
        {
-        "title":"صوت بيروت",
-        "drawable":"News-32",
-    "submenu":"اخبار حساب المواطن",
+        "title":"استمع راديو",
+        "drawable":"Microphone-32",
+        "submenu":"",
         "iap":false,
         "tabs":[
             {
-                "title":"صوت بيروت",
-                "provider":"wordpress",
+                "title":"القران الكريم",
+                "provider":"radio",
+                "image":"Microphone-32",
                 "arguments":[
-                    "https://www.sawtbeirut.com/wp-json/wp/v2/",
+                    "https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8"
                 ]
             }
         ]
