@@ -1,54 +1,50 @@
-﻿[
-    
-    
-    {
-    "title":"موقع المواطن",
-    "drawable":"News-32",
-    "submenu":"اخبار حساب المواطن",
-    "iap":false,
-    "tabs":[
-            {
-            "title":"حساب المواطن",
-            "provider":"wordpress",
-            "image":"newspaper",
-            "arguments":[
-                         "https://www.almowaten.net/wp-json/wp/v2/",
-                         "129766"
-                         ]
-            }
-            ]
-    },
-       {
-        "title":"استمع راديو",
-        "drawable":"Microphone-32",
-        "submenu":"",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"القران الكريم",
-                "provider":"radio",
-                "image":"Microphone-32",
-                "arguments":[
-                    "https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8"
-                ]
-            }
+[
+  {
+    "title": "موقع المواطن",
+    "drawable": "News-32",
+    "submenu": "اخبار حساب المواطن",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "حساب المواطن",
+        "provider": "wordpress",
+        "image": "newspaper",
+        "arguments": [
+          "https://www.almowaten.net/wp-json/wp/v2/",
+          "129766"
         ]
-    },
-    {
-     "title":"تويتر",
-     "drawable":"Twitter-32",
-    "submenu":"اخبار حساب المواطن",
-     "iap":false,
-     "tabs":[
-             {
-             "title":"تويتر",
-             "provider":"twitter",
-             "arguments":[
-                          "citizenaccount"
-                          ]
-             }
-             ]
-     }
-    
-  
+      }
+    ]
+  },
+  {
+    "title": "استمع راديو",
+    "drawable": "Microphone-32",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "القران الكريم",
+        "provider": "radio",
+        "image": "Microphone-32",
+        "arguments": [
+          "https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "تويتر",
+    "drawable": "Twitter-32",
+    "submenu": "اخبار حساب المواطن",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "تويتر",
+        "provider": "twitter",
+        "arguments": [
+          "citizenaccount"
+        ]
+      }
+    ]
+  }
 ]
