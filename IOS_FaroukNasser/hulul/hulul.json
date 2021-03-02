@@ -1,19 +1,17 @@
 [
-   {
-      "title":"الرئيسية",
-      "drawable":"News-32",
-      "submenu":"حلول تعليمية",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"الرئيسية",
-            "provider":"wordpress",
-            "image":"News-32",
-            "arguments":[
-               "https://www.hululktab.com/wp-json/wp/v2/"
-            ]
-         }
-      ]
-   }
-   
+  {
+    "title": "واجباتى",
+    "drawable": "News-32",
+    "submenu": "منصتى",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "واجباتى",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.wajibati.net/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  }
 ]
