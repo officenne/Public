@@ -9,7 +9,7 @@ YoutubeChannelID = 'UCqJNTGwKmgMCwfYDbnz514Q'
 YoutubeUrl = 'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId='
 YoutubeUrl2 = '&type=video&order=date&maxResults=100&key='
 
-save_path = r'C:\GitHub\Android\SpicyApps\MisterMax'
+save_path = 'C:\GitHub\Android\SpicyApps\MisterMax'
 
 
 with request.urlopen(
