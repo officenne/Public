@@ -1,13 +1,47 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "Qhaq6qzK-otv7zUZrMDDECMQyk4",
+    "etag": "3JEQc-WfPFzylGgyZZllxXA_F30",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 1018,
+        "totalResults": 1017,
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D61YMuXoruLsHtNNqgBPqv-dmac",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A-MYkjNv7so"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-05T09:05:57Z",
+                "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+                "title": "\u041c\u0430\u043a\u0441 \u0438 \u041a\u0430\u0442\u044f \u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u0438\u043b\u0438 \u0432\u0441\u0435 \u0434\u043b\u044f \u043f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u0430",
+                "description": "Max and Katy preparing for party.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A-MYkjNv7so/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A-MYkjNv7so/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A-MYkjNv7so/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mister Max",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-05T09:05:57Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "GJ66fGdNemSepQxlG6wpiO1RHFg",
@@ -826,7 +860,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "FizHIzDq_yXAxYtBmXybq_r5VA4",
+            "etag": "oiTI6LiiYeuLH1h7lbm5V52M6Jc",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "eXnO_j8-Oro"
@@ -1234,7 +1268,7 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "PZamnO7PJoViQCkM_ToZODBqU9A",
+            "etag": "kCEPsT_GMMCuByBQWzQhhVGR68Y",
             "id": {
                 "kind": "youtube#video",
                 "videoId": "C_REBs5SiaQ"
@@ -1672,40 +1706,6 @@
                 "channelTitle": "Mister Max",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-10-23T05:45:03Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "RYpbU_o_jWt_EfZK8gXVcAOtRLs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "W1LDkAKy2eo"
-            },
-            "snippet": {
-                "publishedAt": "2020-10-21T08:01:15Z",
-                "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-                "title": "\u041c\u0430\u043a\u0441 \u0438 \u041a\u0430\u0442\u044f \u043d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u043d\u044b\u0435 \u0434\u0435\u0442\u0438",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/W1LDkAKy2eo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/W1LDkAKy2eo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/W1LDkAKy2eo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Mister Max",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-10-21T08:01:15Z"
             }
         }
     ]
