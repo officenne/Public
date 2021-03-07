@@ -16,8 +16,22 @@
       }
     ]
   },
-
-  
+  {
+     "title":"حساب المواطن",
+     "drawable":"Domain-32",
+     "submenu":"موقع حساب المواطن",
+     "iap":false,
+     "tabs":[
+        {
+           "title":"حساب المواطن",
+           "provider":"webview",
+           "arguments":[
+              "https://www.ca.gov.sa/"
+           ]
+        }
+     ]
+  },
+ 
   {
     "title": "تويتر",
     "drawable": "Twitter-32",
