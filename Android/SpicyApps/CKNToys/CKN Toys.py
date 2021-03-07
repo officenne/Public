@@ -13,7 +13,7 @@ save_path = r'C:\GitHub\Android\SpicyApps\CKNToys'
 
 
 with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UC135_IPK8XOEEdXdtcseR4w&type=video&order=date&maxResults=100&key=AIzaSyDnoxRyPtrO9We-Aa3ACMpluNag24-DLIc") as response:
+        "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UC135_IPK8XOEEdXdtcseR4w&type=video&order=date&maxResults=100&key=AIzaSyD5cWTcxuWVXgeN4J80BUC-nkk8sL8Oaqw") as response:
     if response.getcode() == 200:
         source = response.read()
         data = json.loads(source)
@@ -26,7 +26,7 @@ with request.urlopen(
 
 
 with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLaFtxW0stqq06OOpzgQEwC2xYU2gvGYFS&key=AIzaSyDnnQb152LtaUR3dBCXNDoRbuV7cGdtb6I") as response:
+        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLaFtxW0stqq06OOpzgQEwC2xYU2gvGYFS&key=AIzaSyD5cWTcxuWVXgeN4J80BUC-nkk8sL8Oaqw") as response:
     if response.getcode() == 200:
         source = response.read()
         data = json.loads(source)
@@ -39,7 +39,7 @@ with request.urlopen(
 
 
 with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLaFtxW0stqq2h_HS1lmcn0BWzcT_bXcV8&key=AIzaSyDnnQb152LtaUR3dBCXNDoRbuV7cGdtb6I") as response:
+        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLaFtxW0stqq2h_HS1lmcn0BWzcT_bXcV8&key=AIzaSyD5cWTcxuWVXgeN4J80BUC-nkk8sL8Oaqw") as response:
     if response.getcode() == 200:
         source = response.read()
         data = json.loads(source)
@@ -53,7 +53,7 @@ with request.urlopen(
 
 
 with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLaFtxW0stqq3cU9dCeHGC-Tl5rMzevbd8&key=AIzaSyDnnQb152LtaUR3dBCXNDoRbuV7cGdtb6I") as response:
+        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLaFtxW0stqq3cU9dCeHGC-Tl5rMzevbd8&key=AIzaSyD5cWTcxuWVXgeN4J80BUC-nkk8sL8Oaqw") as response:
     if response.getcode() == 200:
         source = response.read()
         data = json.loads(source)
@@ -81,7 +81,7 @@ with request.urlopen(
 
 
 with request.urlopen(
-        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLaFtxW0stqq0VSC-fsak1wYeM8h3_FOWI&key=AIzaSyDnnQb152LtaUR3dBCXNDoRbuV7cGdtb6I") as response:
+        "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=100&playlistId=PLaFtxW0stqq0VSC-fsak1wYeM8h3_FOWI&key=AIzaSyD5cWTcxuWVXgeN4J80BUC-nkk8sL8Oaqw") as response:
     if response.getcode() == 200:
         source = response.read()
         data = json.loads(source)
