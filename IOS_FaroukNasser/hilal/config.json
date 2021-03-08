@@ -1,50 +1,19 @@
-[
+﻿[
   {
-    "title": "موقع المواطن",
+    "title": "أخبار الهلال",
     "drawable": "News-32",
-    "submenu": "اخبار حساب المواطن",
+    "submenu": "أخبار الهلال",
     "iap": false,
     "tabs": [
       {
-        "title": "حساب المواطن",
+          "title": "أخبار الهلال",
         "provider": "wordpress",
         "image": "newspaper",
         "arguments": [
-          "https://www.almowaten.net/wp-json/wp/v2/",
-          "129766"
-        ]
-      }
-    ]
-  },
-  {
-     "title":"حساب المواطن",
-     "drawable":"Domain-32",
-     "submenu":"موقع حساب المواطن",
-     "iap":false,
-     "tabs":[
-        {
-           "title":"حساب المواطن",
-           "provider":"webview",
-           "arguments":[
-              "https://www.ca.gov.sa/"
-           ]
-        }
-     ]
-  },
- 
-  {
-    "title": "تويتر",
-    "drawable": "Twitter-32",
-    "submenu": "اخبار حساب المواطن",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "تويتر",
-        "provider": "twitter",
-        "arguments": [
-          "citizenaccount"
+          "https://sa.hihi2.com/wp-json/wp/v2/",
+          "8"
         ]
       }
     ]
   }
-]
+  ]
