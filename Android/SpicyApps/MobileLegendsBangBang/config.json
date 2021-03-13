@@ -1,0 +1,143 @@
+[
+
+  {
+    "title": "Most Viewed",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Mobile Legends: Bang Bang",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Most Viewed",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MobileLegendsBangBang/MostViewed.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Official Videos",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Mobile Legends: Bang Bang",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Official Videos",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MobileLegendsBangBang/OfficialVideos.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Popular",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Mobile Legends: Bang Bang",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Popular",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/MobileLegendsBangBang/Popular.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "title": "Twitter",
+    "drawable": "@drawable/pro_twitter",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "twitter",
+        "arguments": [
+          "MobileLegendsOL"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Website",
+    "drawable": "@drawable/pro_instagram",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Website",
+        "provider": "webview",
+        "arguments": [
+          "https://m.mobilelegends.com/en"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "instagram",
+    "drawable": "@drawable/pro_instagram",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "instagram",
+        "provider": "webview",
+        "arguments": [
+          "https://www.instagram.com/mobilelegendsgame/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Live",
+    "drawable": "@drawable/pro_twitch",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Live",
+        "provider": "webview",
+        "arguments": [
+          "https://www.twitch.tv/directory/game/Mobile%20Legends%3A%20Bang%20Bang"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title": "Settings",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "Settings",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Settings",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
