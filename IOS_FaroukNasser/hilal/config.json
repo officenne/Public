@@ -1,19 +1,91 @@
 ﻿[
-  {
-    "title": "أخبار الهلال",
-    "drawable": "News-32",
-    "submenu": "أخبار الهلال",
-    "iap": false,
-    "tabs": [
-      {
-          "title": "أخبار الهلال",
-        "provider": "wordpress",
-        "image": "newspaper",
-        "arguments": [
-          "https://sa.hihi2.com/wp-json/wp/v2/",
-          "8"
+    {
+        "title": "أخبار الهلال",
+        "drawable": "News-32",
+        "submenu":"نادى الهلال",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "أخبار الهلال",
+                "provider": "wordpress",
+                "image": "News-32",
+                "arguments": [
+                    "https://sa.hihi2.com/wp-json/wp/v2/",
+                    "8"
+                ]
+            },
+            {
+                "title":"الموقع الرسمى",
+                "provider":"webview",
+                "image": "News-32",
+                "arguments":[
+                    "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRFF5Y214bUVnSmhjaWdBUAE?hl=ar&gl=SA&ceid=SA%3Aar"
+                ]
+            }
         ]
-      }
-    ]
-  }
-  ]
+    },
+    
+    {
+        "title":"تويتر",
+        "drawable":"Twitter-32",
+        "submenu":"نادى الهلال",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"تويتر",
+                "provider":"twitter",
+                "arguments":[
+                    "Alhilal_FC"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الموقع الرسمى",
+        "drawable":"Domain-32",
+        "submenu":"نادى الهلال",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الموقع الرسمى",
+                "provider":"webview",
+                "arguments":[
+                    "https://alhilal.com/"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"نتائج الهلال",
+        "drawable":"Domain-32",
+        "submenu":"نادى الهلال",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"نتائج الهلال",
+                "provider":"webview",
+                "arguments":[
+                    "https://www.google.com.sa/search?source=hp&ei=MepNYMCcGJfA0PEPkOSQ8AY&iflsig=AINFCbYAAAAAYE34QdKSg-pgoMue_QWy9I5tXYrj-9Ks&q=%D9%86%D8%A7%D8%AF%D9%89+%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84&gs_ssp=eJzj4tTP1TcwMSrKSTNg9BK92XZj-Y31NzsVbiy_2XKz_WYLiAYA_TkRpQ&oq=%D9%86%D8%A7%D8%AF%D9%89+%D8%A7%D9%84%D9%87&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCC4QkwIyAggAMgIIADICCAAyAggAMgIILjICCAAyAggAMgIIADICCAA6CAgAEMcBEKMCOgsILhAKEAEQKhCTAjoICAAQxwEQrwFQ_CBY2Y4BYLGjAWgEcAB4AIABXYgBoQeSAQIxMpgBAKABAaoBB2d3cy13aXqwAQA&sclient=gws-wiz#sie=t;/m/042rlf;2;/m/0c73xm;st;fp;1;;"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"الاهداف",
+        "drawable":"TV-Show-32",
+        "submenu":"نادى الهلال",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"الاهداف",
+                "provider":"youtube",
+                "image":"Playlist-32",
+                "arguments":[
+                    "UChM_8YeNCava2-OSbgbpe_w",
+                    "channel",
+                    "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+                ]
+            },
+        ]
+    },
+]
