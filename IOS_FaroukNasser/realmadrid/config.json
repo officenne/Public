@@ -1,0 +1,21 @@
+﻿[
+    {
+        "title": "أخبار الاهلى",
+        "drawable": "News-32",
+        "submenu":"نادى الاهلى",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "أخبار الاهلى",
+                "provider": "wordpress",
+                "image": "News-32",
+                "arguments": [
+                    "https://www.ahlynews.com/wp-json/wp/v2/",
+                ]
+            }
+           
+        ]
+    }
+    
+   
+]
