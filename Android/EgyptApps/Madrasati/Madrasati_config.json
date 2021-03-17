@@ -1,110 +1,50 @@
 ﻿[
   {
-    "title":"واجباتى",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"منصتى",
-    "iap":false,
-    "tabs":[
+    "title": "منصات تعليمية",
+    "drawable": "@drawable/pro_newspaper",
+    "submenu": "مدرستى",
+    "iap": false,
+    "tabs": [
       {
-        "title":"واجباتى",
-        "provider":"wordpress",
-        "arguments":[
-          "https://www.wajibati.net/wp-json/wp/v2/"
+        "title": "موقع واجباتى",
+        "provider": "webview",
+        "arguments": [
+          "https://www.wajibati.net/"
         ]
       },
       {
-        "title":"موقع واجباتى",
-        "provider":"webview",
-        "arguments":[
-          "https://www.wajibati.net/"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"حلول",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"منصتى",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"موقع حلول",
-        "provider":"webview",
-        "arguments":[
+        "title": "موقع حلول",
+        "provider": "webview",
+        "arguments": [
           "https://www.hululktab.com/"
         ]
       },
       {
-        "title":"حلول",
-        "provider":"wordpress",
-        "arguments":[
-          "https://www.hululktab.com/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"كتبى",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"منصتى",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"موقع كتبى",
-        "provider":"webview",
-        "arguments":[
+        "title": "موقع كتبى",
+        "provider": "webview",
+        "arguments": [
           "https://ktbbys.com/"
         ]
       },
       {
-        "title":"كتبى",
-        "provider":"wordpress",
-        "arguments":[
-          "https://moalmy.com/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-
-{
-    "title":"معلمى",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"منصتى",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"موقع معلمى",
-        "provider":"webview",
-        "arguments":[
+        "title": "موقع معلمى",
+        "provider": "webview",
+        "arguments": [
           "https://moalmy.com/"
         ]
-      },
-      {
-        "title":"معلمى",
-        "provider":"wordpress",
-        "arguments":[
-          "https://moalmy.com/wp-json/wp/v2/"
-        ]
       }
     ]
   },
-
-
-
-
-
-
   {
-    "title":"قناة مدرستى",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"شاهد",
-    "iap":false,
-    "tabs":[
+    "title": "قناة مدرستى",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شاهد",
+    "iap": false,
+    "tabs": [
       {
-        "title":"قناة مدرستى",
-        "provider":"youtube",
-        "arguments":[
+        "title": "قناة مدرستى",
+        "provider": "youtube",
+        "arguments": [
           "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/Madrasati.json",
           "channelx",
           "channelx"
@@ -113,15 +53,15 @@
     ]
   },
   {
-    "title":"قناة عين",
-    "drawable":"@drawable/pro_youtube",
-    "submenu":"شاهد",
-    "iap":false,
-    "tabs":[
+    "title": "قناة عين",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "شاهد",
+    "iap": false,
+    "tabs": [
       {
-        "title":"قناة عين",
-        "provider":"youtube",
-        "arguments":[
+        "title": "قناة عين",
+        "provider": "youtube",
+        "arguments": [
           "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/DorosIEN.json",
           "channelx",
           "channelx"
@@ -130,35 +70,35 @@
     ]
   },
   {
-    "title":"تويتر",
-    "drawable":"@drawable/pro_twitter",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
+    "title": "تويتر",
+    "drawable": "@drawable/pro_twitter",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
       {
-        "title":"وزارة التعليم ",
-        "provider":"twitter",
-        "arguments":[
+        "title": "وزارة التعليم ",
+        "provider": "twitter",
+        "arguments": [
           "moe_gov_sa"
         ]
       },
       {
-        "title":"عين",
-        "provider":"twitter",
-        "arguments":[
+        "title": "عين",
+        "provider": "twitter",
+        "arguments": [
           "ien_tv"
         ]
       },
       {
-        "title":"وكالة تعليق الدراسة",
-        "provider":"twitter",
-        "arguments":[
+        "title": "وكالة تعليق الدراسة",
+        "provider": "twitter",
+        "arguments": [
           "News_Ejazah"
         ]
       }
     ]
   },
- {
+  {
     "title": "طفشان،،، العب",
     "drawable": "@drawable/pro_internet",
     "submenu": "",
@@ -173,324 +113,324 @@
       }
     ]
   },
-{
-    "title":"الصف الاول الابتدائي",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"المرحلة الابتدائية",
-    "iap":false,
-    "tabs":[
+  {
+    "title": "الصف الاول الابتدائي",
+    "drawable": "@drawable/pro_newspaper",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
       {
-        "title":"حلول",
-        "provider":"webview",
-        "arguments":[
+        "title": "حلول",
+        "provider": "webview",
+        "arguments": [
           "https://www.hululktaab.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       },
       {
-        "title":"واجباتى",
-        "provider":"webview",
-        "arguments":[
+        "title": "واجباتى",
+        "provider": "webview",
+        "arguments": [
           "https://www.wajibati.net/fsl1/saf1/"
         ]
       },
       {
-        "title":"كتبى",
-        "provider":"webview",
-        "arguments":[
+        "title": "كتبى",
+        "provider": "webview",
+        "arguments": [
           "https://ktbbys.com/s1/"
         ]
       },
       {
-        "title":"معلمى",
-        "provider":"webview",
-        "arguments":[
+        "title": "معلمى",
+        "provider": "webview",
+        "arguments": [
           "https://moalmy.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       }
     ]
   },
   {
-    "title":"الصف الثانى الابتدائي",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"المرحلة الابتدائية",
-    "iap":false,
-    "tabs":[
+    "title": "الصف الثانى الابتدائي",
+    "drawable": "@drawable/pro_newspaper",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
       {
-        "title":"حلول",
-        "provider":"webview",
-        "arguments":[
+        "title": "حلول",
+        "provider": "webview",
+        "arguments": [
           "https://www.hululktaab.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       },
       {
-        "title":"واجباتى",
-        "provider":"webview",
-        "arguments":[
+        "title": "واجباتى",
+        "provider": "webview",
+        "arguments": [
           "https://www.wajibati.net/fsl1/saf2/"
         ]
       },
       {
-        "title":"كتبى",
-        "provider":"webview",
-        "arguments":[
+        "title": "كتبى",
+        "provider": "webview",
+        "arguments": [
           "https://ktbbys.com/s2/"
         ]
       },
       {
-        "title":"معلمى",
-        "provider":"webview",
-        "arguments":[
+        "title": "معلمى",
+        "provider": "webview",
+        "arguments": [
           "https://moalmy.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       }
     ]
   },
   {
-    "title":"الصف الثالث الابتدائي",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"المرحلة الابتدائية",
-    "iap":false,
-    "tabs":[
+    "title": "الصف الثالث الابتدائي",
+    "drawable": "@drawable/pro_newspaper",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
       {
-        "title":"حلول",
-        "provider":"webview",
-        "arguments":[
+        "title": "حلول",
+        "provider": "webview",
+        "arguments": [
           "https://www.hululktaab.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       },
       {
-        "title":"واجباتى",
-        "provider":"webview",
-        "arguments":[
+        "title": "واجباتى",
+        "provider": "webview",
+        "arguments": [
           "https://www.wajibati.net/fsl1/saf3/"
         ]
       },
       {
-        "title":"كتبى",
-        "provider":"webview",
-        "arguments":[
+        "title": "كتبى",
+        "provider": "webview",
+        "arguments": [
           "https://ktbbys.com/s3/"
         ]
       },
       {
-        "title":"معلمى",
-        "provider":"webview",
-        "arguments":[
+        "title": "معلمى",
+        "provider": "webview",
+        "arguments": [
           "https://moalmy.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       }
     ]
   },
   {
-    "title":"الصف الرابع الابتدائي",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"المرحلة الابتدائية",
-    "iap":false,
-    "tabs":[
+    "title": "الصف الرابع الابتدائي",
+    "drawable": "@drawable/pro_newspaper",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
       {
-        "title":"حلول",
-        "provider":"webview",
-        "arguments":[
+        "title": "حلول",
+        "provider": "webview",
+        "arguments": [
           "https://www.hululktaab.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       },
       {
-        "title":"واجباتى",
-        "provider":"webview",
-        "arguments":[
+        "title": "واجباتى",
+        "provider": "webview",
+        "arguments": [
           "https://www.wajibati.net/fsl1/saf4/"
         ]
       },
       {
-        "title":"كتبى",
-        "provider":"webview",
-        "arguments":[
+        "title": "كتبى",
+        "provider": "webview",
+        "arguments": [
           "https://ktbbys.com/s4/"
         ]
       },
       {
-        "title":"معلمى",
-        "provider":"webview",
-        "arguments":[
+        "title": "معلمى",
+        "provider": "webview",
+        "arguments": [
           "https://moalmy.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7/"
         ]
       }
     ]
   },
   {
-    "title":"الصف الخامس الابتدائي",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"المرحلة الابتدائية",
-    "iap":false,
-    "tabs":[
+    "title": "الصف الخامس الابتدائي",
+    "drawable": "@drawable/pro_newspaper",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
       {
-        "title":"حلول",
-        "provider":"webview",
-        "arguments":[
+        "title": "حلول",
+        "provider": "webview",
+        "arguments": [
           "https://www.hululktaab.com/khamisibtdaey/"
         ]
       },
       {
-        "title":"واجباتى",
-        "provider":"webview",
-        "arguments":[
+        "title": "واجباتى",
+        "provider": "webview",
+        "arguments": [
           "https://www.wajibati.net/fsl1/saf5/"
         ]
       },
       {
-        "title":"كتبى",
-        "provider":"webview",
-        "arguments":[
+        "title": "كتبى",
+        "provider": "webview",
+        "arguments": [
           "https://ktbbys.com/s5/"
         ]
       },
       {
-        "title":"معلمى",
-        "provider":"webview",
-        "arguments":[
+        "title": "معلمى",
+        "provider": "webview",
+        "arguments": [
           "https://moalmy.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       }
     ]
   },
   {
-    "title":"الصف السادس الابتدائي",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu":"المرحلة الابتدائية",
-    "iap":false,
-    "tabs":[
+    "title": "الصف السادس الابتدائي",
+    "drawable": "@drawable/pro_newspaper",
+    "submenu": "المرحلة الابتدائية",
+    "iap": false,
+    "tabs": [
       {
-        "title":"حلول",
-        "provider":"webview",
-        "arguments":[
+        "title": "حلول",
+        "provider": "webview",
+        "arguments": [
           "https://www.hululktaab.com/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84%d8%a7%d9%88%d9%84/"
         ]
       },
       {
-        "title":"واجباتى",
-        "provider":"webview",
-        "arguments":[
+        "title": "واجباتى",
+        "provider": "webview",
+        "arguments": [
           "https://www.wajibati.net/fsl1/%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a/"
         ]
       },
       {
-        "title":"كتبى",
-        "provider":"webview",
-        "arguments":[
+        "title": "كتبى",
+        "provider": "webview",
+        "arguments": [
           "https://ktbbys.com/s6/"
         ]
       },
       {
-        "title":"معلمى",
-        "provider":"webview",
-        "arguments":[
+        "title": "معلمى",
+        "provider": "webview",
+        "arguments": [
           "https://moalmy.com/%d8%ad%d9%84-%d9%85%d9%88%d8%a7%d8%af-%d8%a7%d9%84%d8%b5%d9%81-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d8%a7%d9%84%d8%a7%d8%a8%d8%aa%d8%af%d8%a7%d8%a6%d9%8a-%d8%a7%d9%84%d9%81%d8%b5%d9%84-%d8%a7%d9%84/"
         ]
       }
     ]
   },
-
   {
-    "title":"مدرستي",
-    "drawable":"@drawable/pro_internet",
-    "submenu":"منصات مهمة",
-    "iap":false,
-    "tabs":[
+    "title": "مدرستي",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
       {
-        "title":"مدرستي",
-        "provider":"webview",
-        "arguments":[
+        "title": "مدرستي",
+        "provider": "webview",
+        "arguments": [
           "https://schools.madrasati.sa/"
         ]
       }
     ]
   },
   {
-    "title":"كلاسيرا",
-    "drawable":"@drawable/pro_internet",
-    "submenu":"منصات مهمة",
-    "iap":false,
-    "tabs":[
+    "title": "كلاسيرا",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
       {
-        "title":"كلاسيرا",
-        "provider":"webview",
-        "arguments":[
+        "title": "كلاسيرا",
+        "provider": "webview",
+        "arguments": [
           "https://me.classera.com/"
         ]
       }
     ]
   },
   {
-    "title":"عين بوابة التعليم الوطنية",
-    "drawable":"@drawable/pro_internet",
-    "submenu":"منصات مهمة",
-    "iap":false,
-    "tabs":[
+    "title": "عين بوابة التعليم الوطنية",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
       {
-        "title":"عين بوابة التعليم الوطنية",
-        "provider":"webview",
-        "arguments":[
+        "title": "عين بوابة التعليم الوطنية",
+        "provider": "webview",
+        "arguments": [
           "https://ien.edu.sa/Home/dashbord"
         ]
       }
     ]
   },
- {
-    "title":"نظام فارس",
-    "drawable":"@drawable/pro_internet",
-    "submenu":"منصات مهمة",
-    "iap":false,
-    "tabs":[
+  {
+    "title": "نظام فارس",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
       {
-        "title":"نظام فارس",
-        "provider":"webview",
-        "arguments":[
+        "title": "نظام فارس",
+        "provider": "webview",
+        "arguments": [
           "https://edu.moe.gov.sa/Wadi/ElectronicServices/Faris/Pages/default.aspx"
         ]
       }
     ]
   },
-{
-    "title":"نظام نور",
-    "drawable":"@drawable/pro_internet",
-    "submenu":"منصات مهمة",
-    "iap":false,
-    "tabs":[
+  {
+    "title": "نظام نور",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
       {
-        "title":"نظام نور",
-        "provider":"webview",
-        "arguments":[
+        "title": "نظام نور",
+        "provider": "webview",
+        "arguments": [
           "https://noor.moe.gov.sa/Noor/Login.aspx"
         ]
       }
     ]
   },
-{
-    "title":"المصحف المدرسى",
-    "drawable":"@drawable/pro_internet",
-    "submenu":"المصحف المدرسى",
-    "iap":false,
-    "tabs":[
+  {
+    "title": "المصحف المدرسى",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "المصحف المدرسى",
+    "iap": false,
+    "tabs": [
       {
-        "title":"المصحف المدرسى",
-        "provider":"webview",
-        "arguments":[
+        "title": "المصحف المدرسى",
+        "provider": "webview",
+        "arguments": [
           "https://quran.ksu.edu.sa/index.php#aya=1_1&m=hafs&qaree=husary&trans=ar_mu"
         ]
       }
     ]
   },
   {
-    "title":"اعدادات",
-    "drawable":"@drawable/pro_settings",
-    "submenu":"اعدادات",
-    "iap":false,
-    "tabs":[
+    "title": "اعدادات",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "اعدادات",
+    "iap": false,
+    "tabs": [
       {
-        "title":"اعدادات",
-        "provider":"custom",
-        "arguments":[
-          "com.sherdle.universal.SettingsFragment", "fragment"
+        "title": "اعدادات",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
         ]
       }
     ]
