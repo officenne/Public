@@ -1,15 +1,283 @@
 [
-   {
-    "title":"funcraftskids",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu": "funcraftskids",
-    "iap":false,
-    "tabs":[
+  {
+    "title": "CaptainSparklez ",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Captain Sparklez",
+    "iap": false,
+    "tabs": [
       {
-        "title":"funcraftskids",
-        "provider":"wordpress",
-        "arguments":[
-          "https://funcraftskids.com/wp-json/wp/v2/"
+        "title": "CaptainSparklez ",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/CaptainSparklez.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 2",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Captain Sparklez",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez 2",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/CaptainSparklez2.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jordan Maron",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Captain Sparklez",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Jordan Maron",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/JordanMaron.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jordan Reacts",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Captain Sparklez",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Jordan Reacts",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/JordanReacts.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Twitter",
+    "drawable": "@drawable/pro_twitter",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "twitter",
+        "arguments": [
+          "CaptainSparklez"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "instagram",
+    "drawable": "@drawable/pro_instagram",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "instagram",
+        "provider": "webview",
+        "arguments": [
+          "https://www.instagram.com/jordanmaron/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Live",
+    "drawable": "@drawable/pro_live",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Live",
+        "provider": "webview",
+        "arguments": [
+          "https://www.twitch.tv/CaptainSparklez"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 1",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/1.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 2",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/2.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 3",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/3.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 4",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/4.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 5",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/5.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 6",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/6.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 7",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/7.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 8",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/8.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 9",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/9.json",
+          "channelx",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CaptainSparklez 10",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "CaptainSparklez Video",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CaptainSparklez",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CaptainSparklez/10.json",
+          "channelx",
+          "channelx"
         ]
       }
     ]
