@@ -79,6 +79,41 @@
         ]
     },
     {
+      "title": "قناة مدرستى",
+      "drawable": "TV-Show-32",
+      "submenu": "شاهد",
+      "iap": false,
+      "tabs": [
+        {
+          "title": "قناة مدرستى",
+          "provider": "youtube",
+          "arguments": [
+            "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/Madrasati.json",
+            "farouk_channel",
+            "channelx"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "قناة عين",
+      "drawable": "TV-Show-32",
+      "submenu": "شاهد",
+      "iap": false,
+      "tabs": [
+        {
+          "title": "قناة عين",
+          "provider": "youtube",
+          "arguments": [
+            "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/DorosIEN.json",
+            "farouk_channel",
+            "channelx"
+          ]
+        }
+      ]
+    },
+    
+    {
         "title": "العودة إلى المدارس",
         "drawable": "Domain-32",
         "submenu": "منصات مهمة",
@@ -185,6 +220,8 @@
             }
         ]
     },
+  
+  
     {
         "title": "طفشان،،، العب",
         "drawable": "Domain-32",
