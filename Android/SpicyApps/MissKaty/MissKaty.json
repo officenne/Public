@@ -1,13 +1,47 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "2I4vBo7jMYWld--lRC-GPgmfP08",
+    "etag": "vqTIWPWEbIK_T1DJemYbfmCH74o",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 930,
+        "totalResults": 931,
         "resultsPerPage": 50
     },
     "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "j6omhUtRvvPCbIYULitWvDkjzes",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d8R9tqLZLwE"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-29T12:25:48Z",
+                "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+                "title": "\u041a\u0430\u0442\u044f \u0445\u043e\u0447\u0435\u0442 \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u0447\u0435\u043b\u043b\u0435\u043d\u0434\u0436\u0435 \u0441 \u044f\u0439\u0446\u0430\u043c\u0438",
+                "description": "Katy wants to win the egg challenge.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d8R9tqLZLwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d8R9tqLZLwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d8R9tqLZLwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Miss Katy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-29T12:25:48Z"
+            }
+        },
         {
             "kind": "youtube#searchResult",
             "etag": "8MRyVZi69FZEoJMcjXhpMDZe0PI",
@@ -1672,40 +1706,6 @@
                 "channelTitle": "Miss Katy",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-11-17T06:45:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "9jzD7d6zukquKcnPIDiqNr76LqU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "6m5Yi1prSNE"
-            },
-            "snippet": {
-                "publishedAt": "2020-11-14T07:15:00Z",
-                "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-                "title": "\u041c\u0430\u043a\u0441 \u043f\u043e\u0441\u0442\u0440\u0438\u0433 \u041a\u0430\u0442\u044e \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043f\u0440\u043e \u0441\u0430\u043b\u043e\u043d \u043a\u0440\u0430\u0441\u043e\u0442\u044b",
-                "description": "Max cut Katya's hair and other stories about the Hairdresser pretend play beauty salon.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/6m5Yi1prSNE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/6m5Yi1prSNE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/6m5Yi1prSNE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Miss Katy",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-11-14T07:15:00Z"
             }
         }
     ]
