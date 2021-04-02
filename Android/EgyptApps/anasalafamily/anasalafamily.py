@@ -1,6 +1,7 @@
 ﻿import urllib.request as request
 import json
 import os.path
+import subprocess
 
 # Get Latest from Youtube
 
@@ -49,3 +50,4 @@ with request.urlopen(
     else:
         print('An error occurred while attempting to retrieve data from the API.')
 
+subprocess.call([r'C:\GitHub\UpdateOnly.bat'])
