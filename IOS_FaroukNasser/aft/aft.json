@@ -2,25 +2,22 @@
     
     
     
-    {
+  {
         "title":"الرئيسية",
         "drawable":"News-32",
         "submenu":"كرتون قصص الاميرات",
         "iap":false,
         "tabs":[
             {
-                "title": "CKN Toys",
-                "provider": "youtube",
-                "arguments": [
-                    "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/CKNToys.json",
-                    "farouk_channel",
-                    "farouk_channel"
+                "title":"مسلسلات كرتون",
+                "provider":"wordpress",
+                "image":"News-32",
+                "arguments":[
+                    "https://ktkeet.com/wp-json/wp/v2/"
                 ]
             }
         ]
     }
-    
-    
     
     
     
