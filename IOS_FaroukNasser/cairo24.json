@@ -1,242 +1,184 @@
 [
-     {
-        "title":"القاهرة ٢٤",
-        "drawable":"News-32",
-        "submenu":"الأخبار",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"القاهرة ٢٤",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "153514435",
-                ]
-            }
+  {
+    "title": "مصر فايف",
+    "drawable": "News-32",
+    "submenu": "الأخبار",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "مصر فايف",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://misr5.com/wp-json/wp/v2/"
         ]
-    },
-    {
-        "title":"اليوم السابع",
-        "drawable":"News-32",
-        "submenu":"الأخبار",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"اليوم السابع",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://masriy.com/wp-json/wp/v2/",
-                    "2434"
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "اليوم السابع",
+    "drawable": "Twitter-32",
+    "submenu": "الأخبار",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "اليوم السابع",
+        "provider": "twitter",
+        "arguments": [
+          "youm7"
         ]
-    },
-   
-    {
-        "title":"مصر فايف",
-        "drawable":"News-32",
-        "submenu":"الأخبار",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"مصر فايف",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://misr5.com/wp-json/wp/v2/",
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "دليل الوطن",
+    "drawable": "News-32",
+    "submenu": "الأخبار",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "دليل الوطن",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://www.elwatan140.com/wp-json/wp/v2/"
         ]
-    },
-    
-    
-    
-    {
-        "title":"اليوم السابع",
-        "drawable":"Twitter-32",
-        "submenu":"الأخبار",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"اليوم السابع",
-                "provider":"twitter",
-                "arguments":[
-                    "youm7"
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "المصرى اليوم",
+    "drawable": "Twitter-32",
+    "submenu": "الأخبار",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "المصرى اليوم",
+        "provider": "twitter",
+        "arguments": [
+          "AlMasryAlYoum"
         ]
-    },
-    
-    
-    {
-        "title":"دليل الوطن",
-        "drawable":"News-32",
-        "submenu":"الأخبار",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"دليل الوطن",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.elwatan140.com/wp-json/wp/v2/",
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "بالجول",
+    "drawable": "News-32",
+    "submenu": "أخبار الرياضة",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "بالجول",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://www.belgoal.com/wp-json/wp/v2/"
         ]
-    },
-    
-    {
-        "title":"المصرى اليوم",
-        "drawable":"Twitter-32",
-        "submenu":"الأخبار",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"المصرى اليوم",
-                "provider":"twitter",
-                "arguments":[
-                    "AlMasryAlYoum"
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "كورة ١١",
+    "drawable": "News-32",
+    "submenu": "أخبار الرياضة",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "كورة ١١",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://kora11.com/wp-json/wp/v2/"
         ]
-    },
-    
-    
-    
-    
-    
-    
-    
-    
-    {
-        "title":"بالجول",
-        "drawable":"News-32",
-        "submenu":"أخبار الرياضة",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"بالجول",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.belgoal.com/wp-json/wp/v2/",
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "نجم الجماهير",
+    "drawable": "News-32",
+    "submenu": "أخبار الرياضة",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "نجم الجماهير",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://www.ngmalgmahir.com/wp-json/wp/v2/"
         ]
-    },
-    
-    {
-        "title":"كورة ١١",
-        "drawable":"News-32",
-        "submenu":"أخبار الرياضة",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"كورة ١١",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://kora11.com/wp-json/wp/v2/",
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "النادى الاهلى",
+    "drawable": "News-32",
+    "submenu": "أخبار الرياضة",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "النادى الاهلى",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "http://alahlyegypt.com/wp-json/wp/v2/"
         ]
-    },
-    
-    {
-        "title":"نجم الجماهير",
-        "drawable":"News-32",
-        "submenu":"أخبار الرياضة",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"نجم الجماهير",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://www.ngmalgmahir.com/wp-json/wp/v2/",
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "النادى الزمالك",
+    "drawable": "News-32",
+    "submenu": "أخبار الرياضة",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "النادى الزمالك",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "http://el-zamalek.com/wp-json/wp/v2/"
         ]
-    },
-    
-    
-    {
-        "title":"النادى الاهلى",
-        "drawable":"News-32",
-        "submenu":"أخبار الرياضة",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"النادى الاهلى",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "http://alahlyegypt.com/wp-json/wp/v2/",
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "استمع راديو",
+    "drawable": "Microphone-32",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "القران الكريم",
+        "provider": "radio",
+        "image": "Microphone-32",
+        "arguments": [
+          "https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8"
         ]
-    },
-    
-    
-    {
-        "title":"النادى الزمالك",
-        "drawable":"News-32",
-        "submenu":"أخبار الرياضة",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"النادى الزمالك",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "http://el-zamalek.com/wp-json/wp/v2/",
-                ]
-            }
+      },
+      {
+        "title": "البرنامج العام",
+        "provider": "radio",
+        "image": "Microphone-32",
+        "arguments": [
+          "https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8"
         ]
-    },
-    
-    {
-        "title":"استمع راديو",
-        "drawable":"Microphone-32",
-        "submenu":"",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"القران الكريم",
-                "provider":"radio",
-                "image":"Microphone-32",
-                "arguments":[
-                    "https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8"
-                ]
-            },
-            {
-                "title":"البرنامج العام",
-                "provider":"radio",
-                "image":"Microphone-32",
-                "arguments":[
-                    "https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8"
-                ]
-            },
-            {
-                "title":"الشرق الأوسط",
-                "provider":"radio",
-                "image":"Microphone-32",
-                "arguments":[
-                    "https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8"
-                ]
-            },
-            {
-                "title":"الشباب والرياضة",
-                "provider":"radio",
-                "image":"Microphone-32",
-                "arguments":[
-                    "https://livestreaming5.onlinehorizons.net/hls-live/Shabawreada/_definst_/liveevent/livestream.m3u8"
-                ]
-            },
+      },
+      {
+        "title": "الشرق الأوسط",
+        "provider": "radio",
+        "image": "Microphone-32",
+        "arguments": [
+          "https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8"
         ]
-    },
-    
-    
-    
+      },
+      {
+        "title": "الشباب والرياضة",
+        "provider": "radio",
+        "image": "Microphone-32",
+        "arguments": [
+          "https://livestreaming5.onlinehorizons.net/hls-live/Shabawreada/_definst_/liveevent/livestream.m3u8"
+        ]
+      }
+    ]
+  }
 ]
