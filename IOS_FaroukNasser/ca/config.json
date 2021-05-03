@@ -1,5 +1,21 @@
 [
   {
+    "title": "أحدث الأخبار",
+    "drawable": "News-32",
+    "submenu": "اخبار حساب المواطن",
+    "iap": false,
+    "tabs": [
+      {
+    "title": "أحدث الأخبار",
+        "provider": "wordpress",
+        "image": "newspaper",
+        "arguments": [
+          "ca.egytests.com"
+        ]
+      }
+    ]
+  },
+  {
     "title": "حساب المواطن",
     "drawable": "Domain-32",
     "submenu": "موقع حساب المواطن",
