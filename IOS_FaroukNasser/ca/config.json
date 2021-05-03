@@ -6,7 +6,7 @@
     "iap": false,
     "tabs": [
       {
-    "title": "أحدث الأخبار",
+        "title": "أحدث الأخبار",
         "provider": "wordpress",
         "image": "newspaper",
         "arguments": [
@@ -45,55 +45,36 @@
       }
     ]
   },
-   {
-     "title":"شاهد",
-     "drawable":"TV-Show-32",
-     "submenu":"فديو",
-     "iap":false,
-     "tabs":[
-        
-        {
-            "title":"شاهد",
-           "provider":"youtube",
-           "image":"Playlist-32",
-           "arguments":[
-              "https://raw.githubusercontent.com/officenne/Public/master/IOS_FaroukNasser/ca/citizenaccount.json",
-              "farouk_playlist",
-              "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
-           ]
-        },
-     ]
-  },
   {
-     "title":"اتصل بنا",
-     "drawable":"Microphone-32",
-     "submenu":"حساب المواطن",
-     "iap":false,
-     "tabs":[
-        
-        {
-            "title":"شاهد",
-           "provider":"custom",
-           "image":"Playlist-32",
-           "arguments":[
-              "tel:19912",
-           ]
-        },
-     ]
-  },
-  {
-    "title": "موقع المواطن",
-    "drawable": "News-32",
-    "submenu": "اخبار حساب المواطن",
+    "title": "شاهد",
+    "drawable": "TV-Show-32",
+    "submenu": "فديو",
     "iap": false,
     "tabs": [
       {
-        "title": "حساب المواطن",
-        "provider": "wordpress",
-        "image": "newspaper",
+        "title": "شاهد",
+        "provider": "youtube",
+        "image": "Playlist-32",
         "arguments": [
-          "https://www.almowaten.net/wp-json/wp/v2/",
-          "129766"
+          "https://raw.githubusercontent.com/officenne/Public/master/IOS_FaroukNasser/ca/citizenaccount.json",
+          "farouk_playlist",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "اتصل بنا",
+    "drawable": "Microphone-32",
+    "submenu": "حساب المواطن",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شاهد",
+        "provider": "custom",
+        "image": "Playlist-32",
+        "arguments": [
+          "tel:19912"
         ]
       }
     ]
