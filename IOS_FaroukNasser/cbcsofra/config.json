@@ -1,36 +1,18 @@
 [
   {
-    "title": "موقع المواطن",
-    "drawable": "News-32",
-    "submenu": "اخبار حساب المواطن",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "حساب المواطن",
-        "provider": "wordpress",
-        "image": "newspaper",
-        "arguments": [
-          "https://www.almowaten.net/wp-json/wp/v2/",
-          "129766"
-        ]
-      }
-    ]
-  },
-
-  
-  {
-    "title": "تويتر",
-    "drawable": "Twitter-32",
-    "submenu": "اخبار حساب المواطن",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "تويتر",
-        "provider": "twitter",
-        "arguments": [
-          "citizenaccount"
-        ]
-      }
-    ]
-  }
+      "title":"وصفات سفره",
+      "drawable":"News-32",
+      "submenu":"Other",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"وصفات سفره",
+            "provider":"wordpress",
+            "arguments":[
+               "https://elwasfa.com/wp-json/wp/v2/",
+               ""
+            ]
+         }
+      ]
+   }
 ]
