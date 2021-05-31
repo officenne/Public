@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Topper Guild",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Topper Guild",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Topper Guild",
+        "provider": "youtube",
+        "arguments": [
+          "UCPuEAY09CtdTzFNWuqVZgDw",
+          "channel",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title": "instagram",
+    "drawable": "@drawable/pro_instagram",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "instagram",
+        "provider": "webview",
+        "arguments": [
+          "https://www.instagram.com/topperguild/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "tiktok",
+    "drawable": "@drawable/pro_tiktok",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "tiktok",
+        "provider": "webview",
+        "arguments": [
+          "https://www.tiktok.com/@topperguild?lang=en"
+        ]
+      }
+    ]
+  },
+
+
+
+
+  {
+    "title": "Settings",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "Settings",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Settings",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
