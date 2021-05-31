@@ -1,5 +1,21 @@
 [
   {
+    "title":"funcraftskids",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu": "funcraftskids",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"funcraftskids",
+        "provider":"wordpress",
+        "arguments":[
+          "https://funcraftskids.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   
+  {
     "title": "Topper Guild",
     "drawable": "@drawable/pro_youtube",
     "submenu": "Topper Guild",
@@ -17,40 +33,7 @@
     ]
   },
 
-  {
-    "title": "instagram",
-    "drawable": "@drawable/pro_instagram",
-    "submenu": "Social Media",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "instagram",
-        "provider": "webview",
-        "arguments": [
-          "https://www.instagram.com/topperguild/"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "tiktok",
-    "drawable": "@drawable/pro_tiktok",
-    "submenu": "Social Media",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "tiktok",
-        "provider": "webview",
-        "arguments": [
-          "https://www.tiktok.com/@topperguild?lang=en"
-        ]
-      }
-    ]
-  },
-
-
-
-
+ 
   {
     "title": "Settings",
     "drawable": "@drawable/pro_settings",
