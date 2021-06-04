@@ -1,1 +1,143 @@
+[
+  {
+    "title": "Recent",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "UCk8GzjMOrta8yxDcKfylJYw",
+          "channel",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title": "Videos 1",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/DianaShow/1.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos 2",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/DianaShow/2.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos 3",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/DianaShow/3.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos 4",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/DianaShow/4.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos 5",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/DianaShow/5.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "title": "instagram",
+    "drawable": "@drawable/pro_instagram",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "instagram",
+        "provider": "webview",
+        "arguments": [
+          "https://www.instagram.com/kidsdianashow/"
+        ]
+      }
+    ]
+  },
+
+
+
+
+  {
+    "title": "Settings",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "Settings",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Settings",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
 
