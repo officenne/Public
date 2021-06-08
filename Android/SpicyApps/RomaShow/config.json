@@ -1,20 +1,5 @@
 [
   {
-    "title":"funcraftskids",
-    "drawable":"@drawable/pro_newspaper",
-    "submenu": "funcraftskids",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"funcraftskids",
-        "provider":"wordpress",
-        "arguments":[
-          "https://funcraftskids.com/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
-  {
     "title": "Recent",
     "drawable": "@drawable/pro_youtube",
     "submenu": "Diana Show",
@@ -24,15 +9,103 @@
         "title": "Recent",
         "provider": "youtube",
         "arguments": [
-          "UCx790OVgpTC1UVBQIqu3gnQ",
-          "channel",
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/RomaShow/Recent.json",
+          "channelx",
           "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
         ]
       }
     ]
   },
 
+  {
+    "title": "Videos 1",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/RomaShow/1.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos 2",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/RomaShow/2.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos 3",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/RomaShow/3.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos 4",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/RomaShow/4.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
  
+
+  {
+    "title": "instagram",
+    "drawable": "@drawable/pro_instagram",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "instagram",
+        "provider": "webview",
+        "arguments": [
+          "https://www.instagram.com/kidsromashow/"
+        ]
+      }
+    ]
+  },
+
+
+
+
   {
     "title": "Settings",
     "drawable": "@drawable/pro_settings",
