@@ -2,7 +2,7 @@
   {
     "title": "Recent",
     "drawable": "TV-Show-32",
-    "submenu": "Diana Show",
+    "submenu": "Nursery Rhymes",
     "iap": false,
     "tabs": [
       {
@@ -15,7 +15,26 @@
         ]
       }
     ]
-  }
+  },
+  
+  {
+      "title":"Nursery Rhymes",
+      "drawable":"SoundCloud-32",
+      "submenu":"Nursery Rhymes",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"Nursery Rhymes",
+            "provider":"soundcloud",
+            "image":"SoundCloud-32",
+            "arguments":[
+               "1151686243",
+               "playlist"
+            ]
+         },
+
+      ]
+   },
 
  
 ]
