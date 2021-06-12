@@ -1,8 +1,23 @@
 [
    
-
+ {
+      "title":"Boston News",
+      "drawable":"WordPress-32",
+      "submenu":"Other",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"Boston News",
+            "provider":"wordpress",
+            "arguments":[
+               "boston.cbslocal.com",
+               "local"
+            ]
+         }
+      ]
+   },
    {
-      "title":"Boston",
+      "title":"sports",
       "drawable":"WordPress-32",
       "submenu":"Other",
       "iap":false,
@@ -18,5 +33,20 @@
       ]
    },
 
- 
+  {
+      "title":"NFL",
+      "drawable":"WordPress-32",
+      "submenu":"Other",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"NFL",
+            "provider":"wordpress",
+            "arguments":[
+               "boston.cbslocal.com",
+               "nfl-sports"
+            ]
+         }
+      ]
+   },
 ]
