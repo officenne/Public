@@ -16,6 +16,38 @@
       }
     ]
   },
+  
+  {
+    "title": "ckntoys",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "Shop",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "ckntoys",
+        "provider": "webview",
+        "arguments": [
+          "https://ckntoys.com/"
+        ]
+      }
+    ]
+  },
+   {
+    "title": "Get CKN Merch",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "Shop",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Get CKN Merch",
+        "provider": "webview",
+        "arguments": [
+          "https://www.character.com/search?type=product&q=ckn*"
+        ]
+      }
+    ]
+  },
+  
   {
     "title": "Toys Review",
     "drawable": "@drawable/pro_youtube",
