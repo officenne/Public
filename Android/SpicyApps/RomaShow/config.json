@@ -1,8 +1,23 @@
 [
   {
+    "title": "Homepage",
+    "drawable": "@drawable/pro_catalogue",
+    "submenu": "Roma Show Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Homepage",
+        "provider": "wordpress",
+        "arguments": [
+          "https://dianaroma.egytests.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Recent",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "Diana Show",
+    "submenu": "Roma Show",
     "iap": false,
     "tabs": [
       {
@@ -16,11 +31,10 @@
       }
     ]
   },
-
   {
     "title": "Videos 1",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "Diana Show",
+    "submenu": "Roma Show",
     "iap": false,
     "tabs": [
       {
@@ -37,7 +51,7 @@
   {
     "title": "Videos 2",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "Diana Show",
+    "submenu": "Roma Show",
     "iap": false,
     "tabs": [
       {
@@ -54,7 +68,7 @@
   {
     "title": "Videos 3",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "Diana Show",
+    "submenu": "Roma Show",
     "iap": false,
     "tabs": [
       {
@@ -71,7 +85,7 @@
   {
     "title": "Videos 4",
     "drawable": "@drawable/pro_youtube",
-    "submenu": "Diana Show",
+    "submenu": "Roma Show",
     "iap": false,
     "tabs": [
       {
@@ -85,8 +99,6 @@
       }
     ]
   },
- 
-
   {
     "title": "instagram",
     "drawable": "@drawable/pro_instagram",
@@ -102,10 +114,6 @@
       }
     ]
   },
-
-
-
-
   {
     "title": "Settings",
     "drawable": "@drawable/pro_settings",
