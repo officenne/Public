@@ -1,5 +1,20 @@
 [
   {
+    "title": "Homepage",
+    "drawable": "@drawable/pro_catalogue",
+    "submenu": "Diana Show Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Homepage",
+        "provider": "wordpress",
+        "arguments": [
+          "https://dianaroma.egytests.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Recent",
     "drawable": "@drawable/pro_youtube",
     "submenu": "Diana Show",
