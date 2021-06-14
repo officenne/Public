@@ -1,14 +1,30 @@
 [
- 
+  {
+    "title": "Watch",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "arguments": [
+          "UCbCmjCuTUZos6Inko4u57UQ",
+          "channel",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
   
   {
-      "title":"Nursery Rhymes",
+      "title":"Listen",
       "drawable":"SoundCloud-32",
       "submenu":"Nursery Rhymes",
       "iap":false,
       "tabs":[
          {
-            "title":"Nursery Rhymes",
+            "title":"Listen",
             "provider":"soundcloud",
             "image":"SoundCloud-32",
             "arguments":[
@@ -20,5 +36,37 @@
       ]
    },
 
+  
+  {
+     "title":"Our Website",
+     "drawable":"Domain-32",
+     "submenu":"Other",
+     "iap":false,
+     "tabs":[
+        {
+           "title":"Our Website",
+           "provider":"webview",
+           "arguments":[
+              "https://cocomelon.com/"
+           ]
+        }
+     ]
+  },
+  
+  {
+     "title":"Twitter",
+     "drawable":"Twitter-32",
+     "submenu":"Social Media",
+     "iap":false,
+     "tabs":[
+        {
+           "title":"Twitter",
+           "provider":"twitter",
+           "arguments":[
+              "cocomelonkids"
+           ]
+        }
+     ]
+  },
  
 ]
