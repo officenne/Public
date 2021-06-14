@@ -2,17 +2,16 @@
    
 
    {
-      "title":"golfweek",
-      "drawable":"WordPress-32",
-      "submenu":"Other",
+      "title":"btsdiary",
+      "drawable":"News-32",
+      "submenu":"btsdiary",
       "iap":false,
       "tabs":[
          {
-            "title":"golfweek",
+            "title":"btsdiary",
             "provider":"wordpress",
             "arguments":[
-               "golfweek.usatoday.com",
-               ""
+               "https://btsdiary.com/wp-json/wp/v2/"
             ]
          }
       ]
