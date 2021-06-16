@@ -1,72 +1,113 @@
 [
   {
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Home",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos",
+    "drawable": "News-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Videos",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "Videos"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Instagram",
+    "drawable": "News-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Instagram",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "Instagram"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Watch",
     "drawable": "TV-Show-32",
-    "submenu": "Nursery Rhymes",
+    "submenu": "Just Watch",
     "iap": false,
     "tabs": [
       {
         "title": "Watch",
         "provider": "youtube",
         "arguments": [
-          "UCbCmjCuTUZos6Inko4u57UQ",
-          "channel",
+          "https://raw.githubusercontent.com/officenne/Public/master/IOS_sportnewsapps/Cocomelon/Recent.json",
+          "channelx",
           "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
         ]
       }
     ]
   },
-  
   {
-      "title":"Listen",
-      "drawable":"SoundCloud-32",
-      "submenu":"Nursery Rhymes",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"Listen",
-            "provider":"soundcloud",
-            "image":"SoundCloud-32",
-            "arguments":[
-               "1151686243",
-               "playlist"
-            ]
-         },
-
-      ]
-   },
-
-  
-  {
-     "title":"Our Website",
-     "drawable":"Domain-32",
-     "submenu":"Other",
-     "iap":false,
-     "tabs":[
-        {
-           "title":"Our Website",
-           "provider":"webview",
-           "arguments":[
-              "https://cocomelon.com/"
-           ]
-        }
-     ]
+    "title": "Listen",
+    "drawable": "SoundCloud-32",
+    "submenu": "Listen Only",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Listen",
+        "provider": "soundcloud",
+        "image": "SoundCloud-32",
+        "arguments": [
+          "1151686243",
+          "playlist"
+        ]
+      }
+    ]
   },
-  
   {
-     "title":"Twitter",
-     "drawable":"Twitter-32",
-     "submenu":"Social Media",
-     "iap":false,
-     "tabs":[
-        {
-           "title":"Twitter",
-           "provider":"twitter",
-           "arguments":[
-              "cocomelonkids"
-           ]
-        }
-     ]
+    "title": "Our Website",
+    "drawable": "Domain-32",
+    "submenu": "Other",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Our Website",
+        "provider": "webview",
+        "arguments": [
+          "https://cocomelon.com/"
+        ]
+      }
+    ]
   },
- 
+  {
+    "title": "Twitter",
+    "drawable": "Twitter-32",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "arguments": [
+          "cocomelonkids"
+        ]
+      }
+    ]
+  }
 ]
