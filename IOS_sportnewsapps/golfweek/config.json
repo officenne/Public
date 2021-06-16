@@ -1,22 +1,353 @@
 [
-   
-
-   {
-      "title":"golfweek",
-      "drawable":"WordPress-32",
-      "submenu":"Other",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"golfweek",
-            "provider":"wordpress",
-            "arguments":[
-               "golfweek.usatoday.com",
-               ""
-            ]
-         }
-      ]
-   },
-
- 
+  {
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Home",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Recent",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "uncategorized"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PGA Tour",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "PGA Tour",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "pga-tour"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Professional",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Professional",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "professional"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Golf",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Golf",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "golf"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LPGA",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "LPGA",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "lpga"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "College",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "College",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "college"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Equipment",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Equipment",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "equipment"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Quick Shots",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Quick Shots",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "quick-shots"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Euro Tour",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Euro Tour",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "euro-tour"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Digital Edition",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Digital Edition",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "digital-edition"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Amateur",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Amateur",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "amateur"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Men",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Men",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "college-men"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Women",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Women",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "college-women"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Courses",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Courses",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "courses"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Junior",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Junior",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "junior"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "USGA",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "USGA",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "usga"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Videos",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Videos",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "videos"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Masters",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Masters",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "masters"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fantasy",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Fantasy",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "fantasy"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Travel",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Travel",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "travel"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Golfweeks Best",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Golfweeks Best",
+        "provider": "wordpress",
+        "arguments": [
+          "golfweek.usatoday.com",
+          "golfweeks-best"
+        ]
+      }
+    ]
+  }
 ]
