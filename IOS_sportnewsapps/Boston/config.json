@@ -1,52 +1,801 @@
 [
-   
- {
-      "title":"Boston News",
-      "drawable":"WordPress-32",
-      "submenu":"Other",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"Boston News",
-            "provider":"wordpress",
-            "arguments":[
-               "boston.cbslocal.com",
-               "local"
-            ]
-         }
-      ]
-   },
-   {
-      "title":"sports",
-      "drawable":"WordPress-32",
-      "submenu":"Other",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"Boston",
-            "provider":"wordpress",
-            "arguments":[
-               "boston.cbslocal.com",
-               "sports"
-            ]
-         }
-      ]
-   },
-
   {
-      "title":"NFL",
-      "drawable":"WordPress-32",
-      "submenu":"Other",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"NFL",
-            "provider":"wordpress",
-            "arguments":[
-               "boston.cbslocal.com",
-               "nfl-sports"
-            ]
-         }
-      ]
-   },
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Home",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "News",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Boston News",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Boston News",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "local"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Syndicated Local",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Syndicated Local",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "syndicated-local"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sports",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Sports",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "sports"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Watch + Listen",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Watch + Listen",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "watch-listen"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Syndicated Sports",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Syndicated Sports",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "syndicated-sports"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Seen On WBZ-TV",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Seen On WBZ-TV",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "seen-on-wbz-tv"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Patriots",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Patriots",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "patriots"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NFL",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NFL",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "nfl-sports"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Syndicated CBSN Boston",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Syndicated CBSN Boston",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "syndicated-cbsn-boston"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Red Sox",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Red Sox",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "red-sox"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blogs",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Blogs",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "blogs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bruins",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Bruins",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "bruins"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Celtics",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Celtics",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "celtics"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Politics",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Politics",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "politics"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Uncategorized",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Uncategorized",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "uncategorized"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Business",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Business",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "business"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Health",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Health",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "health"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NHL",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NHL",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "nhl"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Boston's Best",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Boston's Best",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "bostons-best"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CBS Boston Blogs",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CBS Boston Blogs",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "cbs-boston-blogs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Beyond The Forecast",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Beyond The Forecast",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "beyond-the-forecast"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Covid-19 Boston, MA",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Covid-19 Boston, MA",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "covid-19-boston-ma"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Keller @ Large",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Keller @ Large",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "keller-large"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toucher and Rich",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Toucher and Rich",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "toucher-and-rich"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Consumer",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Consumer",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "consumer"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Eat.See.Play",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Eat.See.Play",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "eat-see-play"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Felger & Massarotti",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Felger & Massarotti",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "felger-massarotti"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Entertainment",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Entertainment",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "entertainment"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Featured",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Featured",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "featured"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Elections",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Elections",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "elections-politics"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Daily Headlines",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Daily Headlines",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "daily-headlines"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NBA",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NBA",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "nba"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CBS+",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CBS+",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "only-cbs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Super Bowl On CBS",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Super Bowl On CBS",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "nfl-playoffs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Offbeat",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Offbeat",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "offbeat"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Travel",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Travel",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "travel"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Healthcare Status",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Healthcare Status",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "healthcare-status"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Weather Stories",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Weather Stories",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "weather-stories"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Phantom Gourmet",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Phantom Gourmet",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "phantom-gourmet"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MLB",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "MLB",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "mlb"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Play",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Play",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "play"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Autos",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Autos",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "autos"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Food & Drink",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Food & Drink",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "food-drink"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Eat",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Eat",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "eat"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Boston Marathon",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Boston Marathon",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "boston-marathon"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Boston Marathon Bombings",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Boston Marathon Bombings",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "boston-marathon-bombings"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "I-Team",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "I-Team",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "i-team"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Healthwatch",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Healthwatch",
+        "provider": "wordpress",
+        "arguments": [
+          "boston.cbslocal.com",
+          "healthwatch"
+        ]
+      }
+    ]
+  }
 ]
