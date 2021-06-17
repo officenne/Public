@@ -23,7 +23,7 @@
       {
         "title": "Cocomelon",
         "provider": "wordpress",
-        "image":"TV-Show-32",
+        "image": "TV-Show-32",
         "arguments": [
           "cocomelon.egytests.com",
           "Cocomelon"
@@ -32,7 +32,7 @@
       {
         "title": "Instagram",
         "provider": "wordpress",
-        "image":"Instagram-32",
+        "image": "Instagram-32",
         "arguments": [
           "cocomelon.egytests.com",
           "Instagram"
@@ -41,7 +41,7 @@
       {
         "title": "Twitter",
         "provider": "twitter",
-        "image":"Twitter-32",
+        "image": "Twitter-32",
         "arguments": [
           "cocomelonkids"
         ]
@@ -49,14 +49,29 @@
       {
         "title": "Website",
         "provider": "webview",
-        "image":"Domain-32",
+        "image": "Domain-32",
         "arguments": [
           "https://cocomelon.com/"
         ]
       }
     ]
   },
- 
+  {
+    "title": "ChuChu TV",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "ChuChu TV",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "chuchu-tv"
+        ]
+      }
+    ]
+  },
   {
     "title": "Kids TV",
     "drawable": "TV-Show-32",
@@ -73,7 +88,6 @@
       }
     ]
   },
-  
   {
     "title": "Little Baby Bum",
     "drawable": "TV-Show-32",
@@ -90,7 +104,6 @@
       }
     ]
   },
-  
   {
     "title": "Little Angel",
     "drawable": "TV-Show-32",
@@ -100,9 +113,106 @@
       {
         "title": "Little Angel",
         "provider": "wordpress",
+        "image": "TV-Show-32",
         "arguments": [
           "cocomelon.egytests.com",
           "little-angel"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "Little_AngelNR"
+        ]
+      },
+      {
+        "title": "Website",
+        "provider": "webview",
+        "image": "Domain-32",
+        "arguments": [
+          "https://www.littleangel.com/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BabyBus",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "BabyBus",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "babybus"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dave and Ava",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Dave and Ava",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "dave-and-ava"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BillionSurpriseToys",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "BillionSurpriseToys",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "billionsurprisetoys"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Farmees",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Farmees",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "Farmees"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Junior Squad",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Junior Squad",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "junior-squad"
         ]
       }
     ]
@@ -140,7 +250,5 @@
         ]
       }
     ]
-  },
- 
-  
+  }
 ]
