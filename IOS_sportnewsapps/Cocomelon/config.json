@@ -15,33 +15,94 @@
     ]
   },
   {
-    "title": "Videos",
+    "title": "Cocomelon",
     "drawable": "TV-Show-32",
     "submenu": "Nursery Rhymes",
     "iap": false,
     "tabs": [
       {
-        "title": "Videos",
+        "title": "Cocomelon",
         "provider": "wordpress",
+        "image":"TV-Show-32",
         "arguments": [
           "cocomelon.egytests.com",
-          "Videos"
+          "Cocomelon"
+        ]
+      },
+      {
+        "title": "Instagram",
+        "provider": "wordpress",
+        "image":"Instagram-32",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "Instagram"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image":"Twitter-32",
+        "arguments": [
+          "cocomelonkids"
+        ]
+      },
+      {
+        "title": "Website",
+        "provider": "webview",
+        "image":"Domain-32",
+        "arguments": [
+          "https://cocomelon.com/"
         ]
       }
     ]
   },
+ 
   {
-    "title": "Instagram",
-    "drawable": "Instagram-32",
+    "title": "Kids TV",
+    "drawable": "TV-Show-32",
     "submenu": "Nursery Rhymes",
     "iap": false,
     "tabs": [
       {
-        "title": "Instagram",
+        "title": "Kids TV",
         "provider": "wordpress",
         "arguments": [
           "cocomelon.egytests.com",
-          "Instagram"
+          "kids-tv"
+        ]
+      }
+    ]
+  },
+  
+  {
+    "title": "Little Baby Bum",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Little Baby Bum",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "little-baby-bum"
+        ]
+      }
+    ]
+  },
+  
+  {
+    "title": "Little Angel",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Little Angel",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "little-angel"
         ]
       }
     ]
@@ -80,34 +141,6 @@
       }
     ]
   },
-  {
-    "title": "Our Website",
-    "drawable": "Domain-32",
-    "submenu": "Other",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Our Website",
-        "provider": "webview",
-        "arguments": [
-          "https://cocomelon.com/"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Twitter",
-    "drawable": "Twitter-32",
-    "submenu": "Social Media",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Twitter",
-        "provider": "twitter",
-        "arguments": [
-          "cocomelonkids"
-        ]
-      }
-    ]
-  }
+ 
+  
 ]
