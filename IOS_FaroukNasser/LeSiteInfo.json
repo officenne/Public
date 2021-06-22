@@ -1,21 +1,21 @@
 [
-    {
-          "title":"الرئيسية",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"الرئيسية",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                  ]
-              }
-          ]
+          
+       {
+         "title":"الرئيسية",
+         "drawable":"News-32",
+         "submenu":"LeSiteInfo",
+         "iap":false,
+         "tabs":[
+            {
+               "title":"الرئيسية",
+               "provider":"web",
+               "image":"News-32",
+               "arguments":[
+                  "http://ar.lesiteinfo.com/"
+               ]
+            }
+         ]
       },
-      
-      
       
     
       
