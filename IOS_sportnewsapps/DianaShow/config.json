@@ -1,36 +1,100 @@
 [
   {
-      "title":"Podcast",
-      "drawable":"SoundCloud-32",
-      "submenu":"Podcast",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"Podcast",
-            "provider":"soundcloud",
-            "image":"SoundCloud-32",
-            "arguments":[
-               "1233706258",
-               "playlist"
-            ]
-         },
-
-      ]
-   },
-{
-    "title": "show",
+    "title": "Homepage",
     "drawable": "News-32",
-    "submenu": "Nursery Rhymes",
+    "submenu": "Diana Show Homepage",
     "iap": false,
     "tabs": [
       {
-        "title": "show",
+        "title": "Homepage",
         "provider": "wordpress",
         "arguments": [
-          "cocomelon.egytests.com"
+          "dianaroma.egytests.com"
         ]
       }
     ]
   },
- 
+  {
+    "title": "Diana Videos",
+    "drawable": "TV-Show-32",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Diana Videos",
+        "provider": "wordpress",
+        "image": "TV-Show-32",
+        "arguments": [
+          "dianaroma.egytests.com",
+          "kids-diana-show"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diana Instagram",
+    "drawable": "Instagram-32",
+    "submenu": "Diana Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Diana Instagram",
+        "provider": "wordpress",
+        "image": "Instagram-32",
+        "arguments": [
+          "dianaroma.egytests.com",
+          "diana-instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Roma Videos",
+    "drawable": "TV-Show-32",
+    "submenu": "Roma Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Videos",
+        "provider": "wordpress",
+        "image": "TV-Show-32",
+        "arguments": [
+          "dianaroma.egytests.com",
+          "kids-roma-show"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Roma Instagram",
+    "drawable": "Instagram-32",
+    "submenu": "Roma Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Instagram",
+        "provider": "wordpress",
+        "image": "Instagram-32",
+        "arguments": [
+          "dianaroma.egytests.com",
+          "roma-instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Website",
+    "drawable": "Domain-32",
+    "submenu": "Other",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "WebView",
+        "provider": "webview",
+        "arguments": [
+          "https://www.walmart.com/browse/toys/love-diana-toys/4171_7144110_2716378"
+        ]
+      }
+    ]
+  }
 ]
