@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Homepage",
+    "drawable": "News-32",
+    "submenu": "Vlad and Niki",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Homepage",
+        "provider": "wordpress",
+        "arguments": [
+          "vlad.egytests.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vlad and Niki Videos",
+    "drawable": "TV-Show-32",
+    "submenu": "Vlad and Niki",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Vlad and Niki Videos",
+        "provider": "wordpress",
+        "image": "TV-Show-32",
+        "arguments": [
+          "vlad.egytests.com",
+          "videos"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vlad  Instagram",
+    "drawable": "Instagram-32",
+    "submenu": "Vlad and Niki",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Vlad  Instagram",
+        "provider": "wordpress",
+        "image": "Instagram-32",
+        "arguments": [
+          "vlad.egytests.com",
+          "vlad-instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nikita Instagram",
+    "drawable": "Instagram-32",
+    "submenu": "Vlad and Niki",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Nikita Instagram",
+        "provider": "wordpress",
+        "image": "Instagram-32",
+        "arguments": [
+          "vlad.egytests.com",
+          "niki-instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Website",
+    "drawable": "Domain-32",
+    "submenu": "Other",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "WebView",
+        "provider": "webview",
+        "arguments": [
+          "https://vladandniki.com/"
+        ]
+      }
+    ]
+  }
+]
