@@ -18,5 +18,21 @@
       ]
    },
 
- 
+  {
+    "title": "watch",
+    "drawable": "SoundCloud-32",
+    "submenu": "Roma Show",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "watch",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/SpicyApps/CKNToys/Recent.json",
+          "channelx",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
 ]
