@@ -1,38 +1,83 @@
 [
   {
-      "title":"Nursery Rhymes",
-      "drawable":"SoundCloud-32",
-      "submenu":"Nursery Rhymes",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"Nursery Rhymes",
-            "provider":"soundcloud",
-            "image":"SoundCloud-32",
-            "arguments":[
-               "1151686243",
-               "playlist"
-            ]
-         },
-
-      ]
-   },
- {
-    "title": "Watch",
-    "drawable": "TV-Show-32",
-    "submenu": "Just Watch",
-    "iap": true,
+    "title": "Homepage",
+    "drawable": "News-32",
+    "submenu": "Vlad and Niki",
+    "iap": false,
     "tabs": [
       {
-        "title": "Watch",
-        "provider": "youtube",
+        "title": "Homepage",
+        "provider": "wordpress",
         "arguments": [
-          "https://raw.githubusercontent.com/officenne/Public/master/IOS_sportnewsapps/Cocomelon/Recent.json",
-          "channelx",
-          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+          "vlad.egytests.com"
         ]
       }
     ]
   },
- 
+  {
+    "title": "Vlad and Niki Videos",
+    "drawable": "TV-Show-32",
+    "submenu": "Vlad and Niki",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Vlad and Niki Videos",
+        "provider": "wordpress",
+        "image": "TV-Show-32",
+        "arguments": [
+          "vlad.egytests.com",
+          "videos"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vlad  Instagram",
+    "drawable": "Instagram-32",
+    "submenu": "Vlad and Niki",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Vlad  Instagram",
+        "provider": "wordpress",
+        "image": "Instagram-32",
+        "arguments": [
+          "vlad.egytests.com",
+          "vlad-instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nikita Instagram",
+    "drawable": "Instagram-32",
+    "submenu": "Vlad and Niki",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Nikita Instagram",
+        "provider": "wordpress",
+        "image": "Instagram-32",
+        "arguments": [
+          "vlad.egytests.com",
+          "niki-instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Website",
+    "drawable": "Domain-32",
+    "submenu": "Other",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "WebView",
+        "provider": "webview",
+        "arguments": [
+          "https://vladandniki.com/"
+        ]
+      }
+    ]
+  }
 ]
