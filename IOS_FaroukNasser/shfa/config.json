@@ -1,5 +1,20 @@
 [
    {
+       "title":"شفاشو",
+       "drawable":"Microphone-32",
+       "submenu":"",
+       "iap":false,
+       "tabs":[
+          {
+             "title":"شفا",
+             "provider":"radio",
+             "arguments":[
+                "https://13683.live.streamtheworld.com/SAM04AAC281_SC"
+             ]
+          }
+       ]
+    },
+   {
     "title": "شفا",
     "drawable": "News-32",
     "submenu": "Nursery Rhymes",
@@ -15,24 +30,6 @@
     ]
   },
   
-  {
-      "title":"شفا",
-      "drawable":"SoundCloud-32",
-      "submenu":"شفا",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"شفا",
-            "provider":"soundcloud",
-            "image":"SoundCloud-32",
-            "arguments":[
-               "1151686243",
-               "playlist"
-            ]
-         },
-
-      ]
-   },
-
+ 
  
 ]
