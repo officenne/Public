@@ -1,5 +1,20 @@
 [
   {
+    "title": "Homepage",
+    "drawable": "News-32",
+    "submenu": "ckn",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Homepage",
+        "provider": "wordpress",
+        "arguments": [
+          "dianaroma.egytests.com"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Listen",
     "drawable": "SoundCloud-32",
     "submenu": "Listen Only",
