@@ -1,0 +1,21 @@
+[
+    {
+        "title": "أخبار الزمالك",
+        "drawable": "News-32",
+        "submenu":"نادى الزمالك",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "أخبار الزمالك",
+                "provider": "wordpress",
+                "image": "News-32",
+                "arguments": [
+                    "https://zamaleks.com/wp-json/wp/v2/",
+                ]
+            }
+           
+        ]
+    }
+    
+   
+]
