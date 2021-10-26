@@ -1,240 +1,243 @@
-﻿[
-    
-    
-    
-    
-    
-    {
-        "title": "منصات تعليمية",
-        "drawable": "News-32",
-        "submenu": "منصة حلول الجديدة",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "حلول",
-                "provider": "webview",
-                "image": "News-32",
-                "arguments": [
-                    "https://www.hululktaab.com/"
-                ]
-            },
-            {
-                "title": "كتبى",
-                "provider": "webview",
-                "image": "News-32",
-                "arguments": [
-                    "https://ktbbys.com/"
-                ]
-            },
-            {
-                "title": "معلمى",
-                "provider": "webview",
-                "image": "News-32",
-                "arguments": [
-                    "https://moalmy.com/"
-                ]
-            },
-            {
-                "title": "واجباتى",
-                "provider": "webview",
-                "image": "News-32",
-                "arguments": [
-                    "https://www.wajibati.net/"
-                ]
-            }
+[
+  {
+    "title": "منصات تعليمية",
+    "drawable": "News-32",
+    "submenu": "منصة حلول الجديدة",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "حلول",
+        "provider": "webview",
+        "image": "News-32",
+        "arguments": [
+          "https://www.hululktaab.com/"
         ]
-    },
-    
-    
-    {
-        "title": "تويتر",
-        "drawable": "Twitter-32",
-        "submenu": "",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "وزارة التعليم ",
-                "provider": "twitter",
-                "image": "Twitter-32",
-                "arguments": [
-                    "moe_gov_sa"
-                ]
-            },
-            {
-                "title": "عين",
-                "provider": "twitter",
-                "image": "Twitter-32",
-                "arguments": [
-                    "ien_tv"
-                ]
-            },
-            {
-                "title": "وكالة تعليق الدراسة",
-                "provider": "twitter",
-                "image": "Twitter-32",
-                "arguments": [
-                    "News_Ejazah"
-                ]
-            }
+      },
+      {
+        "title": "كتبى",
+        "provider": "webview",
+        "image": "News-32",
+        "arguments": [
+          "https://ktbbys.com/"
         ]
-    },
-    {
-      "title": "قناة مدرستى",
-      "drawable": "TV-Show-32",
-      "submenu": "شاهد",
-      "iap": false,
-      "tabs": [
-        {
-          "title": "قناة مدرستى",
-          "provider": "youtube",
-          "arguments": [
-            "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/Madrasati.json",
-            "farouk_channel",
-            "channelx"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "قناة عين",
-      "drawable": "TV-Show-32",
-      "submenu": "شاهد",
-      "iap": false,
-      "tabs": [
-        {
-          "title": "قناة عين",
-          "provider": "youtube",
-          "arguments": [
-            "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/DorosIEN.json",
-            "farouk_channel",
-            "channelx"
-          ]
-        }
-      ]
-    },
-    
-    {
+      },
+      {
+        "title": "معلمى",
+        "provider": "webview",
+        "image": "News-32",
+        "arguments": [
+          "https://moalmy.com/"
+        ]
+      },
+      {
+        "title": "واجباتى",
+        "provider": "webview",
+        "image": "News-32",
+        "arguments": [
+          "https://www.wajibati.net/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "تويتر",
+    "drawable": "Twitter-32",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "وزارة التعليم ",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "moe_gov_sa"
+        ]
+      },
+      {
+        "title": "عين",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "ien_tv"
+        ]
+      },
+      {
+        "title": "وكالة تعليق الدراسة",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "News_Ejazah"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة مدرستى",
+    "drawable": "TV-Show-32",
+    "submenu": "شاهد",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة مدرستى",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/Madrasati.json",
+          "farouk_channel",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "قناة عين",
+    "drawable": "TV-Show-32",
+    "submenu": "شاهد",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "قناة عين",
+        "provider": "youtube",
+        "arguments": [
+          "https://raw.githubusercontent.com/officenne/Public/master/Android/EgyptApps/Madrasati/DorosIEN.json",
+          "farouk_channel",
+          "channelx"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "العودة إلى المدارس",
+    "drawable": "Domain-32",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
+      {
         "title": "العودة إلى المدارس",
-        "drawable": "Domain-32",
-        "submenu": "منصات مهمة",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "العودة إلى المدارس",
-                "provider": "webview",
-                "arguments": [
-                    "https://backtoschool.sa/"
-                ]
-            }
+        "provider": "webview",
+        "arguments": [
+          "https://backtoschool.sa/"
         ]
-    },
-    {
+      }
+    ]
+  },
+  {
+    "title": "مدرستي",
+    "drawable": "Domain-32",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
+      {
         "title": "مدرستي",
-        "drawable": "Domain-32",
-        "submenu": "منصات مهمة",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "مدرستي",
-                "provider": "webview",
-                "arguments": [
-                    "https://schools.madrasati.sa/"
-                ]
-            }
+        "provider": "webview",
+        "arguments": [
+          "https://schools.madrasati.sa/"
         ]
-    },
-    {
+      }
+    ]
+  },
+  {
+    "title": "كلاسيرا",
+    "drawable": "Domain-32",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
+      {
         "title": "كلاسيرا",
-        "drawable": "Domain-32",
-        "submenu": "منصات مهمة",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "كلاسيرا",
-                "provider": "webview",
-                "arguments": [
-                    "https://me.classera.com/"
-                ]
-            }
+        "provider": "webview",
+        "arguments": [
+          "https://me.classera.com/"
         ]
-    },
-    {
+      }
+    ]
+  },
+  {
+    "title": "عين بوابة التعليم الوطنية",
+    "drawable": "Domain-32",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
+      {
         "title": "عين بوابة التعليم الوطنية",
-        "drawable": "Domain-32",
-        "submenu": "منصات مهمة",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "عين بوابة التعليم الوطنية",
-                "provider": "webview",
-                "arguments": [
-                    "https://ien.edu.sa/Home/dashbord"
-                ]
-            }
+        "provider": "webview",
+        "arguments": [
+          "https://ien.edu.sa/Home/dashbord"
         ]
-    },
-    {
+      }
+    ]
+  },
+  {
+    "title": "نظام فارس",
+    "drawable": "Domain-32",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
+      {
         "title": "نظام فارس",
-        "drawable": "Domain-32",
-        "submenu": "منصات مهمة",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "نظام فارس",
-                "provider": "webview",
-                "arguments": [
-                    "https://edu.moe.gov.sa/Wadi/ElectronicServices/Faris/Pages/default.aspx"
-                ]
-            }
+        "provider": "webview",
+        "arguments": [
+          "https://edu.moe.gov.sa/Wadi/ElectronicServices/Faris/Pages/default.aspx"
         ]
-    },
-    {
+      }
+    ]
+  },
+  {
+    "title": "نظام نور",
+    "drawable": "Domain-32",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
+      {
         "title": "نظام نور",
-        "drawable": "Domain-32",
-        "submenu": "منصات مهمة",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "نظام نور",
-                "provider": "webview",
-                "arguments": [
-                    "https://noor.moe.gov.sa/Noor/Login.aspx"
-                ]
-            }
+        "provider": "webview",
+        "arguments": [
+          "https://noor.moe.gov.sa/Noor/Login.aspx"
         ]
-    },
-    
-    
-    {
+      }
+    ]
+  },
+  {
+    "title": "مترجم قوقل",
+    "drawable": "Domain-32",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "مترجم قوقل",
+        "provider": "webview",
+        "arguments": [
+          "https://translate.google.com/?hl=ar"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "المصحف المدرسى",
+    "drawable": "Microphone-32",
+    "submenu": "المصحف المدرسى",
+    "iap": false,
+    "tabs": [
+      {
         "title": "المصحف المدرسى",
-        "drawable": "Microphone-32",
-        "submenu": "المصحف المدرسى",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "المصحف المدرسى",
-                "provider": "webview",
-                "arguments": [
-                    "https://quran.ksu.edu.sa/index.php#aya=1_1&m=hafs&qaree=husary&trans=ar_mu"
-                ]
-            }
+        "provider": "webview",
+        "arguments": [
+          "https://quran.ksu.edu.sa/index.php#aya=1_1&m=hafs&qaree=husary&trans=ar_mu"
         ]
-    },
-  
-  
-    {
-        "title": "طفشان،،، العب",
-        "drawable": "Domain-32",
-        "submenu":  "طفشان،،، العب",
-        "iap": false,
-        "tabs": [
-            {
-                "title": "",
-                "provider": "webview",
-                "arguments": [
-                    "https://frvr.com/"
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "طفشان،،، العب",
+    "drawable": "Domain-32",
+    "submenu": "طفشان،،، العب",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "",
+        "provider": "webview",
+        "arguments": [
+          "https://frvr.com/"
         ]
-    }
+      }
+    ]
+  }
 ]
