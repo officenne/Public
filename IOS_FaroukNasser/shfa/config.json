@@ -1,5 +1,19 @@
 [
-
+{
+      "title":"راديو",
+      "drawable":"Microphone-32",
+      "submenu":"راديو",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"راديو",
+            "provider":"radio",
+            "arguments":[
+               "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99504952"
+            ]
+         }
+      ]
+   },
   {
     "title": "شفا",
     "drawable": "TV-Show-32",
