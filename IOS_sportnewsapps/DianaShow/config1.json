@@ -1,19 +1,5 @@
 [
-  {
-    "title": "Homepage",
-    "drawable": "News-32",
-    "submenu": "Diana Show Homepage",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Homepage",
-        "provider": "wordpress",
-        "arguments": [
-          "dianaroma.egytests.com"
-        ]
-      }
-    ]
-  },
+  
    {
       "title":"Kids Radio",
       "drawable":"Microphone-32",
@@ -29,5 +15,19 @@
          }
       ]
    },
-  
+  {
+    "title": "Homepage",
+    "drawable": "News-32",
+    "submenu": "Diana Show Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Homepage",
+        "provider": "wordpress",
+        "arguments": [
+          "dianaroma.egytests.com"
+        ]
+      }
+    ]
+  },
 ]
