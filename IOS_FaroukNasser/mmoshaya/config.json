@@ -1,25 +1,33 @@
 [
-    
-    {
-        "title":"الرئيسية",
-        "drawable":"News-32",
-        "submenu":"كرتون قصص الاميرات",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"مسلسلات كرتون",
-                "provider":"wordpress",
-                "image":"News-32",
-                "arguments":[
-                    "https://ktkeet.com/wp-json/wp/v2/"
-                ]
-            }
+  {
+    "title": "Homepage",
+    "drawable": "News-32",
+    "submenu": "Diana Show Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Homepage",
+        "provider": "wordpress",
+        "arguments": [
+          "dianaroma.egytests.com"
         ]
-    },
-    
-   
-    
-    
-    
-    
+      }
+    ]
+  },
+   {
+      "title":"Kids Radio",
+      "drawable":"Microphone-32",
+      "submenu":"Kids Radio",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"Kids Radio",
+            "provider":"radio",
+            "arguments":[
+               "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99504952"
+            ]
+         }
+      ]
+   },
+  
 ]
