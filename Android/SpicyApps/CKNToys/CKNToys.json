@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "hUurrbfJvrRivfNxN2ateyFc51c",
+  "etag": "sYWGfvm2AEhKu5HNlHS8679VgbA",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 398,
+    "totalResults": 399,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gF0t-FBzW_EfQU_g4GF8iP7vMrg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "benEHiViQXc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-10T00:34:09Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Sneaking In  Bedwars Minecraft!! CKN Gaming",
+        "description": "Minecraft Bedwars is so fun when you sneak up on them. Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/benEHiViQXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/benEHiViQXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/benEHiViQXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-10T00:34:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Erh-NKMqDuSSBSrMPY-APHpol7U",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2021-07-14T07:27:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "9dJUFPiQjgJxKLyAkCH9j5mvmXs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "c5uWYAfv-iA"
-      },
-      "snippet": {
-        "publishedAt": "2021-07-07T10:31:17Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Sonic Minecraft Act 2 CKN Gaming",
-        "description": "Act 2 completed first go in Sonic Minecraft. Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/c5uWYAfv-iA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/c5uWYAfv-iA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/c5uWYAfv-iA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-07-07T10:31:17Z"
       }
     }
   ]
