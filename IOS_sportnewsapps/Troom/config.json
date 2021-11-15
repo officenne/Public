@@ -2,17 +2,16 @@
   
  
    {
-    "title": "Dave and Ava",
-    "drawable": "TV-Show-32",
+    "title": "Home",
+    "drawable": "News-32",
     "submenu": "Nursery Rhymes",
     "iap": false,
     "tabs": [
       {
-        "title": "Dave and Ava",
+        "title": "Home",
         "provider": "wordpress",
         "arguments": [
-          "cocomelon.egytests.com",
-          "dave-and-ava"
+          "https://www.diyncrafts.com/wp-json/wp/v2/"
         ]
       }
     ]
