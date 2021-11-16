@@ -1,36 +1,34 @@
 [
-{
-      "title":"راديو",
-      "drawable":"Microphone-32",
-      "submenu":"راديو",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"راديو",
-            "provider":"radio",
-            "arguments":[
-               "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99504952"
-            ]
-         }
-      ]
-   },
-  {
-    "title": "شفا",
-    "drawable": "TV-Show-32",
-    "submenu": "شفا",
+ {
+    "title": "Homepage",
+    "drawable": "News-32",
+    "submenu": "Diana Show Homepage",
     "iap": false,
     "tabs": [
       {
-        "title": "شفا",
-        "provider": "youtube",
+        "title": "Homepage",
+        "provider": "wordpress",
         "arguments": [
-          "UCwHE1kM1CPJd_pI9FQ0-4dg",
-          "channel",
-          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+          "dianaroma.egytests.com"
         ]
       }
     ]
   },
+   {
+       "title":"Listen",
+       "drawable":"Microphone-32",
+       "submenu":"Listen",
+       "iap":false,
+       "tabs":[
+          {
+             "title":"Listen",
+             "provider":"radio",
+             "arguments":[
+                "http://138.201.80.147:2530/listen.pls?sid=1"
+             ]
+          }
+       ]
+    },
   
   
    
