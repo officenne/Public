@@ -1,20 +1,4 @@
 [
-  
-   {
-      "title":"Kids Radio",
-      "drawable":"Microphone-32",
-      "submenu":"Kids Radio",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"Kids Radio",
-            "provider":"radio",
-            "arguments":[
-               "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=99504952"
-            ]
-         }
-      ]
-   },
   {
     "title": "Homepage",
     "drawable": "News-32",
@@ -30,4 +14,21 @@
       }
     ]
   },
+   {
+       "title":"Listen",
+       "drawable":"Microphone-32",
+       "submenu":"Listen",
+       "iap":false,
+       "tabs":[
+          {
+             "title":"Listen",
+             "provider":"radio",
+             "arguments":[
+                "http://138.201.80.147:2530/listen.pls?sid=1"
+             ]
+          }
+       ]
+    },
+  
+  
 ]
