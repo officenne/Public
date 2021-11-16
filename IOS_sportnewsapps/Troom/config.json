@@ -16,4 +16,20 @@
       }
     ]
   },
+  
+   {
+       "title":"Listen",
+       "drawable":"Microphone-32",
+       "submenu":"Listen",
+       "iap":false,
+       "tabs":[
+          {
+             "title":"Listen",
+             "provider":"radio",
+             "arguments":[
+                "http://138.201.80.147:2530/listen.pls?sid=1"
+             ]
+          }
+       ]
+    },
 ]
