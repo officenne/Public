@@ -1,34 +1,35 @@
 [
-  {
-    "title": "Homepage",
+  
+ 
+   {
+    "title": "Home",
     "drawable": "News-32",
-    "submenu": "ckn",
+    "submenu": "Home",
     "iap": false,
     "tabs": [
       {
-        "title": "Homepage",
+        "title": "Home",
         "provider": "wordpress",
         "arguments": [
-          "dianaroma.egytests.com"
+          "https://itsblossom.com/wp-json/wp/v2/"
         ]
       }
     ]
   },
-  {
-    "title": "Listen",
-    "drawable": "SoundCloud-32",
-    "submenu": "Listen Only",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Listen",
-        "provider": "soundcloud",
-        "image": "SoundCloud-32",
-        "arguments": [
-          "1301342080",
-          "playlist"
-        ]
-      }
-    ]
-  }
+
+   {
+       "title":"Listen",
+       "drawable":"Microphone-32",
+       "submenu":"Listen",
+       "iap":false,
+       "tabs":[
+          {
+             "title":"Listen",
+             "provider":"radio",
+             "arguments":[
+                "http://138.201.80.147:2530/listen.pls?sid=1"
+             ]
+          }
+       ]
+    },
 ]
