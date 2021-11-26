@@ -217,6 +217,72 @@
       }
     ]
   },
+  
+  
+  {
+    "title": "LooLoo Kids",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "LooLoo Kids",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "looloo-kids"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Super Simple Songs",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Super Simple Songs",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "super-simple-songs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toys and Colors",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Toys and Colors",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "toys-and-colors"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ryan’s World",
+    "drawable": "TV-Show-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Ryan’s World",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com",
+          "ryans-world"
+        ]
+      }
+    ]
+  },
   {
     "title": "Kids Diana Show",
     "drawable": "News-32",
@@ -261,39 +327,6 @@
         ]
       }
     ]
-  },
-  {
-    "title": "Watch",
-    "drawable": "TV-Show-32",
-    "submenu": "Just Watch",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Watch",
-        "provider": "youtube",
-        "arguments": [
-          "https://raw.githubusercontent.com/officenne/Public/master/IOS_sportnewsapps/Cocomelon/Recent.json",
-          "channelx",
-          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Listen",
-    "drawable": "SoundCloud-32",
-    "submenu": "Listen Only",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Listen",
-        "provider": "soundcloud",
-        "image": "SoundCloud-32",
-        "arguments": [
-          "1301342080",
-          "playlist"
-        ]
-      }
-    ]
   }
+  
 ]
