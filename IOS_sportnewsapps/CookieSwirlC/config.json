@@ -1,0 +1,35 @@
+[
+  
+ 
+   {
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "Home",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Home",
+        "provider": "wordpress",
+        "arguments": [
+          "https://itsblossom.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+
+   {
+       "title":"Listen",
+       "drawable":"Microphone-32",
+       "submenu":"Listen",
+       "iap":false,
+       "tabs":[
+          {
+             "title":"Listen",
+             "provider":"radio",
+             "arguments":[
+                "http://138.201.80.147:2530/listen.pls?sid=1"
+             ]
+          }
+       ]
+    },
+]
