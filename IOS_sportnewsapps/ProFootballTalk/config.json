@@ -1,20 +1,540 @@
 [
-
-   {
-      "title":"Home",
-      "drawable":"WordPress-32",
-      "submenu":"Home",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"Home",
-            "provider":"wordpress",
-            "arguments":[
-               "https://www.swarmsportsnflnews.com/wp-json/wp/v2/",
-               ""
-            ]
-         }
-      ]
-   },
-
+  {
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Home",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Game Highlights",
+    "drawable": "TV-Show-32",
+    "submenu": "Watching",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NFL",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+          "channel",
+          "AIzaSyC6S7MIZ5o-2MkMKZdJjnojaWXk6VGo2eY"
+        ]
+      },
+      {
+        "title": "NFL Network",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UC_1H9v258pXiyLDaW0R5exw",
+          "channel",
+          "AIzaSyC6S7MIZ5o-2MkMKZdJjnojaWXk6VGo2eY"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "nfl.com",
+    "drawable": "Domain-32",
+    "submenu": "Website",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "nfl.com",
+        "provider": "webview",
+        "arguments": [
+          "https://www.nfl.com/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rumor Mill",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Rumor Mill",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "37045291"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Recent",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Recent",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "400"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Top Stories",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Top Stories",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "241894"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sprint Football Live - Rumors",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Sprint Football Live - Rumors",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "40279601"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "New England Patriots",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "New England Patriots",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458462"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dallas Cowboys",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Dallas Cowboys",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458539"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "New York Jets",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "New York Jets",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458479"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cleveland Browns",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Cleveland Browns",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458541"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Philadelphia Eagles",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Philadelphia Eagles",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458542"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Minnesota Vikings",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Minnesota Vikings",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458494"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pittsburgh Steelers",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Pittsburgh Steelers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458483"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "San Francisco 49ers",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "San Francisco 49ers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458485"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Denver Broncos",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Denver Broncos",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458544"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "New York Giants",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "New York Giants",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458518"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Seattle Seahawks",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Seattle Seahawks",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458314"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Washington",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Washington",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458521"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "New Orleans Saints",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "New Orleans Saints",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458473"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Baltimore Ravens",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Baltimore Ravens",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458531"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Green Bay Packers",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Green Bay Packers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458532"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Miami Dolphins",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Miami Dolphins",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458546"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Las Vegas Raiders",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Las Vegas Raiders",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458475"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tampa Bay Buccaneers",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Tampa Bay Buccaneers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458528"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Indianapolis Colts",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Indianapolis Colts",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458489"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Buffalo Bills",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Buffalo Bills",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458547"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Los Angeles Rams",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Los Angeles Rams",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458467"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Detroit Lions",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Detroit Lions",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458527"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kansas City Chiefs",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Kansas City Chiefs",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458529"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Carolina Panthers",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Carolina Panthers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458477"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Houston Texans",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Houston Texans",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458465"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Arizona Cardinals",
+    "drawable": "News-32",
+    "submenu": "NFL NEWS",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Arizona Cardinals",
+        "provider": "wordpress",
+        "arguments": [
+          "https://profootballtalk.nbcsports.com/wp-json/wp/v2/",
+          "426458517"
+        ]
+      }
+    ]
+  }
 ]
