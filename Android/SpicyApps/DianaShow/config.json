@@ -131,36 +131,24 @@
       }
     ]
   },
+ 
+  
   {
-    "title": "Love, Diana toys at Walmart",
+    "title": "Shop Toys",
     "drawable": "@drawable/pro_internet",
-    "submenu": "Shop",
+    "submenu": "Toys and Games",
     "iap": false,
     "tabs": [
       {
-        "title": "Love, Diana toys at Walmart",
-        "provider": "webview",
+        "title": "Shop Toys",
+        "provider": "wordpress",
         "arguments": [
-          "https://www.walmart.com/browse/toys/love-diana-toys/4171_7144110_2716378"
+          "kidsshop.egytests.com"
         ]
       }
     ]
   },
-  {
-    "title": "Love, Diana at Smyths Toys",
-    "drawable": "@drawable/pro_internet",
-    "submenu": "Shop",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Love, Diana at Smyths Toys",
-        "provider": "webview",
-        "arguments": [
-          "https://www.smythstoys.com/uk/en-gb/toys/new-toys/love-diana/c/SM06010470"
-        ]
-      }
-    ]
-  },
+  
   {
     "title": "Settings",
     "drawable": "@drawable/pro_settings",
