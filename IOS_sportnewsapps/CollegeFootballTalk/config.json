@@ -1,20 +1,101 @@
 [
-
-   {
-      "title":"Home",
-      "drawable":"WordPress-32",
-      "submenu":"Home",
-      "iap":false,
-      "tabs":[
-         {
-            "title":"Home",
-            "provider":"wordpress",
-            "arguments":[
-               "https://www.swarmsportsnflnews.com/wp-json/wp/v2/",
-               ""
-            ]
-         }
-      ]
-   },
-
+  {
+    "title": "HOME",
+    "drawable": "WordPress-32",
+    "submenu": "HOME",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "HOME",
+        "provider": "wordpress",
+        "arguments": [
+          "http://collegefootballtalk.nbcsports.com/wp-json/wp/v2/",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Video",
+    "drawable": "TV-Show-32",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "ESPN College Football",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCzRWWsFjqHk1an4OnVPsl9g",
+          "channel",
+          "AIzaSyACJCHu-oaZUtC6gaygvqii3LiBvMrGWBY"
+        ]
+      },
+      {
+        "title": "Games Highlights",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCi-INxdmFSrTrT95xU0sBpg",
+          "channel",
+          "AIzaSyACJCHu-oaZUtC6gaygvqii3LiBvMrGWBY"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Twitter",
+    "drawable": "Twitter-32",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NCAA",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "ncaa"
+        ]
+      },
+      {
+        "title": "NCAAFootball",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "NCAAFootball"
+        ]
+      },
+      {
+        "title": "NCAA Transfer Portal",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "RivalsPortal"
+        ]
+      },
+      {
+        "title": "ESPNCFB",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "ESPNCFB"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Scores",
+    "drawable": "Domain-32",
+    "submenu": "Scores",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Scores",
+        "provider": "webview",
+        "arguments": [
+          "https://www.google.com/search?q=ncaa&rlz=1CDGOYI_enSA853SA853&oq=ncaa&aqs=chrome..69i57j69i58j69i65l2j69i60l2.1363j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#sie=lg;/g/11nmrs75yz;6;/m/012hfxch;mt;fp;1;;"
+        ]
+      }
+    ]
+  }
 ]
