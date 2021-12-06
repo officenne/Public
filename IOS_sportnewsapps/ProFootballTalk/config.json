@@ -15,6 +15,106 @@
     ]
   },
   
+  
+  
+  {
+       "title":"Twitter",
+       "drawable":"Twitter-32",
+       "submenu":"Social Media",
+       "iap":false,
+       "tabs":[
+          {
+             "title":"NFL",
+             "provider":"twitter",
+             "image":"Twitter-32",
+             "arguments":[
+                "NFL"
+             ]
+          },
+          {
+             "title":"NFL Network",
+             "provider":"twitter",
+             "image":"Twitter-32",
+             "arguments":[
+                "nflnetwork"
+             ]
+          },
+          {
+             "title":"NFLonFOX",
+             "provider":"twitter",
+             "image":"Twitter-32",
+             "arguments":[
+                "NFLonFOX"
+             ]
+          },
+          {
+             "title":"ESPNNFL",
+             "provider":"twitter",
+             "image":"Twitter-32",
+             "arguments":[
+                "ESPNNFL"
+             ]
+          },
+       ]
+    },
+   {
+    "title": "Game Highlights",
+    "drawable": "TV-Show-32",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NFL",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+          "channel",
+          "AIzaSyC6S7MIZ5o-2MkMKZdJjnojaWXk6VGo2eY"
+        ]
+      },
+      {
+        "title": "NFL Network",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UC_1H9v258pXiyLDaW0R5exw",
+          "channel",
+          "AIzaSyC6S7MIZ5o-2MkMKZdJjnojaWXk6VGo2eY"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "nfl.com",
+    "drawable": "Domain-32",
+    "submenu": "Website",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "nfl.com",
+        "provider": "webview",
+        "arguments": [
+          "https://www.nfl.com/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Scores",
+    "drawable": "Domain-32",
+    "submenu": "Scores",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Scores",
+        "provider": "webview",
+        "arguments": [
+          "https://www.google.com/search?q=nfl&rlz=1CDGOYI_enSA853SA853&oq=ncaa&aqs=chrome..69i57j69i58j69i65l2j69i60l2.1363j0j4&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#sie=lg;/g/11nmrs75yz;6;/m/012hfxch;mt;fp;1;;"
+        ]
+      }
+    ]
+  }
   {
     "title": "Rumor Mill",
     "drawable": "News-32",
