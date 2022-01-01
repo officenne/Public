@@ -1,5 +1,21 @@
 [
   {
+    "title": "Homepage",
+    "drawable": "@drawable/pro_catalogue",
+    "submenu": "Roma Show Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Homepage",
+        "provider": "wordpress",
+        "arguments": [
+          "https://ckn.egytests.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  
+  {
     "title": "CKN Toys",
     "drawable": "@drawable/pro_youtube",
     "submenu": "CKN Toys",
