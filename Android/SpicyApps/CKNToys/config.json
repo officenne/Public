@@ -1,19 +1,90 @@
 [
   {
-    "title": "Homepage",
+    "title": "CKN",
     "drawable": "@drawable/pro_catalogue",
-    "submenu": "Roma Show Homepage",
+    "submenu": "CKN Homepage",
     "iap": false,
     "tabs": [
       {
-        "title": "Homepage",
+        "title": "CKN",
         "provider": "wordpress",
         "arguments": [
-          "https://ckn.egytests.com/wp-json/wp/v2/"
+          "ckn.egytests.com"
         ]
       }
     ]
   },
+  
+  {
+    "title": "Nursery Rhymes",
+    "drawable": "@drawable/pro_catalogue",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Nursery Rhymes",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diana Show",
+    "drawable": "@drawable/pro_catalogue",
+    "submenu": "Diana Show Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Diana Show",
+        "provider": "wordpress",
+        "arguments": [
+          "dianaroma.egytests.com"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Miss Katy",
+    "drawable": "@drawable/pro_catalogue",
+    "submenu": "Miss Katy",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Miss Katy",
+        "provider": "wordpress",
+        "arguments": [
+          "katy.egytests.com"
+        ]
+      }
+    ]
+  },
+  
+   {
+    "title": "Vlad",
+    "drawable": "@drawable/pro_catalogue",
+    "submenu": "Vlad",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Vlad",
+        "provider": "wordpress",
+        "arguments": [
+          "vlad.egytests.com"
+        ]
+      }
+    ]
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
