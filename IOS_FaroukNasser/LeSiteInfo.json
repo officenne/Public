@@ -1,365 +1,334 @@
 [
-          
-       {
-         "title":"الرئيسية",
-         "drawable":"News-32",
-         "submenu":"LeSiteInfo",
-         "iap":false,
-         "tabs":[
-            {
-               "title":"الرئيسية",
-               "provider":"web",
-               "image":"News-32",
-               "arguments":[
-                  "http://ar.lesiteinfo.com/"
-               ]
-            }
-         ]
-      },
-      
-    
-      
-      
-      
-      
+  {
+    "title": "الرئيسية",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
       {
-             "title":"فن وثقافة",
-             "drawable":"News-32",
-             "submenu":"LeSiteInfo",
-             "iap":false,
-             "tabs":[
-                 {
-                     "title":"فن وثقافة",
-                     "provider":"wordpress",
-                     "image":"News-32",
-                     "arguments":[
-                         "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                         "6",
-                     ]
-                 },
-                 {
-                     "title":"مشاهير",
-                     "provider":"wordpress",
-                     "image":"News-32",
-                     "arguments":[
-                         "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                         "9",
-                     ]
-                 }
-             ]
-         },
-      
-    
-      {
-          "title":"مجتمع",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"مجتمع",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "8",
-                  ]
-              }
-          ]
-      },
-      {
-          "title":"رياضة",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"رياضة",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "7",
-                  ]
-              }
-          ]
-      },
-      {
-          "title":"سياسة",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"سياسة",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "3",
-                  ]
-              }
-          ]
-      },
-      {
-          "title":"حوادث",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"حوادث",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "144",
-                  ]
-              }
-          ]
-      },
-     
-      
-      {
-          "title":"أخبار دولية",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"أخبار دولية",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "11",
-                  ]
-              }
-          ]
-      },
-      {
-          "title":"اقتصاد",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"اقتصاد",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "4",
-                  ]
-              }
-          ]
-      },
-      {
-          "title":"طقس",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"طقس",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "11862",
-                  ]
-              }
-          ]
-      },
-      
-      
-      {
-          "title":"منوعات",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"منوعات",
-                  "provider":"wordpress",
-                  "image":"News-32",
-
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "5651",
-                  ]
-              },
-              {
-                  "title":"مباشر",
-                  "provider":"wordpress",
-                  "image":"News-32",
-
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "8105",
-                  ]
-              },
-              {
-                  "title":"تشغيل",
-                  "provider":"wordpress",
-                  "image":"News-32",
-
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "11861",
-                  ]
-              }
-          ]
-      },
-      
-      {
-          "title":"السلطة الرابعة",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"السلطة الرابعة",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "5652",
-                  ]
-              }
-          ]
-      },
-      {
-          "title":"برامج رمضان",
-          "drawable":"News-32",
-          "submenu":"LeSiteInfo",
-          "iap":false,
-          "tabs":[
-              {
-                  "title":"برامج رمضان",
-                  "provider":"wordpress",
-                  "arguments":[
-                      "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                      "19080",
-                  ]
-              }
-          ]
-      },
-      
-      
-     
-      
-      {
-            "title":"شاهد",
-            "drawable":"TV-Show-32",
-            "submenu":"فديو",
-            "iap":false,
-            "tabs":[
-                {
-                    "title":"شاهد",
-                    "provider":"youtube",
-                    "image":"TV-Show-32",
-                    "arguments":[
-                        "UCqF_il53wHyge7Z2SGzAHwg",
-                        "channel"
-                    ]
-                },
-                {
-                    "title":"فيديو",
-                    "provider":"wordpress",
-                    "image":"TV-Show-32",
-                    "arguments":[
-                        "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                        "2",
-                    ]
-                },
-                {
-                    "title":"فيديو أنفو",
-                    "provider":"wordpress",
-                    "image":"TV-Show-32",
-                    "arguments":[
-                        "http://ar.lesiteinfo.com//wp-json/wp/v2/",
-                        "4399",
-                    ]
-                }
-            ]
-        },
-      
-    
-    
-    {
-        "title":"هبة بريس",
-        "drawable":"News-32",
-        "submenu":"الأخبار العربية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"هبة بريس",
-                "provider":"wordpress",
-                "arguments":[
-                    "https://ar.hibapress.com/wp-json/wp/v2/"
-                ]
-            }
+        "title": "الرئيسية",
+        "provider": "web",
+        "image": "News-32",
+        "arguments": [
+          "http://ar.lesiteinfo.com/"
         ]
-    },
-    
-    {
-        "title":"المغرب 24",
-        "drawable":"News-32",
-        "submenu":"الأخبار العربية",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"المغرب 24",
-                "provider":"wordpress",
-                "arguments":[
-                    "https://www.almaghreb24.com/wp-json/wp/v2/",
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "title": "فن وثقافة",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "فن وثقافة",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "6"
         ]
-    },
-    
-    
-    
-    
-    
-    {
-        "title":"LeSiteinfo French",
-        "drawable":"News-32",
-        "submenu":"French",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"LeSiteinfo",
-                "provider":"wordpress",
-                "arguments":[
-                    "http://lesiteinfo.com//wp-json/wp/v2/",
-                ]
-            }
-        ]
-    },
-    {
-        "title":"hibapress",
-        "drawable":"News-32",
-        "submenu":"French",
-        "iap":false,
-        "tabs":[
-            {
-                "title":"hibapress",
-                "provider":"wordpress",
-                "arguments":[
-                    "https://fr.hibapress.com/wp-json/wp/v2/"
-                ]
-            }
-        ]
-    },
-    
-    {
-         "title":"À la une",
-         "drawable":"News-32",
-         "submenu":"French",
-         "iap":false,
-         "tabs":[
-            {
-               "title":"À la une",
-               "provider":"rss",
-               "image":"News-32",
-               "arguments":[
-                  "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtWnlHZ0pOUVNnQVAB?hl=fr&gl=MA&ceid=MA%3Afr"
-               ]
-            }
-         ]
       },
+      {
+        "title": "مشاهير",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "9"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "مجتمع",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "مجتمع",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "8"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "رياضة",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "رياضة",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "7"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "سياسة",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "سياسة",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "3"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "حوادث",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "حوادث",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "144"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "أخبار دولية",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "أخبار دولية",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "11"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "اقتصاد",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "اقتصاد",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "4"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "طقس",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "طقس",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "11862"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "منوعات",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "منوعات",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "5651"
+        ]
+      },
+      {
+        "title": "مباشر",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "8105"
+        ]
+      },
+      {
+        "title": "تشغيل",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "11861"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "السلطة الرابعة",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "السلطة الرابعة",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "5652"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "برامج رمضان",
+    "drawable": "News-32",
+    "submenu": "LeSiteInfo",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "برامج رمضان",
+        "provider": "wordpress",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "19080"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "شاهد",
+    "drawable": "TV-Show-32",
+    "submenu": "فديو",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شاهد",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCqF_il53wHyge7Z2SGzAHwg",
+          "channel"
+        ]
+      },
+      {
+        "title": "فيديو",
+        "provider": "wordpress",
+        "image": "TV-Show-32",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "2"
+        ]
+      },
+      {
+        "title": "فيديو أنفو",
+        "provider": "wordpress",
+        "image": "TV-Show-32",
+        "arguments": [
+          "http://ar.lesiteinfo.com//wp-json/wp/v2/",
+          "4399"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "هبة بريس",
+    "drawable": "News-32",
+    "submenu": "الأخبار العربية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "هبة بريس",
+        "provider": "wordpress",
+        "arguments": [
+          "https://ar.hibapress.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "المغرب 24",
+    "drawable": "News-32",
+    "submenu": "الأخبار العربية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "المغرب 24",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.almaghreb24.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LeSiteinfo French",
+    "drawable": "News-32",
+    "submenu": "French",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "LeSiteinfo",
+        "provider": "wordpress",
+        "arguments": [
+          "http://lesiteinfo.com//wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "hibapress",
+    "drawable": "News-32",
+    "submenu": "French",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "hibapress",
+        "provider": "wordpress",
+        "arguments": [
+          "https://fr.hibapress.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "À la une",
+    "drawable": "News-32",
+    "submenu": "French",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "À la une",
+        "provider": "rss",
+        "image": "News-32",
+        "arguments": [
+          "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtWnlHZ0pOUVNnQVAB?hl=fr&gl=MA&ceid=MA%3Afr"
+        ]
+      }
+    ]
+  }
 ]
