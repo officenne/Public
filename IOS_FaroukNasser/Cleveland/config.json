@@ -14,5 +14,108 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Twitter",
+    "drawable": "Twitter-32",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Cleveland Cavaliers",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "cavs"
+        ]
+      },
+      {
+        "title": "NBA",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "NBA"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Game Recap",
+    "drawable": "TV-Show-32",
+    "submenu": "Social Media",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Game Recap",
+        "provider": "youtube",
+        "image": "Playlist-32",
+        "arguments": [
+          "UCLd4dSmXdrJykO_hgOzbfPw",
+          "channel",
+          "AIzaSyACJCHu-oaZUtC6gaygvqii3LiBvMrGWBY"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "nba.com",
+    "drawable": "Domain-32",
+    "submenu": "Other",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "nba.com",
+        "provider": "webview",
+        "arguments": [
+          "https://www.nba.com/cavaliers/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "espn.com",
+    "drawable": "Domain-32",
+    "submenu": "Other",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "espn.com",
+        "provider": "webview",
+        "arguments": [
+          "https://www.espn.com/nba/team/_/name/cle/cleveland-cavaliers"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "google.com",
+    "drawable": "Domain-32",
+    "submenu": "Other",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "google.com",
+        "provider": "webview",
+        "arguments": [
+          "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3B0TjI0U0FtVnVLQUFQAQ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NEWS",
+    "drawable": "News-32",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NEWS",
+        "provider": "rss",
+        "image": "News-32",
+        "arguments": [
+          "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3B0TjI0U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen"
+        ]
+      }
+    ]
   }
 ]
