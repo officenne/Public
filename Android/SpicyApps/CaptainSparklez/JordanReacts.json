@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "slvLyzHsWqgmaNLZR_Bhylv2yrI",
+  "etag": "okrwMh7JkHd9iZ3aAVpgiedeK_c",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 647,
+    "totalResults": 644,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1HZpxu0MglMX1h0LGS4ZNLoiSPU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XgPx_W2z2Zg"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-25T22:00:10Z",
+        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
+        "title": "Goodbye For Now",
+        "description": "Thanks for watching, I'll catch you on some of the other channels CaptainSparklez: https://www.youtube.com/captainsparklez CS2: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XgPx_W2z2Zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XgPx_W2z2Zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XgPx_W2z2Zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jordan Reacts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-25T22:00:10Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "IY8N5_HY830w3PMzmiP4PxUZidU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Jordan Reacts",
         "liveBroadcastContent": "none",
         "publishTime": "2021-08-03T21:00:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Xgl8Pr8bT6i72bsggEwFAbSuk9g",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "LqqeLKQ8lj4"
-      },
-      "snippet": {
-        "publishedAt": "2021-07-31T20:00:03Z",
-        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
-        "title": "That&#39;s Not Correct (Expectation Vs Reality #14)",
-        "description": "Check out the Jord GT headset: https://astro.family/JordGTA40 Previous ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LqqeLKQ8lj4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LqqeLKQ8lj4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LqqeLKQ8lj4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Jordan Reacts",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-07-31T20:00:03Z"
       }
     }
   ]
