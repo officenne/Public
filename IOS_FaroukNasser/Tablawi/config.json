@@ -2,7 +2,7 @@
   {
     "title": "القران الكريم",
     "drawable": "SoundCloud-32",
-    "submenu": "القران الكريم",
+    "submenu": "الشيخ محمد محمود الطبلاوي",
     "iap": false,
     "tabs": [
       {
@@ -15,5 +15,20 @@
         ]
       }
     ]
-  }
+  },
+   {
+      "title":"راديو",
+      "drawable":"Microphone-32",
+      "submenu":"الشيخ محمد محمود الطبلاوي",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"راديو",
+            "provider":"radio",
+            "arguments":[
+               "https://server03.quran.com.kw:7038/;*.mp3"
+            ]
+         }
+      ]
+   },
 ]
