@@ -2,6 +2,21 @@
   
   
   
+    {
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Home",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com"
+        ]
+      }
+    ]
+  },
    {
        "title":"Listen",
        "drawable":"Microphone-32",
@@ -17,22 +32,5 @@
           }
        ]
     },
-  {
-    "title": "Toys and Colors",
-    "drawable": "TV-Show-32",
-    "submenu": "Toys and Colors",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Toys and Colors",
-        "provider": "youtube",
-        "arguments": [
-          "https://raw.githubusercontent.com/officenne/Public/master/IOS_sportnewsapps/Cocomelon/Recent.json",
-          "channelx",
-          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
-        ]
-      }
-    ]
-  }
  
 ]
