@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "xw1iKZhbZt-dBuyY9uga8ewIki8",
+  "etag": "d5bwXOrAmdhKYebmb_Pf8RuQxc4",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 115,
+    "totalResults": 116,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_nkO01AtfHmuEYGKW-P73vX4inU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "069twF9Zjrs"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-22T05:00:00Z",
+        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
+        "title": "ИЩЕМ КОТЯТ в Cat trip",
+        "description": "Cat Lady has lost all of her cats, can you find them for her? It won't be easy, as these clever cats know how to ride all kinds of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/069twF9Zjrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/069twF9Zjrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/069twF9Zjrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Papa Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-22T05:00:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "oB9l2v7GjjdHGlucEpQN8ZWQikA",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Papa Play",
         "liveBroadcastContent": "none",
         "publishTime": "2021-04-04T11:57:45Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "9jO5aqmlVaopsuwCCWSmEr_EOpE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zulJiRICM00"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-02T07:16:42Z",
-        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
-        "title": "Новые питомцы и новые эмоции в Adopt Me Emotion Update",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zulJiRICM00/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zulJiRICM00/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zulJiRICM00/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Papa Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-02T07:16:42Z"
       }
     }
   ]
