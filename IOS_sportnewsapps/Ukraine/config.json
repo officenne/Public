@@ -14,4 +14,19 @@
       }
     ]
   },
+  {
+      "title":"Radio",
+      "drawable":"Microphone-32",
+      "submenu":"",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"Radio",
+            "provider":"radio",
+            "arguments":[
+               "https://npr-ice.streamguys1.com/live.mp3?ck=1646116461061"
+            ]
+         }
+      ]
+   },
 ]
