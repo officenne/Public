@@ -452,6 +452,23 @@
     ]
   },
   {
+    "title": "Listen only",
+    "drawable": "SoundCloud-32",
+    "submenu": "Listen only",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Top Music",
+        "provider": "soundcloud",
+        "image": "SoundCloud-32",
+        "arguments": [
+          "212318464",
+          "user"
+        ]
+      }
+    ]
+  },
+  {
     "title": "Shop Toys",
     "drawable": "News-32",
     "submenu": "Toys and Games",
