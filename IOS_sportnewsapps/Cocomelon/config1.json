@@ -1,4 +1,20 @@
 [
+  
+  {
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "Nursery Rhymes",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Home",
+        "provider": "wordpress",
+        "arguments": [
+          "cocomelon.egytests.com"
+        ]
+      }
+    ]
+  },
   {
     "title": "Recent",
     "drawable": "News-32",
@@ -43,21 +59,6 @@
           "https://raw.githubusercontent.com/officenne/Public/master/IOS_sportnewsapps/Cocomelon/LittleBabyBum.json",
           "channelx",
           "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Home",
-    "drawable": "News-32",
-    "submenu": "Nursery Rhymes",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "Home",
-        "provider": "wordpress",
-        "arguments": [
-          "cocomelon.egytests.com"
         ]
       }
     ]
