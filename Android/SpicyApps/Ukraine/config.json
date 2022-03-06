@@ -1,0 +1,36 @@
+[
+  {
+    "title":"Home",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"NFL NEWS",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Home",
+        "provider":"wordpress",
+        "arguments":[
+          "ukrainetoday.org"
+        ]
+      }
+    ]
+  },
+
+
+
+  {
+    "title": "Settings",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "Settings",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Settings",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
