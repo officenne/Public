@@ -1,34 +1,117 @@
 [
   {
-    "title":"Home",
+    "title":"Homepage",
     "drawable":"@drawable/pro_newspaper",
-    "submenu":"NFL NEWS",
+    "submenu":"Ukraine News",
     "iap":false,
     "tabs":[
       {
-        "title":"Home",
+        "title":"Homepage",
         "provider":"wordpress",
         "arguments":[
-          "ukrainetoday.org"
+          "https://ukraine.egytests.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Top Stories",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"News Sections",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Top Stories",
+        "provider":"wordpress",
+        "arguments":[
+          "https://ukraine.egytests.com/wp-json/wp/v2/",
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Videos",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"News Sections",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Videos",
+        "provider":"wordpress",
+        "arguments":[
+          "https://ukraine.egytests.com/wp-json/wp/v2/",
+          "77"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Twitter",
+    "drawable":"@drawable/pro_twitter",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"ZelenskyyUa",
+        "provider":"twitter",
+        "arguments":[
+          "ZelenskyyUa"
+        ]
+      },
+      {
+        "title":"DefenceU",
+        "provider":"twitter",
+        "arguments":[
+          "DefenceU"
+        ]
+      },
+      {
+        "title":"Ukraine",
+        "provider":"twitter",
+        "arguments":[
+          "Ukraine"
+        ]
+      },
+      {
+        "title":"MFA_Ukraine",
+        "provider":"twitter",
+        "arguments":[
+          "MFA_Ukraine"
         ]
       }
     ]
   },
 
-
+  {
+    "title":"Videos News",
+    "drawable":"@drawable/pro_youtube",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Top Stories",
+        "provider":"youtube",
+        "arguments":[
+          "PL3ZQ5CpNulQldOL3T8g8k1mgWWysJfE9w",
+          "playlist",
+          "AIzaSyCkEuBU1cWoge6PXdqcyTKOyR5JVtBW5a8"
+        ]
+      }
+    ]
+  },
 
   {
-    "title": "Settings",
-    "drawable": "@drawable/pro_settings",
-    "submenu": "Settings",
-    "iap": false,
-    "tabs": [
+    "title":"Settings",
+    "drawable":"@drawable/pro_settings",
+    "submenu":"Settings",
+    "iap":false,
+    "tabs":[
       {
-        "title": "Settings",
-        "provider": "custom",
-        "arguments": [
-          "com.sherdle.universal.SettingsFragment",
-          "fragment"
+        "title":"Settings",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
         ]
       }
     ]
