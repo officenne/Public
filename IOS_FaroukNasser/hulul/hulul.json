@@ -114,6 +114,21 @@
     ]
   },
   {
+    "title": "نظام نور",
+    "drawable": "Domain-32",
+    "submenu": "منصات مهمة",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "نظام نور",
+        "provider": "webview",
+        "arguments": [
+          "https://noor.moe.gov.sa/Noor/Login.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "title": "العودة إلى المدارس",
     "drawable": "Domain-32",
     "submenu": "منصات مهمة",
@@ -184,21 +199,6 @@
         "provider": "webview",
         "arguments": [
           "https://edu.moe.gov.sa/Wadi/ElectronicServices/Faris/Pages/default.aspx"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "نظام نور",
-    "drawable": "Domain-32",
-    "submenu": "منصات مهمة",
-    "iap": false,
-    "tabs": [
-      {
-        "title": "نظام نور",
-        "provider": "webview",
-        "arguments": [
-          "https://noor.moe.gov.sa/Noor/Login.aspx"
         ]
       }
     ]
