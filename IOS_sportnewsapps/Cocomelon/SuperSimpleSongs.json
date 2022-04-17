@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "uYej5S3PQVWW8YZUjlQ8WMW4Lww",
+  "etag": "U6cFtNkxzAHvbtO-4MBHpMHMhy4",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1013,
+    "totalResults": 1007,
     "resultsPerPage": 50
   },
   "items": [
@@ -1574,6 +1574,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "b6vMMhB_smH8Ir4-RdWoPku6ykI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bebLde5kcqo"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-03T11:30:06Z",
+        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
+        "title": "Three Little Kittens | Kids Songs | Super Simple Songs",
+        "description": "Get the Super Simple App! ▻ http://bit.ly/TheSuperSimpleApp Sing along to this Super Simple version of a classic nursery rhyme ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bebLde5kcqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bebLde5kcqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bebLde5kcqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Super Simple Songs - Kids Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-03T11:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "CL5c4Nbk3myMtJD0qwAFF4gGxV0",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Super Simple Songs - Kids Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2020-11-12T11:30:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "T5sdBXNaRpdqfr5mAYLlWN47U1E",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "EAx6VZteAwQ"
-      },
-      "snippet": {
-        "publishedAt": "2020-11-05T16:00:04Z",
-        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
-        "title": "Me! (featuring Noodle &amp; Pals) | + More Kids Songs | Super Simple Songs",
-        "description": "Get the Super Simple App! ▻ http://bit.ly/TheSuperSimpleApp Learn the names of all the different parts of the body in this catchy ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EAx6VZteAwQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EAx6VZteAwQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EAx6VZteAwQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Super Simple Songs - Kids Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-11-05T16:00:04Z"
       }
     }
   ]
