@@ -422,14 +422,14 @@
     ]
   },
   {
-    "title":"Custom",
-    "drawable":"",
-    "submenu":"Other",
+    "title":"الاعدادات",
+    "drawable":"@drawable/pro_settings",
+    "submenu":"الاعدادات",
     "iap":false,
     "tabs":[
       {
         "title":"",
-        "provider":"custom",
+        "provider":"الاعدادات",
         "arguments":[
           "com.sherdle.universal.SettingsFragment", "fragment"
         ]
