@@ -1,0 +1,50 @@
+[
+  {
+    "title": "تويتر",
+    "drawable": "@drawable/pro_twitter",
+    "submenu": "وسائل التواصل الاجتماعي",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "تويتر",
+        "provider": "twitter",
+        "arguments": [
+          "DigitalEgyptGov"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "فديوهات",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "وسائل التواصل الاجتماعي",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "فديوهات",
+        "provider": "youtube",
+        "arguments": [
+          "UCnnzTxaW2ZVCEWFEgap89RA",
+          "channel",
+          "AIzaSyAS16ZDBhIEpuj1gWd8ajlMKJRXlomYsg0"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الاعدادات",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "الاعدادات",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "الاعدادات",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
