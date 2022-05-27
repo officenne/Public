@@ -1,5 +1,19 @@
 [
- 
+ {
+    "title":"مصر الرقمية",
+    "drawable":"@drawable/pro_internet",
+    "submenu":"مصر الرقمية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"مصر الرقمية",
+        "provider":"webview",
+        "arguments":[
+          "https://digital.gov.eg/"
+        ]
+      }
+    ]
+  },
   {
     "title": "تويتر",
     "drawable": "@drawable/pro_twitter",
@@ -32,7 +46,21 @@
       }
     ]
   },
- 
+  {
+    "title": "اتصل على الدعم",
+    "drawable": "@drawable/pro_radio",
+    "submenu": "اتصل بنا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "اتصل على الدعم",
+        "provider": "custom",
+        "arguments": [
+          "tel:15999", "url"
+        ]
+      }
+    ]
+  },
   {
     "title": "الاعدادات",
     "drawable": "@drawable/pro_settings",
