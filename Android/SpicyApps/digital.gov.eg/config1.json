@@ -94,6 +94,21 @@
     ]
   },
   {
+    "title":"أخبار مصر",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"أخبار مصر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"أخبار مصر",
+        "provider":"wordpress",
+        "arguments":[
+          "https://misralbalad.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
     "title": "الاعدادات",
     "drawable": "@drawable/pro_settings",
     "submenu": "الاعدادات",
