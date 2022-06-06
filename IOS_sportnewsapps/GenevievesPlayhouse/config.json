@@ -1,35 +1,30 @@
 [
   {
-    "title": "Talking Tom",
-    "drawable": "TV-Show-32",
-    "submenu": "Talking Tom",
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "Nursery Rhymes",
     "iap": false,
     "tabs": [
       {
-        "title": "Talking Tom",
-        "provider": "youtube",
-        "image": "TV-Show-32",
+        "title": "Home",
+        "provider": "wordpress",
         "arguments": [
-          "UCK5Q72Uyo73uRPk8PmM2A3w",
-          "channel",
-          "AIzaSyACJCHu-oaZUtC6gaygvqii3LiBvMrGWBY"
+          "cocomelon.egytests.com"
         ]
       }
     ]
   },
   {
-    "title": " Rhymes",
-    "drawable": "SoundCloud-32",
-    "submenu": " Rhymes",
+    "title": "Listen",
+    "drawable": "Microphone-32",
+    "submenu": "Listen",
     "iap": false,
     "tabs": [
       {
-        "title": " Rhymes",
-        "provider": "soundcloud",
-        "image": "SoundCloud-32",
+        "title": "Listen",
+        "provider": "radio",
         "arguments": [
-          "1151686243",
-          "playlist"
+          "http://138.201.80.147:2530/listen.pls?sid=1"
         ]
       }
     ]
