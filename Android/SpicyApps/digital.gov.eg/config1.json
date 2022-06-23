@@ -1,0 +1,127 @@
+[
+  {
+    "title": "مصر الرقمية",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "مصر الرقمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "مصر الرقمية",
+        "provider": "webview",
+        "arguments": [
+          "https://digital.gov.eg/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "اتصل على الدعم",
+    "drawable": "@drawable/pro_radio",
+    "submenu": "مصر الرقمية",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "اتصل على الدعم",
+        "provider": "custom",
+        "arguments": [
+          "tel:15999",
+          "url"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "التموين",
+    "drawable": "@drawable/pro_internet",
+    "submenu": "التموين",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "التموين",
+        "provider": "webview",
+        "arguments": [
+          "https://www.tamwin.com.eg/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "اتصل على الدعم",
+    "drawable": "@drawable/pro_radio",
+    "submenu": "التموين",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "اتصل على الدعم",
+        "provider": "custom",
+        "arguments": [
+          "tel:19959",
+          "url"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "تويتر",
+    "drawable": "@drawable/pro_twitter",
+    "submenu": "وسائل التواصل الاجتماعي",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "تويتر",
+        "provider": "twitter",
+        "arguments": [
+          "DigitalEgyptGov"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "فديوهات",
+    "drawable": "@drawable/pro_youtube",
+    "submenu": "وسائل التواصل الاجتماعي",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "فديوهات",
+        "provider": "youtube",
+        "arguments": [
+          "UCnnzTxaW2ZVCEWFEgap89RA",
+          "channel",
+          "AIzaSyAS16ZDBhIEpuj1gWd8ajlMKJRXlomYsg0"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"أخبار مصر",
+    "drawable":"@drawable/pro_newspaper",
+    "submenu":"أخبار مصر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"أخبار مصر",
+        "provider":"wordpress",
+        "arguments":[
+          "https://misralbalad.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الاعدادات",
+    "drawable": "@drawable/pro_settings",
+    "submenu": "الاعدادات",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "الاعدادات",
+        "provider": "custom",
+        "arguments": [
+          "com.sherdle.universal.SettingsFragment",
+          "fragment"
+        ]
+      }
+    ]
+  }
+]
