@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "EoFntU9TYxv9HCNCe4ymMDJz26M",
+  "etag": "Sc1mGpwzzo4hQoPTdiYSU4rcZeE",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5607,
+    "totalResults": 5608,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cNWnxZo8Q5xF73jt3A86rGHq-m0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jX7j8jlNiZs"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-30T18:41:34Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "I Fricked Up | RLCraft Hardcore Ep. 3",
+        "description": "In this series I've gotta survive the RLCraft Minecraft modpack in hardcore mode. Get 25% off your own server's first month with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jX7j8jlNiZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jX7j8jlNiZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jX7j8jlNiZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-30T18:41:34Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "S2Wk8VX20SOXwgIdEObAvzUqwiw",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2020-02-11T23:00:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "qI8SQ9AZlbzAFDzhfPz3LY2NVzY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "01R_4Q8EPu8"
-      },
-      "snippet": {
-        "publishedAt": "2020-02-08T23:00:01Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Rewind",
-        "description": "If I ever see another red button I will lose my mind. Previous ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/01R_4Q8EPu8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/01R_4Q8EPu8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/01R_4Q8EPu8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-02-08T23:00:01Z"
       }
     }
   ]
