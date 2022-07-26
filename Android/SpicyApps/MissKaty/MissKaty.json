@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "VZaWBix3PiSrxdnPX-MDGLioNlY",
+  "etag": "CFHjbPqcIb7kHqJ8Ewii9po8F5Y",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1178,
+    "totalResults": 1161,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TdX76sDM8Qiw7GN5fyGdV0JY58I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xrIhA02rS_Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-26T05:00:32Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Телепатия Челлендж 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xrIhA02rS_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xrIhA02rS_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xrIhA02rS_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-26T05:00:32Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "CMouIAGREQFTz9D1MrBoEs1FFG8",
@@ -1536,40 +1570,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2021-10-07T05:00:22Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ah-ebNfC2m9LGQqOgNTZkbnihCo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "8J16zuBKXrA"
-      },
-      "snippet": {
-        "publishedAt": "2021-09-25T04:30:01Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя и Макс в шоколаде",
-        "description": "Max and Katy in Chocolate.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8J16zuBKXrA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8J16zuBKXrA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8J16zuBKXrA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-09-25T04:30:01Z"
       }
     },
     {
