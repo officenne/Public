@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "J_4Z2iC_PBnVBCeIHfiRMpM9eJU",
+  "etag": "hjYV5z3lwypOxDpuD44K3aDVp2k",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 485,
+    "totalResults": 486,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xmp4rPYLdsF3SaB222_zD_qamBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pd_0ebf0_nk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-27T23:13:49Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "NEW Penguin Survival Mode CKN Gaming",
+        "description": "New Penguin Survival mode.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pd_0ebf0_nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pd_0ebf0_nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pd_0ebf0_nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-27T23:13:49Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "0IFhOICPWezf__PnK7tjNUaNVh4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-02-12T12:00:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "cUl4cLbkTCXk7rxCjkSuI4p-5aM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "SgQR4pn0D1s"
-      },
-      "snippet": {
-        "publishedAt": "2022-02-10T01:42:59Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "ESCAPE The Grinch Obby CKN Gaming",
-        "description": "Escape the Grinch Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SgQR4pn0D1s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SgQR4pn0D1s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SgQR4pn0D1s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-02-10T01:42:59Z"
       }
     }
   ]
