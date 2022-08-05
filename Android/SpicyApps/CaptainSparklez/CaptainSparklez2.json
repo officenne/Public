@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "wsNuMbykrxFmYWmsAbp2Nskxhbk",
+  "etag": "NPzTT9vorLciEcjgEtubcUhQZH4",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5624,
+    "totalResults": 5625,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RURb9Mp5lZANQTCFrU-JMq7zjrk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i66jmdJQ77c"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-03T21:00:19Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Advanced Tower | RLCraft Hardcore Ep. 9",
+        "description": "In this series I've gotta survive the RLCraft Minecraft modpack in hardcore mode. Get 25% off your own server's first month with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i66jmdJQ77c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i66jmdJQ77c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i66jmdJQ77c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-03T21:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "l7aE_4fWGlYp_f-apLMNRzdwlwg",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2020-03-01T23:00:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ED4_AOMWfwDyTY3Z9TYYC_i5r9o",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "IrhZE-RteyE"
-      },
-      "snippet": {
-        "publishedAt": "2020-02-18T23:00:04Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Randomized Hunger Games 2.0",
-        "description": "Randomized Hunger Games returns with bosses, shops, and a new arena Previous ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IrhZE-RteyE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IrhZE-RteyE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IrhZE-RteyE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-02-18T23:00:04Z"
       }
     }
   ]
