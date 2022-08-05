@@ -1,37 +1,17 @@
 [
   {
-    "title": "Kids Songs",
-    "drawable": "TV-Show-32",
-    "submenu": "Kids Songs",
+    "title": "Home",
+    "drawable": "News-32",
+    "submenu": "Nursery Rhymes",
     "iap": false,
     "tabs": [
       {
-        "title": "Kids Songs",
-        "provider": "youtube",
-        "image": "TV-Show-32",
+        "title": "Home",
+        "provider": "wordpress",
         "arguments": [
-          "UCi3onjs7UU2Z64i3RrVci-Q",
-          "channel",
-          "AIzaSyACJCHu-oaZUtC6gaygvqii3LiBvMrGWBY"
+          "cocomelon.egytests.com"
         ]
       }
     ]
   },
-  {
-    "title": " Rhymes",
-    "drawable": "SoundCloud-32",
-    "submenu": " Rhymes",
-    "iap": false,
-    "tabs": [
-      {
-        "title": " Rhymes",
-        "provider": "soundcloud",
-        "image": "SoundCloud-32",
-        "arguments": [
-          "1151686243",
-          "playlist"
-        ]
-      }
-    ]
-  }
 ]
