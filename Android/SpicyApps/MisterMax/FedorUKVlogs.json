@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "cIyR_VdOJIhV6u7Gn2yTz4JQeTM",
+  "etag": "OskWCS3a3BXD42lVSnKkcSuQDzw",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 356,
+    "totalResults": 357,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rwC0BGR1XJUCU3KIp3EdPIWeVrQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jay3z8s_ogo"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-11T05:00:06Z",
+        "channelId": "UCvd_X-p3MEFQKoDGQjb3OiQ",
+        "title": "Отель тур с Максом и Катей в Швейцарии",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jay3z8s_ogo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jay3z8s_ogo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jay3z8s_ogo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FedorUK Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-11T05:00:06Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "jr1cNbk_4afPj9wwmM4PiaQO-9Y",
@@ -1672,40 +1706,6 @@
         "channelTitle": "FedorUK Vlogs",
         "liveBroadcastContent": "none",
         "publishTime": "2021-10-27T04:45:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "cEJrb0_U3gf3ronpE22Ye3Tz2FI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "h3xKbn483lY"
-      },
-      "snippet": {
-        "publishedAt": "2021-10-23T05:54:29Z",
-        "channelId": "UCvd_X-p3MEFQKoDGQjb3OiQ",
-        "title": "Хеллоуин",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/h3xKbn483lY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/h3xKbn483lY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/h3xKbn483lY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "FedorUK Vlogs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-10-23T05:54:29Z"
       }
     }
   ]
