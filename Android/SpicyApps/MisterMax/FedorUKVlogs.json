@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "y78IBGvjQsTiMZBzi72wr48Osxw",
+  "etag": "aZovcrK8StuVsu02EOT3PyoboAc",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 362,
+    "totalResults": 363,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e_5gBJ5zhX7agbuv4payexCCYfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sot7t-XxQLI"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-18T05:00:17Z",
+        "channelId": "UCvd_X-p3MEFQKoDGQjb3OiQ",
+        "title": "ВЛОГ домой из Швейцарских Альп",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sot7t-XxQLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sot7t-XxQLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sot7t-XxQLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FedorUK Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-18T05:00:17Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "T2-s_7EOkSntmJw1HoNaaCrlCMs",
@@ -1672,40 +1706,6 @@
         "channelTitle": "FedorUK Vlogs",
         "liveBroadcastContent": "none",
         "publishTime": "2021-10-29T05:30:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "oYn9ibKYsRCyc4Wz1F3aOgsLxlM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "86b0D5D_QQo"
-      },
-      "snippet": {
-        "publishedAt": "2021-10-27T04:45:01Z",
-        "channelId": "UCvd_X-p3MEFQKoDGQjb3OiQ",
-        "title": "ВЛОГ Летим в бизнес классе с Этихад из Лондона в Абу-Даби",
-        "description": "VLOG Business Fly by Etihad from London to Abu Dhabi.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/86b0D5D_QQo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/86b0D5D_QQo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/86b0D5D_QQo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "FedorUK Vlogs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-10-27T04:45:01Z"
       }
     }
   ]
