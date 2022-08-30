@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "agHF2uBktwj6_H3O0Vrkrxxpz4c",
+  "etag": "_ULtq74pJ-S3dKx-MmteYhqexHw",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1418,
+    "totalResults": 1419,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YnE4fi_65IrlJy1jBcDYqgNT9CI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sw0oJCoc36A"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-30T13:00:21Z",
+        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+        "title": "Diana Roma Oliver Birthday Video Collection",
+        "description": "Diana, Roma and little Oliver celebrate birthdays. Diana makes presents for Dad's birthday. A collection of fun videos about ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sw0oJCoc36A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sw0oJCoc36A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sw0oJCoc36A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "✿ Kids Diana Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-30T13:00:21Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "H7dAvMOpMv3z1yWrRLN2ahG4xmM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "✿ Kids Diana Show",
         "liveBroadcastContent": "none",
         "publishTime": "2021-12-16T07:04:50Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "S8MS0lgXoishFcVPN-rZi-llafw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "filG7Yi0jkw"
-      },
-      "snippet": {
-        "publishedAt": "2021-12-13T07:02:05Z",
-        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
-        "title": "Diana is going to swim in the pool. Dad explains how to swim properly",
-        "description": "Diana is going to swim in the pool. Dad explains how to swim properly, what to wear and what to take with you. Diana and Roma ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/filG7Yi0jkw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/filG7Yi0jkw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/filG7Yi0jkw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "✿ Kids Diana Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-12-13T07:02:05Z"
       }
     }
   ]
