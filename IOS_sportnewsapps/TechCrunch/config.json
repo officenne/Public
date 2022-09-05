@@ -1,12 +1,12 @@
 [
   {
-    "title": "Home",
+    "title": "Tech Crunch",
     "drawable": "News-32",
-    "submenu": "Home",
+    "submenu": "Tech News",
     "iap": false,
     "tabs": [
       {
-        "title": "Home",
+        "title": "Tech Crunch",
         "provider": "wordpress",
         "arguments": [
           "https://techcrunch.com/wp-json/wp/v2/"
@@ -14,5 +14,109 @@
       }
     ]
   },
- 
+  {
+    "title": "Hack a Day",
+    "drawable": "News-32",
+    "submenu": "Tech News",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Hack a Day",
+        "provider": "wordpress",
+        "arguments": [
+          "https://hackaday.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "9to5mac",
+    "drawable": "News-32",
+    "submenu": "Home",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "9to5mac",
+        "provider": "wordpress",
+        "arguments": [
+          "https://9to5mac.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "9to5google",
+    "drawable": "News-32",
+    "submenu": "Tech News",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "9to5google",
+        "provider": "wordpress",
+        "arguments": [
+          "https://9to5google.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Digital Trends",
+    "drawable": "News-32",
+    "submenu": "Tech News",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Digital Trends",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.digitaltrends.com//wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Geek",
+    "drawable": "News-32",
+    "submenu": "Tech News",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Geek",
+        "provider": "wordpress",
+        "arguments": [
+          "https://geek.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Phandroid",
+    "drawable": "News-32",
+    "submenu": "Tech News",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Phandroid",
+        "provider": "wordpress",
+        "arguments": [
+          "https://phandroid.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "TED Blog",
+    "drawable": "News-32",
+    "submenu": "Tech News",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "TED Blog",
+        "provider": "wordpress",
+        "arguments": [
+          "https://blog.ted.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  }
 ]
