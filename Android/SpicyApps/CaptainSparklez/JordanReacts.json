@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "mEqEZ9fbBklSxCbjVrgRncYt9jQ",
+  "etag": "yKfz9eMDyBD1KENFFxMUKEA9vg4",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 649,
+    "totalResults": 654,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_pgN2yUW_yHqYaevF2JEFY1mkLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u_R_LlYkCaU"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-08T22:30:03Z",
+        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
+        "title": "Old Money Vs. New Money (Mildly Interesting)",
+        "description": "Photoshop wouldn't let me make this thumbnail because it thought I was making counterfeit money Previous ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u_R_LlYkCaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u_R_LlYkCaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u_R_LlYkCaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jordan Reacts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-08T22:30:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "JasAp9q9rhjQdXUXbSj8TfaAp5o",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Jordan Reacts",
         "liveBroadcastContent": "none",
         "publishTime": "2021-09-04T21:00:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "e46Tcai-xkp2eWCHX5D-7FOpPvk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "s0nZgvJPaOo"
-      },
-      "snippet": {
-        "publishedAt": "2021-08-31T21:00:31Z",
-        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
-        "title": "Tesla Cyber Truck 2 (Sh***y Car Mods #30)",
-        "description": "Now more eco friendly Previous ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/s0nZgvJPaOo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/s0nZgvJPaOo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/s0nZgvJPaOo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Jordan Reacts",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-08-31T21:00:31Z"
       }
     }
   ]
