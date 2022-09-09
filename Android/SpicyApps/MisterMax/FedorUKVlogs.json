@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "vMfNGew3x0a6LPQOfBMfKWHapiY",
+  "etag": "hpWUTn0tN6W4orZIcanVhLIxsfY",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 368,
+    "totalResults": 369,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XHF8cuDKjnlP-6T7pyhDEBluvj0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "znj1Qp_bcm4"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T05:00:19Z",
+        "channelId": "UCvd_X-p3MEFQKoDGQjb3OiQ",
+        "title": "Гардероб нового сезона",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/znj1Qp_bcm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/znj1Qp_bcm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/znj1Qp_bcm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FedorUK Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T05:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "5tF32TTY0dz9PgHwjfNMM3MuqSA",
@@ -1672,40 +1706,6 @@
         "channelTitle": "FedorUK Vlogs",
         "liveBroadcastContent": "none",
         "publishTime": "2021-11-09T05:45:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Ld_u9QrEP17hBpwGhnCGvNwh7YI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "vb2oz06iGos"
-      },
-      "snippet": {
-        "publishedAt": "2021-11-02T09:45:01Z",
-        "channelId": "UCvd_X-p3MEFQKoDGQjb3OiQ",
-        "title": "ВЛОГ Дикари в Дубаи Молл",
-        "description": "VLOG cavemans in Dubai Mall.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vb2oz06iGos/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vb2oz06iGos/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vb2oz06iGos/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "FedorUK Vlogs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-11-02T09:45:01Z"
       }
     }
   ]
