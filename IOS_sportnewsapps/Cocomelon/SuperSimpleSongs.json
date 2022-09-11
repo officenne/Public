@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "EOO4D5w47TFmHs4gcmx2BqsZE6w",
+  "etag": "E8JC-CcTwhxHtWTLQHkct_QpwwA",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1066,
+    "totalResults": 1067,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BU3FUDDnXV9Uwi3GHzyLPlkwaY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g9kiZ9wQIY0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-11T14:15:01Z",
+        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
+        "title": "Pumpkin Spice Peekaboo! #shorts",
+        "description": "Get the Super Simple App! ▻ http://bit.ly/TheSuperSimpleApp Here's a fun Peekaboo craft that you can do at home to celebrate ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g9kiZ9wQIY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g9kiZ9wQIY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g9kiZ9wQIY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Super Simple Songs - Kids Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-11T14:15:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "kFgYTKZCT9eoCWH4GNtAvhzP_8Y",
@@ -928,7 +962,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dr49U7CMMLKfWoEnXICIueKmsO4",
+      "etag": "-OiclotPAEx2hdVeddVZdc56oDw",
       "id": {
         "kind": "youtube#video",
         "videoId": "FSZ9Wy0o4ww"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Super Simple Songs - Kids Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2021-02-04T16:00:27Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "lGgV5U2iN-TxtiMbEclWczPq8-k",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "AsZwvuUmHGU"
-      },
-      "snippet": {
-        "publishedAt": "2021-01-28T11:30:01Z",
-        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
-        "title": "Put On Your Boots | Kids Songs | Super Simple Songs",
-        "description": "Get the Super Simple App! ▻ http://bit.ly/TheSuperSimpleApp Let's put on our boots before going outside in the snow and sing ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/AsZwvuUmHGU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/AsZwvuUmHGU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/AsZwvuUmHGU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Super Simple Songs - Kids Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-01-28T11:30:01Z"
       }
     }
   ]
