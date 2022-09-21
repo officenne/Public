@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "1av9_5O9EYamG1b9JO7zRLtaZfw",
+  "etag": "a-sHxopPL92ZE9qntN-hXHVbkf4",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 2993,
+    "totalResults": 2994,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Juh32JvigtAAAfePoR8T4ZR0a0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8-chPFeInTY"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-20T17:00:09Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "RIP My Money",
+        "description": "Am I Mr Krabs? CaptainSparklez subreddit react playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8-chPFeInTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8-chPFeInTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8-chPFeInTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-20T17:00:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "u5h9bcn8cJ8arHQkaOpsmge0Jcs",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-22T17:00:44Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3K7471njFmTcGrdaDuBGiN_JZbc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "TXig0AhzrZg"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-21T00:00:09Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft 1.19 But The Loot Is Randomized #1",
-        "description": "Thanks to MCProHosting for sponsoring this series! Use code \"CaptainSparklez\" to get 25% off your own server's first month: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TXig0AhzrZg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TXig0AhzrZg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TXig0AhzrZg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-21T00:00:09Z"
       }
     }
   ]
