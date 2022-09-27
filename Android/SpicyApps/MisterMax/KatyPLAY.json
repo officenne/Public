@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "XHlMPgkDQTq6wIyj4eXPsnxFl7Y",
+  "etag": "F7ndZl3BtrRj87CPUgJWYd8Y6gc",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 60,
+    "totalResults": 62,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uNTlhxnQ44NXkv38z2ZEgMs3Bdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aIJ2D-_sVMI"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-27T08:41:19Z",
+        "channelId": "UCufUZVlt_xWA2w0l_I2H6uw",
+        "title": "I almost had a heart attack because of Secret Neighbour",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aIJ2D-_sVMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aIJ2D-_sVMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aIJ2D-_sVMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Katy PLAY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-27T08:41:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "pm_NFqCqhg1L--2R3ZjH5yZJIWU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Katy PLAY",
         "liveBroadcastContent": "none",
         "publishTime": "2018-12-28T05:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "SReIGZgArRuz54Fo6cZ7GVyuLh8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "GMrbyI7_mnE"
-      },
-      "snippet": {
-        "publishedAt": "2018-12-21T05:00:00Z",
-        "channelId": "UCufUZVlt_xWA2w0l_I2H6uw",
-        "title": "ЗЛИМ БОБРА (или бульдога) в Do not disturb",
-        "description": "МОЙ Instagram ▻ https://www.instagram.com/katymisskaty/ ПОДПИСЫВАЙСЯ!!!! Мой СУПЕР Канал Miss Katy: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GMrbyI7_mnE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GMrbyI7_mnE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GMrbyI7_mnE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Katy PLAY",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-12-21T05:00:00Z"
       }
     }
   ]
