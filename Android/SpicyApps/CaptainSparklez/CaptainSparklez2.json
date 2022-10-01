@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "nvQ8cGXzalanZOi8PG61C9QQ2C0",
+  "etag": "kB-gAQWypPq32Wv5pnX6L5wBKMU",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5650,
+    "totalResults": 5651,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FsaRWjmQlTf1r6FY3H3mTOjAk8U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZjH2rIkCGi0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-30T20:00:21Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Minecraft Pixelmon Randomized Battle Challenge",
+        "description": "Thanks to Play.AnubisMC.com for sponsoring the video! Install the Pokemon Ultra pack on Technic and join the Oasis Realm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZjH2rIkCGi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZjH2rIkCGi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZjH2rIkCGi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-30T20:00:21Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ZU5lE68MJBHs5TXhK5x6rjvTnWI",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2020-05-25T22:00:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "DMkow2r1ZiqVDKFPMI7CXmzDMds",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3RvTliEBUGc"
-      },
-      "snippet": {
-        "publishedAt": "2020-04-29T22:00:02Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Chain Parkour Is Torture",
-        "description": "Soul speed and chains are a match made in heck Previous map ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3RvTliEBUGc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3RvTliEBUGc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3RvTliEBUGc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-04-29T22:00:02Z"
       }
     }
   ]
