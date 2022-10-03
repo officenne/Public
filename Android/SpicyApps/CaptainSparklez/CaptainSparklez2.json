@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "YyoR6PBnW7XGjn0n77t21rNIJQg",
+  "etag": "ndxwmGrRyEJ7eY7UfkYj0KDgpVk",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5647,
+    "totalResults": 5648,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mops37haKdg3utZnadItg6h7sFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1vgjRIUKbBw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-02T20:00:01Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Horde | Minecraft Modded Survival Ep. 7",
+        "description": "You can watch the streams on my second channel: https://www.youtube.com/watch?v=ZEWcQwaYBY8 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-02T20:00:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "FsaRWjmQlTf1r6FY3H3mTOjAk8U",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2020-04-24T22:00:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "aLC0KvYggzHsSIFAfiXBdZRvon8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "NXaeBM2hsgg"
-      },
-      "snippet": {
-        "publishedAt": "2020-04-04T22:00:05Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "This Is Not A Minecraft Map",
-        "description": "A clump of bedrock floating in the sky and not much else. Hmmmm... Previous map ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NXaeBM2hsgg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NXaeBM2hsgg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NXaeBM2hsgg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-04-04T22:00:05Z"
       }
     }
   ]
