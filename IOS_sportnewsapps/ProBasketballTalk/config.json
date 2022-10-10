@@ -20,13 +20,15 @@
       "submenu":"Sports Podcast",
       "iap":false,
       "tabs":[
-         {
+          {
             "title":"Sports Podcast",
-            "provider":"radio",
+            "provider":"soundcloud",
+            "image":"SoundCloud-32",
             "arguments":[
-               "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.193.205.96:7221/listen.pls?sid=1&t=.m3u"
+               "141751792",
+               "playlist"
             ]
-         }
+         },
       ]
    },
 ]
