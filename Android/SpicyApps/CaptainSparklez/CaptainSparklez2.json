@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "cUxC1wi8IIc2-RbyvR6QHyH0C6U",
+  "etag": "NeDhg180yGMJZ79Smq_huI8Lr7o",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5655,
+    "totalResults": 5656,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "CgebFS0JrQCmk8_3NEEPZU2JosA",
+      "etag": "FfiNOlaJoKHeRJ4xaL8SYzgLH50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EWH8TgyeIbw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-15T20:00:07Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Everything We Know About Minecraft 1.20",
+        "description": "Minecraft Live has shown us the first features from 1.20 Previous Minecraft Update Video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EWH8TgyeIbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EWH8TgyeIbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EWH8TgyeIbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-15T20:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZGKz2CMF_P_HMtf_epe4eKd3CCU",
       "id": {
         "kind": "youtube#video",
         "videoId": "SVYgEHJ4P-M"
@@ -146,7 +180,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Tt2h9bCXnGPkapEROY_Ts4t8liU",
+      "etag": "X1D6fEt1m6yWE_H7CG9yeGNZq7w",
       "id": {
         "kind": "youtube#video",
         "videoId": "QZ8a5oGNOQE"
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2020-04-29T22:00:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "7yMTihL1FT8nZbRZepyf73IqJoY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "h2FV6q-mai4"
-      },
-      "snippet": {
-        "publishedAt": "2020-04-26T22:00:18Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft: Nether Survival Let&#39;s Play Ep. 2 - Hoglins Are Terrible",
-        "description": "We out here trying to beat Minecraft in 1.16 by staying in the Nether as much as we possibly can. Series Playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/h2FV6q-mai4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/h2FV6q-mai4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/h2FV6q-mai4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-04-26T22:00:18Z"
       }
     }
   ]
