@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "l8pJdH8zfHIPNCJy9cmsPN_uZM0",
+  "etag": "fCKCtgbMhcZuK9dn2YRlfXunBUc",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 491,
+    "totalResults": 492,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "unXcb2sYBFX_IOI23PMytKb1tLQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KxrBakOjZHs"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-18T05:05:08Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Protecting the BED from Everyone CKN Gaming",
+        "description": "Protecting the BED from Everyone CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KxrBakOjZHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KxrBakOjZHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KxrBakOjZHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-18T05:05:08Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "s3pyazr36kzkWqzttsRf8lxSRzg",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-03-18T18:45:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "BjGzj6HwopcuCsyHYbhzvFQdRTM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "k54zKS_yCHU"
-      },
-      "snippet": {
-        "publishedAt": "2022-03-16T19:00:29Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Kaison Searching for Huggy Wuggy Skins CKN Gaming",
-        "description": "Kaison showing us where to find all the Huggy Wuggy Skins which is one of his favorite Roblox game right now. Thanks for ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/k54zKS_yCHU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/k54zKS_yCHU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/k54zKS_yCHU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-03-16T19:00:29Z"
       }
     }
   ]
