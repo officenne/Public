@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "bYNIcg5ReMHJ7Ir_AqPab6OVbkk",
+  "etag": "ixhKuuR_m9NRXEWt5skKPJu9AxI",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 179,
+    "totalResults": 180,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HAfU_5pBUwtt98Q9OeU_8N-Mh0M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X9Wd2TBEPpg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-19T07:22:49Z",
+        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
+        "title": "Ловлю лошадей в Wild horse islands",
+        "description": "Capture wild horses while exploring the massive open world of Wild Horse Islands!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X9Wd2TBEPpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X9Wd2TBEPpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X9Wd2TBEPpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Papa Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-19T07:22:49Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ABZSzCFUR7qr7zQdZp0KcnpMGjI",
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "t-_ZBh1Fn3Qqdav7L1LtWS9t5TI",
+      "etag": "nvOCjs5JmyTGigEuyDEqOfI1iFA",
       "id": {
         "kind": "youtube#video",
         "videoId": "NzuMVDo45jo"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Papa Play",
         "liveBroadcastContent": "none",
         "publishTime": "2022-04-11T09:40:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "w8HJlhyCimjvdbmMg7JwWOhV5ec",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "8p-f95by9Vs"
-      },
-      "snippet": {
-        "publishedAt": "2022-04-05T08:24:38Z",
-        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
-        "title": "Собери всех питомцев в Collect All Pets!",
-        "description": "Collect All Pets! is a brand new pet simulator game! Hatch eggs, and fuse them into higher rarity pets! Collect Legendary and ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8p-f95by9Vs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8p-f95by9Vs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8p-f95by9Vs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Papa Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-04-05T08:24:38Z"
       }
     }
   ]
