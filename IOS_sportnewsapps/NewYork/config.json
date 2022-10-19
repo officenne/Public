@@ -14,6 +14,131 @@
       }
     ]
   },
+  
+  
+  {
+    "title": "Knicks",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image":"News-32",
+        "arguments": [
+          "https://dailyknicks.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+         "title":"Twitter",
+         "provider":"twitter",
+         "image":"Twitter-32",
+         "arguments":[
+            "nyknicks"
+         ]
+      }
+    ]
+  },
+  {
+    "title": "Jets",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image":"News-32",
+        "arguments": [
+          "https://jetswire.usatoday.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+         "title":"Twitter",
+         "provider":"twitter",
+         "image":"Twitter-32",
+         "arguments":[
+            "nyjets"
+         ]
+      }
+    ]
+  },
+  {
+    "title": "Giants",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image":"News-32",
+        "arguments": [
+          "https://giantswire.usatoday.com/wp-json/wp/v2/"
+        ]
+      },
+      {
+         "title":"Twitter",
+         "provider":"twitter",
+         "image":"Twitter-32",
+         "arguments":[
+            "giants"
+         ]
+      }
+    ]
+  },
+  {
+    "title": "Mets",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      
+      {
+         "title":"Twitter",
+         "provider":"twitter",
+         "image":"Twitter-32",
+         "arguments":[
+            "Mets"
+         ]
+      }
+    ]
+  },
+  {
+    "title": "Yankees",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+     
+      {
+         "title":"Twitter",
+         "provider":"twitter",
+         "image":"Twitter-32",
+         "arguments":[
+            "Yankees"
+         ]
+      }
+    ]
+  },
+  {
+    "title": "Rangers",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+     
+      {
+         "title":"Twitter",
+         "provider":"twitter",
+         "image":"Twitter-32",
+         "arguments":[
+            "NYRangers"
+         ]
+      }
+    ]
+  },
   {
     "title": "U.S. & World",
     "drawable": "News-32",
