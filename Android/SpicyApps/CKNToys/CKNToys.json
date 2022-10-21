@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "_CpJ44rXPvY68wSGxtEQV-kQbpw",
+  "etag": "aT1ZxQJURvzVNCxvX-A54OiN-Hk",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 493,
+    "totalResults": 494,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7LQNe8vUOLr50C3hl_GF8M0M56o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H57wgPQQxfE"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-21T20:00:05Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "SONIC Halloween Update CKN Gaming",
+        "description": "Sonic Speed Simulator new Halloween update with new world. Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H57wgPQQxfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H57wgPQQxfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H57wgPQQxfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-21T20:00:05Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "3LhIthZwiBa7u4YQ_9dFoRoWg58",
@@ -554,7 +588,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "cps5vsIlxs_1tFtSGOSBapJqC0U",
+      "etag": "zGXOJ8s1voXzaBi5wHioaD0BUbo",
       "id": {
         "kind": "youtube#video",
         "videoId": "zWqDWnmoP7Y"
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-03-23T11:00:30Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Kz5IXu_O5hUSlyQIzm8CwVVWBHg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "YmcWaUWvN2s"
-      },
-      "snippet": {
-        "publishedAt": "2022-03-22T09:00:15Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Custom TNT in Minecraft CKN Gaming",
-        "description": "Custom TNT's in Minecraft are so cool. Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YmcWaUWvN2s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YmcWaUWvN2s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YmcWaUWvN2s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-03-22T09:00:15Z"
       }
     }
   ]
