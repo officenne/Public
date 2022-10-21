@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "v0aQrjfS93OKeVBiANL1EoZ9ZQg",
+  "etag": "Ga7PhdxdHkYpQL8_51TRK_cYU1I",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 142,
+    "totalResults": 143,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YyjljqWEaUnUTRDj_VYXFd_pCKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZSw38lpmxbg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-21T07:00:26Z",
+        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
+        "title": "click on this video to watch Maksym fail miserably at beating doors",
+        "description": "A new and unique horror game involving... doors.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZSw38lpmxbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZSw38lpmxbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZSw38lpmxbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-21T07:00:26Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "2IwTx4oAAly_80yFxKWH6e192Zk",
@@ -112,7 +146,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "6SPHMJyNZjuqB9C07L_ct6vtitw",
+      "etag": "d2VOnzp-bw4Lm9TrSSTxQZkmE1c",
       "id": {
         "kind": "youtube#video",
         "videoId": "0YJuaUMfSuw"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max Play",
         "liveBroadcastContent": "none",
         "publishTime": "2022-01-21T05:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "NNz4ggv2CkM9aEcT0IgJOTvQk2g",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "smHl0NiyFdA"
-      },
-      "snippet": {
-        "publishedAt": "2022-01-14T05:00:21Z",
-        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
-        "title": "Among Us НОВЫЕ РОЛИ",
-        "description": "Мой СУПЕР канал Mister Max: https://www.youtube.com/channel/UC_8PAD0Qmi6_gpe77S1Atgg/videos Спасибо, что ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/smHl0NiyFdA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/smHl0NiyFdA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/smHl0NiyFdA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-01-14T05:00:21Z"
       }
     }
   ]
