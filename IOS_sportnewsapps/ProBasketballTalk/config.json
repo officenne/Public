@@ -14,19 +14,468 @@
       }
     ]
   },
- {
-      "title":"Sports Podcast",
-      "drawable":"Microphone-32",
-      "submenu":"Sports Podcast",
-      "iap":false,
-      "tabs":[
-          {
-            "title":"Sports Podcast",
-            "provider":"radio",
-            "arguments":[
-               "http://mega5.radioserver.co.uk:8026"
-            ]
-         }
-      ]
-   },
+  {
+    "title": "Top Posts",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Top Posts",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "120992"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lakers",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Lakers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571662"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Heat",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Heat",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "43536"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "AP Story",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "AP Story",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "4807211"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cavaliers",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Cavaliers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "403843"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LeBron James",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "LeBron James",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571675"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Knicks",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Knicks",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571608"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Celtics",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Celtics",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "93549"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Warriors",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Warriors",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "168630"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bulls",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Bulls",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "25242"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Clippers",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Clippers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "434755"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Thunder",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Thunder",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "278513"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Spurs",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Spurs",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571613"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mavericks",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Mavericks",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571679"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rockets",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Rockets",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "248375"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nets",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Nets",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "84393"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kobe Bryant",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Kobe Bryant",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571629"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pacers",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Pacers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "191279"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kevin Durant",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Kevin Durant",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571494"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kings",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Kings",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571634"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Timberwolves",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Timberwolves",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "413378"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wizards",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Wizards",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "85449"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nuggets",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Nuggets",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571687"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Magic",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Magic",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571625"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Suns",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Suns",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "440258"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hawks",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Hawks",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "141169"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "76ers",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "76ers",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571128"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bucks",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Bucks",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571682"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Grizzlies",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Grizzlies",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nba.nbcsports.com/wp-json/wp/v2/",
+          "412571656"
+        ]
+      }
+    ]
+  }
 ]
