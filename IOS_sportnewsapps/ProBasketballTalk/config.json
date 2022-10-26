@@ -14,6 +14,24 @@
       }
     ]
   },
+    {
+      "title":"Podcasst",
+      "drawable":"SoundCloud-32",
+      "submenu":"Podcasst",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"Podcasst",
+            "provider":"soundcloud",
+            "image":"SoundCloud-32",
+            "arguments":[
+               "2560091",
+               "playlist"
+            ]
+         }
+         
+      ]
+   },
   {
     "title": "Top Posts",
     "drawable": "News-32",
