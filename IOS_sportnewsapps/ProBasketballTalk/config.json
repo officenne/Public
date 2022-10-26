@@ -20,15 +20,15 @@
       "submenu":"Podcasst",
       "iap":false,
       "tabs":[
-         {
-            "title":"Podcasst",
-            "provider":"soundcloud",
-            "image":"SoundCloud-32",
-            "arguments":[
-               "2560091",
-               "playlist"
-            ]
-         }
+            {
+              "title":"Sports Podcast",
+              "provider":"wordpress_audio",
+              "image":"WordPress-32",
+              "arguments":[
+                 "https://kidssong.egytests.com/wp-json/wp/v2/",
+                 ""
+              ]
+           }
          
       ]
    },
