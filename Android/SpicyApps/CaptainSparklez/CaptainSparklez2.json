@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Behn2ZRBcE_l97cMvLPb1r-TjPA",
+  "etag": "Uz2QwLR2syv3GFAQYpDiUA0PZMU",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5667,
+    "totalResults": 5668,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GoEp2QsRVhQubdaSoZLPYm9KjYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SSC8jRYNnUc"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T20:01:32Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Creeper Aw Man",
+        "description": "My first YouTube short Full Video: https://www.youtube.com/watch?v=Uy0XI4Ena1g Minecraft Shorts Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SSC8jRYNnUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SSC8jRYNnUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SSC8jRYNnUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T20:01:32Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Ht8cBPpvmiiydUVLVUAKR4BeVYE",
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "baQsvutQa0pg5NJeUZ6Dd4jd-U0",
+      "etag": "MYWkPau2Jz9Jl6s-xbh2cLz422I",
       "id": {
         "kind": "youtube#video",
         "videoId": "Uy0XI4Ena1g"
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2020-06-15T22:30:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TNEX48ym62gzT-iORWsfO5NYJuY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qrnhgQcRv1o"
-      },
-      "snippet": {
-        "publishedAt": "2020-06-13T22:00:14Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Escaping A Pink Minecraft Prison",
-        "description": "Ow my eyes the saturation it hurts Previous ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qrnhgQcRv1o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qrnhgQcRv1o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qrnhgQcRv1o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-06-13T22:00:14Z"
       }
     }
   ]
