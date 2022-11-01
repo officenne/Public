@@ -14,23 +14,709 @@
       }
     ]
   },
-     {
-      "title":"Podcasst",
-      "drawable":"SoundCloud-32",
-      "submenu":"Podcasst",
-      "iap":false,
-      "tabs":[
-            {
-              "title":"Sports Podcast",
-              "provider":"wordpress_audio",
-              "image":"WordPress-32",
-              "arguments":[
-                 "https://kidssong.egytests.com/wp-json/wp/v2/",
-                 ""
-              ]
-           }
-         
-      ]
-   },
- 
+  {
+    "title": "National Post",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "National Post",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nationalpost.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Financial Post",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Financial Post",
+        "provider": "wordpress",
+        "arguments": [
+          "https://financialpost.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canada.com",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canada.com",
+        "provider": "wordpress",
+        "arguments": [
+          "https://o.canada.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canadian Family Offices",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canadian Family Offices",
+        "provider": "wordpress",
+        "arguments": [
+          "https://canadianfamilyoffices.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canoe.com",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canoe.com",
+        "provider": "wordpress",
+        "arguments": [
+          "https://canoe.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Driving.ca",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Driving.ca",
+        "provider": "wordpress",
+        "arguments": [
+          "https://driving.ca/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The GrowthOp",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "The GrowthOp",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.thegrowthop.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Healthing.ca",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Healthing.ca",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.healthing.ca/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vancouver Canucks",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "89819"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "Canucks"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCr-FENk9ztCt4cBLbL5pI-w",
+          "channel",
+          "AIzaSyDS-mEXQ4W7FH_Yp8sahmVghwZQtQ3-YiY"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BC Lions",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "99092"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "BCLions"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UC3rpoaD6lodom8yyHAEQAwg",
+          "channel",
+          "AIzaSyDS-mEXQ4W7FH_Yp8sahmVghwZQtQ3-YiY"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vancouver Whitecaps FC",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "117277"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "whitecapsfc"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCJ_qxVONy87ISlB2sYwIlvA",
+          "channel",
+          "AIzaSyDS-mEXQ4W7FH_Yp8sahmVghwZQtQ3-YiY"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Local News",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Local News",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "38291"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "News",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "34581"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "World",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "World",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "47113"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "National",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "National",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "41719"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Politics",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Politics",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "39017"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Crime",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Crime",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "43942"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Business",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Business",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "55052"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Entertainment",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Entertainment",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "131372"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Celebrity",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Celebrity",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "136677"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vancouver Canucks",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Vancouver Canucks",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "89819"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Opinion",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Opinion",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "73767"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Health",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Health",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "170548"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sports",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Sports",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "83737"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Columnists",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Columnists",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "77223"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hockey",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Hockey",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "85522"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hot Topics",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Hot Topics",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "572681580"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Local Business",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Local Business",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "58248"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Life",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Life",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "154421"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NHL",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NHL",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "87614"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Local Arts",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Local Arts",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "134606"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Local Health",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Local Health",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "170698"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Music",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Music",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "147570"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Movies",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Movies",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "142598"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Food",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Food",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "166252"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fashion & Beauty",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Fashion & Beauty",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "154663"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Energy",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Energy",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "59616"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Television",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Television",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "146249"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Real Estate",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Real Estate",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "63310"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Books",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Books",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "153473"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Op-Ed",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Op-Ed",
+        "provider": "wordpress",
+        "arguments": [
+          "https://vancouversun.com/wp-json/wp/v2/",
+          "537529250"
+        ]
+      }
+    ]
+  }
 ]
