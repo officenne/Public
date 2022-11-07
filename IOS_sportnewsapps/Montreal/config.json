@@ -14,23 +14,709 @@
       }
     ]
   },
-     {
-      "title":"Podcasst",
-      "drawable":"SoundCloud-32",
-      "submenu":"Podcasst",
-      "iap":false,
-      "tabs":[
-            {
-              "title":"Sports Podcast",
-              "provider":"wordpress_audio",
-              "image":"WordPress-32",
-              "arguments":[
-                 "https://kidssong.egytests.com/wp-json/wp/v2/",
-                 ""
-              ]
-           }
-         
-      ]
-   },
- 
+  {
+    "title": "National Post",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "National Post",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nationalpost.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Financial Post",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Financial Post",
+        "provider": "wordpress",
+        "arguments": [
+          "https://financialpost.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canada.com",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canada.com",
+        "provider": "wordpress",
+        "arguments": [
+          "https://o.canada.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canadian Family Offices",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canadian Family Offices",
+        "provider": "wordpress",
+        "arguments": [
+          "https://canadianfamilyoffices.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canoe.com",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canoe.com",
+        "provider": "wordpress",
+        "arguments": [
+          "https://canoe.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Driving.ca",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Driving.ca",
+        "provider": "wordpress",
+        "arguments": [
+          "https://driving.ca/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The GrowthOp",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "The GrowthOp",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.thegrowthop.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Healthing.ca",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Healthing.ca",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.healthing.ca/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Montreal Canadiens",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "116052"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "CanadiensMTL"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCy8mtXf-Lxkyl6I6HMAq6-g",
+          "channel",
+          "AIzaSyCI6r1X7i0kVPoVg-zp0ZYFgnnPFvVE4F8"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Montreal Alouettes",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1341027"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "mtlalouettes"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCaKdP9QIcu901SvlOmSzYug",
+          "channel",
+          "AIzaSyCI6r1X7i0kVPoVg-zp0ZYFgnnPFvVE4F8"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Laval Rocket",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1994"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "RocketLaval"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCt5UbdS3Iqdb2HO-6aDRYrw",
+          "channel",
+          "AIzaSyCI6r1X7i0kVPoVg-zp0ZYFgnnPFvVE4F8"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Local News",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Local News",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "10657"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "News",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "103"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sports",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Sports",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "67"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "World",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "World",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1857"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NHL",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NHL",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1996"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hockey",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Hockey",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1994"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Business",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Business",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "179"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Montreal Canadiens",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Montreal Canadiens",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "116052"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Quebec",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Quebec",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "56943"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "National",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "National",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "10907"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Columnists",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Columnists",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "124208"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hockey Inside Out",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Hockey Inside Out",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "429115209"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Opinion",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Opinion",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "352"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Entertainment",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Entertainment",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "384"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Life",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Life",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "124"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "West Island Gazette",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "West Island Gazette",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "110358079"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Local Business",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Local Business",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "181403"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Urban Expressions",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Urban Expressions",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "6681142"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Arts",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Arts",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "2306508"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Music",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Music",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "18"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Food",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Food",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "586"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Football",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Football",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1134"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Celebrity",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Celebrity",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "5350"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Health",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Health",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "337"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Local Arts",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Local Arts",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "429109639"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CFL",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "CFL",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "82113"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Montreal Alouettes",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Montreal Alouettes",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1341027"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Soccer",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Soccer",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1693"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tennis",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Tennis",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "1999"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Off-Island Gazette",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Off-Island Gazette",
+        "provider": "wordpress",
+        "arguments": [
+          "https://montrealgazette.com/wp-json/wp/v2/",
+          "261621651"
+        ]
+      }
+    ]
+  }
 ]
