@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "pAW--m2C9PEctoTRouUQ7K7WJxA",
+  "etag": "WHWg1iIZLMfNYd0HLmeVCWrV5IY",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oA6sMMADs4O16loz14s_Sun9paU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7KUjMuvSeIA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-08T21:00:04Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Terraria Experience",
+        "description": "Well that hurts Full VoD: https://www.youtube.com/watch?v=72_51c-7N5I&t=1774s My Links ○ My clothing line: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7KUjMuvSeIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7KUjMuvSeIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7KUjMuvSeIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-08T21:00:04Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "FOes3fRSqtYIhSnDMp9GvalWUJs",
@@ -40,40 +74,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-07T21:00:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "H6eJENQl1mEUXB5gzgWKASaDabU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yCYKKbE_UIg"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-06T21:00:22Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "5head Gamer",
-        "description": "Aw man Full VoD: https://www.youtube.com/watch?v=rlwzNLz8mtQ Minecraft Shorts Playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yCYKKbE_UIg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yCYKKbE_UIg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yCYKKbE_UIg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-06T21:00:22Z"
       }
     },
     {
