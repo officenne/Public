@@ -14,23 +14,779 @@
       }
     ]
   },
-     {
-      "title":"Podcasst",
-      "drawable":"SoundCloud-32",
-      "submenu":"Podcasst",
-      "iap":false,
-      "tabs":[
-            {
-              "title":"Sports Podcast",
-              "provider":"wordpress_audio",
-              "image":"WordPress-32",
-              "arguments":[
-                 "https://kidssong.egytests.com/wp-json/wp/v2/",
-                 ""
-              ]
-           }
-         
-      ]
-   },
- 
+  {
+    "title": "National Post",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "National Post",
+        "provider": "wordpress",
+        "arguments": [
+          "https://nationalpost.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Financial Post",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Financial Post",
+        "provider": "wordpress",
+        "arguments": [
+          "https://financialpost.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canada.com",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canada.com",
+        "provider": "wordpress",
+        "arguments": [
+          "https://o.canada.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canadian Family Offices",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canadian Family Offices",
+        "provider": "wordpress",
+        "arguments": [
+          "https://canadianfamilyoffices.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canoe.com",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canoe.com",
+        "provider": "wordpress",
+        "arguments": [
+          "https://canoe.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Driving.ca",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Driving.ca",
+        "provider": "wordpress",
+        "arguments": [
+          "https://driving.ca/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The GrowthOp",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "The GrowthOp",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.thegrowthop.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Healthing.ca",
+    "drawable": "News-32",
+    "submenu": "National",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Healthing.ca",
+        "provider": "wordpress",
+        "arguments": [
+          "https://www.healthing.ca/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto Maple Leafs",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460868"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "MapleLeafs"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCMrpTL3zZyNA5S1p9B3FhWg",
+          "channel",
+          "AIzaSyC97rNOl_1y9gPu10jPFvni3kxOjUXgMaU"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto Blue Jays",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460852"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "BlueJays"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCVPkZh_H6m_stW8hq-2-yNw",
+          "channel",
+          "AIzaSyCI6r1X7i0kVPoVg-zp0ZYFgnnPFvVE4F8"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto Raptors",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460922"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "Raptors"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCYBFE432C2AmNRDGEXE4uVg",
+          "channel",
+          "AIzaSyC97rNOl_1y9gPu10jPFvni3kxOjUXgMaU"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto FC",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460875"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "torontofc"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCc1qA_64TEqAX9pnGJOO0Dw",
+          "channel",
+          "AIzaSyC97rNOl_1y9gPu10jPFvni3kxOjUXgMaU"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto Argonauts",
+    "drawable": "News-32",
+    "submenu": "Sports",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "image": "News-32",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460859"
+        ]
+      },
+      {
+        "title": "Twitter",
+        "provider": "twitter",
+        "image": "Twitter-32",
+        "arguments": [
+          "torontoargos"
+        ]
+      },
+      {
+        "title": "Watch",
+        "provider": "youtube",
+        "image": "TV-Show-32",
+        "arguments": [
+          "UCZqdOY__IvB4KTamz363ouA",
+          "channel",
+          "AIzaSyC97rNOl_1y9gPu10jPFvni3kxOjUXgMaU"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "World",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "World",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460836"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto & GTA",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Toronto & GTA",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460832"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Canada",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Canada",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460826"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Crime",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Crime",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460828"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ontario",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Ontario",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460830"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Columnists",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Columnists",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460841"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Celebrity",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Celebrity",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460797"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NHL",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NHL",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460866"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hockey",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Hockey",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460863"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "News",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "News",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460824"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto Maple Leafs",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Toronto Maple Leafs",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460868"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Football",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Football",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460856"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NFL",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NFL",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "604403920"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Basketball",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Basketball",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460854"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sports",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Sports",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460788"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Baseball",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Baseball",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460850"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NBA",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "NBA",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "2298384"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Television",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Television",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460912"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MLB",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "MLB",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "604403922"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto Raptors",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Toronto Raptors",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460922"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Weird",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Weird",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460834"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Soccer",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Soccer",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460789"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sunshine Girls",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Sunshine Girls",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460886"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Relationships",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Relationships",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "596619778"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Music",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Music",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460801"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Movies",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Movies",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460799"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Toronto Blue Jays",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Toronto Blue Jays",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460852"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Editorial Cartoons",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Editorial Cartoons",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460843"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Editorials",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Editorials",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460845"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Letters",
+    "drawable": "News-32",
+    "submenu": "News Sections",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Letters",
+        "provider": "wordpress",
+        "arguments": [
+          "https://torontosun.com/wp-json/wp/v2/",
+          "460847"
+        ]
+      }
+    ]
+  }
 ]
