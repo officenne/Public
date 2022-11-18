@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "NWMAmrjoAZoIsz7FV71wD-7jQPs",
+  "etag": "7HN7MvUEsLjHcLPhscK06WmkfNI",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 186,
+    "totalResults": 187,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h99g3b5OVo7wvmx0f9_IUYT4ock",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ybULVcO1r4Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-18T08:00:32Z",
+        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
+        "title": "Дошел до 30й двери в Doors",
+        "description": "A new and unique horror game involving... doors.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ybULVcO1r4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ybULVcO1r4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ybULVcO1r4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Papa Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-18T08:00:32Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "htPUNL3eeESkUner3XEfcKwICw0",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Papa Play",
         "liveBroadcastContent": "none",
         "publishTime": "2022-05-10T05:00:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "UIgJLup93VnrwgqKMXLvCHD68bM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RGQQC0Tx3Ao"
-      },
-      "snippet": {
-        "publishedAt": "2022-05-05T06:38:51Z",
-        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
-        "title": "Стал БЛОГЕРОМ в YouTube Life!",
-        "description": "Welcome to YouTube Life! In this game your goal is to gain as many subscribers as you can and become the biggest youtuber in ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RGQQC0Tx3Ao/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RGQQC0Tx3Ao/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RGQQC0Tx3Ao/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Papa Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-05-05T06:38:51Z"
       }
     }
   ]
