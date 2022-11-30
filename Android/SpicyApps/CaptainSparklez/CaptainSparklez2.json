@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "RG7Vc43s4TSzPqUjElawXmYTME0",
+  "etag": "ZZYQeulWMbhKRK1W0TEeVLBS1Sw",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5696,
+    "totalResults": 5698,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TSknXh5ELkC1ErQhT8J7ly3FFNY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R9v028B4PHc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T21:00:09Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Terraria But Expert Ep. 2 - Slime King",
+        "description": "Today we try to fight the King Slime and it's difficult Quality Content Black Friday: https://qualitycontent.com/ Terraria Expert ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R9v028B4PHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R9v028B4PHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R9v028B4PHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T21:00:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "DysZGGzyVyF78oZ9XvSYHgcBBwo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2020-06-23T22:00:17Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "GU4fb5k7PNgyYYGfPzU3SrrfLcU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "P_oOL6lfcnQ"
-      },
-      "snippet": {
-        "publishedAt": "2020-06-19T22:00:05Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Map But I Don&#39;t Know What&#39;s Happening",
-        "description": "I have no idea what is going on but things are happening. Previous ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/P_oOL6lfcnQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/P_oOL6lfcnQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/P_oOL6lfcnQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-06-19T22:00:05Z"
       }
     }
   ]
