@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "0mceiZdPA4fcM5UUeLdGt32eJIY",
+  "etag": "zJJ2WFY27rhxowWH_53A2Q4NSR8",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 581,
+    "totalResults": 583,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g0qNcHi6WvvwZpByPYX0BD8Q1g4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uA78fMaWZT4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-14T19:48:59Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Doing what’s right ❤️ - #shorts",
+        "description": "FOLLOW ME (or I'll kick you) Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uA78fMaWZT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uA78fMaWZT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uA78fMaWZT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-14T19:48:59Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "sEAvxLDgXo8Uu2F4lbJxGOLR4vw",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-15T14:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "D4jXm1XhvSnaFScs8SX8MBoOwyI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qdElhf4moXY"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-13T23:55:28Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "MOMS ALWAYS SAY YES TO THE FRIEND 😂 - #shorts",
-        "description": "FOLLOW ME (or I'll kick you) Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qdElhf4moXY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qdElhf4moXY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qdElhf4moXY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-13T23:55:28Z"
       }
     }
   ]
