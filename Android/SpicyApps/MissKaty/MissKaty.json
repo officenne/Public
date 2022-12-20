@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "YiV2jzWmVAhPvT_15jByQon1H9E",
+  "etag": "si-oTkMtx9-PJc16n1JI_Lah_HQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1218,
+    "totalResults": 1221,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LcaiI9zGVc-GM9XgbRZ80tAOedo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E3u57mJrfGo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-20T06:00:03Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Катя и ее &quot;подружки&quot; на плейдейт",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E3u57mJrfGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E3u57mJrfGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E3u57mJrfGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-20T06:00:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "fdXgLgeZfRglx-VJkTQWfpxDzWU",
@@ -180,7 +214,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Z1vHxy_b53T0FhaEyZ4pJOuceV8",
+      "etag": "GrtVNjwVZHCGJ2elzz97_aD1y6w",
       "id": {
         "kind": "youtube#video",
         "videoId": "YIfvjiPmwGs"
@@ -1404,7 +1438,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "gwEcIS6M8ST8Bie_V4Zk44P3v64",
+      "etag": "GaYHjl-3Ev07ZIexSzebZ83gfUw",
       "id": {
         "kind": "youtube#video",
         "videoId": "gZR1a1OXcXY"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2021-12-22T06:00:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "BEjXMhiZtkoFDuFsxP-vWn_N0dY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "8Sl_UvCsFZo"
-      },
-      "snippet": {
-        "publishedAt": "2021-12-15T10:00:04Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Дом 2 построили новый двухэтажный игровой домик",
-        "description": "Built a new two-story playhouse.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8Sl_UvCsFZo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8Sl_UvCsFZo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8Sl_UvCsFZo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-12-15T10:00:04Z"
       }
     }
   ]
