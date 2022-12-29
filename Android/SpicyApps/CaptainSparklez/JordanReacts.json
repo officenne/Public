@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "KMhRRuvO8OreUeR-4GKnVvhuOOg",
+  "etag": "xQoYbvwsJcfAQJN5IyC0RLw5uC4",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 701,
+    "totalResults": 700,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "661RBhdxETXSr3nmjbFZ7OOMMYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rQJUy4g3Eds"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-28T19:15:03Z",
+        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
+        "title": "Why does it do that?",
+        "description": "This is so cool! My Links ○ My clothing line: https://qualitycontent.com/ ○ My headset: https://astro.family/captainsparklez ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rQJUy4g3Eds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rQJUy4g3Eds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rQJUy4g3Eds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jordan Reacts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-28T19:15:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "lnNzFuWZRzkQxDr1ZF2-kxDYvu4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Jordan Reacts",
         "liveBroadcastContent": "none",
         "publishTime": "2022-01-22T22:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "sQKSpU8FUoSM5PkkB8gC9d8WLSs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "5qHnXpGgFM4"
-      },
-      "snippet": {
-        "publishedAt": "2022-01-18T22:00:04Z",
-        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
-        "title": "RIP New Corvette (Sh***y Car Mods #32)",
-        "description": "Check out the Jord GT headset: https://astro.family/JordGTA40 Previous ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5qHnXpGgFM4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5qHnXpGgFM4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5qHnXpGgFM4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Jordan Reacts",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-01-18T22:00:04Z"
       }
     }
   ]
