@@ -1,0 +1,749 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "307",
+        "season": "2022"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "league": {
+                "id": 307,
+                "name": "Pro League",
+                "country": "Saudi-Arabia",
+                "logo": "https://media-1.api-sports.io/football/leagues/307.png",
+                "flag": "https://media.api-sports.io/flags/sa.svg",
+                "season": 2022,
+                "standings": [
+                    [
+                        {
+                            "rank": 1,
+                            "team": {
+                                "id": 2939,
+                                "name": "Al-Nassr",
+                                "logo": "https://media.api-sports.io/football/teams/2939.png"
+                            },
+                            "points": 23,
+                            "goalsDiff": 18,
+                            "group": "Saudi League",
+                            "form": "DWWWW",
+                            "status": "same",
+                            "description": "AFC Champions League",
+                            "all": {
+                                "played": 10,
+                                "win": 7,
+                                "draw": 2,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 24,
+                                    "against": 6
+                                }
+                            },
+                            "home": {
+                                "played": 6,
+                                "win": 4,
+                                "draw": 2,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 4
+                                }
+                            },
+                            "away": {
+                                "played": 4,
+                                "win": 3,
+                                "draw": 0,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 11,
+                                    "against": 2
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 2,
+                            "team": {
+                                "id": 2940,
+                                "name": "Al Shabab",
+                                "logo": "https://media.api-sports.io/football/teams/2940.png"
+                            },
+                            "points": 22,
+                            "goalsDiff": 15,
+                            "group": "Saudi League",
+                            "form": "LWDWW",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 9,
+                                "win": 7,
+                                "draw": 1,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 21,
+                                    "against": 6
+                                }
+                            },
+                            "home": {
+                                "played": 4,
+                                "win": 4,
+                                "draw": 0,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 0
+                                }
+                            },
+                            "away": {
+                                "played": 5,
+                                "win": 3,
+                                "draw": 1,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 6
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 3,
+                            "team": {
+                                "id": 2938,
+                                "name": "Al-Ittihad FC",
+                                "logo": "https://media.api-sports.io/football/teams/2938.png"
+                            },
+                            "points": 21,
+                            "goalsDiff": 12,
+                            "group": "Saudi League",
+                            "form": "WWDWD",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 9,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 14,
+                                    "against": 2
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 4,
+                                "draw": 1,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 1
+                                }
+                            },
+                            "away": {
+                                "played": 4,
+                                "win": 2,
+                                "draw": 2,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 5,
+                                    "against": 1
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 4,
+                            "team": {
+                                "id": 2932,
+                                "name": "Al-Hilal Saudi FC",
+                                "logo": "https://media.api-sports.io/football/teams/2932.png"
+                            },
+                            "points": 21,
+                            "goalsDiff": 10,
+                            "group": "Saudi League",
+                            "form": "DWWDD",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 6,
+                                "draw": 3,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 18,
+                                    "against": 8
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 3,
+                                "draw": 1,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 4
+                                }
+                            },
+                            "away": {
+                                "played": 5,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 8,
+                                    "against": 4
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 5,
+                            "team": {
+                                "id": 2936,
+                                "name": "Al Taawon",
+                                "logo": "https://media-1.api-sports.io/football/teams/2936.png"
+                            },
+                            "points": 20,
+                            "goalsDiff": 5,
+                            "group": "Saudi League",
+                            "form": "LWWLW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 6,
+                                "draw": 2,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 15,
+                                    "against": 10
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 3,
+                                "draw": 1,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 5
+                                }
+                            },
+                            "away": {
+                                "played": 5,
+                                "win": 3,
+                                "draw": 1,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 6,
+                                    "against": 5
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 6,
+                            "team": {
+                                "id": 2956,
+                                "name": "Dhamk",
+                                "logo": "https://media.api-sports.io/football/teams/2956.png"
+                            },
+                            "points": 17,
+                            "goalsDiff": 5,
+                            "group": "Saudi League",
+                            "form": "DDWDD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 4,
+                                "draw": 5,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 12,
+                                    "against": 7
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 5,
+                                    "against": 2
+                                }
+                            },
+                            "away": {
+                                "played": 5,
+                                "win": 2,
+                                "draw": 2,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 7,
+                                    "against": 5
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 7,
+                            "team": {
+                                "id": 2951,
+                                "name": "Abha",
+                                "logo": "https://media.api-sports.io/football/teams/2951.png"
+                            },
+                            "points": 16,
+                            "goalsDiff": -3,
+                            "group": "Saudi League",
+                            "form": "WWWWL",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 5,
+                                "draw": 1,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 16
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 2,
+                                "draw": 1,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 5,
+                                    "against": 10
+                                }
+                            },
+                            "away": {
+                                "played": 5,
+                                "win": 3,
+                                "draw": 0,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 8,
+                                    "against": 6
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 8,
+                            "team": {
+                                "id": 2931,
+                                "name": "Al-Fateh",
+                                "logo": "https://media-1.api-sports.io/football/teams/2931.png"
+                            },
+                            "points": 15,
+                            "goalsDiff": 5,
+                            "group": "Saudi League",
+                            "form": "LWWWL",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 5,
+                                "draw": 0,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 16,
+                                    "against": 11
+                                }
+                            },
+                            "home": {
+                                "played": 6,
+                                "win": 3,
+                                "draw": 0,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 8,
+                                    "against": 6
+                                }
+                            },
+                            "away": {
+                                "played": 4,
+                                "win": 2,
+                                "draw": 0,
+                                "lose": 2,
+                                "goals": {
+                                    "for": 8,
+                                    "against": 5
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 9,
+                            "team": {
+                                "id": 2942,
+                                "name": "Al Taee",
+                                "logo": "https://media-1.api-sports.io/football/teams/2942.png"
+                            },
+                            "points": 15,
+                            "goalsDiff": -1,
+                            "group": "Saudi League",
+                            "form": "LLLWW",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 5,
+                                "draw": 0,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 13,
+                                    "against": 14
+                                }
+                            },
+                            "home": {
+                                "played": 4,
+                                "win": 3,
+                                "draw": 0,
+                                "lose": 1,
+                                "goals": {
+                                    "for": 7,
+                                    "against": 3
+                                }
+                            },
+                            "away": {
+                                "played": 6,
+                                "win": 2,
+                                "draw": 0,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 6,
+                                    "against": 11
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 10,
+                            "team": {
+                                "id": 2934,
+                                "name": "Al-Ettifaq",
+                                "logo": "https://media-1.api-sports.io/football/teams/2934.png"
+                            },
+                            "points": 13,
+                            "goalsDiff": 4,
+                            "group": "Saudi League",
+                            "form": "WDLWD",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 3,
+                                "draw": 4,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 6
+                                }
+                            },
+                            "home": {
+                                "played": 6,
+                                "win": 2,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 6,
+                                    "against": 5
+                                }
+                            },
+                            "away": {
+                                "played": 4,
+                                "win": 1,
+                                "draw": 3,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 4,
+                                    "against": 1
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 11,
+                            "team": {
+                                "id": 2935,
+                                "name": "Al-Raed",
+                                "logo": "https://media.api-sports.io/football/teams/2935.png"
+                            },
+                            "points": 12,
+                            "goalsDiff": -5,
+                            "group": "Saudi League",
+                            "form": "WLLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 4,
+                                "draw": 0,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 9,
+                                    "against": 14
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 2,
+                                "draw": 0,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 4,
+                                    "against": 8
+                                }
+                            },
+                            "away": {
+                                "played": 5,
+                                "win": 2,
+                                "draw": 0,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 5,
+                                    "against": 6
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 12,
+                            "team": {
+                                "id": 2944,
+                                "name": "Al-Fayha",
+                                "logo": "https://media-1.api-sports.io/football/teams/2944.png"
+                            },
+                            "points": 11,
+                            "goalsDiff": -8,
+                            "group": "Saudi League",
+                            "form": "WWWLL",
+                            "status": "up",
+                            "description": null,
+                            "all": {
+                                "played": 11,
+                                "win": 3,
+                                "draw": 2,
+                                "lose": 6,
+                                "goals": {
+                                    "for": 10,
+                                    "against": 18
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 1,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 4,
+                                    "against": 8
+                                }
+                            },
+                            "away": {
+                                "played": 6,
+                                "win": 2,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 6,
+                                    "against": 10
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 13,
+                            "team": {
+                                "id": 2937,
+                                "name": "Al Wehda Club",
+                                "logo": "https://media.api-sports.io/football/teams/2937.png"
+                            },
+                            "points": 9,
+                            "goalsDiff": -5,
+                            "group": "Saudi League",
+                            "form": "DDLWL",
+                            "status": "down",
+                            "description": null,
+                            "all": {
+                                "played": 10,
+                                "win": 2,
+                                "draw": 3,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 4,
+                                    "against": 9
+                                }
+                            },
+                            "home": {
+                                "played": 4,
+                                "win": 2,
+                                "draw": 2,
+                                "lose": 0,
+                                "goals": {
+                                    "for": 4,
+                                    "against": 1
+                                }
+                            },
+                            "away": {
+                                "played": 6,
+                                "win": 0,
+                                "draw": 1,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 0,
+                                    "against": 8
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 14,
+                            "team": {
+                                "id": 2950,
+                                "name": "Al-Adalah",
+                                "logo": "https://media.api-sports.io/football/teams/2950.png"
+                            },
+                            "points": 5,
+                            "goalsDiff": -15,
+                            "group": "Saudi League",
+                            "form": "DLLLL",
+                            "status": "same",
+                            "description": null,
+                            "all": {
+                                "played": 11,
+                                "win": 1,
+                                "draw": 2,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 5,
+                                    "against": 20
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 1,
+                                "draw": 0,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 2,
+                                    "against": 9
+                                }
+                            },
+                            "away": {
+                                "played": 6,
+                                "win": 0,
+                                "draw": 2,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 3,
+                                    "against": 11
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 15,
+                            "team": {
+                                "id": 2928,
+                                "name": "Al Khaleej Saihat",
+                                "logo": "https://media-1.api-sports.io/football/teams/2928.png"
+                            },
+                            "points": 4,
+                            "goalsDiff": -14,
+                            "group": "Saudi League",
+                            "form": "LLLLL",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 10,
+                                "win": 1,
+                                "draw": 1,
+                                "lose": 8,
+                                "goals": {
+                                    "for": 4,
+                                    "against": 18
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 1,
+                                "draw": 1,
+                                "lose": 3,
+                                "goals": {
+                                    "for": 3,
+                                    "against": 6
+                                }
+                            },
+                            "away": {
+                                "played": 5,
+                                "win": 0,
+                                "draw": 0,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 1,
+                                    "against": 12
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        },
+                        {
+                            "rank": 16,
+                            "team": {
+                                "id": 2926,
+                                "name": "Al Baten",
+                                "logo": "https://media-1.api-sports.io/football/teams/2926.png"
+                            },
+                            "points": 1,
+                            "goalsDiff": -23,
+                            "group": "Saudi League",
+                            "form": "LLLLD",
+                            "status": "same",
+                            "description": "Relegation",
+                            "all": {
+                                "played": 10,
+                                "win": 0,
+                                "draw": 1,
+                                "lose": 9,
+                                "goals": {
+                                    "for": 5,
+                                    "against": 28
+                                }
+                            },
+                            "home": {
+                                "played": 5,
+                                "win": 0,
+                                "draw": 1,
+                                "lose": 4,
+                                "goals": {
+                                    "for": 4,
+                                    "against": 16
+                                }
+                            },
+                            "away": {
+                                "played": 5,
+                                "win": 0,
+                                "draw": 0,
+                                "lose": 5,
+                                "goals": {
+                                    "for": 1,
+                                    "against": 12
+                                }
+                            },
+                            "update": "2022-12-30T00:00:00+00:00"
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
