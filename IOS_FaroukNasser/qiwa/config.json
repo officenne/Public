@@ -1,0 +1,83 @@
+[
+   {
+    "title": "تويتر",
+    "drawable": "Twitter-32",
+    "submenu": "اخبار حساب المواطن",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "تويتر",
+        "provider": "twitter",
+        "arguments": [
+          "qiwa_sa"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "منصة قوى",
+    "drawable": "News-32",
+    "submenu": "منصة قوى",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "منصة قوى",
+        "provider": "wordpress",
+        "image": "webview",
+        "arguments": [
+          "https://qiwa.sa/"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "الرئيسية | قوى",
+    "drawable": "Domain-32",
+    "submenu": "منصة قوى",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "الرئيسية | قوى",
+        "provider": "webview",
+        "arguments": [
+          "https://portal.qiwa.sa/"
+        ]
+      }
+    ]
+  },
+  
+  {
+    "title": "شاهد",
+    "drawable": "TV-Show-32",
+    "submenu": "فديو",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "شاهد",
+        "provider": "youtube",
+        "image": "Playlist-32",
+        "arguments": [
+          "UCiZnNUtcPKOeQWxBMg8Lb4Q",
+          "channel",
+          "AIzaSyCsSaXuFlagDnpIwarHBLZ1sKxVES26vec"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "اتصل بنا",
+    "drawable": "Microphone-32",
+    "submenu": "اتصل بنا",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "اتصل بنا",
+        "provider": "custom",
+        "image": "Playlist-32",
+        "arguments": [
+          "tel:920000105"
+        ]
+      }
+    ]
+  }
+]
