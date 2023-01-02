@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "hXr6psEuyU9hiuEvJ0Oj3HhfOAE",
+  "etag": "GNyoSCM87GS_TxTCF_YzjY_tq-w",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 3218,
+    "totalResults": 3228,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uxT6ME6mj2kqDAQ3Vzkcf0mdg48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BZtOAZBrP2U"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-02T01:00:03Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Christmas Cooking In Plate Up",
+        "description": "Elves to be cooking tho Plate Up Playlist: https://www.youtube.com/playlist?list=PLli4oThJ08Zzk6d2wYvXLyrRe2qv0Fmt9 Other ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BZtOAZBrP2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BZtOAZBrP2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZtOAZBrP2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-02T01:00:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "NFgeGnMB7x6-p9G3sxk33377980",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-22T01:00:21Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "zHw_cqetuJ8wGhTsG9N8ltqKDr8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3yoBzmWEkDE"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-21T18:00:02Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Block Wars The First",
-        "description": "Block Wars is a tourney made for the MCC testers that's been going on for over a year and they just expanded to let more people ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3yoBzmWEkDE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3yoBzmWEkDE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3yoBzmWEkDE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-21T18:00:02Z"
       }
     }
   ]
