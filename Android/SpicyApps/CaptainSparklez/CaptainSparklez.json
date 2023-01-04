@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "tIGpXPYb79ewa66pxyM8UCJC3so",
+  "etag": "9ncs8P1Y6s0gS4ET6jfsB5MuOtY",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 3236,
+    "totalResults": 3244,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h4qVPAgDQeZ9g11mCSwEtYCXsvE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G3kf77hA-HU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-04T01:00:08Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Terraria Expert Ep. 2 - Slime King",
+        "description": "Much more difficult than I remember Quality Content 50% off: https://qualitycontent.com/ Terraria Expert Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G3kf77hA-HU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G3kf77hA-HU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G3kf77hA-HU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-04T01:00:08Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xLcwtL4XCHCFk_V19EZHbmXsS0Q",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-23T01:00:12Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "gVnCbSOZb0S_dodR9MVFomnb2vE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zgz5uat8dxk"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-22T01:00:21Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Terraria Ep. 16 - Wall Of Flesh",
-        "description": "Today we commit crime Terraria Playlist: https://www.youtube.com/playlist?list=PLli4oThJ08ZyDG7dEcyuRWKmF5cZQVw_u Get ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zgz5uat8dxk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zgz5uat8dxk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zgz5uat8dxk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-22T01:00:21Z"
       }
     }
   ]
