@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "-vbJa-4aXXV5AjhnLCuT_M2Dl9U",
+  "etag": "1ZyvDLukuTeZ2WOtynGHS5RYs5o",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 719,
+    "totalResults": 718,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4OYT2MyY8xagBEvuy_7LZV-5zHM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D8SE_WeBd2c"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-11T19:15:00Z",
+        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
+        "title": "Mind Blowing Things You Need To See To Believe!",
+        "description": "Mind-Blowing Things You Need To See To Believe! Previous ▻ https://youtu.be/-yFXi2jexkg My Links ○ My clothing line: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D8SE_WeBd2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D8SE_WeBd2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D8SE_WeBd2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jordan Reacts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-11T19:15:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Y4Y3zLJyZKLijDsGVFd3gB6lQ5s",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Jordan Reacts",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-18T19:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "9fx72tUgkO9EXDDjQpIaAjr1TV8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "U4sKmaSCyWw"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-11T19:30:05Z",
-        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
-        "title": "Dog (Crappy Design)",
-        "description": "Yes this is dog Previous ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/U4sKmaSCyWw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/U4sKmaSCyWw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/U4sKmaSCyWw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Jordan Reacts",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-11T19:30:05Z"
       }
     }
   ]
