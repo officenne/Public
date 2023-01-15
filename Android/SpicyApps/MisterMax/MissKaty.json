@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "XQaP2RF1RYxRMPObdSyO9wkvuE4",
+  "etag": "D6A3TZNzm6wzjxD9cWehrKgIiX0",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1299,
+    "totalResults": 1300,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-O_-esLl_bYKcoi0oIConPetGGE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lvQ3FjSOqCk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-15T06:00:13Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Глухой челлендж",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvQ3FjSOqCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvQ3FjSOqCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvQ3FjSOqCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-15T06:00:13Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "WN_l8u7Ab54Mdd1HG5XoZi4JePA",
@@ -486,7 +520,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DRuws6K7GnP41wfTbuuYfUofYWg",
+      "etag": "erJuHm3HGRIp1Fos4VwtKnOdyEA",
       "id": {
         "kind": "youtube#video",
         "videoId": "liXLViCnLcY"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2022-01-21T06:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "W-OXdfRdbKjL92DAwGLmVdT29AA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "amp_X9RmEcg"
-      },
-      "snippet": {
-        "publishedAt": "2022-01-08T11:31:43Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "24 часа в домике",
-        "description": "24 hours in real size play house.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/amp_X9RmEcg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/amp_X9RmEcg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/amp_X9RmEcg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-01-08T11:31:43Z"
       }
     }
   ]
