@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "q6N3sUMTI0wbRv5nBNHHkx4TiBQ",
+  "etag": "08rv2VgktVuSyAMrKZC64UB4YpY",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 161,
+    "totalResults": 162,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5ViECrK-HF-oRsEmnEsix7wHlds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6DuOnopqazk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T07:40:31Z",
+        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
+        "title": "i FINISHED stray :)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6DuOnopqazk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6DuOnopqazk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6DuOnopqazk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T07:40:31Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "1CmNoSfFT19YIH9G5n9tSBPF5qc",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max Play",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-17T05:00:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KLyOZefGy-SEA1C0RMPMbFY0DEA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "-xwPGD3V1V4"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-10T05:00:00Z",
-        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
-        "title": "i found out im TERRIBLE at building staircases in Poppy Playtime",
-        "description": "https://www.roblox.com/groups/8526120/mieu-3#!/store You must stay alive in this horror/puzzle adventure. Try to survive the ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-xwPGD3V1V4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-xwPGD3V1V4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-xwPGD3V1V4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-10T05:00:00Z"
       }
     }
   ]
