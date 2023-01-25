@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "g35JKW_vGNLva291d00vk2S_r5g",
+  "etag": "QpdyRfDc-iYCWji6dsGCAARacF0",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 492,
+    "totalResults": 493,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n7MgKGPtp6evKJuBVbgfVINF1A4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ehcFpZeCEE4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T22:15:46Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Brookhaven Hide and Seek CKN Gaming",
+        "description": "Playing Hide and Seek in Brookhaven. Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ehcFpZeCEE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ehcFpZeCEE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ehcFpZeCEE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T22:15:46Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Es5u0mn5ReZUEoT2mXtts77wmPQ",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-04-28T22:38:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "vzkQpa8TKUI2nRaO9XzuKEk1ZLA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "lCW1oq4jGh0"
-      },
-      "snippet": {
-        "publishedAt": "2022-04-27T12:00:23Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Unlocking Sonic Speed Tails Secret Skin  CKN Gaming",
-        "description": "Showing the locations of Sonic and Tails secret skins. New Sonic speed simulator in Roblox. Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lCW1oq4jGh0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lCW1oq4jGh0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lCW1oq4jGh0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-04-27T12:00:23Z"
       }
     }
   ]
