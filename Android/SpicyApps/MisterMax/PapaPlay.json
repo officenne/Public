@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "LFp2We8OOZiDR_TOX6Sc5JRWXcE",
+  "etag": "yKhBujgpdIDs4hM_ouoU18_nm6A",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 199,
+    "totalResults": 200,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r6uB5t71ubAT-abP0iaQQpaN5T0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vh7Ga8ZWn9U"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T08:31:07Z",
+        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
+        "title": "Открыл Doodle world в Pet Simulator X",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vh7Ga8ZWn9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vh7Ga8ZWn9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vh7Ga8ZWn9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Papa Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T08:31:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ZsE4k5IShuFspof3gvS05TwFcFc",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Papa Play",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-25T05:00:29Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "BBv9iil4BG5DAXUZKOex4QiO7NM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "13Po1Lf-vWA"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-22T05:00:00Z",
-        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
-        "title": "НОВЫЙ МИР в Mining simulator",
-        "description": "Welcome to Mining Simulator 2! ⛏️ Explore the depths of the mines to discover rare materials and ores to sell! Upgrade your ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/13Po1Lf-vWA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/13Po1Lf-vWA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/13Po1Lf-vWA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Papa Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-22T05:00:00Z"
       }
     }
   ]
