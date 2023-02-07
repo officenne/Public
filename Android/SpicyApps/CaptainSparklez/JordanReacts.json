@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "-v6HmzGMzBBCWPUIDWJ2OMFW3PU",
+  "etag": "T8efBrQBRkH8PjZo6K4w0S0gGxk",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 717,
+    "totalResults": 718,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UOKxHWmeFwB-PJwLbqI9PdjUUd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Qh4EkTeeZA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T19:15:00Z",
+        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
+        "title": "That was close!",
+        "description": "My Links ○ My clothing line: https://qualitycontent.com/ ○ Twitch: https://www.twitch.tv/captainsparklez ○ Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Qh4EkTeeZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Qh4EkTeeZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Qh4EkTeeZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jordan Reacts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T19:15:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xxHi9j4vw-lRz4stKkZCqX6TTqY",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Jordan Reacts",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-02T20:10:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "uoDYRezcekzKqo2JLJn5OVRp7Ns",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "flDBV_M_4p8"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-30T17:17:28Z",
-        "channelId": "UCo8_GzFxkXAYtwN0QabhJ8A",
-        "title": "Try Not To Laugh (You WILL Lose)",
-        "description": "Try Not To Laugh (IMPOSSIBLE) Previous ▻ https://youtu.be/pKIAMUBtkFk Idiots In Cars Playlist ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/flDBV_M_4p8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/flDBV_M_4p8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/flDBV_M_4p8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Jordan Reacts",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-30T17:17:28Z"
       }
     }
   ]
