@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "97k6ZTn_uLMAwFErID0hH-K-b98",
+  "etag": "izmnrRxRDUJrbVgnFDN3nRvZOK0",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 165,
+    "totalResults": 166,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EPKyZJ_Z1kWT5tttDIcxZa4uk1o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DHbC-XzU6s0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T11:57:33Z",
+        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
+        "title": "The new doors update is INSANE",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DHbC-XzU6s0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DHbC-XzU6s0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DHbC-XzU6s0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T11:57:33Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "LzV0xwkXd5pBcjAoKuIkcde2Px4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max Play",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-29T05:00:18Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KATBflg0tOeWe-cHcGk61X1j_kQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3GyldnkXV_4"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-22T05:00:01Z",
-        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
-        "title": "i dont think im as good as i thought i was at bedwars...",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3GyldnkXV_4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3GyldnkXV_4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3GyldnkXV_4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-22T05:00:01Z"
       }
     }
   ]
