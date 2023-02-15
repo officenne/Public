@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "m0Gq0kyznR_AOmm4ISj9_gdzWpo",
+  "etag": "fjI-WLZMTih_6SVkmCuEgvls9mw",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 3289,
+    "totalResults": 3290,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sSvo90dkyHq8hMdZ8SL8lk17i6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NOLoQXE54GQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T20:00:13Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft UHC But Crafting Is Overpowered (#2)",
+        "description": "We are playing Minecraft Ultra Hardcore and every 25 minutes we unlock a new random over powered modded crafting recipe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NOLoQXE54GQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NOLoQXE54GQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NOLoQXE54GQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T20:00:13Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "4-CdjynfUBI0ES8w5uyW0seTa_4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-04T00:00:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "_TYPte3cVqUYBqIb9VRKB4n9_P4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "syTl8nefH6k"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-30T00:00:18Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft Ragnamod Ep. 3 - Mega Enchants",
-        "description": "Oh boy we back in the nether Thanks to MCProHosting for sponsoring this series! Use code \"CaptainSparklez\" to get 25% off your ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/syTl8nefH6k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/syTl8nefH6k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/syTl8nefH6k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-30T00:00:18Z"
       }
     }
   ]
