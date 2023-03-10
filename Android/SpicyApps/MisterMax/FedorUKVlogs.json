@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Z6PXiOvnTDTt2hpcmzdx24tkE8Y",
+  "etag": "A0FcxYgvV9a0UhoYxI5Bj60CMZQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 398,
+    "totalResults": 399,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R5-LjRwVbFnj9Betdl_xCsuEO2g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZRDu-w5dabY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-10T07:00:09Z",
+        "channelId": "UCvd_X-p3MEFQKoDGQjb3OiQ",
+        "title": "ВЛОГ новый Мерс Гелик",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZRDu-w5dabY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZRDu-w5dabY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZRDu-w5dabY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FedorUK Vlogs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-10T07:00:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "s6ZbuTf2x59rCStO8y08-qGfPqA",
@@ -1672,40 +1706,6 @@
         "channelTitle": "FedorUK Vlogs",
         "liveBroadcastContent": "none",
         "publishTime": "2022-04-28T05:00:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "999VQanfI4zo4PuPVILRidIqyKQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "HfW2yI2aoXU"
-      },
-      "snippet": {
-        "publishedAt": "2022-04-21T04:45:01Z",
-        "channelId": "UCvd_X-p3MEFQKoDGQjb3OiQ",
-        "title": "Бюджетно или нет с Максом и Катей",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HfW2yI2aoXU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HfW2yI2aoXU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HfW2yI2aoXU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "FedorUK Vlogs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-04-21T04:45:01Z"
       }
     }
   ]
