@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "F6Q0Lwxs1wkOkxSik0_LeNV7af8",
+  "etag": "wm7Lj959sfXaEsv_duB6YyJ9iRY",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 3339,
+    "totalResults": 3341,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9_xUeeNB7l0scQeo_SSbVPrvFDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4u2rXmjEULs"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-14T00:00:02Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Drops Random Loot Are The But Minecraft #1",
+        "description": "Oh baby we do be finding things today Thanks to MCProHosting for sponsoring this series! Use code \"CaptainSparklez\" to get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4u2rXmjEULs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4u2rXmjEULs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4u2rXmjEULs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-14T00:00:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "OW9jGZKfyL_F01wayasfcF2hvyI",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-28T00:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "T_Ahi-cew88D7XyuG_2rfGGwsRM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qy0dNyFYLQM"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-22T17:00:44Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft Swirl Parkour",
-        "description": "So spinny Thanks to MCProHosting for sponsoring this video! Use code \"CaptainSparklez\" to get 25% off your own server's first ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qy0dNyFYLQM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qy0dNyFYLQM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qy0dNyFYLQM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-22T17:00:44Z"
       }
     }
   ]
