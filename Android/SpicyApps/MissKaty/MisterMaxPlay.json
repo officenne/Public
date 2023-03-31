@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Y4LsIOKMUmJuxm27t0cr9D-ANrM",
+  "etag": "fYjQVkobqaO9rlFK6r8JIGKb9eI",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 176,
+    "totalResults": 178,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QfLoFfZ0-JIsLFKamwLgtPAL-6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G2BEHunzBqk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T07:00:10Z",
+        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
+        "title": "i am SUCH A NOOB in infectious smile.",
+        "description": "As ordinary people we all strive to find true happiness in life. But no... not like this.... something is REALLY off about this.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G2BEHunzBqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G2BEHunzBqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G2BEHunzBqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T07:00:10Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "s-9cCZufiZN3vH7cWRp3HHcv5z8",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max Play",
         "liveBroadcastContent": "none",
         "publishTime": "2022-09-02T09:04:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "OBgYl77Yf74aylSLLQbY5wKdfrg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "AqNQm077t5Y"
-      },
-      "snippet": {
-        "publishedAt": "2022-08-30T07:58:28Z",
-        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
-        "title": "i tried beating rainbow friends (i failed)",
-        "description": "It was supposed to be a normal field trip... But the Rainbow Friends want to play.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/AqNQm077t5Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/AqNQm077t5Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/AqNQm077t5Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-08-30T07:58:28Z"
       }
     }
   ]
