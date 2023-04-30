@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "GXC9VWr70BuAti89nCfFjsZeOJ8",
+  "etag": "WJQZF9tk8zxUsQPGHIgE7QaOzBE",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5799,
+    "totalResults": 5800,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n0gL4X1GUSbpuvxWAnmn9Z9ZmMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zf9A197L-Cc"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-29T20:00:06Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "And He&#39;s Gone...",
+        "description": "Another I must go my people need me moment Full VoD: sOOn My Links ○ My clothing line: https://qualitycontent.com/ ○ My ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zf9A197L-Cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zf9A197L-Cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zf9A197L-Cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-29T20:00:06Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "XFq1Id4MlZwNtIi83H0vkSSnegE",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-05-08T22:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "U8Oclpgtz00nW4UxFUDdohZtcmc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zE1yP9mepVM"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-22T22:00:21Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft&#39;s New Beans Are Delicious",
-        "description": "Beans, beans, the magical fruit. Previous update video ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-22T22:00:21Z"
       }
     }
   ]
