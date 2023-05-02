@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "P7eJwgzR6gBLNTbMolGvYzPjhv0",
+  "etag": "hh1iKgrWLuYd37fZKL8BvRSBAi8",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 233,
+    "totalResults": 234,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UDEEDP-alWOl_QVK04LelqwuswM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6T1PC-rutg0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T08:00:05Z",
+        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
+        "title": "Завел 100 котят в Kitten Tycoon! 🐱🐾",
+        "description": "Kitten Tycoon! Raise and care for your adorable kittens!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6T1PC-rutg0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6T1PC-rutg0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6T1PC-rutg0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Papa Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T08:00:05Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "lkRCBgXFV1Z4fXPVatVeso6t16M",
@@ -350,7 +384,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "bwkZvJmwFJdlT0arKngYEfGDt4E",
+      "etag": "qKyQJYepxO0wbGlY04TDqlUDicg",
       "id": {
         "kind": "youtube#video",
         "videoId": "OxJJBy2tFb8"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Papa Play",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-18T08:00:32Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hTqzSMBZ7yyyLIdiub-x1mMA76M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yRuyv_G1UJQ"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-15T08:08:27Z",
-        "channelId": "UCYKtRnIfwiJkVic89Yt51Pw",
-        "title": "Я СТАРАЛСЯ быть ПЕРВЫМ в Get to the top papa",
-        "description": "Wecome to 'Get To The Top' where the objective is, well... Get to the top! Play through randomly generated Towers and try to beat ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yRuyv_G1UJQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yRuyv_G1UJQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yRuyv_G1UJQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Papa Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-15T08:08:27Z"
       }
     }
   ]
