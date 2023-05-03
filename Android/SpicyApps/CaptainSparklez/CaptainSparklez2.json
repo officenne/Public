@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "qLX0wL6SGqwqmIPUOJbMYiVA8mo",
+  "etag": "YnFCXVAPsMw5AWseEsa64YX1eMU",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5801,
+    "totalResults": 5802,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HWky4gx8iI2HoWb9SqNtDoF6kZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "67z-M_ePwBk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T21:00:05Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "How Did That Work???",
+        "description": "I tried slamming down pieces to get second place and it went better than expected... Full VoD: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/67z-M_ePwBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/67z-M_ePwBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/67z-M_ePwBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T21:00:05Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "iVlUHFc-8Zj8hYKk6yRBMI0pDeQ",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-05-08T22:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "U8Oclpgtz00nW4UxFUDdohZtcmc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zE1yP9mepVM"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-22T22:00:21Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft&#39;s New Beans Are Delicious",
-        "description": "Beans, beans, the magical fruit. Previous update video ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-22T22:00:21Z"
       }
     }
   ]
