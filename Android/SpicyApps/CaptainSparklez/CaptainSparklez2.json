@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "VVHu-IGPElqspBXYTyiLU4tKsmA",
+  "etag": "krvn9aQ5Xhvey50tTahTaRQ6zk4",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5811,
+    "totalResults": 5812,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s47C-Jn0o8Ufi64IMigKM9LSAoo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XUCnSO0WudI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-18T20:00:09Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Classic Minecraft Droppers",
+        "description": "Today I deal with extreme unfairness Minecraft Map Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XUCnSO0WudI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XUCnSO0WudI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XUCnSO0WudI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-18T20:00:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "sd6e5RAVbXo6lq-uydpxcaSP278",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-05-08T22:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "U8Oclpgtz00nW4UxFUDdohZtcmc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zE1yP9mepVM"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-22T22:00:21Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft&#39;s New Beans Are Delicious",
-        "description": "Beans, beans, the magical fruit. Previous update video ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zE1yP9mepVM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-22T22:00:21Z"
       }
     }
   ]
