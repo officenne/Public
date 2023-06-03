@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "QUMqD1dwiPxDU8sn_H-mh9YjDKY",
+  "etag": "fM9Wo-FPwtUdZFGMp7HhXNiJlfs",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5823,
+    "totalResults": 5824,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C6aib6PBTKZgg5XVXYFPRLt4mK8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "spIUAFM8ta0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-02T20:00:13Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Problem With Artificial Intelligence",
+        "description": "Discussing the recent AI hype and how things like ChatGPT and Midjourney could play into content creation in the future.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/spIUAFM8ta0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/spIUAFM8ta0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/spIUAFM8ta0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-02T20:00:13Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "5kHVj69jfq1PEqFNVjxEaThH6LQ",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-05-14T22:00:32Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "YdkUG_v1dA_x84Qan3AdlQq0pV8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "33TWqu01foQ"
-      },
-      "snippet": {
-        "publishedAt": "2021-05-08T22:00:00Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft But I Get The Block I Look At",
-        "description": "Unfortunately there are no meat blocks Previous data pack: https://www.youtube.com/watch?v=OU5PoDIlmf8 Minecraft Data Pack ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/33TWqu01foQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/33TWqu01foQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/33TWqu01foQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-05-08T22:00:00Z"
       }
     }
   ]
