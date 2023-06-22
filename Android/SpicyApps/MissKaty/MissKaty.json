@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "FPtIvZW0KHIggQ7LYSPwybBQwQc",
+  "etag": "yZTHintXR-FhVeTeFIH9FPAzbTA",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1187,
+    "totalResults": 1241,
     "resultsPerPage": 50
   },
   "items": [
@@ -1234,6 +1234,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "hH4h3btEPuePbaCmJUFnx7WKlU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xD01USrKuj0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-02T06:00:14Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Желейные напитки челлендж",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xD01USrKuj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xD01USrKuj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xD01USrKuj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-02T06:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "8OxRyLTj5WIlv8EZj473kiwQwcU",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-19T05:00:30Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "xOi_cSlLB2H6JUWQy8bd4Tq7cu8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "OgIvR-_Td-M"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-12T05:00:07Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Поменялись домиками",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OgIvR-_Td-M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OgIvR-_Td-M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OgIvR-_Td-M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-12T05:00:07Z"
       }
     }
   ]
