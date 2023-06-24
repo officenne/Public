@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "5tzm3WUDGHVS452O4-mWSxqYkQ0",
+  "etag": "ykC9jKdfh0IVTjev111PQiKaFPI",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1300,
+    "totalResults": 1348,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-AMBE2WrzCYXjBZ9_T1UFZnXQaY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0nu-85gOXbo"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T06:45:00Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Папин Рендж Ровер целый день выбирает нам еду",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0nu-85gOXbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0nu-85gOXbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nu-85gOXbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T06:45:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "4Rn4G9DDBWYOBp_DQBhk6Rz5iJo",
@@ -1030,7 +1064,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "PX_Fh0_tRJiYSY2Y7dIk5hV-CVE",
+      "etag": "6VHmGPgl2V0yUI_VZZ2l34Tgqaw",
       "id": {
         "kind": "youtube#video",
         "videoId": "CJAy8dXUPGs"
@@ -1438,7 +1472,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "M0RshC3xScA1exTaxxEj7-XTABM",
+      "etag": "aVRYT8-nE5AdL4fFL4tfPL_7lXo",
       "id": {
         "kind": "youtube#video",
         "videoId": "a2n5FZKsikE"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2022-08-02T05:00:18Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Iypa_0xN1Ft2royU3Cfo6g3m0fU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "oV7cRXW7fhU"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-19T05:00:30Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Bubble Tea Challenge",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oV7cRXW7fhU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oV7cRXW7fhU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oV7cRXW7fhU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-19T05:00:30Z"
       }
     }
   ]
