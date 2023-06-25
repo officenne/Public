@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "AauQYgcdTzlXGu45GSiGwMr0LRw",
+  "etag": "dcp7KgusHMjoJ2_5XTfC3G0BvTs",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1309,
+    "totalResults": 1318,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_p_GzdbfKTdBGx_YPAlMTN2X4qA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QWTt8Z7pN4Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-25T05:36:41Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Напитки челлендж",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QWTt8Z7pN4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QWTt8Z7pN4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QWTt8Z7pN4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-25T05:36:41Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "eAU6KP2p0A6tjvB0qY16B3SNbag",
@@ -1370,7 +1404,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "AdNOTRp5knjry0SamARKcvjMyK8",
+      "etag": "NqeuNvtSbLZGVSgdrJ0Zx8jv1Mg",
       "id": {
         "kind": "youtube#video",
         "videoId": "cFTQM7U0nJI"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-06T05:00:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3zDWXhHlGQG8NJc_AHKRKv-cJyI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "V67FEpyg1lg"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-29T05:00:11Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Папа купил Максу и Кате новый двухэтажный домик",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/V67FEpyg1lg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/V67FEpyg1lg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/V67FEpyg1lg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-29T05:00:11Z"
       }
     }
   ]
