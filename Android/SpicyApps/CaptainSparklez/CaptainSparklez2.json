@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Mzj09eLgPgURSgBdyYtJ_ev5dc0",
+  "etag": "feQ6qkPtD7-AMRZROUT4moSVdIs",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5955,
+    "totalResults": 5969,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MKFnYL3zYgM9_z9Us6658jqYyLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WogwBWqLgec"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-13T20:00:07Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Curb Your Unbreaking",
+        "description": "Never tell me the odds Full VoD: https://www.youtube.com/watch?v=7nxucGEj9g0 Minecraft Shorts Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WogwBWqLgec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WogwBWqLgec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WogwBWqLgec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-13T20:00:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "F1Fh0TeyECIbucYwGUvPYWXYzgM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2023-03-14T20:00:27Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "bvqHHl_1w9ir3_ltuQakyvoOedo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Vz5PzflRSwE"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-13T20:00:08Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Beyond Ep. 1 - Humble Beginnings",
-        "description": "In the Create Above and Beyond modpack, we must work our way from dirt and stone to launching a rocket ship to the moon.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Vz5PzflRSwE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Vz5PzflRSwE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vz5PzflRSwE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-13T20:00:08Z"
       }
     }
   ]
