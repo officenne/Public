@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "hxGcZXfRJvy2lsAjX2RtOaHuroo",
+  "etag": "wewq3CKoE0iN2qmU77eJ6VtuIW0",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1212,
+    "totalResults": 1208,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OPaT-RLztZsGgvqhnPLIfczk5Uw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fpdOucKgRJs"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-30T07:40:20Z",
+        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+        "title": "Diana and Roma New Adventure Series",
+        "description": "Join Diana and Roma on an exciting journey in their New adventure series. 00:00 Adventures in Diane's Hotel 08:01 Pink vs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fpdOucKgRJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fpdOucKgRJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fpdOucKgRJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "✿ Kids Diana Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-30T07:40:20Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "8ReK-8GJiXGPGp3xSHGOEUKuOvs",
@@ -1672,40 +1706,6 @@
         "channelTitle": "✿ Kids Diana Show",
         "liveBroadcastContent": "none",
         "publishTime": "2023-01-10T11:34:22Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "R2jEdwFOnpEspzisASx2xxLEpVo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "N8H-ZQJRK0A"
-      },
-      "snippet": {
-        "publishedAt": "2023-01-05T07:13:33Z",
-        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
-        "title": "Diana and Oliver Inside the Busy Board Challenge",
-        "description": "Diana and Oliver get inside the Busyboard. They need to solve logic tasks together in order to get out of the trap. Fun Cube ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/N8H-ZQJRK0A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/N8H-ZQJRK0A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/N8H-ZQJRK0A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "✿ Kids Diana Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-01-05T07:13:33Z"
       }
     }
   ]
