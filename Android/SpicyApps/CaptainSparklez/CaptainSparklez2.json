@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "JAFwmpX5nJoRVpSV4cAbGSwj6BU",
+  "etag": "kGbJGq7KA4DkS58FI9fv6OM09CA",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5911,
+    "totalResults": 5920,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UKBsByFgl6xC9QDaxFqjRBrD6Bo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IOijoPH1LLY"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-03T20:00:06Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "PROYGBIV",
+        "description": "This do be a moment Full VoD: https://www.youtube.com/watch?v=ki79oiz4xQc Minecraft Shorts Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IOijoPH1LLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IOijoPH1LLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IOijoPH1LLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-03T20:00:06Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "kVYt-jFsYWab4GY28gYQ3TFE2eU",
@@ -112,7 +146,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "RFfj0-3G4QNaKz11woV5JuGanpI",
+      "etag": "ZxpEy-5cWJHjYnOlzaAVzrg4JQY",
       "id": {
         "kind": "youtube#video",
         "videoId": "YKnkKMRYIh8"
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-07T20:00:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "1YiaHWgxsO4an5ylcKBxsgNSxCw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Cn4BTpJTRuM"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-03T20:30:43Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "11 Years Later... Minecraft Is Fixed",
-        "description": "The 11 year old bug MC 1133 is fixed, but be careful what you wish for. Also I know I said 12 years in the video but yeah it's 11 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Cn4BTpJTRuM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Cn4BTpJTRuM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Cn4BTpJTRuM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-03T20:30:43Z"
       }
     }
   ]
