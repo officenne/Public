@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "l0p0gwQElBBZuDlFX47B7_Smk1s",
+  "etag": "jHXFzOe_Oihcv6OzCgnMjyaSzRs",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1173,
+    "totalResults": 1166,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O9z_rj0LymDfcF30OkWIRwXKbhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tj4rZJys0sA"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-11T10:00:46Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Это случилось",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tj4rZJys0sA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tj4rZJys0sA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tj4rZJys0sA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-11T10:00:46Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "h8CqXJkM8dqg_7NanUYxIF4mCNE",
@@ -622,7 +656,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_fTAoO9V0XIl_QyA2NKQA4wGIVk",
+      "etag": "FLvGUnw2klm66ATuXs2RqwYWhVQ",
       "id": {
         "kind": "youtube#video",
         "videoId": "6ApO8dfqFH4"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2022-09-25T05:00:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "l873YffeJjvRtIj98z_ON_0HemU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "kJ0yAfWmpzg"
-      },
-      "snippet": {
-        "publishedAt": "2022-09-18T05:00:15Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Новый телефон Макса",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kJ0yAfWmpzg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kJ0yAfWmpzg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kJ0yAfWmpzg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-18T05:00:15Z"
       }
     }
   ]
