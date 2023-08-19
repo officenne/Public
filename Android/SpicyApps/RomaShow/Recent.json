@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "xzZ5ApmfTmmB8_rmjJsQHM7KXRA",
+  "etag": "GC15C1zbIYNbWY0plG0Q_9KvO4c",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 345,
+    "totalResults": 346,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qRyHIS3R5DI1muBVi-i3yssAQpI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-bFMyM2JQxI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-18T11:15:00Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver and Dad&#39;s Thrilling Playground Adventure",
+        "description": "Discover the untold story of Oliver and Dad's thrilling playground adventure. 00:00 Oliver and Dad play in the Playground 04:04 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-bFMyM2JQxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-bFMyM2JQxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-bFMyM2JQxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-18T11:15:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "MFGKFTzi2aZFIawJ49kykX6bYMo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2022-09-30T12:00:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "yEdf3urXRSbZqrFYpACGMKxbWHE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "hCLrCTbDJ-8"
-      },
-      "snippet": {
-        "publishedAt": "2022-09-22T11:00:32Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma Diana and Oliver explore Different Jobs and Professions",
-        "description": "Explore different professions with Roma, Diana and baby Oliver. Children try their hand at various professions by playing ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hCLrCTbDJ-8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hCLrCTbDJ-8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hCLrCTbDJ-8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T11:00:32Z"
       }
     }
   ]
