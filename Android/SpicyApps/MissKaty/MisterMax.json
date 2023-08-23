@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "iuJHHy_sqG6IPM8G9p7JMiwXNuc",
+  "etag": "nb_c2a9UygRMGHZRTcUcUui6YnU",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1129,
+    "totalResults": 1125,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M4_2T5NLlmiZq_YhyOPJ-_7DU38",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7WjmZBpGI6A"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-23T06:00:02Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Читаем комментарии под видео",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7WjmZBpGI6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7WjmZBpGI6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7WjmZBpGI6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-23T06:00:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "_iMoCBRcTIYbc3XRzZkvSy40D-c",
@@ -1604,40 +1638,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-09T05:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "new_Ixgfff1Oyb3Zl593fba6trk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "-3_pOi2uHSc"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-02T05:00:00Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Что в прозрачной коробке?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-3_pOi2uHSc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-3_pOi2uHSc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-3_pOi2uHSc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-02T05:00:00Z"
       }
     },
     {
