@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "1psP97lTr_FN4xvcyWdgrNkw4sI",
+  "etag": "1lnr0WrBQNfY1OqQSjVG4U1-S-s",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 5898,
+    "totalResults": 5907,
     "resultsPerPage": 50
   },
   "items": [
@@ -1098,6 +1098,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "4Uud7EaJNEMVOj7Nlpb84LxJE6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "spIUAFM8ta0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-02T20:00:13Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Problem With AI",
+        "description": "Discussing the recent artificial intelligence hype and how things like ChatGPT and Midjourney could play into content creation in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/spIUAFM8ta0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/spIUAFM8ta0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/spIUAFM8ta0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-02T20:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "fk4vc7WcBG4Ij6kwHg4GgjTBDKQ",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-02T21:00:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "bqwk27XbAnpBVcq_HrYMTmM4lfA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "mFkoGEbDmb0"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-01T20:00:20Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Beyond Ep. 16 - Changed World",
-        "description": "In the Create Above and Beyond modpack, we must work our way from dirt and stone to launching a rocket ship to the moon.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mFkoGEbDmb0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mFkoGEbDmb0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mFkoGEbDmb0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-01T20:00:20Z"
       }
     }
   ]
