@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "xUxsd6L9CmDSN3Pq-jvO0hM7n1s",
+  "etag": "0alwF3xicltTl54rzII7wNNJD64",
   "nextPageToken": "CDIQAA",
   "regionCode": "CZ",
   "pageInfo": {
-    "totalResults": 1134,
+    "totalResults": 1133,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_A_eBCQzVBorBo7ir5Tkwsm_k5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oGpSn1n_1uM"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-07T08:00:23Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Катя и ее обязанности в 10 лет",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oGpSn1n_1uM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oGpSn1n_1uM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oGpSn1n_1uM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-07T08:00:23Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "1518I9G39fRley53o9a05tjXzlk",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-29T05:00:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "JY8Yg2xLydWWR_Jj7K-QpPSMyhs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "jLtxzk6UGDM"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-22T05:00:30Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Обклеили бумагой мамину машину",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jLtxzk6UGDM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jLtxzk6UGDM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jLtxzk6UGDM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-22T05:00:30Z"
       }
     }
   ]
