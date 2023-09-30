@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "-4xcO5laUQDW30cxOmjmqU77-XI",
+  "etag": "Tj2b-iDRlYVx4-St_XWyTuf8Wv8",
   "nextPageToken": "CDIQAA",
-  "regionCode": "CZ",
+  "regionCode": "US",
   "pageInfo": {
-    "totalResults": 434,
+    "totalResults": 436,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t0uGYlB1jUqGCesQfI2dbZUacGk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FxgCEDgoaPw"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-30T02:48:17Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "YES This Is Fortnite CKN Gaming",
+        "description": "Checking out all the cool creative map 2.0 Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FxgCEDgoaPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FxgCEDgoaPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FxgCEDgoaPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-30T02:48:17Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "9QWT4ogmkuvL2m3LJEKC8rzBClg",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-14T22:41:55Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "WmQLvQx1VQnf4JNHASlc5vLI_DA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "crHP68fZ06A"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-13T02:10:02Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Secret Basement Room in my Mega Mansion CKN Gaming",
-        "description": "Building the secret basement of my mega mansion Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/crHP68fZ06A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/crHP68fZ06A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/crHP68fZ06A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-13T02:10:02Z"
       }
     }
   ]
