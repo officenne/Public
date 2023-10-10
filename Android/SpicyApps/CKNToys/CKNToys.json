@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "dq8Wfj5yPgMDv9GNYyejVoQk42w",
+  "etag": "xRK49wTcI-icKum5P3-OzvTfGZI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 450,
+    "totalResults": 453,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eWAL17u0-Etz-Uf0AtOyfq43Sco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ap6_JLEX1rs"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-09T22:18:11Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Back After 1 Year  CKN Gaming",
+        "description": "Back playing battle royale after 1 year . Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ap6_JLEX1rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ap6_JLEX1rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ap6_JLEX1rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-09T22:18:11Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "6sK_IOPsAemi9GIA-OyhGa5jXPc",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-17T21:00:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "dn5PaKWC1dHTNl9Cd1e7GLZhOFI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "pq6Q4alOpko"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-15T23:35:25Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Sonic Chili Dogs Event CKN Gaming",
-        "description": "Kaison playing the New event in Sonic Simulator Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pq6Q4alOpko/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pq6Q4alOpko/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pq6Q4alOpko/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-15T23:35:25Z"
       }
     }
   ]
