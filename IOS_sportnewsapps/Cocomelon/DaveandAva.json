@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "IqZa-dfccgSLKJ44gin4fGTBBIs",
+  "etag": "rbjHAP9lLOglXF7frGZbqhrvPrs",
   "nextPageToken": "CDIQAA",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 899,
+    "totalResults": 900,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yCL9hoDEm-g-LWTP-yeLnHcgydw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6nlV2lIlp_4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-06T09:15:57Z",
+        "channelId": "UC6zhI71atP7YLoZyIyCIGNw",
+        "title": "🎃 One, Two, The Kids Say Boo! &amp; More Nursery Rhymes | Halloween Songs | Dave and Ava 🎃",
+        "description": "Download Dave and Ava's App for iOS ▻ http://bit.ly/DaveAndAvaiOS and Android ▻ https://bit.ly/DaveAndAvaAppsAndroid One, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6nlV2lIlp_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6nlV2lIlp_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6nlV2lIlp_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-06T09:15:57Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "2dm_-5RZfkw-QIaLK11juvxDr8k",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2023-04-12T09:33:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "cFYy0v8ObUJKYmuoD2Mj2r26AiQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wfC8MTRnNi0"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-07T09:31:14Z",
-        "channelId": "UC6zhI71atP7YLoZyIyCIGNw",
-        "title": "🐰 Sleeping Bunnies, Little Bunny Foo Foo and More Nursery Rhymes | Happy Easter | Dave and Ava 🐰",
-        "description": "Download Dave and Ava's App for iOS ▻ http://bit.ly/DaveAndAvaiOS and Android ▻ https://bit.ly/DaveAndAvaAppsAndroid ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wfC8MTRnNi0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wfC8MTRnNi0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wfC8MTRnNi0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-07T09:31:14Z"
       }
     }
   ]
