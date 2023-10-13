@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "srvtF53DcwLvNJFjn6FFJFfsOUg",
+  "etag": "1OfeAMAWuU9caxhACMj19zsif0M",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 346,
+    "totalResults": 347,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yze39MhY61iDvUy8uGdrLKSewJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ws5j3ppxTLY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T11:15:02Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma and Oliver&#39;s Exciting Car Adventures",
+        "description": "Join Roma and Oliver on Fun-filled Car Adventures. Collection of videos about toy cars for kids. 00:00 Roma and Oliver's Surprise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ws5j3ppxTLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ws5j3ppxTLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ws5j3ppxTLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T11:15:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "indHqDsLazFVPaM6YPDTJrg90lU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-18T11:45:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "kkeGVCydmhjM5Eqe0Q-vF9qbvCI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "0KRtfwPIp-Y"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-11T11:30:00Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma&#39;s 10th Birthday Party! Diana and Roma have fun with friends!",
-        "description": "Diana and Roma celebrate Roma's 10th Birthday Party in Let's Play style. Diana and Roma have fun with friends! Subscribe to ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0KRtfwPIp-Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0KRtfwPIp-Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0KRtfwPIp-Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-11T11:30:00Z"
       }
     }
   ]
