@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "di_rAZ5GEULoTZJ4bBC77I8NwKc",
+  "etag": "5rwFmsIg4h1U3fsPRQbY_zZ6lWw",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 230,
+    "totalResults": 232,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aqwhXOm_O9RHpZdsYyARiU4QfwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TkNCIyHmiao"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T07:00:48Z",
+        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
+        "title": "I GOT TO THE BASEMENT in hello neighbor 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TkNCIyHmiao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TkNCIyHmiao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TkNCIyHmiao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T07:00:48Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "1vqiOWyusa8AC3uDiBnTHBp3dow",
@@ -346,40 +380,6 @@
         "channelTitle": "Mister Max Play",
         "liveBroadcastContent": "none",
         "publishTime": "2023-07-05T09:00:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "YDuV4H5VOjgPLsAQ4v2z04htoao",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "E-AWbG0qFJE"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-01T08:48:41Z",
-        "channelId": "UCjB2ziXgFTei3xGr3avOIig",
-        "title": "i am a BIG NOOB in evade",
-        "description": "Run, hide, team up, whatever. Do whatever it takes to survive their insatiable wrath.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/E-AWbG0qFJE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/E-AWbG0qFJE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/E-AWbG0qFJE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-01T08:48:41Z"
       }
     },
     {
