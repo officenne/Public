@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "6FznByflR2-QPqAi95K60qdrKYM",
+  "etag": "pJzd528HWtTgngKWQkRC1d4PUaM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3963,
+    "totalResults": 3962,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KV9F9oUG5eTGmztrZLXZGTAEEmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1IN9gF725lg"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-19T17:00:00Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: Dark RPG Hardcore Ep. 2",
+        "description": "Today in Dark RPG we try to clear out the dungeon we discovered. Thanks to Apex Hosting for sponsoring this series! Use code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1IN9gF725lg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1IN9gF725lg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1IN9gF725lg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-19T17:00:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "YV3eA0mBtOWAheySS4l6NWcyjZM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-14T17:00:41Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "czlpoWe-dCHGPxzAuvXY5G1Vy2Q",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "mFTCeW8mnxU"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-14T00:00:27Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Poison",
-        "description": "We are hitting banger after banger lately with maps Thanks to Apex Hosting for sponsoring this series! Use code ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mFTCeW8mnxU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mFTCeW8mnxU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mFTCeW8mnxU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-14T00:00:27Z"
       }
     }
   ]
