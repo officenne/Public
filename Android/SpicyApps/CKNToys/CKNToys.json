@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Fb3LMvs9EAhpancoK6i9BZwgXLY",
+  "etag": "AW9MhT2hvCfu_l63tbaBsa0NUwQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 440,
+    "totalResults": 442,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J7lZpbZDVbA2N3aaARtf_1ml_bE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b-BKz4GAAPc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-23T00:55:17Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Escape MrBeast  Traps CKN Gaming",
+        "description": "Checking out this cool Escape Mr Beast game on Roblox Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b-BKz4GAAPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b-BKz4GAAPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b-BKz4GAAPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-23T00:55:17Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "APbxVUQx0jyG6jAHFg5MKYA3P6Y",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-19T04:08:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "UGkcak1tgA2gYGkgcJaHQL_hwMI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zumZNEubEsg"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-29T00:34:47Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Sonic Elevator  CKN Gaming",
-        "description": "Sonic Elevator Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zumZNEubEsg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zumZNEubEsg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zumZNEubEsg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-29T00:34:47Z"
       }
     }
   ]
