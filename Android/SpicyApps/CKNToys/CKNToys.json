@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "AW9MhT2hvCfu_l63tbaBsa0NUwQ",
+  "etag": "TGJuSCVfQ3AMnCzkK85fwvZ7GzU",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 442,
+    "totalResults": 444,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "03byV-np-unNAMJmQCEbx_LjorA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EiZSVOSgM8Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-24T01:39:18Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Bro Falls LOL   CKN Gaming",
+        "description": "Bro Falls Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EiZSVOSgM8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EiZSVOSgM8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EiZSVOSgM8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-24T01:39:18Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "J7lZpbZDVbA2N3aaARtf_1ml_bE",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-21T02:39:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "VpawUnH911AB44c9xzEJNZJjkYo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "op1DDnfPbBg"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-19T04:08:09Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Escape Mr Beast Chocolate Factory Calvin CKN",
-        "description": "Roblox Escape Mr Beast chocolate factory. Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/op1DDnfPbBg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/op1DDnfPbBg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/op1DDnfPbBg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-19T04:08:09Z"
       }
     }
   ]
