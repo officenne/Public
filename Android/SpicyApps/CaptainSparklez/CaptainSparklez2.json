@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Muh6XmUX8HDCOZc8ziTXgtgBdFg",
+  "etag": "WrOLCftKYvZfzlqLyG-8mdPncIo",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6068,
+    "totalResults": 6055,
     "resultsPerPage": 50
   },
   "items": [
@@ -860,6 +860,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "fk4vc7WcBG4Ij6kwHg4GgjTBDKQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fd6RssDZ3qE"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-30T20:00:04Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Minecraft Beyond Ep. 20 - The Final Steps",
+        "description": "In the Create Above and Beyond modpack, we must work our way from dirt and stone to launching a rocket ship to the moon.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fd6RssDZ3qE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fd6RssDZ3qE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fd6RssDZ3qE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-30T20:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "7A09CVHRLZItn97K5lcFjJF4aGk",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2023-03-15T20:00:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "tH95ZTbYKL4c9YDcwo3zRQwnMVk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "w0LEgafgGgk"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-14T20:00:27Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "My Favorite New Series",
-        "description": "Can't wait for Block Hunters Full VoD: https://www.youtube.com/watch?v=KYE7WkqkJAo&t=3974s Minecraft Shorts Playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/w0LEgafgGgk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/w0LEgafgGgk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/w0LEgafgGgk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-14T20:00:27Z"
       }
     }
   ]
