@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "O7OJtdsPQPxbbbJW_d_cHouyTbY",
+  "etag": "ssJTljhqy2YN3UFsKNhL-N-i41w",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6062,
+    "totalResults": 6080,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "Zac5tu_dYFT0-L0X6umTULov9Sc",
+      "etag": "khhYCXo84okRXm7ma2P0JhvK1-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IsDypwIz6lY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T20:00:10Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Planet Parkour",
+        "description": "Today we discover a new Minecraft planet filled with parkour and we jump MCC Twitch Rivals: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IsDypwIz6lY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IsDypwIz6lY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IsDypwIz6lY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sC9LitlGNijY5AZ4LNJiiWyrDZU",
       "id": {
         "kind": "youtube#video",
         "videoId": "Q4b0U3yOPiM"
@@ -18,7 +52,7 @@
       "snippet": {
         "publishedAt": "2023-10-26T20:00:07Z",
         "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Do A Backflip",
+        "title": "Winning Minecraft Championship",
         "description": "We won MCC Twitch Rivals and it was pretty cool Full VoD: https://www.youtube.com/watch?v=XTPhvMFbhfI&t=6298s Minecraft ...",
         "thumbnails": {
           "default": {
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2023-03-14T20:00:27Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "bvqHHl_1w9ir3_ltuQakyvoOedo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Vz5PzflRSwE"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-13T20:00:08Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Beyond Ep. 1 - Humble Beginnings",
-        "description": "In the Create Above and Beyond modpack, we must work our way from dirt and stone to launching a rocket ship to the moon.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Vz5PzflRSwE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Vz5PzflRSwE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vz5PzflRSwE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-13T20:00:08Z"
       }
     }
   ]
