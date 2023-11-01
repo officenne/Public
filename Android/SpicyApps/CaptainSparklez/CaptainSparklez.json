@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "E40QCzUkTg_VuJP-mkPfkP3glp0",
+  "etag": "V7bWzQDhUURtAS7QVBlUA-Cj6AQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3936,
+    "totalResults": 3927,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BLK6RX2I84yVNSJfVidZ-urFNk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TvhJ3sZ65HU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T17:00:21Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: Dark RPG Hardcore Ep. 12",
+        "description": "Today in Dark RPG we do an oopsie Thanks to Apex Hosting for sponsoring this series! Use code \"CaptainSpooklez\" to get 50% ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TvhJ3sZ65HU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TvhJ3sZ65HU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TvhJ3sZ65HU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T17:00:21Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "fFs_Y6Yg40iZN4WJYLYmLjmAzf8",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-14T00:00:27Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "wzgpCGgcTv9k5ds8WP2ZKNjXvgw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "4pgfiuNFvIY"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-13T17:00:02Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Vault Hunters 1.18 Ep 127 - Ore Insanity",
-        "description": "Today we break crazy ores Thanks to MCProHosting for sponsoring this series! Use code \"CaptainSparklez\" to get 25% off your ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4pgfiuNFvIY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4pgfiuNFvIY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4pgfiuNFvIY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-13T17:00:02Z"
       }
     }
   ]
