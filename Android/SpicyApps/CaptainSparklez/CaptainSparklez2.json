@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "boWHbOIqnD92y0Q3wRF2Xh1x1X4",
+  "etag": "syUsqvqGOSt0JHGaNaYSfoWMM88",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6049,
+    "totalResults": 6046,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0IjzrzTsIJgCC9_OoCI5buUSBnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1jdDy7rx8H4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T20:00:00Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "I Am Never Wrong",
+        "description": "All he has to do is not fall Full VoD: https://www.youtube.com/watch?t=2793&v=Q76sQWO21Yc&feature=youtu.be Minecraft ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1jdDy7rx8H4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1jdDy7rx8H4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1jdDy7rx8H4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T20:00:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "AAO9p1DDrPEGaAnmDwkHyV53Iq8",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2023-02-17T22:00:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "4vFqsV1pHFNDccCmsoiKV9QUHLU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "V-3618opohg"
-      },
-      "snippet": {
-        "publishedAt": "2023-02-15T23:00:13Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Sniffer Has Been Added To Minecraft",
-        "description": "The Sniffer is a big ancient puppy dog and is my best friend Video 1 (Cherry Biome): ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/V-3618opohg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/V-3618opohg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/V-3618opohg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-02-15T23:00:13Z"
       }
     }
   ]
