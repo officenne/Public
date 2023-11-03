@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "dDTnRgcxP9_N4QU--JO0dGPJjQw",
+  "etag": "p9xW6MhXSpBH9s-dhAcm5hv87kA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1098,
+    "totalResults": 1095,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bc-w1u1-DZmybQkXdvUVGkd4hzU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "udIkVvnytyA"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T08:45:05Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Рутина Кати на Мальдивских каникулах",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/udIkVvnytyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/udIkVvnytyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/udIkVvnytyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T08:45:05Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "HY1iHKtvpLxbL0o8h8hIGJfb2Ko",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-17T07:15:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LHeZqZD6zPuAMxsjhxgxaGIMEqc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "t2H6xBg7qbs"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-13T05:45:00Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Нашли секретную gaming комнату в доме - каждый для себя",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/t2H6xBg7qbs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/t2H6xBg7qbs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/t2H6xBg7qbs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-13T05:45:00Z"
       }
     }
   ]
