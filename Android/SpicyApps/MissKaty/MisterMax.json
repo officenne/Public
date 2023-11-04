@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "fx0LleBeAJRx6gRDlqfYFke3auU",
+  "etag": "Dg1sAFXZE6fxWT8ug_6uHDFE6gM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pSU99Ymp_lMy6lumvVqHuQKuiAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zeIyuWm6l58"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-04T07:32:59Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Прятки на острове с мамой",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zeIyuWm6l58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zeIyuWm6l58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zeIyuWm6l58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-04T07:32:59Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "lcb7mCAo0V3_UyGsCoeaYGWvwEM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-23T05:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "21YHgmRWzFBg5E8HZpOP1un3WOo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qQsyL927k9Y"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-16T05:15:02Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "24 часа в гейминг рум",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qQsyL927k9Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qQsyL927k9Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qQsyL927k9Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-16T05:15:02Z"
       }
     }
   ]
