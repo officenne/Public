@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "fgy67tuNYHjzI2uPuIiUg4us4fk",
+  "etag": "gEQq5ah18dehG0utbma7SKinCNE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 359,
+    "totalResults": 360,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M-ZzVj-dCKoBQUJK59sw39U_sos",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C8KbVYWMFOk"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-24T12:12:30Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma and Diana Thrilling New Tales | 1 Hour Video",
+        "description": "Roma and Diana A large collection of adventure stories for children, full of excitement, mystery and magic. 0:00:00 Hogwarts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C8KbVYWMFOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C8KbVYWMFOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C8KbVYWMFOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-24T12:12:30Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "E0zxy9IOoandqRvhHeyHFs0Hgv4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2022-12-23T10:25:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "bCgFyuWFKjQILDKQuwHexwhM8WY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "kL5LjNG0YuQ"
-      },
-      "snippet": {
-        "publishedAt": "2022-12-16T11:00:34Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma and Diana show the Rules at the Airport and on board the plane",
-        "description": "Roma and Diana show the rules of behavior on board the plane and at the airport. Useful video for children to know how to ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kL5LjNG0YuQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kL5LjNG0YuQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kL5LjNG0YuQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-12-16T11:00:34Z"
       }
     }
   ]
