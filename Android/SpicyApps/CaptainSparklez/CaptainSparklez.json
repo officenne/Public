@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ZCqw8wN-RlCvfZehwUT0pXXb714",
+  "etag": "BmMiXKJAjJBLH_tHJnjJfY7alEw",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3988,
+    "totalResults": 3993,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RMPYbSHwoa1HQMYfPhiz8j6VEUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iOO1h4G2iW0"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-27T18:00:28Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Collecting Bee Hives In Lethal Company",
+        "description": "Today we try to collect metal scrap so that an octopus doesn't delete us Lethal Company playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iOO1h4G2iW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iOO1h4G2iW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iOO1h4G2iW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-27T18:00:28Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "iQuqo0R5o4fSU6w5H4miB1xov1A",
@@ -380,40 +414,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2023-11-22T01:00:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "NLGJjSyuTY9DIiV9VuRSk3-k7D0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "57SnzZZkK6M"
-      },
-      "snippet": {
-        "publishedAt": "2023-11-21T18:00:02Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Create Arcane Engineering Ep. 9",
-        "description": "In Create Arcane Engineering, we must build a factory to \"master the arcane\". That's the description it is very cryptic. Thanks to ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/57SnzZZkK6M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/57SnzZZkK6M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/57SnzZZkK6M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-11-21T18:00:02Z"
       }
     },
     {
@@ -1608,7 +1608,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "fQSS35BUt1C9xScln0OpDvbh4Dc",
+      "etag": "3gkF1ZIdhC7UCD96rwxfdYjShzI",
       "id": {
         "kind": "youtube#video",
         "videoId": "HgBdWnUgKlY"
