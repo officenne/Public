@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "BmMiXKJAjJBLH_tHJnjJfY7alEw",
+  "etag": "Ttw7GvyvarVV-aO_VdL46G7QsJ4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3993,
+    "totalResults": 3985,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vcQrr93YSoi8sUT6nLjzT35SjiU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XrWDv56OH7c"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-28T01:00:20Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: Reverie Trials",
+        "description": "Today I become a Minecraft military commander man Thanks to Apex Hosting for sponsoring this series! Use code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XrWDv56OH7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XrWDv56OH7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XrWDv56OH7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-28T01:00:20Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "RMPYbSHwoa1HQMYfPhiz8j6VEUY",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-09T00:00:30Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "BvO8WA4E9N7w-O7OoRyZ5VFLQiU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "G5M1dHD3bhg"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-08T00:00:06Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "If Minecraft Were A Crazy FPS (#1)",
-        "description": "Today we play an incredible map called Antitheist Thanks to MCProHosting for sponsoring this video! Use code ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/G5M1dHD3bhg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/G5M1dHD3bhg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/G5M1dHD3bhg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-08T00:00:06Z"
       }
     }
   ]
