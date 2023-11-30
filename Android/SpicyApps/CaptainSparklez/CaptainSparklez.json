@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UPizRP3hU5wgHIQzDAz04nrXw6k",
+  "etag": "IhmWjBQqe_vF2yTmnHMAc7uutlY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3961,
+    "totalResults": 3956,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZuvRREgEpB_aDeznVf_FExWiDOQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "80bvEaDY51Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-30T01:00:04Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Kara Is Among Us",
+        "description": "Soul read OP Among Us playlist: https://www.youtube.com/playlist?list=PLli4oThJ08ZydRiDS90jjS4XytEg3Ar6q Bluephones: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/80bvEaDY51Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/80bvEaDY51Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/80bvEaDY51Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-30T01:00:04Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "82JkP-UlgNXYgrKS5oE-Lh9EvR8",
@@ -40,40 +74,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2023-11-29T18:00:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TiV38sqRebyAOfnwYrI5bSZyTIc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "hUUmEBp5S-c"
-      },
-      "snippet": {
-        "publishedAt": "2023-11-29T01:00:15Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Sky Diving In Lethal Company",
-        "description": "We try to collect metal scrap so that an octopus doesn't delete us Lethal Company playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hUUmEBp5S-c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hUUmEBp5S-c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hUUmEBp5S-c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-11-29T01:00:15Z"
       }
     },
     {
