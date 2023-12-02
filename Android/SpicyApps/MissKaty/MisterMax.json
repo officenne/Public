@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "qGDTofJJsB83AK4c2xQiNuYQKIQ",
+  "etag": "ZhLuI-_zpwe2gvlz5P1A5vPJw4s",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cqDn9j0j64y-yxJKtXKKbdBQrng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wLrCktIl3AQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-02T08:15:02Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Гардероб за 10 долларов челлендж",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wLrCktIl3AQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wLrCktIl3AQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wLrCktIl3AQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-02T08:15:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "gS-87-U28LbYHRqqHnVpEMwltbM",
@@ -1336,7 +1370,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "wHzhwkeJdRweA6E4flbO0u-UavI",
+      "etag": "oYihfVhzHZOnat-I3HTy68_uG7A",
       "id": {
         "kind": "youtube#video",
         "videoId": "rMRZekKijzc"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-23T05:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "4qHtbCsHv4-y5cJ42Eoibj2lCBU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qQsyL927k9Y"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-16T05:15:02Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "24 часа в гейминг рум",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qQsyL927k9Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qQsyL927k9Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qQsyL927k9Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-16T05:15:02Z"
       }
     }
   ]
