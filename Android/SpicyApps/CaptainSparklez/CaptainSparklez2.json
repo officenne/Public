@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "DdkJNTf5jiN7L1wluEip1o0RMf8",
+  "etag": "ukHEf_zXMmmbE6QDdvtPvCC35j0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6010,
+    "totalResults": 6012,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TDfO_p-2HGavgD5WE3Js_QiZfR8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VNAQbP5P3nw"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-04T22:00:27Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Just Playing Some Minecraft Hardcore 1.21",
+        "description": "Playing Minecraft Hardcore in the new 1.21 snapshots with the goal of completing all advancements. Minecraft Hardcore Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VNAQbP5P3nw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VNAQbP5P3nw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VNAQbP5P3nw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-04T22:00:27Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "4KwYOh-_iX9SDbRAoEBqs7jx2UM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-05T00:03:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "CwuJtmz9DYQ_Si8tdsYxCVWWEtY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "LluAbUdbTJY"
-      },
-      "snippet": {
-        "publishedAt": "2022-05-26T22:00:15Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Speedrunning The Warden In Minecraft Hardcore",
-        "description": "The beautiful Ni no Kuni: Cross Worlds from Netmarble is available NOW on PC and mobile—check it out here!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/LluAbUdbTJY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/LluAbUdbTJY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/LluAbUdbTJY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-05-26T22:00:15Z"
       }
     }
   ]
