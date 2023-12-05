@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "WMPDuS2Bhjhgx6gxddxtGtlgVmQ",
+  "etag": "napiPPmegnZL-TuzcIvddSlHEZQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6001,
+    "totalResults": 5999,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "tRHQqiwwgd-TSORucBDYK6kun80",
+      "etag": "vln6WsSEEQyehcl8zhZrppjeSpI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3aZQXfBpk-Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T21:00:03Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Retiring",
+        "description": "After 13 years, I think it's reached the point where it's time to wind down the Minecraft gameplay content here. If you still enjoy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3aZQXfBpk-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3aZQXfBpk-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3aZQXfBpk-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-05T21:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8TwqoMMnfIn9oLqbX4a4Sym5TdE",
       "id": {
         "kind": "youtube#video",
         "videoId": "VNAQbP5P3nw"
@@ -18,7 +52,7 @@
       "snippet": {
         "publishedAt": "2023-12-04T22:00:27Z",
         "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Hardcore 1.21",
+        "title": "The Final Minecraft Let&#39;s Play - Ep. 1",
         "description": "Playing Minecraft Hardcore in the new 1.21 snapshots with the goal of completing all advancements. Minecraft Hardcore Playlist: ...",
         "thumbnails": {
           "default": {
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-09T22:00:19Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "50G0t9442LhLbHHOIX42aQlvDAw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "jB9tAF2IjzA"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-05T00:03:33Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft But The Crafting Recipes Are Random",
-        "description": "Can't pick the recipes, can't pick. The Random Loot Drops before this ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jB9tAF2IjzA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jB9tAF2IjzA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jB9tAF2IjzA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-05T00:03:33Z"
       }
     }
   ]
