@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Fhy0bNZIHAbxBiBisZRkaFtBP1A",
+  "etag": "SaRkUmSRaKY-r9MuJCyrnJgpDUU",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3951,
+    "totalResults": 3948,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LgZ1gDWCIjsrAwbwbWA_n2IiGTw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3J9ggaXiJkI"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-06T18:00:02Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: UniversIO Ep. 2",
+        "description": "In UniversIO, we must bake an apple pie from scratch by inventing the universe. Thanks to Apex Hosting for sponsoring this series ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3J9ggaXiJkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3J9ggaXiJkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3J9ggaXiJkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-06T18:00:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "EiDjG7OsYxUBRbb_bwiTSSvyYck",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-08T00:00:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3flgSMhWLNETgVJu5L6-6sd7ruk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "V55JWzZdc8k"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-07T17:00:31Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: DawnCraft Ep. 23 - The Scammer",
-        "description": "Today we enter the dungeon of doom Thanks to MCProHosting for sponsoring this series! Use code \"CaptainSparklez\" to get 25% ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/V55JWzZdc8k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/V55JWzZdc8k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/V55JWzZdc8k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-07T17:00:31Z"
       }
     }
   ]
