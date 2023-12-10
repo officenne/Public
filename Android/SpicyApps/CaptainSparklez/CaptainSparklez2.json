@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "3JmXa1h08E-TsRL_9ZQNvj4Ac8I",
+  "etag": "67eSae7_DiaQ7XuGAt7rGW1zx7Q",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6004,
+    "totalResults": 6018,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6DJQe6e0ZT7SL6KsZ0XlyuR884I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tI7n2oUXZ8w"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-10T22:00:19Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Minecraft Mob Tier List w/ Iskall85",
+        "description": "Today we rank Minecraft mobs with @iskall85 This tier list does not reflect the opinions of CaptainSparklez Inc. or its affiliates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tI7n2oUXZ8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tI7n2oUXZ8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tI7n2oUXZ8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-10T22:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "s6LEaQKzIdcBuQIrVGfd2AMEO7w",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-16T22:00:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ffeqohuZ_AAsus3C9DH4RiA5N8M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "bjb79Was214"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-13T22:30:07Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Best Way To Kill The Warden In Minecraft",
-        "description": "In 1.19 the warden became the most powerful mob in Minecraft. That doesn't mean we can't figure out how to be more powerful.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-13T22:30:07Z"
       }
     }
   ]
