@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "nX0CCBtLB2ecQIWfUzcwDUg8daE",
+  "etag": "gYWrV1nbVVs56pPy4TpzQR9vuUg",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6040,
+    "totalResults": 6044,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nza5JwTof-E8bWSO5s1OHV48QcA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3XILVfI68zc"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-14T21:00:02Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Minecraft: Armadillos and Wolf Armor",
+        "description": "The new Minecraft 1.21 Bedrock preview adds the armadillo, as well as its scutes which can be used to make wolf armor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3XILVfI68zc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3XILVfI68zc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3XILVfI68zc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-14T21:00:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "yyXTG45o_tr7BYfrTj64hQrEXmY",
@@ -78,40 +112,6 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "s6LEaQKzIdcBuQIrVGfd2AMEO7w",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "DdBhHxvcio4"
-      },
-      "snippet": {
-        "publishedAt": "2023-12-08T22:00:10Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Final Minecraft Let&#39;s Play - Ep. 2",
-        "description": "Today we try to tackle a trial chamber and venture to the nether Minecraft Hardcore Playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DdBhHxvcio4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DdBhHxvcio4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DdBhHxvcio4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-12-08T22:00:10Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "fugoXG9TmDam5oNUQ1HlXs2x2Og",
       "id": {
         "kind": "youtube#video",
@@ -146,7 +146,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "8TwqoMMnfIn9oLqbX4a4Sym5TdE",
+      "etag": "vYso_Dx3tOUbvEHaIy-tkp93GQw",
       "id": {
         "kind": "youtube#video",
         "videoId": "VNAQbP5P3nw"
@@ -154,7 +154,7 @@
       "snippet": {
         "publishedAt": "2023-12-04T22:00:27Z",
         "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Final Minecraft Let&#39;s Play - Ep. 1",
+        "title": "The Final Minecraft Let&#39;s Play (#1)",
         "description": "Playing Minecraft Hardcore in the new 1.21 snapshots with the goal of completing all advancements. Minecraft Hardcore Playlist: ...",
         "thumbnails": {
           "default": {
@@ -890,6 +890,40 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-30T21:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1j7cIbwcvYEXmTBou5OmifsYP2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wS9KLe4dfGU"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-29T19:00:19Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Hmmmmmmmmmm...",
+        "description": "What could it be??? Full VoD: https://www.youtube.com/watch?v=VhoxcEqbKho Minecraft Shorts Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wS9KLe4dfGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wS9KLe4dfGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wS9KLe4dfGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-29T19:00:19Z"
       }
     },
     {
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-16T22:00:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ffeqohuZ_AAsus3C9DH4RiA5N8M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "bjb79Was214"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-13T22:30:07Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Best Way To Kill The Warden In Minecraft",
-        "description": "In 1.19 the warden became the most powerful mob in Minecraft. That doesn't mean we can't figure out how to be more powerful.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-13T22:30:07Z"
       }
     }
   ]
