@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "pgtMskpNyJcdzBm-LILVmmomutE",
+  "etag": "nm7yBopqPnZ7xNBOEhz-77KXcAA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 366,
+    "totalResults": 367,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ilM8IoeS6MLbcZx6pKkHMfqRKAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Tdc_h5j7Ck"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-15T15:06:37Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Diana and Oliver&#39;s Inflatable Pool Adventure",
+        "description": "Diana and Oliver love to play in the inflatable pool. Today they have fun in it everywhere! 00:00 Diana and Oliver's Inflatable Pool ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Tdc_h5j7Ck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Tdc_h5j7Ck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Tdc_h5j7Ck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-15T15:06:37Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "5tW24JrKoWTqnq0c6iZJmQKGxb8",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2023-01-13T12:15:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "O4K5CK9LDs0pXcI1sh4EWNNXBn0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "2UxRgoWAs0E"
-      },
-      "snippet": {
-        "publishedAt": "2023-01-06T10:49:24Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma and Diana help Oliver find cars",
-        "description": "Oliver's cars are gone. The kid is upset. Roma and Diana help Oliver find his cars. Subscribe to Kids Roma Show ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2UxRgoWAs0E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2UxRgoWAs0E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2UxRgoWAs0E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-01-06T10:49:24Z"
       }
     }
   ]
