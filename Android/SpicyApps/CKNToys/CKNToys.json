@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "xmkqe6TDsvGDEyF6DeU8wFvnf8Q",
+  "etag": "OF_TSq1fkt8cLWsT5QHKEYuoJUw",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 450,
+    "totalResults": 452,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cSvqQDtJ9NC6XWGiAwwY5ueC9Fg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gWW8utmVNoQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-17T04:41:16Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "My New Car!!  CKN Gaming",
+        "description": "Check out the new car i got Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gWW8utmVNoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gWW8utmVNoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gWW8utmVNoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-17T04:41:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "F6B3DucVUrmE-O90EYjdX0BKndM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-21T20:00:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "i5gNjOtwuuErwqRPx5kJ7-NsJ-c",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "tDVJ-xzlq4s"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-20T02:35:00Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Shockwave Racing CKN Gaming",
-        "description": "Crazy speedrun game Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tDVJ-xzlq4s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tDVJ-xzlq4s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tDVJ-xzlq4s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-20T02:35:00Z"
       }
     }
   ]
