@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "75j3Nrkj06BdXiL0AN0kyjrKiIA",
+  "etag": "yxHOznL61dMAlQMBxvBZFZcf2SI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6054,
+    "totalResults": 6053,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TEeQ0gRogyd7VodnK2E_6vRwi_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "It6xy5bwAjs"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-21T21:00:07Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Final Minecraft Let&#39;s Play (#4)",
+        "description": "Today we search for an elytra Minecraft Hardcore Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/It6xy5bwAjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/It6xy5bwAjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/It6xy5bwAjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-21T21:00:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "_8paslAcDlO6saoBYJt3YG5BCzY",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-03T19:30:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "q1QJNQmFqX5rmIfA0OcUlHeKjiQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RqhHLGup1kM"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-02T22:00:07Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Randomized Nether Death Swap vs. Hbomb94",
-        "description": "Randomized. Netherized. DeathSwap. Previous Deathswap: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RqhHLGup1kM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RqhHLGup1kM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RqhHLGup1kM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-02T22:00:07Z"
       }
     }
   ]
