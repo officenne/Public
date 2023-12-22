@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Yz0MSpWg_MevEOe9pFCnUqVS5pQ",
+  "etag": "_ddVeELtAkWVqrEg1sEzq8FG1Pw",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 875,
+    "totalResults": 876,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KCT2BOD4OEsWzvGPHbxaWVCTBRc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6SZI9fqz6pE"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-21T09:01:16Z",
+        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+        "title": "Oliver learns to Help Mom | Useful Stories for Kids",
+        "description": "Oliver learns to Help Mom and be a helpful member of the family! 00:00 Kids Story about sweet machine 04:37 Oliver and Mom ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6SZI9fqz6pE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6SZI9fqz6pE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6SZI9fqz6pE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "✿ Kids Diana Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-21T09:01:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "10yKi03IfibGs31rbcZ5xd6o9v4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "✿ Kids Diana Show",
         "liveBroadcastContent": "none",
         "publishTime": "2023-02-12T07:07:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "c8rdFM2fXxxNz_LVRFKBWzgx7_s",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "xYRRfISbGB8"
-      },
-      "snippet": {
-        "publishedAt": "2023-02-09T07:07:42Z",
-        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
-        "title": "Diana and Roma got a New Pet",
-        "description": "Diana and Roma have a new pet. This is a cute dog. But they already have a cat, and she is jealous. Diana and Roma are ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xYRRfISbGB8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xYRRfISbGB8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xYRRfISbGB8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "✿ Kids Diana Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-02-09T07:07:42Z"
       }
     }
   ]
