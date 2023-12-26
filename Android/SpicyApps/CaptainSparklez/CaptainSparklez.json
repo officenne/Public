@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Y_gJJ6xph2nY-HOQ4qNr1j3Ak_E",
+  "etag": "X_UBkvixpG2GIwsCAAlV8oiQJgQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 4001,
+    "totalResults": 3996,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xv8EbDABHgolsRbhSByuJYjeNoM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N_U8TCs4idg"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-26T18:00:10Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: UniversIO Ep. 10",
+        "description": "In UniversIO, we must bake an apple pie from scratch by inventing the universe. Thanks to Apex Hosting for sponsoring this series ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N_U8TCs4idg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N_U8TCs4idg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N_U8TCs4idg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-26T18:00:10Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "UnWkprPC9Q8p3gFUlX0Rh-uBWFU",
@@ -74,40 +108,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2023-12-25T01:00:17Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TfqLlnr0Rz1C-MXrQEDaMYmjT_U",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "KExh3i-mIg8"
-      },
-      "snippet": {
-        "publishedAt": "2023-12-24T18:00:08Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Create Arcane Engineering Ep. 21",
-        "description": "In Create Arcane Engineering, we must build a factory to \"master the arcane\". That's the description it is very cryptic. Thanks to ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KExh3i-mIg8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KExh3i-mIg8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KExh3i-mIg8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-12-24T18:00:08Z"
       }
     },
     {
@@ -1234,7 +1234,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MwoLXm8H5sakbBGt6mBpNvt5Viw",
+      "etag": "e0L7jAu7cwQKkZvu46k1i6pUUak",
       "id": {
         "kind": "youtube#video",
         "videoId": "Dj_IQWjwO9g"
