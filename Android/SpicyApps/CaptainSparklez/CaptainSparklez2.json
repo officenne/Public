@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "GFyyFyIW5JDh-ouqS_Z9D5R0mfw",
+  "etag": "LORu_3W6uJWUYaD0KWflTHGawS4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 6013,
+    "totalResults": 6019,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5EzBTK6hnymXmtrf6CtYR0zKD_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "evUbuCk4aRE"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-03T21:00:15Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Final Minecraft Let&#39;s Play (#6)",
+        "description": "Today we initiate a raid Minecraft Hardcore Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/evUbuCk4aRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/evUbuCk4aRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/evUbuCk4aRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-03T21:00:15Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "10EF_Ot9JAc_tLq5-0Wc3Hcdkx0",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-02T22:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "9zkMnaYAye9AeBeu4oLNtDGx3mo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "jX7j8jlNiZs"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-30T18:41:34Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "I Fricked Up | RLCraft Hardcore Ep. 3",
-        "description": "In this series I've gotta survive the RLCraft Minecraft modpack in hardcore mode. Get 25% off your own server's first month with ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jX7j8jlNiZs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jX7j8jlNiZs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jX7j8jlNiZs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-30T18:41:34Z"
       }
     }
   ]
