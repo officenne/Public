@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "mHh95OzZNCkvUoZzLZqEdfZz0hA",
+  "etag": "2o9BnDLzzX2ideaVBXJb-ZpKoLM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 458,
+    "totalResults": 459,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eX-S4xKEaUCzicDtRBHJnUBNl9w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UDImk6AX9AI"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-05T20:30:02Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Silly Simon Says   CKN Gaming",
+        "description": "Roblox Silly Simon Says Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UDImk6AX9AI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UDImk6AX9AI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UDImk6AX9AI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-05T20:30:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "lyRHp7Wir8uJ5OZKTbZwI0suAZA",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "QeyCOC_eOXI_NhpXzX9RdPG5uP4",
+      "etag": "8eCDZLQOBkJMICM7US2X9c4soJw",
       "id": {
         "kind": "youtube#video",
         "videoId": "qow9gbMdwnA"
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-11T04:40:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "-5cG3G6wesYqf_Ejy6GMUsc-Gik",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RDuhUjcayFw"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-02T22:45:12Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "My New Gaming Setup!!  CKN Gaming",
-        "description": "My new gaming setup on the big screen. Thanks for watching and don't forget to subscribe to CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RDuhUjcayFw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RDuhUjcayFw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RDuhUjcayFw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-02T22:45:12Z"
       }
     }
   ]
