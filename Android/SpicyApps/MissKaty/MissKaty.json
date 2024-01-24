@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "AxGfakgq8OW6Bckr1vhwCtHbhfE",
+  "etag": "XaS8BaRaWNAqLz3T9s63rUOHy2M",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 127771,
+    "totalResults": 112673,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4h4jZ2x0sWDGp3QGDsllhP210VE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "71F-ElCxPY0"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-19T08:00:07Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Переезд",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/71F-ElCxPY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/71F-ElCxPY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/71F-ElCxPY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-19T08:00:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "36tuvVQ8Slx9IjwdVpVWbeQkTR8",
@@ -486,7 +520,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Yv1brAvlh0aniUXcwfd6G5U6ZwA",
+      "etag": "85qRqKtN_HvjP5VssiQo7Dt6qBs",
       "id": {
         "kind": "youtube#video",
         "videoId": "4qoC3xOTFm0"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-13T05:45:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "8aF8Nz7BIl7OBB7geRH94wpS7u4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "YIfvjiPmwGs"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-09T05:45:01Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Удалили канал",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YIfvjiPmwGs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YIfvjiPmwGs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YIfvjiPmwGs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-09T05:45:01Z"
       }
     }
   ]
