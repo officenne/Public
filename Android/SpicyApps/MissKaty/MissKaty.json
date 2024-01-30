@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "E6R7TstfY3-xd2jy9_6H_j1skmE",
+  "etag": "iVLVenJe7NGGREHdhp6APxbrZKA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 147715,
+    "totalResults": 147150,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jghH331efL93DHJdqLED_4uDeTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ksNnsbZ-ZQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-26T08:00:01Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Emoji еда челлендж",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ksNnsbZ-ZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ksNnsbZ-ZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ksNnsbZ-ZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-26T08:00:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "4h4jZ2x0sWDGp3QGDsllhP210VE",
@@ -176,40 +210,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-12-08T08:00:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "D9hoUTSkEoNGADakI5Eqw0qafi4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "m9t0RSEnED8"
-      },
-      "snippet": {
-        "publishedAt": "2023-10-27T08:00:24Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Желейное или настоящее челлендж",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/m9t0RSEnED8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/m9t0RSEnED8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/m9t0RSEnED8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-10-27T08:00:24Z"
       }
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "toWSzCdRAULSndwcl7pTOGTjCu4",
+      "etag": "WhrM6hMv0o0F1lWVWLy2gMV3dmU",
       "id": {
         "kind": "youtube#video",
         "videoId": "ejgz8U0bLQs"
