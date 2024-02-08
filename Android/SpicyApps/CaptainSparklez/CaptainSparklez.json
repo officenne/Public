@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "xEnaAkUe8_NtPdz67pqtZ3Ni3og",
+  "etag": "iXSrxXf8Cok78rutRrywwLQox3c",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 474370,
+    "totalResults": 483305,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Fyph24FBvM_7U9Ij2nP3OQhNsk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jlxk0ZzemyM"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-08T01:00:20Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: Create Arcane Engineering Ep. 35",
+        "description": "In Create Arcane Engineering, we must build a factory to \"master the arcane\". That's the description it is very cryptic. Thanks to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jlxk0ZzemyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jlxk0ZzemyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jlxk0ZzemyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-08T01:00:20Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "5p7Y0gb7sZfV197kwl8pE-xxb5Q",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-05T17:00:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "2zrVNIrzb6zt5H0UKaGQ1kb9-Kk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "uwN2w3UlWTs"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-04T00:00:14Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft Ragnamod Ep. 4 - Milk Man",
-        "description": "Oh boy we back in the rats Thanks to MCProHosting for sponsoring this series! Use code \"CaptainSparklez\" to get 25% off your ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uwN2w3UlWTs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uwN2w3UlWTs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uwN2w3UlWTs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-04T00:00:14Z"
       }
     }
   ]
