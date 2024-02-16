@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "yCeAeUdLo3-kKd6THvwtR8pHQro",
+  "etag": "tZmTkaEIrqZnpd65WwlOZ3BxQfs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 630710,
+    "totalResults": 813426,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gZJtDRgIUKfs2m7uICOHNLUznbM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KfSy8Vukr1U"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-14T22:30:02Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "This Is Minecraft&#39;s New Mob",
+        "description": "Today we get bogged down in the bog talking about the new Bogged. Minecraft Updates Playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KfSy8Vukr1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KfSy8Vukr1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KfSy8Vukr1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-14T22:30:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "nThKpT3v8tjdE4tvhxdJsEuH33g",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-03-20T22:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ZGoXbGNGTfDJsc6WbtiZRpt-Xo4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "dXfHwrQjgVg"
-      },
-      "snippet": {
-        "publishedAt": "2021-03-15T22:00:08Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Easiest Dropper In Minecraft",
-        "description": "The difficulty was a lie Previous Map ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dXfHwrQjgVg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dXfHwrQjgVg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dXfHwrQjgVg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-03-15T22:00:08Z"
       }
     }
   ]
