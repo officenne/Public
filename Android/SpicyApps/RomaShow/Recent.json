@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ctInSbVs48l9nFUZOQbmFtYHUXM",
+  "etag": "r59EiL3yqvqPMoFczoBkLYQmBZo",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 406,
+    "totalResults": 407,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bvcIt3_2zP9NfLWhgLdbo-vY1xo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0_XkvWSNL3k"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-03T13:52:56Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma and Helping Others Story",
+        "description": "Diana Roma and Oliver show that you need to help others when they need help.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0_XkvWSNL3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0_XkvWSNL3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0_XkvWSNL3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-03T13:52:56Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "fT53LUByqzzYruagKoe4DLCbAMQ",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2023-03-03T10:31:42Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LWvRy1cntcvHYLlpfkZg1Zxjm-A",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "p0YpMTqw3kY"
-      },
-      "snippet": {
-        "publishedAt": "2023-02-28T11:15:02Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma learns Numbers Adventure #shorts",
-        "description": "Roma opens doors and learns numbers. Subscribe to Kids Roma Show - http://bit.ly/2kj62uh Instagram ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/p0YpMTqw3kY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/p0YpMTqw3kY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/p0YpMTqw3kY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-02-28T11:15:02Z"
       }
     }
   ]
