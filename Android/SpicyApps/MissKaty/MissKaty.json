@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "j9Ya5U5fFZVmJX58tGo70i6HsZo",
+  "etag": "_hFBoI70LFUbqLwxP-_u_bhFtEc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 167544,
+    "totalResults": 160284,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s5BDJpyGZcDKSWDWlZJd2joyGZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YSU2qtCGUFs"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-08T08:00:18Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Угадываем название блюд из стран бывшего СССР и Великобритании",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YSU2qtCGUFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YSU2qtCGUFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YSU2qtCGUFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-08T08:00:18Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "shx10DBG6WoiXfFocYwUuf24Hzo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-13T05:45:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "oWqXcR-wgoFHkGv9zV8Noe30PUc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "F6ccPq0Z9MY"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-06T06:00:10Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Брат vs сестра",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/F6ccPq0Z9MY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/F6ccPq0Z9MY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/F6ccPq0Z9MY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-06T06:00:10Z"
       }
     }
   ]
