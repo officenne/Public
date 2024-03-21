@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "YAN1_ksME5cv1ICZEnQIRHxMpVI",
+  "etag": "HkM1v965QsKCtEA4Y20YUfO_BxA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 417,
+    "totalResults": 418,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sQpQ9stZ8aKfvE2U_YHD5Q0uAUw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L2TMh82q4jg"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-21T16:00:23Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma plays Hide and Seek with Oliver",
+        "description": "Don't miss out on this cute game of hide and seek with Roma and Oliver! Kids Roma Show - http://bit.ly/2kj62uh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L2TMh82q4jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L2TMh82q4jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L2TMh82q4jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-21T16:00:23Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "nHv-7sc6_DIKR0jpJgOvI2QMPzM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2023-04-21T10:15:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "2fWSaLUIxtKhp636cmdVy_uvkaA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "PqOc92YQDoc"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-14T11:15:02Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma and Oliver&#39;s Mysterious Police Adventure with the Easter Bunny!",
-        "description": "Roma and Oliver's Adventure with the Easter Bunny. The Easter Bunny has been Arrested! Can police officers Roma and Oliver ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PqOc92YQDoc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PqOc92YQDoc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PqOc92YQDoc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-14T11:15:02Z"
       }
     }
   ]
