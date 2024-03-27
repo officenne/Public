@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "sXyUVZTha3yLISXdofD-QK4JS0U",
+  "etag": "dRZpKPO_O0RGWayScpAc6w6WLhE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 16783,
+    "totalResults": 32471,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gr9fiEdkZrK-zKbwHZEBv5jExXg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zVH-8d56fnM"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-27T14:30:20Z",
+        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+        "title": "Boys Vs Girls Trampoline Adventure",
+        "description": "Diana and Roma show how boys and girls can work together and help each other. Kids Diana Show - http://bit.ly/2k7NrSx ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zVH-8d56fnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zVH-8d56fnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zVH-8d56fnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "✿ Kids Diana Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-27T14:30:20Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "77_-RVNB3Mg5KHJphcJLiul42p8",
@@ -1672,40 +1706,6 @@
         "channelTitle": "✿ Kids Diana Show",
         "liveBroadcastContent": "none",
         "publishTime": "2023-03-05T07:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "cvjeKKYDrJjleghhn3aFulh7cY4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "nkSGWaekDl4"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-02T08:43:49Z",
-        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
-        "title": "Diana and Roma At The Cat School",
-        "description": "Diana and Roma end up in a cat school! In this school, their teacher is their cat Fleischa, they do cat tasks and everything is ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nkSGWaekDl4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nkSGWaekDl4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nkSGWaekDl4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "✿ Kids Diana Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-02T08:43:49Z"
       }
     }
   ]
