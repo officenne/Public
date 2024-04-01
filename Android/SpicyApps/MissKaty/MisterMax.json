@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "_amZrX-BFhZCSXyJis2SHaq0jTQ",
+  "etag": "1T3Npz6u4G5QWR3okZMVhbQ-KtI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 84758,
+    "totalResults": 89309,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lCEu5tuaheEex5zouZWh5Vn3IaI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iYPJL89cN7A"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-30T12:45:04Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Целый день едим еду в IKEA",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYPJL89cN7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYPJL89cN7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYPJL89cN7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-30T12:45:04Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xen9mhmzojlDYO09PxOY9CayHtY",
@@ -414,40 +448,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-11-04T07:32:59Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Mo6qLpP-qIfFZ6zDjuGNjZTPCfY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "bekSLLIJ4Qk"
-      },
-      "snippet": {
-        "publishedAt": "2023-09-16T07:30:07Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Боба Ти по алфавиту",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bekSLLIJ4Qk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bekSLLIJ4Qk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bekSLLIJ4Qk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-09-16T07:30:07Z"
       }
     },
     {
