@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "_Ch2mbnFsB2zEWgn5gCzJ_daLmA",
+  "etag": "dY8dr832Tr3mO2I_EObfWZ76cFM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 518121,
+    "totalResults": 802716,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p6ygWX1TeATBSBCzN1LjW_6H8cg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "awlVzSUF204"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-07T20:00:04Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Final Minecraft Let&#39;s Play (#14)",
+        "description": "Today we pursue the new 1.21 advancements. Minecraft Hardcore Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/awlVzSUF204/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/awlVzSUF204/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/awlVzSUF204/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-07T20:00:04Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ale25YSxRFiZCPPpOHQq5PTokSc",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-05-26T22:00:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "x_QtumoZVOXkTkAv_tu4vrghFZ4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "gL-IZrWYje0"
-      },
-      "snippet": {
-        "publishedAt": "2022-05-22T22:00:14Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Gravity Parkour",
-        "description": "BlueMan should be a level designer. Previous Map ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gL-IZrWYje0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gL-IZrWYje0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gL-IZrWYje0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-05-22T22:00:14Z"
       }
     }
   ]
