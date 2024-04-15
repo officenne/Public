@@ -1,4 +1,19 @@
 [
+{
+    "title": "Diana Show",
+    "drawable": "News-32",
+    "submenu": "Diana Show Homepage",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Diana Show",
+        "provider": "wordpress",
+        "arguments": [
+          "https://dianaroma.egytests.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
   {
     "title": "DianaShow",
     "drawable": "News-32",
