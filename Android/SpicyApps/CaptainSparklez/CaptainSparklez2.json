@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Fzc27Aa4Du0UKwpsGfZ33oTgwoY",
+  "etag": "FS5B1VkX_wC8OxPbyAklCcWt9O4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 971510,
+    "totalResults": 1000000,
     "resultsPerPage": 50
   },
   "items": [
@@ -894,6 +894,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "VMylWIy-dzSHHeu20O0t75M_3Gw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lr_yEclt_Q4"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-19T20:00:10Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Technology Revolution | Minecraft Modded Survival Ep. 4",
+        "description": "You can watch Ep 3.5 on my second channel: https://www.youtube.com/watch?v=P3CerDBdnVg Get 25% off your own server's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lr_yEclt_Q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lr_yEclt_Q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lr_yEclt_Q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-19T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "i2Y0Vn0tLhoT4rkM7CuTr16SGDk",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-16T22:00:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "PH8lzkbAHdm1DTel6PvFt0ai36M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "bjb79Was214"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-13T22:30:07Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Best Way To Kill The Warden In Minecraft",
-        "description": "In 1.19 the warden became the most powerful mob in Minecraft. That doesn't mean we can't figure out how to be more powerful.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bjb79Was214/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-13T22:30:07Z"
       }
     }
   ]
