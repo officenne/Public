@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "NswVWzCbzFMknyvugNA2vhw6lFk",
+  "etag": "FpCIx1dqj16jr4t6KTMS0oVjuKY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 742433,
+    "totalResults": 962080,
     "resultsPerPage": 50
   },
   "items": [
@@ -894,6 +894,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "AG4eWfu2-v0u7JHdDa-itJIxaKg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N15H77sbeLg"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-14T21:00:07Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Insane Minecraft Map We Don&#39;t Deserve",
+        "description": "Oh my goodness what a wild ride Previous Map ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N15H77sbeLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N15H77sbeLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N15H77sbeLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-14T21:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "L2IHsro73OOVosuuHUeAzz5nmBY",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-13T22:30:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "xkWm7SDStx4oRCHUxqikPj89Xnw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "r8n6Pyi2j3w"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-09T22:00:19Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft Classics: Eronev Mansion w/ Smajor",
-        "description": "MCC stands for Mansion Co-op with sCott. Get the new Quality Content drop: https://qualitycontent.com/ Previous Classic Map ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/r8n6Pyi2j3w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/r8n6Pyi2j3w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/r8n6Pyi2j3w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-09T22:00:19Z"
       }
     }
   ]
