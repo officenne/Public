@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "L2JTNt_ye0aS27tHb-t5ojK_lb0",
+  "etag": "0DV8vXaxAr8oO92ZeJrKYyUXEes",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 446,
+    "totalResults": 447,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bhr9DzTy7-X6Mji93k8UTH1YoBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l9sh5OB3dYk"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-17T13:09:22Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver Lost His Cat",
+        "description": "Oliver lost his beloved cat. Will he be able to find his beloved furry friend? Watch this heartfelt video and join the search for Oliver's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l9sh5OB3dYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l9sh5OB3dYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l9sh5OB3dYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-17T13:09:22Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "PaweBXYv30F-eF3RmxyDeF6qRtA",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "cAglNnsZ5ANzUq5tRN5hbwA29ts",
+      "etag": "pCIUcLVhTdeZPsX3LkVIVtlLXKw",
       "id": {
         "kind": "youtube#video",
         "videoId": "NphPcbjbanY"
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2023-10-13T11:15:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "E1Yfot4iBI4TwxmX6rs-FQieBCk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "gdeSqtTWeAw"
-      },
-      "snippet": {
-        "publishedAt": "2023-10-07T11:15:02Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver and Mom in a Fun Index Card Challenge",
-        "description": "Oliver chooses a task on the cards. But he doesn't see exactly what task is drawn there. Whatever he chooses, he does! Fun Index ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gdeSqtTWeAw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gdeSqtTWeAw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gdeSqtTWeAw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-10-07T11:15:02Z"
       }
     }
   ]
