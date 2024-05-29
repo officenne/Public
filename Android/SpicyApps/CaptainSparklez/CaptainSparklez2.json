@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "HFRkx27zi9U_J15cPtDOGznHsPg",
+  "etag": "pca06apYIy96ImicGA3MP3IWiFU",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 811810,
+    "totalResults": 837590,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C3oayWPeABURdPBH9guxYYrehf0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1eOGuORYPTo"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-25T20:00:00Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Final Minecraft Let&#39;s Play (#19) - Finale",
+        "description": "Today things conclude More Minecraft in the future @CaptainSparklez2 Minecraft Hardcore Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1eOGuORYPTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1eOGuORYPTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1eOGuORYPTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-25T20:00:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "KBmnu_FIUcobBVyTjGSqTOW-Kvo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-03-15T22:00:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Z_KcEDP2JZ2cRexuYNZgD9bYsRA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "jhhPYiNKukY"
-      },
-      "snippet": {
-        "publishedAt": "2021-03-12T23:00:11Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft&#39;s New Mountains Are Massive",
-        "description": "It's goated. Previous update video ▻ https://www.youtube.com/watch?v=rUwELA_mbJ0&list=PL51FB077B700C0148&index=1 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jhhPYiNKukY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jhhPYiNKukY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jhhPYiNKukY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-03-12T23:00:11Z"
       }
     }
   ]
