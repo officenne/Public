@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "7HWIyNqoSQjFS7npmx-0-x-aZ1I",
+  "etag": "SDB9J7XDIk5uYX7pnaqj_LdwNFY",
   "nextPageToken": "CDIQAA",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 18349,
+    "totalResults": 10632,
     "resultsPerPage": 50
   },
   "items": [
@@ -860,6 +860,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "eHzlU1p-jSRtiL2WNF1RDZqcHYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H5uQuQ06SVM"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-13T14:00:08Z",
+        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
+        "title": "Toodly Doodly Doo 2 | Kids Songs | Super Simple Songs",
+        "description": "Get the Super Simple App! ▻ http://bit.ly/TheSuperSimpleApp Toodly Doodly Doo 2 is a super fun cumulative song for kids and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H5uQuQ06SVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H5uQuQ06SVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H5uQuQ06SVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Super Simple Songs - Kids Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-13T14:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "Ez6luRbXA_Fewrp6yoC-saizemM",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Super Simple Songs - Kids Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-08T14:00:35Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "y0jfxI-IYsx9Iy07TsGtG3fVxtU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "k6ZU9tgYhng"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-06T14:00:28Z",
-        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
-        "title": "Little Robin Redbreast #kidssongs #preschool #shorts",
-        "description": "Get the Super Simple App! ▻ http://bit.ly/TheSuperSimpleApp Little Robin Redbreast stops by for a visit and says \"Thank you for ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/k6ZU9tgYhng/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/k6ZU9tgYhng/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/k6ZU9tgYhng/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Super Simple Songs - Kids Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-06T14:00:28Z"
       }
     }
   ]
