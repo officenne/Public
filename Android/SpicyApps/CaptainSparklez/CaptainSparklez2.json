@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "aBZrb5o4bBNKs4RwGoJUYkOaqxI",
+  "etag": "1qm3Z_krOKozXD1TAotTqqrmNv4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 848760,
+    "totalResults": 1000000,
     "resultsPerPage": 50
   },
   "items": [
@@ -1166,6 +1166,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "D-LfcHLyypVd43FXkuLBSiihCCk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qrNk9twT4lY"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-05T15:00:39Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "&quot;TNT&quot; - A Minecraft Parody of Taio Cruz&#39;s Dynamite (2015 Remix)",
+        "description": "This is the old audio swap remix for people who enjoyed it. Original TNT upload: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qrNk9twT4lY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qrNk9twT4lY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qrNk9twT4lY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-05T15:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "vlR0upPs2pUPFgixLcFExNwh30g",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-08-11T21:00:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "0e0qYFEBeHUIaEAD_8bwuCHfnfM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3FaJnC2dL9w"
-      },
-      "snippet": {
-        "publishedAt": "2022-08-08T22:00:01Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Placeholder",
-        "description": "Placeholder description. Previous Map ▻ https://youtu.be/gL-IZrWYje0&list=PLSUHnOQiYNg0IJ98O-DmQTkj2MclJsZ8_ Get 25% ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3FaJnC2dL9w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3FaJnC2dL9w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3FaJnC2dL9w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-08-08T22:00:01Z"
       }
     }
   ]
