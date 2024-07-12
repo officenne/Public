@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Zkfd5ktQBTJe5LqZ0sgnpeINYrI",
+  "etag": "PKXxSz0CZdLUcR4ghNfa-Cd-Ieg",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 466,
+    "totalResults": 467,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YVddjvB_1a4fQ5A3J4gViHAG6Pk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tlF-247Lzrc"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-12T10:01:01Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver&#39;s First Visit to the Dentist 🦷",
+        "description": "Oliver's first visit to the dentist. Watch as he conquers his fears and learns all about dental hygiene in this fun and educational ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tlF-247Lzrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tlF-247Lzrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tlF-247Lzrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-12T10:01:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "aNNCyreJTLU22SWW1WimbasT8dQ",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-02-23T11:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "mqKTMtn9CAfueNDkwm2e0_h9rcg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "4sQvNMoZKrY"
-      },
-      "snippet": {
-        "publishedAt": "2024-02-16T11:30:06Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "The Boo Boo Story &amp; Mutual Aid | Mega Compilation | Diana and Roma Family",
-        "description": "The Boo Boo Story & Mutual Aid | Mega Compilation | Diana and Roma Family 0:00:00 The Boo Boo Story 0:03:31 Oliver plays a ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4sQvNMoZKrY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4sQvNMoZKrY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4sQvNMoZKrY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-02-16T11:30:06Z"
       }
     }
   ]
