@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "cvPVdz4NzoQBrs8GL6e5AD8mlyM",
+  "etag": "y9Av9auAyRUlK0SbRQdAIB3tt-g",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 474,
+    "totalResults": 475,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vqQeFQCdhN18btZ-41fVWCx0OAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dgi0adLb9t8"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-26T11:30:11Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma and Diana visited MONSTER JAM Show 2024",
+        "description": "Roma and Diana visited MONSTER JAM Show 2024. Watch as they experience the excitement and fun of this epic event.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dgi0adLb9t8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dgi0adLb9t8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dgi0adLb9t8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-26T11:30:11Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "nZBDUHF6v_GNJaNfIONHIMBTQvI",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-03-02T07:54:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "-eac9UsrEZoF-DaCV02OCwP2ni0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RyA-Vz_TviQ"
-      },
-      "snippet": {
-        "publishedAt": "2024-03-02T07:52:18Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Diana teaches Roma how to sort garbage",
-        "description": "Diana teaches Roma how to sort garbage. Sister vs Brother Challenge Diana and Roma learn how to properly sort their garbage!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RyA-Vz_TviQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RyA-Vz_TviQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RyA-Vz_TviQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-03-02T07:52:18Z"
       }
     }
   ]
