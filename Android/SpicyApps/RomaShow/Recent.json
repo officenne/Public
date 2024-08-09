@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "dl3YjYs7kX-B2D0Pc03scNWvpSI",
+  "etag": "DrYmQdnOcimugtB33SQDG0AjzSM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 479,
+    "totalResults": 481,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uJXaGyhwUkaKatwaJ7BaxJIpPp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q3kTpanYUUo"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-09T11:15:07Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver and Friends Playhouse Adventure",
+        "description": "Oliver and Friends Playhouse Adventure + more kids stories with Roma, Diana and playhouses for children! 00:00 Oliver and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q3kTpanYUUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q3kTpanYUUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q3kTpanYUUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-09T11:15:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Nvtf-Lz2kHJdRmYnlR-V4UYY4Rk",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-03-04T14:15:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "JQHNfYLEg23NnSaVaPUMex6ZfPo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "0_XkvWSNL3k"
-      },
-      "snippet": {
-        "publishedAt": "2024-03-03T13:52:56Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma and Helping Others Story",
-        "description": "Diana Roma and Oliver show that you need to help others when they need help.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0_XkvWSNL3k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0_XkvWSNL3k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0_XkvWSNL3k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-03-03T13:52:56Z"
       }
     }
   ]
