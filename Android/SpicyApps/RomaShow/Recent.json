@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "WVVb9ZHPWf6JYtBj8W3TrxHf_R8",
+  "etag": "MobJBccWq9dZEFgoAndxowvhy5A",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 486,
+    "totalResults": 487,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OT9UHkxSHO1AMVkW6RFT36pp6pQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6AGyoNB4NgI"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-23T11:15:00Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Diana and Roma Explore Snow Abu Dhabi",
+        "description": "Roma and Diana with their parents escape the desert heat and experience a winter wonderland in the middle of Abu Dhabi - at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6AGyoNB4NgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6AGyoNB4NgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6AGyoNB4NgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-23T11:15:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "dmpIA_hJw1Qop9XgOSND1Xfpim0",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-03-11T13:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "6nbvTeLAOMCK8SHuMdciSTsa7UE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "fzOx7TnxDwo"
-      },
-      "snippet": {
-        "publishedAt": "2024-03-08T11:30:30Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver and Mom learn to harvest berries at the farm",
-        "description": "Oliver and Mom learn to harvest berries at the farm. 00:00 Oliver and Mom learn to harvest berries at the farm. 03:38 Diana Roma ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fzOx7TnxDwo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fzOx7TnxDwo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fzOx7TnxDwo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-03-08T11:30:30Z"
       }
     }
   ]
