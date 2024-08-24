@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "5kGvCWaBNdW1Hz1HSZESuKhCuuY",
+  "etag": "tdmm8gDfN0LJ0IxV6MGzkA3tLsc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 89998,
+    "totalResults": 78624,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s7cQg4dJ86q1AY3vKwfcU5Ktt5U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "giUrwrZrdnQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-24T07:00:22Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Самые необычные корейские десерты",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/giUrwrZrdnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/giUrwrZrdnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/giUrwrZrdnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-24T07:00:22Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "R7R0ygBul-gKOe-jJUU_8ZFm34Y",
@@ -1574,7 +1608,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JwaYp7UCCFvSCqDT0DkfSGwOoTs",
+      "etag": "2FfMLT82ntDG503dCAFNaxAsmGw",
       "id": {
         "kind": "youtube#video",
         "videoId": "cMAKcoq_8kA"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2022-11-23T08:58:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "2RNXDICKi0rVC_4qxy1csQOkiIs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "kmlefkrplS8"
-      },
-      "snippet": {
-        "publishedAt": "2022-11-19T06:00:15Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Активные каникулы день 3",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kmlefkrplS8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kmlefkrplS8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kmlefkrplS8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-11-19T06:00:15Z"
       }
     }
   ]
