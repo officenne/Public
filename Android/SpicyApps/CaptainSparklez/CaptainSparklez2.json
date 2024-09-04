@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "B4S4AWAlh8EpV11wK7dI16VmZYU",
+  "etag": "wL0DP4FZra4AuqxkyJzDmmLU8WI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 563460,
+    "totalResults": 1000000,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NwNGCILf4ddys6H6mmxwKbTNLaE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZGFEUSy5ta0"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-04T18:00:17Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Minecraft Movie",
+        "description": "Today we take a look at the teaser trailer for the Minecraft Movie, which has been in progress for basically a decade. Vlogs Playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZGFEUSy5ta0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZGFEUSy5ta0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZGFEUSy5ta0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-04T18:00:17Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "hgnVOWy8boQy64_k_xoirv7-9DQ",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "IEXeS3I6kYml805Rk4sdTjIjOtI",
+      "etag": "1t0MBksmWKYX3bt6WW4JiPqi5XI",
       "id": {
         "kind": "youtube#video",
         "videoId": "RcTbEKCTNZ8"
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-04T22:00:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TQfMTauMRzKN-nQy8mwbaiar--Y",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "1vgjRIUKbBw"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-02T20:00:01Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Horde | Minecraft Modded Survival Ep. 7",
-        "description": "You can watch the streams on my second channel: https://www.youtube.com/watch?v=ZEWcQwaYBY8 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-02T20:00:01Z"
       }
     }
   ]
