@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "b5RSMEVGJXXSCsbRsjjDG0ZwI0k",
+  "etag": "tEzTNRyl8va2vXLRRUuFrnOFyN8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 51335,
+    "totalResults": 60786,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fhzUy7G-tfV1IXb05aYPfvnxo-4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6BgKETyUyCQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-05T11:15:00Z",
+        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+        "title": "Oliver and Mysterious Magic Pump Adventure!",
+        "description": "Join Oliver on a mysterious magic pump adventure as he inflates everything in sight! But where did this magical pump come from?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6BgKETyUyCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6BgKETyUyCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6BgKETyUyCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "✿ Kids Diana Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-05T11:15:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "WfMNHij9zn8pafwOjOGV2FhiG4M",
@@ -1672,40 +1706,6 @@
         "channelTitle": "✿ Kids Diana Show",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-15T08:03:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "UlXWO_Iqc4WYxFRzEtq-OrGCLWw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ASieHTtSLvY"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-09T07:07:28Z",
-        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
-        "title": "Diana and Roma&#39;s Super Mario Bros Adventure - Can They Save the Princess?",
-        "description": "Princess Diana is trapped. Super Mario Bros need to go through three levels of the Mario game and collect three stars to save ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ASieHTtSLvY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ASieHTtSLvY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ASieHTtSLvY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "✿ Kids Diana Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-09T07:07:28Z"
       }
     }
   ]
