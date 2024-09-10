@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "TdcDCjJ4DbJEVjm5cELbUfS-EGU",
+  "etag": "h8k4A9tAzlimlsqskzcGMCS7UW8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1000000,
+    "totalResults": 737372,
     "resultsPerPage": 50
   },
   "items": [
@@ -1438,6 +1438,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "pCu784pkIulWku-DVckBvIuht6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D0r2zdgihPE"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-05T21:00:04Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "&quot;Revenge&quot; - A Minecraft Parody of Usher&#39;s DJ Got Us Fallin&#39; In Love (2015 Remix)",
+        "description": "This is the old audio swap remix for people who enjoyed it. Original Revenge Upload: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D0r2zdgihPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D0r2zdgihPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D0r2zdgihPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-05T21:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "IwAwqS9ivmYf-o0qPVloIRzTI70",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2022-10-08T20:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "GHtHc_EUbTg9VBem4SP1qxgSOZo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "1vgjRIUKbBw"
-      },
-      "snippet": {
-        "publishedAt": "2022-10-02T20:00:01Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "The Horde | Minecraft Modded Survival Ep. 7",
-        "description": "You can watch the streams on my second channel: https://www.youtube.com/watch?v=ZEWcQwaYBY8 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1vgjRIUKbBw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-10-02T20:00:01Z"
       }
     }
   ]
