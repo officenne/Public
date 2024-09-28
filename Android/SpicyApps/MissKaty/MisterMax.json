@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "M204gETNvg3UJkhcEsP1wlbzf1w",
+  "etag": "n3kdrnxvoI8GtB0JHkcM2fmX2DI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 103191,
+    "totalResults": 103329,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XEVbPpHhk4KQVaxBOl5tQFioGYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NyAGJOPxER4"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-28T07:15:01Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Умный интелект управляет нашим днем",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NyAGJOPxER4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NyAGJOPxER4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NyAGJOPxER4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-28T07:15:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "R-bUSQAg2YnXx7cNEVnlmC12JQI",
@@ -928,7 +962,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "whdqbaAs2CFD__LthIBAcSIhzA4",
+      "etag": "IbCic0irNuoOGDfeQR8PRn3Yjfc",
       "id": {
         "kind": "youtube#video",
         "videoId": "BgjO-rSUP-0"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-09-16T07:30:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "1M9qQofkzx7IgsFQhXyGKoyMYyw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "4woo7TJfON0"
-      },
-      "snippet": {
-        "publishedAt": "2023-09-08T07:15:00Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Первый день в школу",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4woo7TJfON0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4woo7TJfON0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4woo7TJfON0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-09-08T07:15:00Z"
       }
     }
   ]
