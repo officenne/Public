@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "aZD3batuXyS14gFiodu9oP4p1-k",
+  "etag": "6cRWV-JDY0iJW5PhaJpV0_fTi5o",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3752,
+    "totalResults": 3743,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5hRAWvUbzFdHfbd9xENK8gPQ1Fk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Pz3TWHlagY"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-02T05:13:03Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Box Race With Kaison  CKN Gaming",
+        "description": "Funny Roblox box racing game Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Pz3TWHlagY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Pz3TWHlagY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Pz3TWHlagY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-02T05:13:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "6Z1cpqZBvt8RW_jWdvqLx6q7j74",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2023-11-15T01:09:59Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "a0WVSxwopmfKP4ShQHOPUpm4z-o",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "5RWZcvh5DLg"
-      },
-      "snippet": {
-        "publishedAt": "2023-11-13T04:15:29Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Escape Barry&#39;s Prison Mario Run CKN Gaming",
-        "description": "Escape Barry's Prison Mario Run Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5RWZcvh5DLg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5RWZcvh5DLg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5RWZcvh5DLg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-11-13T04:15:29Z"
       }
     }
   ]
