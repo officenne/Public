@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "e9OP0p9cru46ZUM3T0d8tzmSUXU",
+  "etag": "I9Y1AKV2pUbVXp0J2G_8ChyxJaI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 7503,
+    "totalResults": 7540,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l3ZleCT3wsrX81aRMHJ4RsYQq2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ug3tPzbuPtE"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-03T19:12:44Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Drop Challenge 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ug3tPzbuPtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ug3tPzbuPtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ug3tPzbuPtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-03T19:12:44Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "gForTozgqC_kRcJbVwSgZyGyTR4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-05-25T14:00:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "QZqZloeIGqf-wkG31ZtBtetqc0U",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "vMbgG5QjTXc"
-      },
-      "snippet": {
-        "publishedAt": "2024-05-18T14:00:48Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Built a SECRET McDonald’s You’d Never Find!",
-        "description": "I Built a SECRET McDonald's You'd Never Find! Watch Topper Guild build a secret McDonalds inside a secret room to hide from a ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vMbgG5QjTXc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vMbgG5QjTXc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vMbgG5QjTXc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-05-18T14:00:48Z"
       }
     }
   ]
