@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "3yY9SkfMemU8FlrRzS-nok0xAPo",
+  "etag": "krN0_Itw8MyVue7C-5A57X8K6Vw",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 855358,
+    "totalResults": 861470,
     "resultsPerPage": 50
   },
   "items": [
@@ -1404,6 +1404,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "bVDM23ezitRlQog74nPDsw3oPVQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x0YD41y5CJM"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-15T22:05:05Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Minecraft 1.17 But it&#39;s Actually Caves and Cliffs",
+        "description": "More of a deeper video than usual. Previous data pack: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x0YD41y5CJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x0YD41y5CJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x0YD41y5CJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-15T22:05:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "fhYDh-5MByXo1w--ghe4d1FGf6A",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-04-20T22:45:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "lSS5jXrEq8xcA7hF5VNo8RCoUew",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "x5divzD_Vh4"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-17T22:00:11Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft But It&#39;s 2D",
-        "description": "Today we try to beat Minecraft but the world is 2 blocks wide. I'm still playing normally in 1st person but used the replay mod to ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-17T22:00:11Z"
       }
     }
   ]
