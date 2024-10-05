@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "zczaIttXG2BlLt9aqpUYDRG6awY",
+  "etag": "hlTjU9ndGdY3CaZYsyNLKkHlUV0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 211009,
+    "totalResults": 224410,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0JtewGSmvpX1jiS67ei54gzDWh0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3KZ4WhFrFWQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-05T09:25:01Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Тест на внимательность",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3KZ4WhFrFWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3KZ4WhFrFWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3KZ4WhFrFWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-05T09:25:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Dlowp2reksAf8jSQf_-Oq17OicE",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-14T05:45:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "1GoqXu5Lxe4stOywm09iAaqoAMA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "59i0sMaRJok"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-06T06:45:01Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "24 часа на пляже",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/59i0sMaRJok/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/59i0sMaRJok/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/59i0sMaRJok/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-06T06:45:01Z"
       }
     }
   ]
