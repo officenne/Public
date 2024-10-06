@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "XrI_GqyT_yz_9Xw7Fk30oxXJxog",
+  "etag": "6ap9ZrD9qGFMlEHg09_J2gPe4OI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 497,
+    "totalResults": 498,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UVIe7u1n7gwGvl7dUV8yHYusrVw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k3jHjtoNGHs"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-05T12:02:08Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Baby Adam Wants to go to School 📚🎒",
+        "description": "Baby Adam is eager to go to school, but he's still too young! Mom explains to the kid that he can study at home. 00:00 Adam wants ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k3jHjtoNGHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k3jHjtoNGHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k3jHjtoNGHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-05T12:02:08Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "fCcVSxzMSyrX5cNIgdwwfNTnONY",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-03-29T12:00:27Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "p2H18YNC4RHr8rwH1vusV5tDU1M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "savpljFeJGw"
-      },
-      "snippet": {
-        "publishedAt": "2024-03-28T14:30:19Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver makes Milkshake in his Cafe",
-        "description": "Oliver makes Milkshake in his Cafe. Roma shares his techniques and tips for creating the best milkshake.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/savpljFeJGw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/savpljFeJGw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/savpljFeJGw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-03-28T14:30:19Z"
       }
     }
   ]
