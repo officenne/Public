@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "jITmv8r5pMQ-YVFP-9ZxgQ_HagE",
+  "etag": "eTAKM7HsPv_GOfYh00FY0acbl-Q",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 7524,
+    "totalResults": 7537,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xh677ffWH-b1FKTMyOxVJsg1o4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0fudFMOzCBs"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-06T14:00:02Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "I Built a SECRET Soccer Field For Ronaldo!",
+        "description": "I Built a SECRET Soccer Field For Ronaldo! Watch Topper Guild build a secret room for his favorite soccer player Cristiano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fudFMOzCBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fudFMOzCBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fudFMOzCBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-06T14:00:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Dt4NAueBPSh6_rd97Ss48VNf2fE",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-05-28T16:24:40Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "iLPi8yD_zKgizsxhkjWSUsKixio",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "UG1W31VGP_Y"
-      },
-      "snippet": {
-        "publishedAt": "2024-05-25T14:00:33Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Built a SECRET Survival Bunker!",
-        "description": "I Built a SECRET Survival Bunker! Watch Topper Guild build a secret room to hide from a real bounty hunter with his best friend ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UG1W31VGP_Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UG1W31VGP_Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UG1W31VGP_Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-05-25T14:00:33Z"
       }
     }
   ]
