@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "TuIOIUnYsCpwhQc465IWHt0rzTc",
+  "etag": "VqL3o6Y0Ktws-4Cf8Z0VMHa2tcs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 256510,
+    "totalResults": 257527,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XtSN9TTaMEwuEigm8pRg5VO5VUs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KNV5W2mn1M0"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-12T07:01:16Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Выиграли iPhone 16",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KNV5W2mn1M0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KNV5W2mn1M0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KNV5W2mn1M0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-12T07:01:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "k24yd7D1bEpa8X1ZdX8Zl-Okk9E",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Dlowp2reksAf8jSQf_-Oq17OicE",
+      "etag": "PAsM6wx_p_EaJ1QnQ_8g1wglLgQ",
       "id": {
         "kind": "youtube#video",
         "videoId": "NyAGJOPxER4"
@@ -180,7 +214,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Bi5nZN-egDv6RqqG3bcKXBhnLiI",
+      "etag": "ZDWFlg5QZY_LwycCLWcnPR0Sa_I",
       "id": {
         "kind": "youtube#video",
         "videoId": "giUrwrZrdnQ"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-03-25T07:00:30Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "zykgNhYd5EPkuj0-oWqGrPiAYX0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "6ApO8dfqFH4"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-17T08:00:02Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Домик на дереве",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6ApO8dfqFH4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6ApO8dfqFH4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6ApO8dfqFH4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-17T08:00:02Z"
       }
     }
   ]
