@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "PHQZB05eRBQRUVvKdqG60qG8tzE",
+  "etag": "3XYEBdw1Yh58Z29hisQJcMucbas",
   "nextPageToken": "CDIQAA",
   "regionCode": "ZZ",
   "pageInfo": {
-    "totalResults": 256280,
+    "totalResults": 256111,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FRfVuCCS9X-TLQY32GzwNMpyLkk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZwtrvHdYY-U"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-19T07:15:02Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Уехали в Рим без родителей",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZwtrvHdYY-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZwtrvHdYY-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZwtrvHdYY-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-19T07:15:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "idECS8-qI0erGrMwik-Kmy4PYug",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-04-09T06:30:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "RWPw0o0WUqRBOWr9ZsbhBey6Ivk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "w0HqWLqnHzI"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-25T07:00:30Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Целый день еда с заправок челлендж",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/w0HqWLqnHzI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/w0HqWLqnHzI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/w0HqWLqnHzI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-25T07:00:30Z"
       }
     }
   ]
