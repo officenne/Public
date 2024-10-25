@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "qwq2PaJwtZBnZFpCuSgnI2eWR74",
+  "etag": "22szZL36eXCzCHqLwbyuxzGGEZE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 495,
+    "totalResults": 496,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ylqRI0BOWoXTUnkxd1ipnxvH9zw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Ao0Q9W3RaA"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-25T11:15:00Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver and NEW Food Stories for Kids",
+        "description": "Join Oliver, Diana, and Roma in their new food adventures! Watch as they take on the Healthy vs Junk Food Challenge and share ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Ao0Q9W3RaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Ao0Q9W3RaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Ao0Q9W3RaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-25T11:15:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "IyTOF-rKFjNLsDcqqP1q7qt9Hl8",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-04-04T11:00:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Btfk86TFLzntL631aaRUJZOE6aw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "m9aUtO1a2nM"
-      },
-      "snippet": {
-        "publishedAt": "2024-03-31T17:44:49Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma and Diana&#39;s 🐶 New funny pet",
-        "description": "Roma and Diana as they introduce their adorable new pet. They bond with their new furry friend and share their excitement with ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/m9aUtO1a2nM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/m9aUtO1a2nM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/m9aUtO1a2nM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-03-31T17:44:49Z"
       }
     }
   ]
