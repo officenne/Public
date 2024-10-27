@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "RB0F708v6gKEi5blkXnAkYnv8TY",
+  "etag": "mw7s0WlAve2rSAfNXqoUx_0LfGQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 230279,
+    "totalResults": 230773,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UUkQjJh6i2mcSZ3dly-dJ5JYp0E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OiscCCFdjGc"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-26T07:21:54Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Катя в Tiffani/ Макс в Ikea - папа на улице",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OiscCCFdjGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OiscCCFdjGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OiscCCFdjGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-26T07:21:54Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "h96asiOJic8I0Xr84EnIKWy158U",
@@ -452,7 +486,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jXFcGGeao30DrP_V6RHIp2KJWSU",
+      "etag": "yCZcYVLMlQcv7OMj21oFVnOc2_U",
       "id": {
         "kind": "youtube#video",
         "videoId": "j0kFlg9Luus"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-13T06:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "qzhJIplGR7NnqH7jd4oC2yRmUcM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "BgRlyehP7LI"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-30T06:15:00Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Развлечения на отдыхе",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BgRlyehP7LI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BgRlyehP7LI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BgRlyehP7LI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-30T06:15:00Z"
       }
     }
   ]
