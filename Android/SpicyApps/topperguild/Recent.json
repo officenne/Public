@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "qXZp9emCopmkxY5WoK1ueO90UX0",
+  "etag": "Gh-ONyTsphJVCasicMEPuTZIejs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 7767,
+    "totalResults": 7800,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tcQs-eW8FuU7OA5cGbyEIGTmN68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XIqVVaz7uwY"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-27T14:00:26Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Ronaldo Was Murdered?!",
+        "description": "You won't believe who did it… FOLLOW ME Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XIqVVaz7uwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XIqVVaz7uwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XIqVVaz7uwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-27T14:00:26Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "CnpNYCLv-bRmBDQaY1w5I_XRIhY",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-06-08T14:00:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "zml6ocHD_yPn7Jqw3HI9WHrLBvw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3Gl_P8tR1RI"
-      },
-      "snippet": {
-        "publishedAt": "2024-06-02T23:01:58Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "YouTube Made A Mistake…",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3Gl_P8tR1RI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3Gl_P8tR1RI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3Gl_P8tR1RI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-06-02T23:01:58Z"
       }
     }
   ]
