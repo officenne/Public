@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9uCwlVn-V1enaHqFIzTu25sMVwQ",
+  "etag": "UXWl7UwPtTlcLp-6_Fm-dFv00rY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3891,
+    "totalResults": 3897,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "euhv0fADANSD-s38S4Qj13o0Wns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dbk3xkb-YSU"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-04T23:28:30Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "First WIN of Fortnite Remix Chapter 2 CKN Gaming",
+        "description": "My first win in Fortnite Remix Chapter 2. Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dbk3xkb-YSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dbk3xkb-YSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dbk3xkb-YSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-04T23:28:30Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "mGVGedQREQMgVRKtf0L4DB-vK2o",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2023-11-27T02:05:17Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "N2RN99sep6r2B4YJB0ABW7kck5w",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "poRojPUIrfs"
-      },
-      "snippet": {
-        "publishedAt": "2023-11-23T03:01:19Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Playtown Chapter 1 CKN Gaming",
-        "description": "Checking out Playtown Chapter 1 Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/poRojPUIrfs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/poRojPUIrfs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/poRojPUIrfs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-11-23T03:01:19Z"
       }
     }
   ]
