@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "vPRonptV2cNPKPLhMbc4w2oUgOk",
+  "etag": "muS5XmOYd14nMK2RTODvQ5f-OaU",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 7827,
+    "totalResults": 7828,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vwF2XxLfWuZnr8BWaMF_hBWb3pk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uIWHSoiyYg0"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-05T23:00:45Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "My Biggest Challenge Yet 😱",
+        "description": "https://litt.ly/pepero #pepero #peperoday.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uIWHSoiyYg0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uIWHSoiyYg0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uIWHSoiyYg0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-05T23:00:45Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "qq8TgAwMRmOWC6X5L01U8kHE5dI",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-06-15T14:00:17Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "E5YrmaMUDGhPd5WHRrkITTjQBu8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wnAWaO4C-fI"
-      },
-      "snippet": {
-        "publishedAt": "2024-06-09T18:09:27Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Need Your Help 😭",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wnAWaO4C-fI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wnAWaO4C-fI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wnAWaO4C-fI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-06-09T18:09:27Z"
       }
     }
   ]
