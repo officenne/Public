@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "QUfUu5yFswWj3sMTMtiCjgtyqDU",
+  "etag": "nM8XAX1MdCehxkEKn2dADgQ15sI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 7923,
+    "totalResults": 7919,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B6FvhI0SRAKURQSR84lzAxtdU7w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QLV8QTS46so"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-06T19:33:49Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "How Strong Is Tin Foil? 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QLV8QTS46so/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QLV8QTS46so/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QLV8QTS46so/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-06T19:33:49Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Uh3y58vDW7rCeU7ylNcFTF-5G0s",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-06-16T19:09:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "GpfhwiTw0X-L39K_9SCDyJi6uts",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "QLB2taOcmaA"
-      },
-      "snippet": {
-        "publishedAt": "2024-06-15T14:00:17Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Built a SECRET Lego Store In My Room!",
-        "description": "I Built a SECRET Lego Store In My Room! Watch Topper Guild build a secret room to hide from a real bounty hunter and his ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QLB2taOcmaA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QLB2taOcmaA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QLB2taOcmaA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-06-15T14:00:17Z"
       }
     }
   ]
