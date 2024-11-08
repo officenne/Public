@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "nRobyUiLRNOtLdR7F5xfZxtytjM",
+  "etag": "ixIxVT3HWtnu5POqSdPU5Fs_Tbc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 985,
+    "totalResults": 986,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6z0yyBMKfSZFaYL5lus5MR9PWxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VnnH_y1h4XA"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-08T12:15:03Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "PET Hotel  + More Adventure videos with Oliver and Animals for Kids",
+        "description": "Join Oliver and his furry friends on exciting adventures at the PET Hotel! Watch more fun and educational videos with Oliver and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VnnH_y1h4XA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VnnH_y1h4XA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VnnH_y1h4XA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-08T12:15:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "IqulnjU6DFoCWf2PRt17GPZbrsw",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-04-08T12:15:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "1joR1bg6aApee3_LRXtgGwctgUE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "do2bgArcaj8"
-      },
-      "snippet": {
-        "publishedAt": "2024-04-05T11:00:37Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Who&#39;s At the Door? | Don&#39;t Open The Door To Strangers",
-        "description": "It's important to always know who is at the door before we let them in. Baby Oliver and his family use a special word to help keep ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/do2bgArcaj8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/do2bgArcaj8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/do2bgArcaj8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-04-05T11:00:37Z"
       }
     }
   ]
