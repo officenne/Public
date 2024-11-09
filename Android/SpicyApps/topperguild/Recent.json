@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "pNIJLE7q0D0qLnUYArELIPX_B8o",
+  "etag": "r_uKRRnlGWhWuLsX-Ktr6bqqr3k",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 7873,
+    "totalResults": 7890,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3aoJNxDP9gNn1GiCi0GYFR6HS9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8cc__MytEJk"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-08T21:13:57Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "I’m The Fastest Human Alive 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8cc__MytEJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8cc__MytEJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8cc__MytEJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-08T21:13:57Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "i7X1GY4DkOh1EH1KOcM5ZLFfHoY",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_6QOH8vi7QO1jG7fEmAtCeNUTFA",
+      "etag": "ynkqOCv0-AaUdla_x2ZO1ve_tno",
       "id": {
         "kind": "youtube#video",
         "videoId": "uIWHSoiyYg0"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-06-19T22:58:50Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ZOqTD3kds_Imok_6vVhyTZohB6I",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "SciXme-6wBw"
-      },
-      "snippet": {
-        "publishedAt": "2024-06-16T19:09:15Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I CAN’T BELIEVE I LOST 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/SciXme-6wBw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/SciXme-6wBw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/SciXme-6wBw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-06-16T19:09:15Z"
       }
     }
   ]
