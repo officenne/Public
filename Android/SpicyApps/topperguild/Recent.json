@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "MBKm5I2dqfG4I2mxOTH-STIpWZI",
+  "etag": "nZIg0VWoKeLEaAQ22dmek3ry6Z0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 8035,
+    "totalResults": 8062,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uMGb9D5E7w48q1o-bEoZaC3cDuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aUW54aCrpMc"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-10T23:13:43Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Can a Helmet Save Your Life? 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aUW54aCrpMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aUW54aCrpMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aUW54aCrpMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-10T23:13:43Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "vFfb_-f6fBqHTUmtdK_qKh69YqY",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TRAltP5whsWIqvfarck0D6WE25o",
+      "etag": "KmTN5oqppTW0GMz6t9t8H6kxC_c",
       "id": {
         "kind": "youtube#video",
         "videoId": "8cc__MytEJk"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-06-29T21:09:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Z2q2rUio6o9x_6WxeMClq9sqpvE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "CgFNSTVWQ1w"
-      },
-      "snippet": {
-        "publishedAt": "2024-06-23T14:00:09Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Built a SECRET Lamborghini Dealership!",
-        "description": "I Built a SECRET Lamborghini Dealership! Watch Topper Guild build a secret room to hide his Lamborghinis from a real bounty ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CgFNSTVWQ1w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CgFNSTVWQ1w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CgFNSTVWQ1w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-06-23T14:00:09Z"
       }
     }
   ]
