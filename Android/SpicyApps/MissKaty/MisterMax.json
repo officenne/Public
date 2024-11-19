@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Cb9MuUbmO8trkBxm1iDqzPZjTFM",
+  "etag": "FYYFS2l_IIRQ_IQkYIk_wDFtst0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 266797,
+    "totalResults": 267008,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cNLj14sWC1KskbR4Qt6CjTwI1-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ATKsYnP1sW8"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-15T08:00:07Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Макс доигрался",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ATKsYnP1sW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ATKsYnP1sW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ATKsYnP1sW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-15T08:00:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "_9eFO2vKQlJe8AbEawqsu3eiiFs",
@@ -112,7 +146,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3MeuxN52JDkQKGz5Jnh0VllxMws",
+      "etag": "OmL2Qpv-SqpJJ1JMDWcwCJopqlA",
       "id": {
         "kind": "youtube#video",
         "videoId": "ZwtrvHdYY-U"
@@ -996,7 +1030,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "t_KPUoXiRGWpZIZBb9IQIO651_Q",
+      "etag": "sTbTlGC1VI4b8EDDta-r3keDE2Q",
       "id": {
         "kind": "youtube#video",
         "videoId": "FLWrzlLQLmA"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-04-28T08:30:15Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "oVXIjlDWXF3aqTQDxBV1U5cjxeA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "fQf2HDOU58s"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-15T05:15:03Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Папа копирует Макса",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fQf2HDOU58s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fQf2HDOU58s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fQf2HDOU58s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-15T05:15:03Z"
       }
     }
   ]
