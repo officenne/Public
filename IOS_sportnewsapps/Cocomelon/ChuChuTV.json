@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "LFdTSJJoNUba9-JMA3eqr9Pcvd8",
+  "etag": "MMbaUIpR01ejONPs-AMEP4L5h3k",
   "nextPageToken": "CDIQAA",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 39030,
+    "totalResults": 39026,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EyZHgnrnQzQ3OLMllFaN-8lFzi0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "seCqGIm4QUg"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-22T08:54:42Z",
+        "channelId": "UCBnZ16ahKA2DZ_T5W0FPUXg",
+        "title": "The Vegetable Friends Dance Party - ChuChu TV - ChuChu TV Baby Nursery Rhymes and Kids Songs",
+        "description": "Get excited for an awesome dance party! “The Vegetable Friends” are putting on a delightful show where all kinds of vegetables ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/seCqGIm4QUg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/seCqGIm4QUg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/seCqGIm4QUg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2024-11-22T08:54:42Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "R-l4g7YwG2rqb14-8FwTZWySYuo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2024-07-09T11:30:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "8pU1XIAwfWmNweR_U4693BuaLe4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "JjGsr9Ksmak"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-06T11:30:12Z",
-        "channelId": "UCBnZ16ahKA2DZ_T5W0FPUXg",
-        "title": "Toy Boo Boo Song #nurseryrhymes #kidssongs #kidsshorts #babysongs #chuchutv #kidsshortsvideos",
-        "description": "Toy Boo Boo Song Lyrics: My dear mommy I was jumping there Suddenly a little train came out of nowhere I hopped on the train ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JjGsr9Ksmak/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JjGsr9Ksmak/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JjGsr9Ksmak/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-06T11:30:12Z"
       }
     }
   ]
