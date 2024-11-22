@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "jyEkC8nooygXz5DtxGrtHF-oXzc",
+  "etag": "l9yXThsilQyIy4yWdBiSevfoorE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 235246,
+    "totalResults": 236065,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7cjkbBEc_VMQNaG5ipGgSRkcp0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iNs0LE7-no0"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-22T08:15:01Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Скупаем еду одного цвета",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iNs0LE7-no0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iNs0LE7-no0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iNs0LE7-no0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-22T08:15:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "gMu0lmtBqWn7S4Cd0FhpF7z4Wbg",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-03T06:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "C9JGw8fgOJyvvNrVkzkyffTlOK8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ejgz8U0bLQs"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-20T05:45:01Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Обустраиваем домик по цветам",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ejgz8U0bLQs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ejgz8U0bLQs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ejgz8U0bLQs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-20T05:45:01Z"
       }
     }
   ]
