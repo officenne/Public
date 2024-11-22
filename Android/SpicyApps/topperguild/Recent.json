@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "dkuRHTWtfLCljuOlc9ASHyQPRBY",
+  "etag": "YnE-7LPHXIfxlsuYOoaBAWxG2gk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 9140,
+    "totalResults": 9123,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x4TVuFmncxRZDF8XYeC3ZRTbmhg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_TlW_z6zcDA"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-22T00:16:49Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Twin Telepathy Challenge! 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_TlW_z6zcDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_TlW_z6zcDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_TlW_z6zcDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-22T00:16:49Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "8laiAr2k5kjSTF4KKGUbKLkOf3M",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-07-09T17:23:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "PJ8X18MKuunQ1S_vr2yy70fcPwY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "FfryVFmbJbw"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-07T14:00:10Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "4 SECRET Rooms You Won&#39;t Believe Exist!",
-        "description": "4 SECRET Rooms You Won't Believe Exist! Watch Topper Guild spend millions of dollars to see and experience the world's most ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FfryVFmbJbw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FfryVFmbJbw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FfryVFmbJbw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-07T14:00:10Z"
       }
     }
   ]
