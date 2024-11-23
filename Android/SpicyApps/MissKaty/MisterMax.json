@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "i52C2ojCoXDPPMQBpWzJtBwUgUQ",
+  "etag": "z_DIbQEtjAn-VcqGSXB_2JG3mKY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 267199,
+    "totalResults": 267616,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AQpkrOoLIvFEE8HMr8gvKUomG2E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yc3ed2i7kgQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-23T09:01:02Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Крутые адвент календари для Макса и папы",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yc3ed2i7kgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yc3ed2i7kgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yc3ed2i7kgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-11-23T09:01:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "cNLj14sWC1KskbR4Qt6CjTwI1-g",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-21T08:22:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "qop_CLTDHnQGinZRePsnHRQDFb8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Pt8MEjiU-NI"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-14T05:45:02Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Мальчики Покемоны и девочки в домике",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-14T05:45:02Z"
       }
     }
   ]
