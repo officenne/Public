@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ZpKCj1Hw_Xe2TAFbMFB7BbokABc",
+  "etag": "pD56wJDsbBuqVyiHXZ4cgNQBHxU",
   "nextPageToken": "CDIQAA",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 36883,
+    "totalResults": 36872,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "moBGlXxZClTbyum7JOgJasvhWVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6sqaphZiVRk"
+      },
+      "snippet": {
+        "publishedAt": "2024-11-29T15:24:32Z",
+        "channelId": "UC6zhI71atP7YLoZyIyCIGNw",
+        "title": "🎅 Christmas Songs and Baby Rhymes | Nursery Rhymes by Dave and Ava 🎅",
+        "description": "Download Dave and Ava's App for iOS ▻ https://bit.ly/DaveAndAvaiOSApps and Android ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6sqaphZiVRk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6sqaphZiVRk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sqaphZiVRk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-11-29T15:24:32Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "vlp7TQmjhyJSJ7WPbA8NRCjTooI",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2024-07-05T09:32:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hZXpaIG6vyTvJxlIZFdX9_BM01U",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ZH8idY1OJYA"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-03T10:35:35Z",
-        "channelId": "UC6zhI71atP7YLoZyIyCIGNw",
-        "title": "😉 Five Little Kittens Jumping on the Bed | Nursery Rhymes |Five Little Ladybugs | Dave and Ava 😉",
-        "description": "Download Dave and Ava's App for iOS ▻ https://bit.ly/DaveAndAvaiOSApps and Android ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZH8idY1OJYA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZH8idY1OJYA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZH8idY1OJYA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-03T10:35:35Z"
       }
     }
   ]
