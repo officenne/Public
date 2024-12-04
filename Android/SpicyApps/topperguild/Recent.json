@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "HLZpHf2iuzeUC8S_YLj03Uff0uE",
+  "etag": "m9IaiqLsxm0UCOedD3P8cWui_u0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 9308,
+    "totalResults": 9293,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "klHiVNNE1hrUHrOFGNF9UZZd2O8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zN5T1RlGFiw"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-04T02:55:09Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Balloon Pop Challenge 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zN5T1RlGFiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zN5T1RlGFiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zN5T1RlGFiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-04T02:55:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "uRjN8qwM4vtzq24U6NhFUbwxeEk",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "8_2mX5K05PikOF9iwlhbrUDhZQU",
+      "etag": "CPUsMhvaclCpbE-1eX_SAxPoaAM",
       "id": {
         "kind": "youtube#video",
         "videoId": "UoGaG07T4Q4"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-07-14T17:23:48Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TtuNGehlPB-0FUKXZHag401eVCQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "V8EdPZABwgg"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-13T14:00:31Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Built 3 SECRET Stores You Won’t Believe Exist!",
-        "description": "I Built 3 SECRET Stores You Won't Believe Exist! Watch Topper Guild and his friends build 3 secret rooms like an Amazon store, ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/V8EdPZABwgg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/V8EdPZABwgg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/V8EdPZABwgg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-13T14:00:31Z"
       }
     }
   ]
