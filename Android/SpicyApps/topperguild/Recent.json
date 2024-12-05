@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "vbfhCjSAvq6fwJE98NigsAimsDg",
+  "etag": "jbZziUdSKFv_5mrOG0ndCEdkX64",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 9309,
+    "totalResults": 9329,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QcFzauzRPHn5VoKlF5mSzJZuI_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TxGaT3briMw"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-05T19:18:41Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Cybertruck vs Bubble 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TxGaT3briMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TxGaT3briMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TxGaT3briMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-05T19:18:41Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "1CdRMmMKbwoNjGZU_bDXD8rbEi8",
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JMxPlweEP6ssKLKM5fRzlIiSnCA",
+      "etag": "ebaMLsopBI3Toje7lrncYOXG3-M",
       "id": {
         "kind": "youtube#video",
         "videoId": "UoGaG07T4Q4"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-07-18T18:26:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KRpZAQ7MtlVnJcNFQiv3XfdylKc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "67Jw3xwWqF0"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-14T17:23:48Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "THAT WAS CLOSE 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/67Jw3xwWqF0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/67Jw3xwWqF0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/67Jw3xwWqF0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-14T17:23:48Z"
       }
     }
   ]
