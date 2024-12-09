@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "n3Sbk3TwjTaGN_OC3WqL-5_dQIQ",
+  "etag": "mjlDigoBDBGirFOk9JoP1jDg6Gk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 9431,
+    "totalResults": 9443,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "xsT01uVZAw6mMm5YH-5KuepObAk",
+      "etag": "v8aVJU5iht1aOTvRerrt5gXHjr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XPD1nzS3ffw"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-08T21:57:35Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "We Attempted The Impossible 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XPD1nzS3ffw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XPD1nzS3ffw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XPD1nzS3ffw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-08T21:57:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yvLfd8KsOp97j3fOhy0LxPJ9hyQ",
       "id": {
         "kind": "youtube#video",
         "videoId": "44R6K-k7xdY"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-07-20T14:00:43Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "wm0f6_qjA2vY6NsM7kVWesmNrYM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "QVeZVVT5sz8"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-18T18:26:05Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I BROKE HIS DIAMOND PLAY BUTTON 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QVeZVVT5sz8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QVeZVVT5sz8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QVeZVVT5sz8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-18T18:26:05Z"
       }
     }
   ]
