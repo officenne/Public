@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "DYfZSnOWxgmSMU_fc1b_lC5wviE",
+  "etag": "LIOBwsEpNCNsvEaBZWybH5AoZsM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 9443,
+    "totalResults": 9442,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r5eJjRdaPff26BI55lyB-uFhV3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NrJPJjfczG4"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-13T01:24:56Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Chainsaw vs Hand 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NrJPJjfczG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NrJPJjfczG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NrJPJjfczG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-13T01:24:56Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "CCzSbrP_YIBEIG2vA3vqGMnEvZ4",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "wsC8HRLfrQaVbezKNPmlK8zNvmE",
+      "etag": "3HiAFn2h62Nvs6gqP7hpu7Ule2Q",
       "id": {
         "kind": "youtube#video",
         "videoId": "XPD1nzS3ffw"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-07-27T18:30:37Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "u_pNAIb1CGwe28g5WqCbVlN9sfs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "aSWNpy5Awso"
-      },
-      "snippet": {
-        "publishedAt": "2024-07-22T23:01:09Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I CAN’T BELIEVE IT 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aSWNpy5Awso/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aSWNpy5Awso/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aSWNpy5Awso/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-07-22T23:01:09Z"
       }
     }
   ]
