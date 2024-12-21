@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Z_AcKzM4-lb7-FVs3WEdsS93v5Y",
+  "etag": "bS6D9W5g4470X70TWIOfGnIKAq8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 260675,
+    "totalResults": 259145,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b-C0HHxqV_RiX46S-cKETe26BhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h2t2L2DNPI0"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-21T08:15:02Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Cамые маленькие гаджеты в Мире",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h2t2L2DNPI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h2t2L2DNPI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h2t2L2DNPI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-21T08:15:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "VKvJytNODgZCxBmajtW2SArnRso",
@@ -1370,7 +1404,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DZanF8VszbUPYVNSCLNqHnRq8gg",
+      "etag": "KJWG9hwR8Sk7NL9HzQOeFlAkSvg",
       "id": {
         "kind": "youtube#video",
         "videoId": "rvfdbvIJE7c"
@@ -1540,7 +1574,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "sZ_3jMEdqcDSnaqdVnLLqNMCqOs",
+      "etag": "ffZ2_vU1M7x5_s1UHJT7MiDgSE0",
       "id": {
         "kind": "youtube#video",
         "videoId": "cMUHICxpkUA"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-21T08:22:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "qop_CLTDHnQGinZRePsnHRQDFb8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Pt8MEjiU-NI"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-14T05:45:02Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Мальчики Покемоны и девочки в домике",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-14T05:45:02Z"
       }
     }
   ]
