@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "-SgU_4gK_ikgWt_vXnjePoWaULc",
+  "etag": "cq7Ge5ve90TRESqcxv0GqZjmdVs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1018,
+    "totalResults": 1019,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j4x-BHGaZEP3pdKwjfE9cfN157E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A_lu5mlkKaU"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-27T12:30:07Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma at the Elf School + More Magical Christmas Stories For Kids",
+        "description": "Santa Claus invites Kids to join Elf School and become his trusty little helpers. A collection of Christmas stories for kids. 00:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A_lu5mlkKaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A_lu5mlkKaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A_lu5mlkKaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-27T12:30:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "e9dbd6O0sxwhOyzen08uQ80VWgk",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-05-10T11:00:32Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "NDkNeIjDZ8IhsHePMDlqHMfDFA4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yE0zj3zvtLw"
-      },
-      "snippet": {
-        "publishedAt": "2024-05-09T12:30:40Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver and Mom pop Giant Orbeez Balloon",
-        "description": "Join Oliver and Mom as they have a blast popping Orbiz Balloons in this fun and exciting video! Watch as They practice their ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yE0zj3zvtLw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yE0zj3zvtLw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yE0zj3zvtLw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-05-09T12:30:40Z"
       }
     }
   ]
