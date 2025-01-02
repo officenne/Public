@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "moNNDThZxlMuatPian8xqpMuovw",
+  "etag": "4SDVctYdSa5pooEcBu7bO2fm8Lc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 17054,
+    "totalResults": 17052,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xGDr1lCXrh65JND4ShMskuQsKFo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3gj7l6ykFk0"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-02T15:00:05Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Which Box Would You Pick?! 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3gj7l6ykFk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3gj7l6ykFk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3gj7l6ykFk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-02T15:00:05Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "jzeHPRkLc2Rah0XL7O4emvh30K0",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-09-07T14:29:54Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "1AG0C_0m1gW9hnzIy-MU6TmbXeY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "JxWzADvzJiA"
-      },
-      "snippet": {
-        "publishedAt": "2024-09-04T20:42:13Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "How Long Can I Survive In a Water Chamber? 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JxWzADvzJiA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JxWzADvzJiA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JxWzADvzJiA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-09-04T20:42:13Z"
       }
     }
   ]
