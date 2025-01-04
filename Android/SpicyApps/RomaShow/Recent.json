@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "NOnt19vSC2myMoCX40Z4mE-_2aM",
+  "etag": "wFFkZMPO7gACx3GERUdoATBKn7w",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1026,
+    "totalResults": 1028,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XSj1QYyyCl-HQTwmXyncw3C5Blk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "leZl37kptQI"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-03T12:15:05Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Profession Machine + More Funny School Stories",
+        "description": "Join Roma and his friends on new school adventures as they explore different professions and create funny school stories.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/leZl37kptQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/leZl37kptQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/leZl37kptQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-03T12:15:05Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "fw7mNH8Mxnqih2GHvAMvjvlSBsU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-05-16T12:30:37Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "5xpjIqLF_PHJUwYbqc5VtyAGSb4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "NphPcbjbanY"
-      },
-      "snippet": {
-        "publishedAt": "2024-05-13T12:30:13Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Learning Colors in Color Pools 💦🎈💦",
-        "description": "Join us as we explore the world of colors in our fun and educational video, Learning Colors in Color Pools!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NphPcbjbanY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NphPcbjbanY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NphPcbjbanY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-05-13T12:30:13Z"
       }
     }
   ]
