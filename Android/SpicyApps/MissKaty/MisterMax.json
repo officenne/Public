@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "U3NVQBmdLQe3EdjcH93yVNZvYjI",
+  "etag": "rebvUcuEBBlPDvd6ZBTB0ocjFeU",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 263365,
+    "totalResults": 263573,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pMKclXQtwACPdvaCJdqpQWZf_Ng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vgecVdMwkV0"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-05T08:00:43Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Живем в троём в 4м²",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vgecVdMwkV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vgecVdMwkV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vgecVdMwkV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-05T08:00:43Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "9tK4vytfEFzTNZjVHcCODNjTgew",
@@ -1404,7 +1438,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MggqTlJLoYv53mb1SOFcglKVMiA",
+      "etag": "uVpn7Js1YJtkuGkngwscG8BpeGY",
       "id": {
         "kind": "youtube#video",
         "videoId": "7WjmZBpGI6A"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-14T05:45:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "wq0N8cjb1_n6--WVzU8Tcu2Mwq0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "OdRlSCmUKMw"
-      },
-      "snippet": {
-        "publishedAt": "2023-04-28T08:30:15Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "15 ресторанов за 24 часа на отдыхе",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OdRlSCmUKMw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OdRlSCmUKMw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OdRlSCmUKMw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-04-28T08:30:15Z"
       }
     }
   ]
