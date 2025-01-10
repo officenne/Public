@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "tsRXM1RFG1D4NPywjfZ1VsFf3Dw",
+  "etag": "wlxrLvlhx3uLl-IaWGFipWYiJTk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 240842,
+    "totalResults": 240836,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NUVyjkyARsFPgAnjrFfjZUcQqPw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s8xjeES_zJU"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-09T08:45:03Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Уехали к Санте на северный полюс",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s8xjeES_zJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s8xjeES_zJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s8xjeES_zJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-09T08:45:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "pnv_JUnwZf_HVhlSa_MNTmDOjJ0",
@@ -758,7 +792,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BAAzncPf8AytxA6ZkPVsk2qfB9E",
+      "etag": "qtCykoyfKpF12s8QpEvpib94IFE",
       "id": {
         "kind": "youtube#video",
         "videoId": "j0kFlg9Luus"
@@ -1030,7 +1064,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "06qbVNRuqUFoHl3IAiBGDDhSzU8",
+      "etag": "YLHHdkbTqCowHj56dQ0Zgp78eQo",
       "id": {
         "kind": "youtube#video",
         "videoId": "WSEVX-_buuQ"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-08-04T06:00:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "694nFyQvacnMNTgTYdyHqjQRXvI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "km5NyvVWAUg"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-22T06:00:15Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "24 часа ДА с Катей и папой",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/km5NyvVWAUg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/km5NyvVWAUg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/km5NyvVWAUg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-22T06:00:15Z"
       }
     }
   ]
