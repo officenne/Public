@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "gnNsVhLDLGCZt2lnv0dpDcQxWV4",
+  "etag": "tsaz0SCGat02L8zwWNV11ZYbD00",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1033,
+    "totalResults": 1034,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3fR83eSaygml9sd6flJmVQTZTj0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a4yU6crRvyA"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-10T11:57:43Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma Rides the Snow Slides at SKI Dubai",
+        "description": "Join Roma and Diana's family as they have fun and ride the snow slide at Ski Dubai! Watch as they have a blast in the winter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a4yU6crRvyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a4yU6crRvyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a4yU6crRvyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-10T11:57:43Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "8QQL9vsgMt1vAFQAfiF2LydkQzM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-05-20T12:30:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "xDYjo0Xupj5bc_9eaat9yB2w3Gk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "l9sh5OB3dYk"
-      },
-      "snippet": {
-        "publishedAt": "2024-05-17T13:09:22Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver Lost His Cat",
-        "description": "Oliver lost his beloved cat. Will he be able to find his beloved furry friend? Watch this heartfelt video and join the search for Oliver's ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/l9sh5OB3dYk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/l9sh5OB3dYk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/l9sh5OB3dYk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-05-17T13:09:22Z"
       }
     }
   ]
