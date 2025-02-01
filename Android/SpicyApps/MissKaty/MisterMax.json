@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "2dd6IQb7tO1KStiI7nMVUeyfE38",
+  "etag": "bBI9LAW3Gv5qTZbj7DUVm6W9k3Y",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 273433,
+    "totalResults": 267688,
     "resultsPerPage": 50
   },
   "items": [
@@ -1098,6 +1098,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "ARmxzlOhpLXemtmR_rYBu9gDlBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dZnAaCR_3rA"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-23T08:00:31Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Самые популярные кафе Мира челлендж в четырех странах",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dZnAaCR_3rA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dZnAaCR_3rA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZnAaCR_3rA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-23T08:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "Bks41Nf9pT32vV5Xw3Fa188_3C8",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-05-21T08:22:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "0JqRqNzqYgerQdT5D4nDCj5up5M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Pt8MEjiU-NI"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-14T05:45:02Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Мальчики Покемоны и девочки в домике",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Pt8MEjiU-NI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-14T05:45:02Z"
       }
     }
   ]
