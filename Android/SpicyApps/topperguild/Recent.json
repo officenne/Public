@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9bAz_wPhX6w0kpjdOjrGUZ_KVDI",
+  "etag": "plgMbexjTUaEY6jY-aXNVmHxI3A",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 18265,
+    "totalResults": 18344,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ulZxvgc6AhbEj8Gnmg9EhwRf3p8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FLckwtM1HvI"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-02T15:56:02Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Left or Right? 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FLckwtM1HvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FLckwtM1HvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FLckwtM1HvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-02T15:56:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "MLjy3iorwoSOK3Y-ztWN31Ggm-k",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-11-16T15:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "x-UCP0DUvC8_Zdj1F5doh4IrKvA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Bwnm5ssEuq8"
-      },
-      "snippet": {
-        "publishedAt": "2024-11-15T03:46:42Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Nobody Can Beat Me! 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Bwnm5ssEuq8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Bwnm5ssEuq8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Bwnm5ssEuq8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-11-15T03:46:42Z"
       }
     }
   ]
