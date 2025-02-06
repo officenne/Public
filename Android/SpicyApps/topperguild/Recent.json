@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "qI1zdyByr77U1Ymu1dRaX0C8oVQ",
+  "etag": "rr0Bsh5MHOotDRifniY3NESsBIg",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 17687,
+    "totalResults": 17625,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "35e80A9o45t3mUIVD64JskSEv5I",
+      "etag": "nKGe8phI_Dc9wTDRBC_1wgfAf8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sQ-skduphyk"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-06T18:49:02Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Don’t Pick The Snake Box! 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQ-skduphyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQ-skduphyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQ-skduphyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-06T18:49:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OOMwkqOaGUCsr7syBfUcsYTGH-M",
       "id": {
         "kind": "youtube#video",
         "videoId": "xnV05F-CChI"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-11-19T15:25:13Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "OUwzo3TCy9OGUclnwnSaD9GpNi8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "FD_JUPTHAoQ"
-      },
-      "snippet": {
-        "publishedAt": "2024-11-17T19:54:53Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Can You Jump As High As Ronaldo?! 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FD_JUPTHAoQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FD_JUPTHAoQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FD_JUPTHAoQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-11-17T19:54:53Z"
       }
     }
   ]
