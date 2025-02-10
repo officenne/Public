@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "hIx-NCEwlzPg0ILkWOfYpWgIbiw",
+  "etag": "nxs3E7PubCexdYosk5elf-4EMBE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 645540,
+    "totalResults": 645761,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RWXhiYRUby7OntN_t_Wb7vvjO4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PhAQVG4VeUs"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-10T18:00:17Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "A Very Gnarly Fable Fury Session",
+        "description": "You can still late pledge if interested - https://fablefury.com Fable Fury Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PhAQVG4VeUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PhAQVG4VeUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PhAQVG4VeUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-10T18:00:17Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "nS41mhE9m9pwyi3y5kKCnUQywho",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-14T00:00:12Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "XlSePiLwcHXuVACf76m-Bed7a8Y",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "5z0Kp10vOIU"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-12T17:00:05Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft Ragnamod Ep. 8 - Omega Books",
-        "description": "Oh boy we back in the cyclops Thanks to MCProHosting for sponsoring this series! Use code \"CaptainSparklez\" to get 25% off ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5z0Kp10vOIU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5z0Kp10vOIU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5z0Kp10vOIU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-12T17:00:05Z"
       }
     }
   ]
