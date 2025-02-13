@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "fuGxf1vL5T5hXuM_FF9rTyXN8Yc",
+  "etag": "gRVPyuq64GJhDv4o5lOQE64hpcY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 249264,
+    "totalResults": 249358,
     "resultsPerPage": 50
   },
   "items": [
@@ -214,7 +214,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "IJrN8ktg4CHx9oVMXMR_JOIl3a4",
+      "etag": "U0vTmIzkjqI67pA1k_-OCFQzzPc",
       "id": {
         "kind": "youtube#video",
         "videoId": "UiZyLrrH_RY"
@@ -1608,6 +1608,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "KCFiGICPe6XmSqGUETLfer1z-zg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wbdoERZmFVs"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-24T08:00:36Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Новая комната Кати и кафе с кошками",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-24T08:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "SI3mxujp3inuQaUM_oFh1k8YWq4",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-09-30T07:45:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "spnZv4MC8ZhoB35dgIDgnT6CBhw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Nr-IZsXjwWw"
-      },
-      "snippet": {
-        "publishedAt": "2023-09-15T07:30:06Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Макс и Катя игнорируют папу целый день",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Nr-IZsXjwWw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Nr-IZsXjwWw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Nr-IZsXjwWw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-09-15T07:30:06Z"
       }
     }
   ]
