@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "3lc5utDHZ-WdK3KXpiKzohS79As",
+  "etag": "zpl9POEiJqY_ormjbEdO_8GQiLE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 19533,
+    "totalResults": 19547,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wgZz9kCe-58xq11hlbLzKiQupqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SsQYlJFSqhg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-12T17:42:58Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Can You Avoid 2 Dragons? 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SsQYlJFSqhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SsQYlJFSqhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SsQYlJFSqhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-12T17:42:58Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "-_d37BuNIsCs7TR2PHX0EskTvaQ",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-11-28T15:50:47Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "cQ3dXavWOA-SDzmaF3pa3jgBNvA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yNEnWLh4IDE"
-      },
-      "snippet": {
-        "publishedAt": "2024-11-25T21:42:58Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Lamborghini vs Smoke 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yNEnWLh4IDE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yNEnWLh4IDE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yNEnWLh4IDE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-11-25T21:42:58Z"
       }
     }
   ]
