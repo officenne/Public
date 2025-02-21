@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "r5NCm-ics7arJ0M8KhsIE8-9nZE",
+  "etag": "PJ1PhDj0tqo9orojznbSF44Yl9s",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 248818,
+    "totalResults": 248573,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "la3rk4JAsp6wg40bmClFz_8nKhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3mNlP9yAwFg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-21T09:13:24Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Живем жизнью другого",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3mNlP9yAwFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3mNlP9yAwFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3mNlP9yAwFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-21T09:13:24Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "RUmbdxnLQ7HlQ5GyxIoFLmJ1OKQ",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "hISq3FG417Mi6GkxI_yJIwYNFSA",
+      "etag": "TzJ5Cc8IAQTIDOrvlp9ziHO7qVE",
       "id": {
         "kind": "youtube#video",
         "videoId": "RHybOVYG254"
@@ -214,7 +248,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WlyLQcEGY9yZOG0wFhXmT7xqIzQ",
+      "etag": "QUYjTuYokGqeERMbIoBvRIr-DNw",
       "id": {
         "kind": "youtube#video",
         "videoId": "lyZWUa3A0u0"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-11-24T08:00:36Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "SI3mxujp3inuQaUM_oFh1k8YWq4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Dz59hOhzrVo"
-      },
-      "snippet": {
-        "publishedAt": "2023-10-14T07:15:00Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Папа больше не хочет снимать видео",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-10-14T07:15:00Z"
       }
     }
   ]
