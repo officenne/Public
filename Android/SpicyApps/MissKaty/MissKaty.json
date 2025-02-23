@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "kFDdx4TaaHFGExBwSKrTMWD8GI8",
+  "etag": "2I9HYwhPHXLaqyZz5hVMvlVhdtc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 248765,
+    "totalResults": 249121,
     "resultsPerPage": 50
   },
   "items": [
@@ -1268,6 +1268,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "sB8H_oX6Xrv2XdrkJ-8HJkG3LkM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LsS35dneBwU"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-10T08:30:09Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Целый день еда из Thorpe Park",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LsS35dneBwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LsS35dneBwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LsS35dneBwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-10T08:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "UZaYcieQuUqyxiVob1TIddzkDhs",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-12-08T08:00:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KCFiGICPe6XmSqGUETLfer1z-zg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wbdoERZmFVs"
-      },
-      "snippet": {
-        "publishedAt": "2023-11-24T08:00:36Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Новая комната Кати и кафе с кошками",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-11-24T08:00:36Z"
       }
     }
   ]
