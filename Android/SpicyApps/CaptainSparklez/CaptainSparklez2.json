@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "zoqc2IwoWakOGAlj3xv_2L-AlDA",
+  "etag": "4OpHKNaUwqmsKe4BbG2pV8cWTkM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 966406,
+    "totalResults": 966649,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FN0pDaiKPNFEKO00wVx_RmH2dN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ndjnHkBUEx0"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-01T15:46:45Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Reacting To The Final Minecraft Movie Trailer",
+        "description": "WBPartner This is an ad. Parents, click the link below to find out more about A Minecraft Movie, get tickets, and watch the trailer!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ndjnHkBUEx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ndjnHkBUEx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ndjnHkBUEx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-01T15:46:45Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "qQeTXITwZIDSEF4DCv589zNmOqM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-04-20T22:45:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "kxIliqGlUXwTw0MmjoSVamru8_c",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "x5divzD_Vh4"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-17T22:00:11Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft But It&#39;s 2D",
-        "description": "Today we try to beat Minecraft but the world is 2 blocks wide. I'm still playing normally in 1st person but used the replay mod to ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-17T22:00:11Z"
       }
     }
   ]
