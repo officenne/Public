@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "0KvstV530uUUks98WCnttehE6J8",
+  "etag": "olj_xWunyyNM_rPkYoISpPPtEKg",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 271804,
+    "totalResults": 271873,
     "resultsPerPage": 50
   },
   "items": [
@@ -1030,6 +1030,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "pL4VuSRCAS9Rb1EFG-ojESa57rs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sK2QQbqS1DA"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-11T07:39:54Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Cделали гейминг рум в родительской спальне",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sK2QQbqS1DA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sK2QQbqS1DA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sK2QQbqS1DA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-11T07:39:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "ABBeBSl24vvfSzqlgCBtX3AYS8M",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-11T05:15:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "cgwhuhlOvVs9av2hs0yvg7HNzFI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RehNSxIQSM4"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-04T06:30:11Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Что в черном ящике?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RehNSxIQSM4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RehNSxIQSM4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RehNSxIQSM4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-04T06:30:11Z"
       }
     }
   ]
