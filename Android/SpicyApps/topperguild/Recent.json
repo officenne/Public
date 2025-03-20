@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "EGNQlkiYJ-_Q3281swDuFmQN-B4",
+  "etag": "f9NBC0wBopD8M6aZO4oGmk3Y9nQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 27831,
+    "totalResults": 27626,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0uYC97sYZtvdd01qDZZ5SNMaYG4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QR0LHXxQ8aQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-19T23:45:32Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Tin Foil vs Human 😱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QR0LHXxQ8aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QR0LHXxQ8aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QR0LHXxQ8aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-19T23:45:32Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "B7W7CJMM5uZgzee8nPUp7wIZGlU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-01-04T15:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "vDbZ7iQdW2qjttTpwyyEDIJ_vlY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3gj7l6ykFk0"
-      },
-      "snippet": {
-        "publishedAt": "2025-01-02T15:00:05Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Which Box Would You Pick?! 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3gj7l6ykFk0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3gj7l6ykFk0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3gj7l6ykFk0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-01-02T15:00:05Z"
       }
     }
   ]
