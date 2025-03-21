@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "CvNSFgEdMkRwHb9sWEI_trUzMuQ",
+  "etag": "LEbZm-_9vDIVLGR_boKOlFqPneE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 255460,
+    "totalResults": 254664,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6U3EJ25Z4s71uOawMJAydaFctY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pK0GCCHHAlA"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-21T08:15:02Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Распаковка Taba Squishi / Новая коллекция",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pK0GCCHHAlA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pK0GCCHHAlA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pK0GCCHHAlA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-21T08:15:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ZN6bw3Ej_KhA09dtTaz2O22atZU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-11-24T08:00:36Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "SI3mxujp3inuQaUM_oFh1k8YWq4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Dz59hOhzrVo"
-      },
-      "snippet": {
-        "publishedAt": "2023-10-14T07:15:00Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Папа больше не хочет снимать видео",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-10-14T07:15:00Z"
       }
     }
   ]
