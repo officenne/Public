@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9q-6XrM73Ry4TdtCP-OLDhUB3Ps",
+  "etag": "A0BQ-VD1XXAjOoxkdzVZGA43YKk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 27632,
+    "totalResults": 23049,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d7_ke1Z8GboeM0L9Zm_izjlHqZU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KZBjw7ilT8k"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-22T12:00:19Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "I Asked Ronaldo For a House Tour!",
+        "description": "I Asked Ronaldo For a House Tour! Watch Topper Guild as he and his friends tour some of the world's most luxurious houses!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KZBjw7ilT8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KZBjw7ilT8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KZBjw7ilT8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-22T12:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "e7JU32zmEwZYdipvqMs8KPStxSg",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-01-05T15:00:47Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "YvyHfDLdX6Kj-hilEaWC1wtuVvo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "0LQujpLIteU"
-      },
-      "snippet": {
-        "publishedAt": "2025-01-04T15:00:01Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "At What Height Does an iPhone Break? 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0LQujpLIteU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0LQujpLIteU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0LQujpLIteU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-01-04T15:00:01Z"
       }
     }
   ]
