@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "LEbZm-_9vDIVLGR_boKOlFqPneE",
+  "etag": "rAmM9o2ThtbqFUUSBuHMVUadFFk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 254664,
+    "totalResults": 256994,
     "resultsPerPage": 50
   },
   "items": [
@@ -1574,6 +1574,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "xV7VIqAY-Oka1tMc2g_Nk_Iw4Qw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ksNnsbZ-ZQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-26T08:00:01Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Emoji еда челлендж",
+        "description": "Присоединяйтесь к нам в Emoji Food Challenge, где мы пытаемся угадать и воссоздать популярные блюда, используя ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ksNnsbZ-ZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ksNnsbZ-ZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ksNnsbZ-ZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-26T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "CqHxZ8-HFjoNnZCVngM29WdX8eI",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-12-08T08:00:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KCFiGICPe6XmSqGUETLfer1z-zg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wbdoERZmFVs"
-      },
-      "snippet": {
-        "publishedAt": "2023-11-24T08:00:36Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Новая комната Кати и кафе с кошками",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wbdoERZmFVs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-11-24T08:00:36Z"
       }
     }
   ]
