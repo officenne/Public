@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ZKN7vTWmmbQTNGcf7Wi_LhfWn0k",
+  "etag": "BbM2LOtcDjBdzX7QcSwALPz7AEQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 23734,
+    "totalResults": 23742,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "5n-ZTrAkcIoYYcAxQ7p6Q02T6e4",
+      "etag": "VCnMaUoas3NYEeZGRbsOL5NlMiE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j7tIX5GQ7aQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-29T12:01:03Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "$1 vs $10,000 Extreme Camouflage!",
+        "description": "vs $10000 Extreme Camouflage! Watch Topper Guild and his friends blend into their surroundings, but on a budget! Will these ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j7tIX5GQ7aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j7tIX5GQ7aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j7tIX5GQ7aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-29T12:01:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mGKNyhK2SpnuBCVYNSxvMdJsptk",
       "id": {
         "kind": "youtube#video",
         "videoId": "RkdXu-Ob_uE"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-01-12T17:02:19Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "U81A_BBZw7CLGTzZswjhDm03-xQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "_4-Vs0qVYvI"
-      },
-      "snippet": {
-        "publishedAt": "2025-01-11T17:49:27Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Built a Private Jet For Ronaldo!",
-        "description": "I Built a Private Jet For Ronaldo! Watch as Topper Guild builds a private jet for his favorite soccer player, Cristiano Ronaldo!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_4-Vs0qVYvI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_4-Vs0qVYvI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_4-Vs0qVYvI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-01-11T17:49:27Z"
       }
     }
   ]
