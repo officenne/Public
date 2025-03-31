@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "xw896mDvjgM7yWw3eIFdzGMPn50",
+  "etag": "4KKXY8hdcK9YpIMM5IX6GZ_mhIQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 24256,
+    "totalResults": 24490,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "AOTLF5tIj9E9uHqQHuLdYx4w4gk",
+      "etag": "PDTdxY5XgpzJ4dpHUSXk7wrBfuc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7PIZVxlnViM"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-31T17:34:13Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Can This Indestructible Shoe Save Your Foot?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PIZVxlnViM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PIZVxlnViM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PIZVxlnViM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-31T17:34:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fr0rwkDVASt9Ywkv54rIf7zpQlw",
       "id": {
         "kind": "youtube#video",
         "videoId": "j7tIX5GQ7aQ"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-01-12T17:02:19Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "U81A_BBZw7CLGTzZswjhDm03-xQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "_4-Vs0qVYvI"
-      },
-      "snippet": {
-        "publishedAt": "2025-01-11T17:49:27Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Built a Private Jet For Ronaldo!",
-        "description": "I Built a Private Jet For Ronaldo! Watch as Topper Guild builds a private jet for his favorite soccer player, Cristiano Ronaldo!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_4-Vs0qVYvI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_4-Vs0qVYvI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_4-Vs0qVYvI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-01-11T17:49:27Z"
       }
     }
   ]
