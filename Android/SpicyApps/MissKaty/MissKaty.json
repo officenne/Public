@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "RdBgWdKIZVoBgni1n-uKRuU5_ps",
+  "etag": "CFbOU0a0jiLuVfskfepheRJQTHU",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 264667,
+    "totalResults": 264790,
     "resultsPerPage": 50
   },
   "items": [
@@ -146,7 +146,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qnvB8v7r3MGktfUqesaz1urfV7c",
+      "etag": "Fq_REwU-lNaN_BudXjF9VgLhusk",
       "id": {
         "kind": "youtube#video",
         "videoId": "RHybOVYG254"
@@ -1234,6 +1234,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "ILNonTkss-qyZGzPzAiPicW0ac8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7B5Dyi_FMA8"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-24T08:00:06Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Пола Лава",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7B5Dyi_FMA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7B5Dyi_FMA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7B5Dyi_FMA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-24T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "zdvydUeG82Z1KdPMx3XYBpnQ8Pg",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2023-11-24T08:00:36Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "SI3mxujp3inuQaUM_oFh1k8YWq4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Dz59hOhzrVo"
-      },
-      "snippet": {
-        "publishedAt": "2023-10-14T07:15:00Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Папа больше не хочет снимать видео",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Dz59hOhzrVo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-10-14T07:15:00Z"
       }
     }
   ]
