@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "R5MELpm8QjijZzxW0xj12hxF8RI",
+  "etag": "myPFWcpIMa8DHNMzYNGHygwS3Lo",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 976951,
+    "totalResults": 977207,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XUkYD5Y9h4whMbSWKh7QewROzQ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cGOOFxCV7yk"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-01T13:00:51Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Take Back 2 Night",
+        "description": "Worked really hard on making a great sequel I hope you like it. Thanks to Bootstrap for the beautiful thumbnail Credits: Modeling, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cGOOFxCV7yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cGOOFxCV7yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cGOOFxCV7yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-01T13:00:51Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "pYxOgUOhyIrkYeO5G2GTSSs7y2U",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2021-04-20T22:45:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Kr9-Hz2wAJ-uXeic0HAzjMYlcbs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "x5divzD_Vh4"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-17T22:00:11Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Minecraft But It&#39;s 2D",
-        "description": "Today we try to beat Minecraft but the world is 2 blocks wide. I'm still playing normally in 1st person but used the replay mod to ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x5divzD_Vh4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-17T22:00:11Z"
       }
     }
   ]
