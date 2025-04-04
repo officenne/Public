@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "zMjHqSvPv9nCNwyb5_1XATfp5sY",
+  "etag": "M9Ay1dmLImvjIIOPlLyyT8ELCqs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 3726,
+    "totalResults": 3727,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fRIm_uGMX-rYHW34hr31GRDXMsU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wn_Q6502OcI"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-04T14:15:03Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Family Trip to Dubai SAFARI Park",
+        "description": "Join Diana and Roma's Family on a trip to Dubai SAFARI Park! Watch as we explore the park and encounter amazing wildlife up ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wn_Q6502OcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wn_Q6502OcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wn_Q6502OcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-04T14:15:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "yhqeGdVTBOqzxSmPwj-ZU9dckBo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-09-21T11:47:42Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TB5t5T-sbu2HLULzFT0yz12BEbE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "nEV9XiMBpDE"
-      },
-      "snippet": {
-        "publishedAt": "2024-09-06T11:15:03Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver and Adam help the Slime Shop",
-        "description": "Oliver and Adam help the Slime Shop The Slime Shop has lost the letters from its sign! Can Oliver and Adam help find the missing ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nEV9XiMBpDE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nEV9XiMBpDE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nEV9XiMBpDE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-09-06T11:15:03Z"
       }
     }
   ]
