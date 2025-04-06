@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "LbvSlePBWHiHhuzQ3lca_I_qFi0",
+  "etag": "VPTbYnJACddcd61uo834XZIjypk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 20901,
+    "totalResults": 20899,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YL23xVlf7IuEOTzryv4uCno59wc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WyKjWaOcIwE"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-06T17:00:34Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Gotta Go Fast",
+        "description": "We played the demo and it was fun so I thought we'd try the full game. My Links: ○ My gear (code CaptainSparklez): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WyKjWaOcIwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WyKjWaOcIwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WyKjWaOcIwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-06T17:00:34Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "5Bpuopo1xZneydjgz8Pqsq1jn6k",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-03-15T00:00:52Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "raDkC43cvgtNJWkjQQJS-noyXU4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zCwxe7qXJgE"
-      },
-      "snippet": {
-        "publishedAt": "2025-03-14T00:00:53Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Gambling In Mysterium",
-        "description": "I must be better at the gamba Mysterium playlist: https://www.youtube.com/playlist?list=PLli4oThJ08ZwOT2tid-vP66Wveug9B8QK ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zCwxe7qXJgE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zCwxe7qXJgE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zCwxe7qXJgE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-03-14T00:00:53Z"
       }
     }
   ]
