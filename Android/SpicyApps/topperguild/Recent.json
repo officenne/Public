@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "nVTTAyUgZbKBG7ya_h4qgbMsSGQ",
+  "etag": "YStv6NS0M3KY9Q4xWXt9UPgeZDQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 28785,
+    "totalResults": 30584,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LUbgLdnn3snEfLRdwsg6OyWUlmc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JlPLJa5cI_c"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-11T20:25:14Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Last To Breathe Wins!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JlPLJa5cI_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JlPLJa5cI_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JlPLJa5cI_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-11T20:25:14Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "WUQxxKYSBLoOgTZjFMB76-q203M",
@@ -180,7 +214,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "lKZQHhS8LuPZX0Vz3fDx-vrYO00",
+      "etag": "aYvSYdZgRccjo1z-7Wf62RYB6Yw",
       "id": {
         "kind": "youtube#video",
         "videoId": "Cuy5yqWBAUE"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-01-23T15:50:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "_RpcOF2UMMwnYSn67X7tzju_NfI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "TqUK6KtcX2k"
-      },
-      "snippet": {
-        "publishedAt": "2025-01-21T19:29:01Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Tape vs Human 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TqUK6KtcX2k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TqUK6KtcX2k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TqUK6KtcX2k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-01-21T19:29:01Z"
       }
     }
   ]
