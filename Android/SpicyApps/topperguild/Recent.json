@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "JNDgoQX63K6j7WzUM5hcJ5o9zzI",
+  "etag": "VNgSTzA1AqRwQCfH79w_If3YwaA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 30579,
+    "totalResults": 29517,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ujoLaQ9lC4aGy_wdW1qs6XYi_9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R5snkqX2pEY"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-12T12:00:54Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "I Learned Extreme Camouflage To Expose Evil 10 Year Olds!",
+        "description": "I Learned Extreme Camouflage To Escape Evil 10 Year Olds! Watch Topper Guild and his friends blend into their surroundings, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R5snkqX2pEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R5snkqX2pEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R5snkqX2pEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-12T12:00:54Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "LUbgLdnn3snEfLRdwsg6OyWUlmc",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-01-25T15:21:12Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "XLmBYo3Yg_vZdj6N48u6gs6XnO4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "rNU3WK3Eg5s"
-      },
-      "snippet": {
-        "publishedAt": "2025-01-23T15:50:08Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Can You Avoid The Snake?! 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rNU3WK3Eg5s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rNU3WK3Eg5s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rNU3WK3Eg5s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-01-23T15:50:08Z"
       }
     }
   ]
