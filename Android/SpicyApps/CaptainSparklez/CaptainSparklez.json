@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "6RdHEVJe1pZTNCl7FKlrfxCrGAw",
+  "etag": "TeqSaJWuNFPD-XdHAnpIHsn7iLo",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 19348,
+    "totalResults": 19160,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b0T9m6Ghk9_9ihacGgbKKQOzHVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xOI3FdfkJ0o"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-15T17:01:14Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Surviving A Tiny Minecraft Island",
+        "description": "This was made in a few days for a map jam and it's pretty wild Thanks to Apex Hosting for sponsoring this video! Use code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xOI3FdfkJ0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xOI3FdfkJ0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xOI3FdfkJ0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-15T17:01:14Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xbWNW-aZcP1872E5XyWI8VfLqy4",
@@ -180,7 +214,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3xh6Zt1s3zINCjh1_rcnHCGUADQ",
+      "etag": "k6m6Z-eeOZg1sg5_6q4EULmzA4s",
       "id": {
         "kind": "youtube#video",
         "videoId": "69rUlYCt7mk"
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-03-25T00:00:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "cUWmeI7q1Hj_EMG72fOeNGXUQWA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "PSeQ78mbpzY"
-      },
-      "snippet": {
-        "publishedAt": "2025-03-24T17:00:24Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Trading Card SMP Ep. 18",
-        "description": "In the TCG SMP we gotta collect all the cards to get super duper buffs Thanks to Apex Hosting for sponsoring this series! Use code ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PSeQ78mbpzY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PSeQ78mbpzY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PSeQ78mbpzY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-03-24T17:00:24Z"
       }
     }
   ]
