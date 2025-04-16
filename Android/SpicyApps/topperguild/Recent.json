@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "3Y1nyYgA8HZWxij4rvBx-1CEmys",
+  "etag": "JJdoj822RvKWE8Ev_ZnvfYM_Jg4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 29624,
+    "totalResults": 31032,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sxD14GN4RsDrtg6sF3U2DEFwAhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cdpYVFRGHTo"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-16T22:04:17Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "How Well Can I Clean?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cdpYVFRGHTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cdpYVFRGHTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdpYVFRGHTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-16T22:04:17Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "0lQ9Ifsups2uYk-D_kXXXh9JPDk",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-01-28T16:16:19Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "fdzHkEIsIXqeZuObEVdAoqsP4Zg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "cFEUg0woHM8"
-      },
-      "snippet": {
-        "publishedAt": "2025-01-26T20:27:02Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Can You Avoid The Dragon? 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cFEUg0woHM8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cFEUg0woHM8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cFEUg0woHM8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-01-26T20:27:02Z"
       }
     }
   ]
