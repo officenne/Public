@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Hce3hYnlo6KNF4pZtRdcKtNqeJA",
+  "etag": "QjpwCP1Y7htSca_agKD0J0iEZEs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 19695,
+    "totalResults": 20387,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c4BqrSCGEpOllEhcXmOB6BPkuTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H7m5DfDL2oE"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-22T17:00:28Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Totally Zooming",
+        "description": "We played the demo and it was fun so I thought we'd try the full game. Haste Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H7m5DfDL2oE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H7m5DfDL2oE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H7m5DfDL2oE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-22T17:00:28Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "dM4ccno8psvqokAlhtiFHegTUrI",
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0tljEEUXGN8W93goEOJPcH6BEcI",
+      "etag": "C8zElMugnK0q8T8zAMj-19pZ440",
       "id": {
         "kind": "youtube#video",
         "videoId": "8z5Gy-6lH64"
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-03-31T17:00:17Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3ESjSl188hD8upcD4v-kbotmmWA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "s0gQYxHqW1o"
-      },
-      "snippet": {
-        "publishedAt": "2025-03-31T00:00:38Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Getting Lasered In R.E.P.O",
-        "description": "Stupid invisible man R.E.P.O Playlist: https://www.youtube.com/playlist?list=PLli4oThJ08ZwsIOUAv6V-1wWjKFr-nB5L Other ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/s0gQYxHqW1o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/s0gQYxHqW1o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/s0gQYxHqW1o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-03-31T00:00:38Z"
       }
     }
   ]
