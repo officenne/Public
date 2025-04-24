@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "l-5hUZw787hs34iGZC1UkFP521I",
+  "etag": "kJHTh3oPDbQTmqOuXby8cdQjVK8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 32241,
+    "totalResults": 31053,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "VZrf8d-hL0TsvaJ3gnHC-kO3yR0",
+      "etag": "TqJ7CPxEYB4rKB6whEkcZOSJLvQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QARl-NVzZQ4"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-24T19:15:03Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Coke and Mentos vs Giant Balloon!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QARl-NVzZQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QARl-NVzZQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QARl-NVzZQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-24T19:15:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7YnKZvbmN2mbQ0bXZTcjNYClFLM",
       "id": {
         "kind": "youtube#video",
         "videoId": "rHRy2rGQABI"
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ZyQM-zM37pXVpA07u0tTqET3p0w",
+      "etag": "PwTEKDN_yDO6PzHN8JapSKGuqNM",
       "id": {
         "kind": "youtube#video",
         "videoId": "cRxwGde0Qfc"
@@ -1574,7 +1608,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_GRE0-zGMmmslZnSiqwbeIT0Gk0",
+      "etag": "M5TisJiT9rcBsw1E_IL1b_ReBfE",
       "id": {
         "kind": "youtube#video",
         "videoId": "SyQ0INZhXlQ"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-02-07T21:02:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "uoFZxTciojgR39u7ZGblVahbBjs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "sQ-skduphyk"
-      },
-      "snippet": {
-        "publishedAt": "2025-02-06T18:49:02Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Don’t Pick The Snake Box! 😱",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sQ-skduphyk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sQ-skduphyk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sQ-skduphyk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-02-06T18:49:02Z"
       }
     }
   ]
