@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "3amQ085ajlfIJbt9D_AtM8sdMOY",
+  "etag": "ruIa6_w2Pf3KvQv-CiDc4zUualA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 16169,
+    "totalResults": 15791,
     "resultsPerPage": 50
   },
   "items": [
@@ -1404,6 +1404,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "5ZDjfdTWTN7clqoaSCopjoxuFjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W9-5CoCukuI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-24T20:00:08Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "One Of These Doesn&#39;t Belong...",
+        "description": "Today we play a new what doesn't belong map for Minecraft 1.20... Minecraft Map Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W9-5CoCukuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W9-5CoCukuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W9-5CoCukuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-24T20:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "KJMAoUnX-QwXzrq_JblL4NYCnlY",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-23T20:00:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "yMnrYRalRgIMD9TetUAOMq_uN8I",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RIXBukRZkBQ"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-28T20:00:12Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Outsmarting A Minecraft Escape Room",
-        "description": "Today I am trapped in bedrock but I can overcome Minecraft Map Playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RIXBukRZkBQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RIXBukRZkBQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RIXBukRZkBQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-28T20:00:12Z"
       }
     }
   ]
