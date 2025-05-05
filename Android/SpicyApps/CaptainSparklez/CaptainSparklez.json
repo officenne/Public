@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "hCctXheAR3OrIj_tDDnZXjDYCfA",
+  "etag": "YBzqTkcKz7xeTfQcRqbdUsj6Yw8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 27836,
+    "totalResults": 27532,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c0YUy8EJMGiASD3ksJtdLtJFXaw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w1pUCWXNNjc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-05T17:01:21Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: Prominence Hardcore Ep. 5",
+        "description": "We play the new Prominence Hasturian Era, where we have many exploration and bosses to fight. Thanks to Apex Hosting for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w1pUCWXNNjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w1pUCWXNNjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w1pUCWXNNjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-05T17:01:21Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "XEArZEiFyOTSMBYyRHopWa7k20A",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-04-12T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "MZfoJgBIiCUgobjALFASAJUd8vE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "J74S2sAFPzo"
-      },
-      "snippet": {
-        "publishedAt": "2025-04-11T17:00:31Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Trading Card SMP Ep. 24",
-        "description": "In the TCG SMP we gotta collect all the cards to get super duper buffs Thanks to Apex Hosting for sponsoring this series! Use code ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/J74S2sAFPzo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/J74S2sAFPzo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/J74S2sAFPzo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-04-11T17:00:31Z"
       }
     }
   ]
