@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "YBzqTkcKz7xeTfQcRqbdUsj6Yw8",
+  "etag": "4V_UYHtjDjbtJgfPZskAktrJ7eA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 27532,
+    "totalResults": 27784,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_j1SytT2DP0TXVbe2Ya7OwsoKog",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cMbnwlO9O4k"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-06T00:00:41Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Kingpins - Schedule 9",
+        "description": "We build a vegetable growing empire with @karacorvus Schedule 1 Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cMbnwlO9O4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cMbnwlO9O4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cMbnwlO9O4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-06T00:00:41Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "c0YUy8EJMGiASD3ksJtdLtJFXaw",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-04-12T17:00:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "CcjOswmwhYBREdKioSzaNZSkxJg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "-a86pXY8FWA"
-      },
-      "snippet": {
-        "publishedAt": "2025-04-12T00:00:00Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "10 New Minecraft Puzzles",
-        "description": "We do be puzzling Thanks to Apex Hosting for sponsoring this video! Use code \"CaptainSparklez\" to get 25% off your own ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-a86pXY8FWA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-a86pXY8FWA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-a86pXY8FWA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-04-12T00:00:00Z"
       }
     }
   ]
