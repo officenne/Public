@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ZkyF7fdq5ztAqUd8oRKttBgqbgU",
+  "etag": "6L8VaJ8qpQk2cLKVqxQpa_cf0ME",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 79437,
+    "totalResults": 82906,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lSTM80Ggy4uj0KfPK0--0oOV3f4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t2vG3Q1c9sI"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-09T09:01:21Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Купили десятки Майнкрафт MD чтобы его найти",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t2vG3Q1c9sI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t2vG3Q1c9sI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t2vG3Q1c9sI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-09T09:01:21Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "oN2cWfY9Q0PlPbv9H68PVrOfGaU",
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5TjSdmyGia1qYXan5KIK0imqXYE",
+      "etag": "2UD8On4GKxF8i_YSTC392HGjie4",
       "id": {
         "kind": "youtube#video",
         "videoId": "xDTYIYir1IU"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2024-05-31T08:00:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ILNonTkss-qyZGzPzAiPicW0ac8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "7B5Dyi_FMA8"
-      },
-      "snippet": {
-        "publishedAt": "2024-05-24T08:00:06Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Пола Лава",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7B5Dyi_FMA8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7B5Dyi_FMA8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7B5Dyi_FMA8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-05-24T08:00:06Z"
       }
     }
   ]
