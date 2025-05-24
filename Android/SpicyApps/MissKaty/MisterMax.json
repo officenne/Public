@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9Zn9vMmtCTJGGHQ13O1LmrrBz9Q",
+  "etag": "jaR2cAgD-siV8I4Ff46Fk-IfDOQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 81,
+    "totalResults": 82,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Wy0YtoaNgy8cQiVjTrfYsvxbmg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WAtBUIEZlUw"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-24T09:00:44Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Бедный vs богатый студент",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WAtBUIEZlUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WAtBUIEZlUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WAtBUIEZlUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-24T09:00:44Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "GrMzT5HMhwhVq7mcDcxPvtr8zwI",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2015-06-13T20:11:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "M5L0P66RA3Q3RCif5JqKLm0sXCQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "KNrofnBpoj0"
-      },
-      "snippet": {
-        "publishedAt": "2015-01-12T16:48:14Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Яйца сюрприз",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KNrofnBpoj0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KNrofnBpoj0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KNrofnBpoj0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2015-01-12T16:48:14Z"
       }
     }
   ]
