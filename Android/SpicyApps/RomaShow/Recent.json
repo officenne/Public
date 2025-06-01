@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "53iKVHEbIG0RSmIovGXWMqyU2ns",
+  "etag": "DdWu8Ade_hqcMxAZYfstaN0SqIc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 549,
+    "totalResults": 550,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uCd_GPa43GSqZcidZjp_eNg8na0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tTD9nTgXatw"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-01T12:30:55Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Car Wash Adventure With A New Worker",
+        "description": "A new worker appears at car wash. At first he thinks that washing cars is very easy, but after making many mistakes he realizes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tTD9nTgXatw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tTD9nTgXatw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tTD9nTgXatw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-01T12:30:55Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Mx0-qgNS8XdJTv4hGO3Sk7A0IOQ",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-12-06T12:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "fb3dm350-S1dg-2gpRN5gVEEBLY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "T2_TruirUnM"
-      },
-      "snippet": {
-        "publishedAt": "2024-12-04T13:15:04Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "School Story about Hygiene and Self-Care",
-        "description": "Kids learn about personal hygiene and self-care. Watch to discover the importance of staying clean and healthy! New School ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/T2_TruirUnM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/T2_TruirUnM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/T2_TruirUnM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-12-04T13:15:04Z"
       }
     }
   ]
