@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "N5zbuR7jj1_PeeXFSv-ViNz7quw",
+  "etag": "K3beGkqN3j1zk1v9tIFYaskd0u4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 537,
+    "totalResults": 538,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QyKVf1PqMngPFgJaDE0DR3dw8a4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1bBMSQiI_xc"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-04T12:30:02Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "KidZania Dubai - Jobs for Kids",
+        "description": "Spend a day in KidZania Dubai with Diana and Roma's Family. Kids try out different jobs and have fun while learning valuable ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1bBMSQiI_xc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1bBMSQiI_xc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1bBMSQiI_xc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-04T12:30:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Ci0GhmmzaqBoNL394FybXWBIHCs",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-12-04T13:15:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "B250iS_NhK265vyBANthfUlEdHM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "5qdemMMMmak"
-      },
-      "snippet": {
-        "publishedAt": "2024-11-29T12:15:00Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma and Friends Built 3 SECRET Rooms You&#39;d Never Find!",
-        "description": "Oliver, Roma and Friends play Hide and Seek and Built 3 SECRET Rooms You'd Never Find! Join in on the fun and see who can ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5qdemMMMmak/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5qdemMMMmak/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5qdemMMMmak/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-11-29T12:15:00Z"
       }
     }
   ]
