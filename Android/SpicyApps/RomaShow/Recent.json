@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "wFkeG3aD4suHDGK65ZFi4wofehw",
+  "etag": "-2veqhyMKpMfn8ZzR60zfmNaaD0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 527,
+    "totalResults": 528,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fz5LoKBm5sC43HV_1hTVGI_ODXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LPKRKSCX0Rg"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-08T12:45:08Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Adventures in the Superhero Store",
+        "description": "Spider-Man came to the Superhero store.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LPKRKSCX0Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LPKRKSCX0Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LPKRKSCX0Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-08T12:45:08Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "2qDcnlNh5tLAYqkg4pkDtmVj19g",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-12-11T12:59:52Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "F94YVyFsM3Ky9DTIU7gnFsnWlt8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "CI3lqn2CZv0"
-      },
-      "snippet": {
-        "publishedAt": "2024-12-06T12:15:00Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver defeats Viruses + More Funny Kids Videos",
-        "description": "Oliver defeats viruses  Learn the importance of keeping your house clean and staying healthy! Enjoy more funny kids videos in ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CI3lqn2CZv0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CI3lqn2CZv0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CI3lqn2CZv0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-12-06T12:15:00Z"
       }
     }
   ]
