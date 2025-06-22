@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "F2gbG1CS7FGQHxXNi2HJq9aRG78",
+  "etag": "_jyJYDAidcIt3sisfkl0GemMcFs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 530,
+    "totalResults": 531,
     "resultsPerPage": 50
   },
   "items": [
@@ -44,7 +44,41 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uPzZfEAM0LsDL89fFJ1VeV17FKM",
+      "etag": "ZZ9vnMlNlgKxda996gGyDXa_bCU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3hq9hU2AHuc"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-18T14:00:10Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver and Roma at KidZania Dubai",
+        "description": "Spend a day in KidZania Dubai with Diana and Roma's Family. Kids try out different jobs and have fun while learning valuable ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hq9hU2AHuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hq9hU2AHuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hq9hU2AHuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-18T14:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YEcGxypx_7QCIaOzFCl2-AT8G3M",
       "id": {
         "kind": "youtube#video",
         "videoId": "t0e61pM82yY"
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-12-18T13:37:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "OO5OjmgmWjGvVWj3fziti1Rb9E4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "P62aCupVIFU"
-      },
-      "snippet": {
-        "publishedAt": "2024-12-15T12:57:28Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Kids organized SPA Day for Santa",
-        "description": "Kids find Santa sleeping under the tree and realize that he needs a rest. The children help Santa transform and relax in SPA as a ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/P62aCupVIFU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/P62aCupVIFU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/P62aCupVIFU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-12-15T12:57:28Z"
       }
     }
   ]
