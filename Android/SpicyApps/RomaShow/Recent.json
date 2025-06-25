@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "cKqPhrDLmsLhL9-sRf25pN8s0oI",
+  "etag": "U4Kk8Qp4SjhrrNrLhVmVLmU8brs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 524,
+    "totalResults": 516,
     "resultsPerPage": 50
   },
   "items": [
@@ -860,6 +860,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "WpRqXyL8EkCLbF65I_GR2Liz8mQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S6QyW_MTunE"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-02T11:30:17Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Mom&#39;s Ice Cream Truck Story",
+        "description": "Kids Roma Show - http://bit.ly/2kj62uh.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S6QyW_MTunE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S6QyW_MTunE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S6QyW_MTunE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-02T11:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "BkST0_yr43QusdsIoHlWf99cgJs",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2024-12-18T13:37:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "OO5OjmgmWjGvVWj3fziti1Rb9E4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "P62aCupVIFU"
-      },
-      "snippet": {
-        "publishedAt": "2024-12-15T12:57:28Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Kids organized SPA Day for Santa",
-        "description": "Kids find Santa sleeping under the tree and realize that he needs a rest. The children help Santa transform and relax in SPA as a ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/P62aCupVIFU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/P62aCupVIFU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/P62aCupVIFU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-12-15T12:57:28Z"
       }
     }
   ]
