@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "EKg5UxMV6ZHe0Dpj7-85Ir-zE8E",
+  "etag": "otI1lYVUcSYOEYWOSa2wjyRyuXY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 110,
+    "totalResults": 111,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9Hn_XntFl2kcCb8zO17lllhbW8Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uzbNQNIB21g"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-24T23:59:27Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Katana vs Tape!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uzbNQNIB21g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uzbNQNIB21g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uzbNQNIB21g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-24T23:59:27Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Wu9xbooGBacoNXJSiZUOaWBgc9E",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2023-07-04T20:08:54Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hRnKoY1YUATHcPEXVLcB3fY7y4I",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "D3TRKs_qEIE"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-03T22:53:18Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "GRIMACE WON’T LEAVE ME ALONE 😱 - #shorts",
-        "description": "FOLLOW ME Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: https://www.tiktok.com/@topperguild?lang=en ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/D3TRKs_qEIE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/D3TRKs_qEIE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/D3TRKs_qEIE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-03T22:53:18Z"
       }
     }
   ]
