@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "Ve2HpbznL94yD5wBjkdZXYeFJKQ",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tvGk17oms0e4a2c-PiN3rxu9bj4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "itUD9SBJ99M"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-15T17:26:28Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Just Playing Some Minecraft Hardcore",
+        "description": "So yeah the Happy Ghasts came out and I thought maybe every now and again I'd just play some vanilla hardcore until I die or ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/itUD9SBJ99M/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/itUD9SBJ99M/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/itUD9SBJ99M/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-10-15T17:26:28Z"
+      }
+    }
+  ]
 }
