@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "2kVr4n1U6d24y4hnXppZbyMz_qM",
+  "etag": "ROTQLoEuJo_duWgO-eVxQ4-fG-g",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 11,
     "resultsPerPage": 11
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fbvXSNZePJmU1sD5nBWa-SZNcCs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HFogaVJ11uo"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-26T00:00:24Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: OceanBlock Survival Ep. 17 - Finale",
+        "description": "In OceanBlock 2 we are mysteriously stranded in the middle of the ocean and must find a way home. Thanks to Apex Hosting for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HFogaVJ11uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HFogaVJ11uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HFogaVJ11uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-26T00:00:24Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "GQNgIvLVwRVQwUVwjhYwwX_FgC4",
@@ -179,7 +213,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "A2xLIGjEtiqdczll6hotCS8Obj0",
+      "etag": "8jtry6CtnnMcbxm3SOAC9GxWjso",
       "id": {
         "kind": "youtube#video",
         "videoId": "ym90SDe8vo4"
@@ -345,40 +379,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-06-21T12:00:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "at-eQ0anXhZbQyZ_kS1CnAb3QdU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "X4XoC17OPio"
-      },
-      "snippet": {
-        "publishedAt": "2025-06-20T00:00:40Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft Dimension Parkour",
-        "description": "Last week to get your BLDBLZ: https://www.bldblz.com/products/captainsparklez Thanks to Apex Hosting for sponsoring this video ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/X4XoC17OPio/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/X4XoC17OPio/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/X4XoC17OPio/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-06-20T00:00:40Z"
       }
     }
   ]
