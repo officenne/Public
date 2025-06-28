@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "8PxahK6ZKwWdD2kAmlGeOHM6paE",
+  "etag": "co802foImsWrZgmCYi-dDjKcfyY",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 63,
-    "resultsPerPage": 44
+    "totalResults": 64,
+    "resultsPerPage": 45
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qCrAqRIvRFQClCuNMw9Q2sCjptk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K-SmzzRMF_w"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-28T09:00:34Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Еда из компьютерных игр",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K-SmzzRMF_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K-SmzzRMF_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K-SmzzRMF_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-28T09:00:34Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "9edzVQECH6OQg0WFsk3w7w44B2Y",
@@ -1165,7 +1199,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "6ir2xdp0AgImFlhgx9vZdiMfwRM",
+      "etag": "e0kQwNAyaBpkSLzmGB3L36Ix8Pc",
       "id": {
         "kind": "youtube#video",
         "videoId": "jcpF5XhvWug"
