@@ -1,12 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "8gz5ywMaNy_BelQIt3k4mzYMb6k",
+  "etag": "KlA07bgnUMnbYEE6b46I2WETGP8",
+  "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 71,
-    "resultsPerPage": 49
+    "totalResults": 72,
+    "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "chu974tCo5cNL7ahx3uaG99Snb0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9YGeHZSAnFg"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-05T09:00:15Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Одни дома / Родители",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9YGeHZSAnFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9YGeHZSAnFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9YGeHZSAnFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-05T09:00:15Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "WKaERsShgGa4IIvs6EiZ972YLm8",
@@ -1335,7 +1370,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "23akeI84cLuOEmHbfmjvNc_UNRM",
+      "etag": "vt8bonYTSkPRumKzlpLoefFoWFo",
       "id": {
         "kind": "youtube#video",
         "videoId": "jcpF5XhvWug"
