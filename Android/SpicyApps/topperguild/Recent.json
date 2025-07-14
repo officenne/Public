@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "qG79JYXJBF9c2HEWZpTN3_acMUA",
+  "etag": "4pYphj2f_c8R0RvlIipGGumQvSE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 98,
+    "totalResults": 99,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GD9zuCzp2oEPQwZZuQ_XS9zYZ7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NMfdHhlUpa8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-14T12:00:42Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Suction Cups VS Building Climb!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NMfdHhlUpa8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NMfdHhlUpa8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NMfdHhlUpa8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-14T12:00:42Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "CeZ59EVI6Bu9dRQ5r81ybnJ9vO4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2023-07-03T22:53:18Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "y33s13mnWhhoOpXgoyEiK8XS1iY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "5pZnj0M08a0"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-01T19:56:56Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "THE GRIMACE SHAKE IS HAUNTING ME 😱 - #shorts",
-        "description": "FOLLOW ME Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: https://www.tiktok.com/@topperguild?lang=en ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5pZnj0M08a0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5pZnj0M08a0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5pZnj0M08a0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-01T19:56:56Z"
       }
     }
   ]
