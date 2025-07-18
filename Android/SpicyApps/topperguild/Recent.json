@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "tMHZEWnf6HAEKrS4VhsXgv6Khts",
+  "etag": "hqpI3ZvB5_JWU3qiDe4UVLc3LNA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 99,
+    "totalResults": 101,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KISSDtmoB8HTUe6gC2YHFTSg2Ys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h0LbJwd0AJk"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-17T17:05:35Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Don’t Kick The Wrong Ball!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h0LbJwd0AJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h0LbJwd0AJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h0LbJwd0AJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-17T17:05:35Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ZkpOV_fBZi2auzV144oyV1-buLo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2023-07-30T16:10:58Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hRnKoY1YUATHcPEXVLcB3fY7y4I",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "D3TRKs_qEIE"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-03T22:53:18Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "GRIMACE WON’T LEAVE ME ALONE 😱 - #shorts",
-        "description": "FOLLOW ME Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: https://www.tiktok.com/@topperguild?lang=en ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/D3TRKs_qEIE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/D3TRKs_qEIE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/D3TRKs_qEIE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-03T22:53:18Z"
       }
     }
   ]
