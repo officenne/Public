@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "Tyb-ctneVRw2fdzIFnhglreRfO0",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ixz1zD52pVb4jBRRW151STnTOFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vbj_FK9OhII"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-20T18:00:33Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "15 Years",
+        "description": "July 20th, 2010 - July 20th, 2025 Vlogs Playlist ▻ https://www.youtube.com/playlist?list=PL7CAD74F5CCE09549 My Links ○ My ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vbj_FK9OhII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vbj_FK9OhII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vbj_FK9OhII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-20T18:00:33Z"
+      }
+    }
+  ]
 }
