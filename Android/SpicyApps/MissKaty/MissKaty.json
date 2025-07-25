@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "-nu4tflFfZozysy1tRmsVEq4rtM",
+  "etag": "2q7t13Thc18zPpm0xpAn151q_nE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 110,
+    "totalResults": 111,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gdp6vuBMZIJbo3TyCgjfdcnbvKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IZvU4UT4DpU"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-25T08:00:19Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Что я наделала!?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZvU4UT4DpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZvU4UT4DpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZvU4UT4DpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-25T08:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "OgAnxS5cDFQo8oINOCaCYOL5-AY",
@@ -1302,7 +1336,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "daFPat8R65dmPhlQyy3gAAgIOnw",
+      "etag": "n5u2pYPQPYdvekSkd_jtrF2In04",
       "id": {
         "kind": "youtube#video",
         "videoId": "tVTD5x_rlHU"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2019-11-16T09:49:59Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "RVK99WQSeFhrXNXTq8BihVaQZ3E",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "EztIKgbe3Q4"
-      },
-      "snippet": {
-        "publishedAt": "2019-11-04T08:39:26Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя и Макс играют в русалку",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EztIKgbe3Q4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EztIKgbe3Q4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EztIKgbe3Q4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-11-04T08:39:26Z"
       }
     }
   ]
