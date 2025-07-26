@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9WqlYVCswgpDu8N-yTHDwA6Hvv4",
+  "etag": "X25tGPB7-91JS4OppcEQz3ay-7c",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 79,
+    "totalResults": 80,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mv8srJRkzFZfAXpYAIIxg35HNoU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eRdEsNP9bU0"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-26T09:01:00Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Лабубу коллекция и Back to school",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eRdEsNP9bU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eRdEsNP9bU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eRdEsNP9bU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-26T09:01:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "TQQE3P95fnU7gyn8bNHDev0Aq6k",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2016-05-14T13:24:43Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "4mVsu_A9xMRLu5l-TIhQ6gUEoEg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "7GdAvbdcmic"
-      },
-      "snippet": {
-        "publishedAt": "2016-05-12T12:00:00Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Макс Играет машинками SIKU City",
-        "description": "Распаковка наборов Сику Сити с автомойкой, АЗС и автосалоном, складываем дороги с дорожными знаками и играем ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7GdAvbdcmic/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7GdAvbdcmic/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7GdAvbdcmic/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-05-12T12:00:00Z"
       }
     }
   ]
