@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "TUfr6UgugxkspgcYrSrpcFriHtM",
+  "etag": "9Ihjoe5QCjZGcUhvg503Im0ZD6U",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 502,
+    "totalResults": 503,
     "resultsPerPage": 50
   },
   "items": [
@@ -112,6 +112,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "QGSY-0tzpV1YXXcxzYPmTJJtmz0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kZmUUh08Ir0"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-23T13:01:32Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Recycling Fun with Roma! ♻️",
+        "description": "Roma learns how to sort Trash and learns the importance of recycling. Kids Roma Show - http://bit.ly/2kj62uh.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kZmUUh08Ir0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kZmUUh08Ir0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kZmUUh08Ir0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-23T13:01:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "bN0bQo4b2UGhZ93FkMqO7HBeHxQ",
       "id": {
         "kind": "youtube#video",
@@ -214,7 +248,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "xLnUKbhw7nqY_FQeoct8xXguwzU",
+      "etag": "4DyTpfQ1l0Fdi3mdF4gk9Q1Q9E4",
       "id": {
         "kind": "youtube#video",
         "videoId": "O9VaA6x8LhA"
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-02-12T12:15:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "YRyqy7yJzv3Fya5UmiV859QeEOQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "J13ZACELB_4"
-      },
-      "snippet": {
-        "publishedAt": "2025-02-09T13:15:02Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma doesn&#39;t want to be a Baby 👶",
-        "description": "Kids Roma Show - http://bit.ly/2kj62uh.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/J13ZACELB_4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/J13ZACELB_4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/J13ZACELB_4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-02-09T13:15:02Z"
       }
     }
   ]
