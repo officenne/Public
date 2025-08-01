@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "hvjLOycvLoFNfltcuc3covs6xd0",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5f3slaXQO2JqXCcOCsXHG0JyXkc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AN6fLSLVsNw"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-01T21:00:16Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Internet Is Being Age Gated",
+        "description": "New policies from the UK and Australia are forcing YouTube's hand at implementing a concerning AI age detection system.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AN6fLSLVsNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AN6fLSLVsNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AN6fLSLVsNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-01T21:00:16Z"
+      }
+    }
+  ]
 }
