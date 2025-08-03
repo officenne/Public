@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "k0uPEIti-MDfZFTVOo-8wUPpKzI",
+  "etag": "5HXo5jr3CD56CvSNXFAyTRG-eIE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 506,
+    "totalResults": 507,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rWWFH0DZcmWG56qZQ8_CkKSO4r4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZQwBpPwvHGM"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-03T11:30:22Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma’s Recycling Lesson: Sorting Matters! ♻️👍",
+        "description": "Watch Roma visit a recycling plant where a worker shows him how paper trash can be turned into new things! Roma is so excited ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQwBpPwvHGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQwBpPwvHGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQwBpPwvHGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-03T11:30:22Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "YI_SdhTYdfV8aNome_jZQ-nEGY4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-02-19T12:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "PfhoHT7SDYf5n2Ivp7Q17M53aIg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "IWrXy2O5_ds"
-      },
-      "snippet": {
-        "publishedAt": "2025-02-12T12:15:02Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver and Dad build a Сardboard House",
-        "description": "Kids Roma Show - http://bit.ly/2kj62uh.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IWrXy2O5_ds/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IWrXy2O5_ds/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IWrXy2O5_ds/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-02-12T12:15:02Z"
       }
     }
   ]
