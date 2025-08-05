@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "gqPW2saWFCm2YJLjW6-IM2a7u1Q",
+  "etag": "8xPEKU8j5JezrVSwuiVpD0etN40",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 119,
+    "totalResults": 120,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SrEiFQVj_o-symZx_rcr7EhH5gQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QcFWDnq7q5Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-05T12:00:51Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Which Shoes Are The Most Protective?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QcFWDnq7q5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QcFWDnq7q5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QcFWDnq7q5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-05T12:00:51Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "gIrWARGtPrLxG_mzTNDdiKSSKkU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2023-10-21T14:00:30Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ywtLsPEd5ycsnI_ZObGi1CBRSI8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yHWplNiM9a4"
-      },
-      "snippet": {
-        "publishedAt": "2023-10-18T20:31:56Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "LAST TO LEAVE COFFIN WINS $10,000!",
-        "description": "LAST TO LEAVE COFFIN WINS $10000! Watch Topper Guild and his best friends face a trapped inside coffin challenge!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yHWplNiM9a4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yHWplNiM9a4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yHWplNiM9a4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-10-18T20:31:56Z"
       }
     }
   ]
