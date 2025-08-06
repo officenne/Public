@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9VSIl2VDUJ0qVTwvzBPBo_VwemQ",
+  "etag": "ECYo0FQspYc5GFrKFKCvxIeSi50",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 503,
+    "totalResults": 504,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w-k7TBl-1a77D_kZRk-Oavv49yw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ooi8TxE8388"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-06T11:30:21Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Diana Teaches an Eco-Friendly Lesson! 🌍🚲",
+        "description": "Roma rides a smoky quad, but Diana shows him a cleaner way — the bicycle! \u200d♀️   A fun eco-lesson for kids about protecting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ooi8TxE8388/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ooi8TxE8388/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ooi8TxE8388/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-06T11:30:21Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xCF5gaKjh7lcThveoM9RDvDSU18",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-02-21T14:23:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TV517S9YwjnQKZ5U5d5CwR5hLes",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "0aUEctr20Cg"
-      },
-      "snippet": {
-        "publishedAt": "2025-02-19T12:15:00Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver works at the Pet Hotel",
-        "description": "Oliver looks after animals at the Pet Hotel Kids Roma Show - http://bit.ly/2kj62uh.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0aUEctr20Cg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0aUEctr20Cg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0aUEctr20Cg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-02-19T12:15:00Z"
       }
     }
   ]
