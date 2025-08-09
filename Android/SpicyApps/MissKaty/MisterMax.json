@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "sVgWvm1jcXRkb2wDFSi0huG_CpI",
+  "etag": "PvcNINQ5nk4fk9z7dczvy3hvLyQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 86,
+    "totalResults": 87,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xWtZGd8pu_kQqSVO4-uS_vF50oI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wQGcXlpetDA"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-09T09:01:34Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Уличная еда Сеула",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wQGcXlpetDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wQGcXlpetDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQGcXlpetDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-09T09:01:34Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "p56WdS3O6Wtjd5GtnUMAa7Zcggw",
@@ -554,7 +588,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CfIsuxVnb7h0doqptSp7yhg6dSU",
+      "etag": "RYjlOZzzpjyXBk_wl85wy5bWLH4",
       "id": {
         "kind": "youtube#video",
         "videoId": "cMUHICxpkUA"
@@ -1404,7 +1438,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_iT_oR7EmJ9vsbyKk9TGq00ONtg",
+      "etag": "pelZWvK5cxFUyVayEWJ61IGLfRk",
       "id": {
         "kind": "youtube#video",
         "videoId": "XfAQb1Otvxw"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2017-05-11T05:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "67OfknsBcZ3FLp2lqxAHX1R6l54",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "jcpF5XhvWug"
-      },
-      "snippet": {
-        "publishedAt": "2017-03-23T06:00:06Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "ВЛОГ. Утро без мамы/ Собираемся в школу / Открытый урок по балету у Макса в школе / Новые тренажеры",
-        "description": "Все Видео Канала Mister Max: https://www.youtube.com/channel/UC_8PAD0Qmi6_gpe77S1Atgg/videos Спасибо, что ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jcpF5XhvWug/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jcpF5XhvWug/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jcpF5XhvWug/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-03-23T06:00:06Z"
       }
     }
   ]
