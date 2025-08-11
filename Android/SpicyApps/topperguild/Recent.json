@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "bqJucL2kacsotBObR13P56cvzrw",
+  "etag": "ZaCceuL2Nh3WoqXFFpx7pEQiwGY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 110,
+    "totalResults": 111,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HwzEeNVP3ATIpYWdwtLlyFk_yEA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nnGx1w0Edo0"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-11T12:01:30Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Who Stole From Me?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nnGx1w0Edo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nnGx1w0Edo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nnGx1w0Edo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-11T12:01:30Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "cTh49MGoPBK0OhcvKlQl-UHjEdA",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "poHCLdHyjdXgFZ8Q-RkbfgeItl8",
+      "etag": "4-rDFaJY-GNWYSUSZcqzZg0a2vQ",
       "id": {
         "kind": "youtube#video",
         "videoId": "WW0hWGCxD7w"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2023-08-01T16:53:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "RYGwEylKmmLV92XzZs0nVbVdMDE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "jgV4qJUc268"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-30T16:10:58Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "MY BEST FRIEND IS IN TROUBLE 😱 - #shorts",
-        "description": "FOLLOW ME Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: https://www.tiktok.com/@topperguild?lang=en ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jgV4qJUc268/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jgV4qJUc268/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jgV4qJUc268/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-30T16:10:58Z"
       }
     }
   ]
