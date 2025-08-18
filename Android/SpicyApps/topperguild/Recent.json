@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "rj0Vlvm0CMvcWXWTBzfUUn8LZRk",
+  "etag": "GyuwJnj3JjqdNyzTy6RRGa3B8Ho",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 109,
+    "totalResults": 110,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E6Bz2L2L3UEGETZRegE0JrlvNTQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g5m5HGzC7CA"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-18T12:01:13Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Sticky vs Slippery Stairs!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g5m5HGzC7CA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g5m5HGzC7CA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g5m5HGzC7CA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-18T12:01:13Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "DwvSPF0QKO3uRJHSIBEo9s6jHQ0",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "2_gQJ4yWvtJDDHtdjR2zs8bOfx0",
+      "etag": "S3vcmjggTPUHVICn1XqYy1DjTRk",
       "id": {
         "kind": "youtube#video",
         "videoId": "66-6YX7vvfY"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2023-07-30T16:10:58Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "CNoIqd2dAOzpCobOzG25UC6g-44",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "p6TP68NHFms"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-22T15:46:26Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I JUST MADE A HUGE MISTAKE 😱 - #shorts",
-        "description": "FOLLOW ME Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: https://www.tiktok.com/@topperguild?lang=en ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/p6TP68NHFms/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/p6TP68NHFms/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/p6TP68NHFms/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-22T15:46:26Z"
       }
     }
   ]
