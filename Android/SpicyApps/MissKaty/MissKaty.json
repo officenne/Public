@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "CTq-nfqYp4b_KOVUrOil69DzPz4",
+  "etag": "cmv7HQxdHFDdFGfrfi48I1to0MA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 102,
+    "totalResults": 103,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q9WRc8N1rMNa7J04wjECoLe8GnQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KuqcPGrs8-o"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-29T09:00:39Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Пробуем все вкусы KitKat  что сможем найти в Японии",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KuqcPGrs8-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KuqcPGrs8-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KuqcPGrs8-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-29T09:00:39Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "yXDo46RGqbGx8meW8R70R-Gz350",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2019-09-11T16:05:41Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "SkC4qeqEulDQfd8KfYItyDKWXNg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "---E9WQc-78"
-      },
-      "snippet": {
-        "publishedAt": "2019-07-15T12:13:44Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Max and Katy play outside",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/---E9WQc-78/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/---E9WQc-78/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/---E9WQc-78/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-07-15T12:13:44Z"
       }
     }
   ]
