@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "cI-Lff3K4TuaME-sElDbr2I31E8",
+  "etag": "kARxRVSl_Q5Qvf3L4FB9oWLA55Q",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 520,
+    "totalResults": 521,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kTa3KY9Aekr4U57vGm9ZCtnQ6LM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Wgugo3EJN8"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-31T11:30:03Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Friends Help Diana in Music Class 🎵🤝",
+        "description": "Diana is in music class when she needs some help Luckily, her friends come together to support her. A sweet story that shows ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Wgugo3EJN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Wgugo3EJN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Wgugo3EJN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-31T11:30:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "jYUhhRTAg3YfnqY63VTBUgdyAIU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-04-02T11:30:17Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "BkST0_yr43QusdsIoHlWf99cgJs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Xno9SK5dSfw"
-      },
-      "snippet": {
-        "publishedAt": "2025-03-29T15:21:35Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Brush your Teeth Story 🦷",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Xno9SK5dSfw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Xno9SK5dSfw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xno9SK5dSfw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-03-29T15:21:35Z"
       }
     }
   ]
