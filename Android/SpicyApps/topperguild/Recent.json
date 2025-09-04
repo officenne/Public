@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "z7lCSZo97vDhP3jkT56nNd7h6xs",
+  "etag": "BYKsQ9NemtY800jruvB_l-9ofs0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CnBatUEMYma4_LCeM-L6p1ucpq8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZB9LT6uOE7A"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-04T17:45:13Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "$1,000 Watergun Durability Test!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZB9LT6uOE7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZB9LT6uOE7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZB9LT6uOE7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-04T17:45:13Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "DBl4Hhmh_ETnK794RloJcfb2GIQ",
@@ -210,40 +244,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-08-26T18:48:43Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "L8KLpKouPdDQgn_zTZ01pJr-lac",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "TDvn9w4Kahg"
-      },
-      "snippet": {
-        "publishedAt": "2025-08-25T12:00:50Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "$1,000 RC Boat vs Human!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TDvn9w4Kahg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TDvn9w4Kahg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TDvn9w4Kahg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-08-25T12:00:50Z"
       }
     },
     {
