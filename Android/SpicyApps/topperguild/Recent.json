@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "wX4CJn7lJgfnk-tNu10K1XvHBho",
+  "etag": "DgdXkOtBAxzjrpf2OwEeZ4OL9-I",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 78,
+    "totalResults": 79,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "ROj_-2nBi_IfBEpuRXTE2eXSBuE",
+      "etag": "o2eoZOJe76WGyzepTLlRmilFbpU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ff3luOQRczU"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-07T12:01:11Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "$1 vs $1,000 RC Car Drag Race!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ff3luOQRczU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ff3luOQRczU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ff3luOQRczU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-07T12:01:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qwrF_9Z2BO0K7x_BNBuHJIXwM1A",
       "id": {
         "kind": "youtube#video",
         "videoId": "d7nXsiMTo6Y"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2023-01-13T19:25:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3HCT0NTVVnzLYOhSQo2HM5DvTME",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "iThouhRmChc"
-      },
-      "snippet": {
-        "publishedAt": "2022-12-27T01:27:04Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "WHEN SOMEONE STEPS ON YOUR WHITE SHOES 😂 - #shorts",
-        "description": "FOLLOW ME (or I'll kick you) Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/iThouhRmChc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/iThouhRmChc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/iThouhRmChc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-12-27T01:27:04Z"
       }
     }
   ]
