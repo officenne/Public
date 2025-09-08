@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "rJRmsNr8t1fivQjVG2Dov1IknAo",
+  "etag": "tABVRPYiZbLCzJPT15xVrEXGKx8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 78,
+    "totalResults": 79,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tZxqpunFX9Ia5pm1f0fEocSUmTo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VEbLL4B-wAc"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-08T12:00:54Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Lamborghini vs Cinderblock!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VEbLL4B-wAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VEbLL4B-wAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VEbLL4B-wAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-08T12:00:54Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "o2eoZOJe76WGyzepTLlRmilFbpU",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "82lea2uCEp6c7s_qWiEFgajrwjE",
+      "etag": "ABAh8dbGvFlkq0acEKbRwAyS98s",
       "id": {
         "kind": "youtube#video",
         "videoId": "d7nXsiMTo6Y"
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "xRR2eSx5tcgDO5xng0RR9nFgdZI",
+      "etag": "K-47sQqi_Ae1cQyHJm9EiW-iQLo",
       "id": {
         "kind": "youtube#video",
         "videoId": "CuYdXKROmrA"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2023-01-13T19:25:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3HCT0NTVVnzLYOhSQo2HM5DvTME",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "iThouhRmChc"
-      },
-      "snippet": {
-        "publishedAt": "2022-12-27T01:27:04Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "WHEN SOMEONE STEPS ON YOUR WHITE SHOES 😂 - #shorts",
-        "description": "FOLLOW ME (or I'll kick you) Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/iThouhRmChc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/iThouhRmChc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/iThouhRmChc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-12-27T01:27:04Z"
       }
     }
   ]
