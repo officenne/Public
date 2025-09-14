@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "u9brK7uJO9tUA3XEt1--TF9nEuY",
+  "etag": "mvBf91J5oZ7hWaJMdLzJ91YDSUw",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 13,
     "resultsPerPage": 13
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b-4fmheNZWHS6hT-raviXeepu8g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R9qYVV2ZJxs"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-14T00:00:36Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Cobblemon Academy Ep. 7 - New Neighbor",
+        "description": "Cobblemon Academy is a Minecraft SMP where we must catch Pokemon, join a house, and be the best. Thanks to Apex Hosting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R9qYVV2ZJxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R9qYVV2ZJxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R9qYVV2ZJxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-14T00:00:36Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "-RN5UVYMjByU4pzGc_2T7GgUpjg",
@@ -413,40 +447,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-09-09T00:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "xIaAAv9acnAuiQZD5z0cMV00xKc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ywPAxstyI0k"
-      },
-      "snippet": {
-        "publishedAt": "2025-09-07T17:01:22Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Cobblemon Academy Ep. 4 - RIP Server",
-        "description": "Cobblemon Academy is a Minecraft SMP where we must catch Pokemon, join a house, and be the best. Thanks to Apex Hosting ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ywPAxstyI0k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ywPAxstyI0k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ywPAxstyI0k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-09-07T17:01:22Z"
       }
     }
   ]
