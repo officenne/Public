@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "dJ9XAXc6mJYaRIcHl0Po5TgW5N4",
+  "etag": "BnXaxSMHkXWGj0ye3o8idvke2_E",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 68,
+    "totalResults": 69,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cA73nwy4_hW4GxrIznDigUyHxGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LwDbVCAplCY"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-19T12:00:46Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "How Much Bubble Wrap Will Stop a Kick?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LwDbVCAplCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LwDbVCAplCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LwDbVCAplCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-19T12:00:46Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "SSBRMtxlPv0vv10lLIYhcBtO10A",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2021-10-25T12:00:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "6bg07Vm8T6swLSpNsfFqAm2WyVA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qt2peQOFXh8"
-      },
-      "snippet": {
-        "publishedAt": "2021-06-09T15:00:19Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "CUPCAKE EGG PRANK 😂 #shorts",
-        "description": "FOLLOW ME Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: https://www.tiktok.com/@topperguild?lang=en ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qt2peQOFXh8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qt2peQOFXh8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qt2peQOFXh8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-06-09T15:00:19Z"
       }
     }
   ]
