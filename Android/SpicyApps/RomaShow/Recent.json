@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "eFSYJvGqki7dycTMkuYg1UKJoso",
+  "etag": "zsLlNMuKV09-e-2LKr5x-kMtAzw",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qN8OynDMCAmH84hYS-jI_KCWkmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RPGkJr1hfcI"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T11:30:21Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver Helps His Family ✨ Magic Machine Adventure",
+        "description": "Oliver and his magic machine help Mom and Dad in fun adventures! Children will learn about kindness, teamwork, and solving ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RPGkJr1hfcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RPGkJr1hfcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RPGkJr1hfcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T11:30:21Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "TVC5VZa5etAUYNXWCMgwbMGKY_c",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-05-02T12:30:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "TMfYj8AG7bGRCEAGgS-s4gV-iF4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "l3tvxMurPF8"
-      },
-      "snippet": {
-        "publishedAt": "2025-04-25T11:30:42Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Surprise Eggs Adventure 🐣 Happy Easter Day + More with Oliver!",
-        "description": "Oliver and Mom order three large Easter Eggs and three chickens hatch from them . New collection of interesting videos for ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/l3tvxMurPF8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/l3tvxMurPF8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/l3tvxMurPF8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-04-25T11:30:42Z"
       }
     }
   ]
