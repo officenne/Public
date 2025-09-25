@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "YCbzJ2lK4NxcpjavEikw-aHCuR0",
+  "etag": "85KBe7jrQwIvae9wOmkDAXOJ89w",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 518,
+    "totalResults": 519,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fA6ByJM94b2mOl63aqnBg37Fyck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7FMPg5dsdiw"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-25T09:30:08Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Adam Helps Every Vehicle Go Vroom! 🚘⚡🥕",
+        "description": "At their magical gas station, Adam and Mom fuel up every traveler — cars get gas, EVs get electricity, horses get carrots, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7FMPg5dsdiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7FMPg5dsdiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7FMPg5dsdiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-25T09:30:08Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "CkOWNUHohmOfEx0VtMYkm44FiA4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-05-09T12:30:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "sSqnrLcN9bmVbw_VvweZ0mb4uns",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "MsrSQYcu3XQ"
-      },
-      "snippet": {
-        "publishedAt": "2025-05-07T12:30:21Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma and Diana learn the rules on the School Bus",
-        "description": "Kids Roma Show - http://bit.ly/2kj62uh https://www.instagram.com/kidsromashow/ https://www.facebook.com/KidsRomaShow ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MsrSQYcu3XQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MsrSQYcu3XQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MsrSQYcu3XQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-05-07T12:30:21Z"
       }
     }
   ]
