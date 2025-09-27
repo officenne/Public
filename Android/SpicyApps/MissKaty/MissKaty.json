@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "cWT4rTYdAlBT7kSMuJSLSRz-aNw",
+  "etag": "umJfpgK3hSrGFc247O-2116N9Y8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 127,
+    "totalResults": 128,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TN_kA8oBpGtfImbs_R_3wWX8VWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "orSMJIobPFs"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T09:01:11Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "День в спальне родителей",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/orSMJIobPFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/orSMJIobPFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/orSMJIobPFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T09:01:11Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "t69EcVCsBHpMjHuFyEz5EiQP280",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2020-08-25T06:29:42Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Pf9zKejwazv_0GZWRpoEVeZ0M3w",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wXwAYWb9D5c"
-      },
-      "snippet": {
-        "publishedAt": "2020-07-25T04:00:13Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя и папа уехали в отпуск",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wXwAYWb9D5c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wXwAYWb9D5c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wXwAYWb9D5c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-07-25T04:00:13Z"
       }
     }
   ]
