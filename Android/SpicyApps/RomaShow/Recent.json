@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "tZ426BihO4cvCE_JJAS3t-GqsRU",
+  "etag": "ph2wZdIP54IwN-r9IlcBdvm3C14",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 519,
+    "totalResults": 520,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mmjVK1gwJMddK0bBdzASYzYhPRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "96UY1Nemh4s"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-30T09:30:04Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Sneaking Chocolate 🍫✨ Wands at School 🪄",
+        "description": "No candy is allowed at school! The kids dress up as Harry Potter wizards to sneak chocolate magic wands into class. Kids ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/96UY1Nemh4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/96UY1Nemh4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/96UY1Nemh4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-30T09:30:04Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "FkJJcBwHdpiiyUO84bnvmzPW8vc",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-05-16T12:15:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3QJnIndOzQuJYLrClp0_KeXnJFU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "DR_Tefk7nP8"
-      },
-      "snippet": {
-        "publishedAt": "2025-05-14T12:37:05Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Diana teaches Oliver the rules of behavior when visiting",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DR_Tefk7nP8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DR_Tefk7nP8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DR_Tefk7nP8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-05-14T12:37:05Z"
       }
     }
   ]
