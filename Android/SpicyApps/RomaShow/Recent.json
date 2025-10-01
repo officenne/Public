@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Ldz0iAroL5fAQqLCWDavCTnojjo",
+  "etag": "R_eKffc8uyM3ioXG3w8zTMyNkSk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 520,
+    "totalResults": 521,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kix4C6rLXX_KDVi9wp_MZr0SN6Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Le9iSAe9q5E"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-01T11:30:16Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver and the Magic Machine 🤖 Big Adventure Compilation",
+        "description": "Oliver and his magic machine help Mom and Dad in different situations and adventures. Kids will learn about kindness, helping ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Le9iSAe9q5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Le9iSAe9q5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Le9iSAe9q5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-01T11:30:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "mmjVK1gwJMddK0bBdzASYzYhPRs",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-05-23T11:12:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "qJDX2GysPVVBvT84gc_IDmsrYLc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "cAdQUm5PTvs"
-      },
-      "snippet": {
-        "publishedAt": "2025-05-16T12:15:11Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Adam Becomes a Firefighter! Rescue Adventure 🔥🚒",
-        "description": "Little Adam and Mom pretend to be firefighters    . They learn about firefighting and help everyone! Adam and Mom show ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cAdQUm5PTvs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cAdQUm5PTvs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cAdQUm5PTvs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-05-16T12:15:11Z"
       }
     }
   ]
