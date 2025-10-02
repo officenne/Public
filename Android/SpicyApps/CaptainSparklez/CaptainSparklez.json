@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Lk2qoAI7yRQKn6AB1Ol6dc5JSOo",
+  "etag": "oGi8J0vV3gUYF9Ex6reqP09oel0",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 12,
     "resultsPerPage": 12
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4LDWPVg8s9euhn8gHt7tnW9y7ww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3DR074fDhpo"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-02T00:00:09Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Just Playing Some Minecraft #25",
+        "description": "We playing some vanilla on The Copper Age Thanks to Apex Hosting for sponsoring this series! Use code \"CaptainSparklez\" to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3DR074fDhpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3DR074fDhpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3DR074fDhpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-02T00:00:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xRpRx9a6wf2ElOQVUTDtGKofyl0",
@@ -379,40 +413,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-09-27T00:00:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "10dPCn3wcaqypFPq-vBXziW_I9Q",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "V0UKqCt3JaI"
-      },
-      "snippet": {
-        "publishedAt": "2025-09-23T17:00:45Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Rust Kingdoms Ep. 1 - No Idea What I&#39;m Doing",
-        "description": "Today we try Rust for the first time ever and I get instructed by @BaseTrade and @karacorvus Rust Playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/V0UKqCt3JaI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/V0UKqCt3JaI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/V0UKqCt3JaI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-09-23T17:00:45Z"
       }
     }
   ]
