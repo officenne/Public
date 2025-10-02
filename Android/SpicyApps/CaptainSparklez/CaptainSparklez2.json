@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "U66JgtmtJuQcvq3hhIM71i0xkO4",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gbK_rUATVae3LBu9fh6OtvigUjA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k3G72AzwOck"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-02T20:37:16Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Just Playing Some Minecraft Hardcore",
+        "description": "So yeah the Copper Golems came out and I thought maybe every now and again I'd just play some vanilla hardcore until I die or ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k3G72AzwOck/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k3G72AzwOck/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k3G72AzwOck/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-10-02T20:37:16Z"
+      }
+    }
+  ]
 }
