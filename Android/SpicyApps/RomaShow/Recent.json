@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "OzdyV9xaZGi4lJa67g799GbJkxg",
+  "etag": "e3bI52NhtgVw4zPDtkFBsNqnhFc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 532,
+    "totalResults": 533,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LgWeOONBzNzbtuHaz0nNlYaW-Gc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "slxGQyTTGc0"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-09T09:30:40Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Little Adam the Courier 🚗📦",
+        "description": "Little Adam works as a funny courier! He delivers packages, but something magical always happens along the way! Kids Roma ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/slxGQyTTGc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/slxGQyTTGc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/slxGQyTTGc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-09T09:30:40Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "_dLqVZpUA1D9-LHsgr79ypE__4c",
@@ -44,7 +78,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ANr2SAflnwlz9r8rTQC3d0PheGI",
+      "etag": "FOCOSk1lQ2dAocx0hp7pM_O0WD8",
       "id": {
         "kind": "youtube#video",
         "videoId": "eI3na9K2XCQ"
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-06-04T12:30:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "2UYPXliJ3QUUyBJaa90XGqGxFfg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "tGIO-3z52NY"
-      },
-      "snippet": {
-        "publishedAt": "2025-05-30T13:07:01Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver and the Hungry Plant",
-        "description": "A child grows a huge plant from an unknown seed, which comes to life and starts eating everything, and even wants to eat Oliver.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tGIO-3z52NY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tGIO-3z52NY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tGIO-3z52NY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-05-30T13:07:01Z"
       }
     }
   ]
