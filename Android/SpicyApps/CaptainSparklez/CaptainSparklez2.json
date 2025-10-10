@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "2Lgzgfv6w1gvD0f8f-tG6hOSxfk",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RmgY4UI-q8x4bbJskaqProjwKt0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e3N1nZeJK8c"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-10T20:53:52Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Just Playing Some Minecraft Hardcore",
+        "description": "Alrighty spears and nautilus are here so let's check it out Thanks to Apex Hosting for sponsoring this series! Use code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e3N1nZeJK8c/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e3N1nZeJK8c/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e3N1nZeJK8c/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-10-10T20:53:52Z"
+      }
+    }
+  ]
 }
