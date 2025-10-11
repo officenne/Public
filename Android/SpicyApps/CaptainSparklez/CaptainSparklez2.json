@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "TkpDNmA6GZvwrWKQNICQln2_Sgg",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VFnkloOCeJ_my7SUBE3V2wsBEq8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uNoKTa02iuE"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-11T18:00:59Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Playing skate to see if I can still skateboard",
+        "description": "Today I play the new skate game and see if I can still do some of the tricks IRL My Links ○ My gear (code CaptainSparklez): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uNoKTa02iuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uNoKTa02iuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uNoKTa02iuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-11T18:00:59Z"
+      }
+    }
+  ]
 }
