@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9TCcVkGcnwe8_ig1da9CQVXfpT8",
+  "etag": "91hqLTQ2Etq-9BlTczxEG-AqPE4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lc5k4PtT1lZRM_PC3W7FQTYgPJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Aw4F68LYyQQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-14T12:00:14Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "How Slippery Are Bananas?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aw4F68LYyQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aw4F68LYyQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aw4F68LYyQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-14T12:00:14Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "0z1A7VDqbgc95l5KgsyA6P1R7xM",
@@ -210,40 +244,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-10-05T12:00:50Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "eZNY5jC1ToVoLh_TZFrYMiZQ8a0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "-brAoK_RYxI"
-      },
-      "snippet": {
-        "publishedAt": "2025-10-04T12:00:00Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Survived 99 Nights in the Forest IN REAL LIFE!",
-        "description": "I Survived 99 Nights in the Forest IN REAL LIFE! Watch as Topper Guild and his friend Foltyn survive 99 nights in the forest!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-brAoK_RYxI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-brAoK_RYxI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-brAoK_RYxI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-10-04T12:00:00Z"
       }
     },
     {
