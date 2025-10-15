@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ebph0gYzIaYTwQrquGHx8mMV-0I",
+  "etag": "Wip5H1mXbAN8eJc6QjivwaSCcC0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 544,
+    "totalResults": 545,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fRZH5n8TA_YeGqGxkIKO_kvFioQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hOeScM50qpY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-15T13:01:33Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver Helps Patients in Cardboard Hospital",
+        "description": "Oliver helps patients in a cardboard hospital, takes care of cute animals at the pet hotel, and joins Roma learning about the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hOeScM50qpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hOeScM50qpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hOeScM50qpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-15T13:01:33Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "pK0HYm_VIZQxWrn90POG-ZT3FNw",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-06-06T11:30:43Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "9G1fRUS7MAmZ5uOSdz0iKHo_zyo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "1bBMSQiI_xc"
-      },
-      "snippet": {
-        "publishedAt": "2025-06-04T12:30:02Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "KidZania Dubai - Jobs for Kids",
-        "description": "Spend a day in KidZania Dubai with Diana and Roma's Family. Kids try out different jobs and have fun while learning valuable ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1bBMSQiI_xc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1bBMSQiI_xc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1bBMSQiI_xc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-06-04T12:30:02Z"
       }
     }
   ]
