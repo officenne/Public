@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "RJ2TNtoqU1-m-fGcsbltSjkeGJM",
+  "etag": "JN0HWKea2G0ZbRPjnD_n08ESfpc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 545,
+    "totalResults": 546,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gyb8g9_nUcs54gWpodjmsccClG4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OvI10UizQ6o"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-16T10:30:25Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma’s Halloween Magic!",
+        "description": "Roma presents his Halloween science project at school! He pours green liquid on dinosaur eggs… and suddenly, bats come ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OvI10UizQ6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OvI10UizQ6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OvI10UizQ6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-16T10:30:25Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "fRZH5n8TA_YeGqGxkIKO_kvFioQ",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-06-11T13:30:54Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "JZ5hUsXe7yIkmLwleqY75BNHrA0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "n-HyI7ctsnY"
-      },
-      "snippet": {
-        "publishedAt": "2025-06-06T11:30:43Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver&#39;s Candy Shower &amp; Other Fun Videos",
-        "description": "Oliver's Candy Shower & Other Fun Videos. Join us for some hilarious and entertaining content that will brighten your day! 00:00 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/n-HyI7ctsnY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/n-HyI7ctsnY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/n-HyI7ctsnY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-06-06T11:30:43Z"
       }
     }
   ]
