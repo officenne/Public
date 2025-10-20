@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "1ziLtzf300pdRvb_OHRNiZMBP7c",
+  "etag": "quL7TmJOQLh1dP_soSujr33b1jI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 526,
+    "totalResults": 527,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2d-kf64guaVmI39MVdnswAH4_qg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Um5Ghd0oBkM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-20T02:24:22Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "I Opened A Restaurant  CKN Gaming",
+        "description": "Opening a McDoodle Thanks for watching CKN Gaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Um5Ghd0oBkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Um5Ghd0oBkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Um5Ghd0oBkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-20T02:24:22Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "omHoIK6gdLIXmjfNGcDiPR0Oze8",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2024-10-28T04:36:41Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "UaszkFtr1gPRkmG-WUezLdrrmFY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "t1p9MCgCYVk"
-      },
-      "snippet": {
-        "publishedAt": "2024-10-20T22:42:36Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Survive 100 Days in Bunker CKN Gaming",
-        "description": "Let see how long i can survive for Thanks for watching CKN Gaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/t1p9MCgCYVk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/t1p9MCgCYVk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/t1p9MCgCYVk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-10-20T22:42:36Z"
       }
     }
   ]
