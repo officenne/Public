@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "q980dhe4TvrYG9FVEO5rDuCD3tk",
+  "etag": "dxoy8PNeeWOBJfoyZYiplArduA4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 547,
+    "totalResults": 548,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WI1LzhGaXl4L7YRJf7ROmcHziDY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s8dM-2U0OLs"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-21T10:30:29Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver Chooses His Perfect Halloween Costume! 👻✨",
+        "description": "It's Halloween time, and Oliver has a big decision to make — which costume should he wear? Kids Roma Show ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s8dM-2U0OLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s8dM-2U0OLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s8dM-2U0OLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-21T10:30:29Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Z4jD39KXj-HM_rmo1l5qoUzzLeo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-06-15T14:15:10Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ocw7pQy7bw4iIHkNtAD3nwHktog",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yuUMLdk4bzQ"
-      },
-      "snippet": {
-        "publishedAt": "2025-06-14T11:30:54Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver’s Laundry Business Adventure",
-        "description": "Oliver opens his own laundry shop, but he doesn't follow any washing instructions or rules. As a result, he ruins the clothes of his ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yuUMLdk4bzQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yuUMLdk4bzQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yuUMLdk4bzQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-06-14T11:30:54Z"
       }
     }
   ]
