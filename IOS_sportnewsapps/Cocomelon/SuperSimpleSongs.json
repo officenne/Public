@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "PdzABnl3mnrdrCBPejOJDlfkdvE",
+  "etag": "DaCfB_s7EHjBKfPcKGqycAz7vYs",
   "nextPageToken": "CDIQAA",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 77,
+    "totalResults": 78,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HbFMfj_OlvAaONWNQDKBiujzHnQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C1yk5wTwPsY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-23T14:00:19Z",
+        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
+        "title": "Monster Party featuring Sesame Street + More | Kids Halloween Hits! | Super Simple Songs",
+        "description": "Get the Super Simple App! ▻ http://bit.ly/TheSuperSimpleApp Sesame Street join the Halloween Monsters for a super cool ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C1yk5wTwPsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C1yk5wTwPsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C1yk5wTwPsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Super Simple Songs - Kids Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-23T14:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "IixvTfEgZyBwNO_Y-UzZAxBOjW4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Super Simple Songs - Kids Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2015-03-11T12:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "WkSVu6Gz9SloXeMN9MxlpnHeg4A",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "veZlIX6d63Y"
-      },
-      "snippet": {
-        "publishedAt": "2014-10-15T12:30:02Z",
-        "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
-        "title": "Who Took The Candy? | Halloween Song for Kids | Super Simple Songs",
-        "description": "Get the Super Simple App! ▻ http://bit.ly/TheSuperSimpleApp It's \"Who Took The Cookie?\" with a super simple Halloween twist!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/veZlIX6d63Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/veZlIX6d63Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/veZlIX6d63Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Super Simple Songs - Kids Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2014-10-15T12:30:02Z"
       }
     }
   ]
