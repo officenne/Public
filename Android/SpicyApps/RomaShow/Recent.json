@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Fb_p9Ot7KcOylOs-xm5qglA-Oa8",
+  "etag": "IbrErCY12WyZwikbh7UWkWwpOu4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 557,
+    "totalResults": 558,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v4GoS8LXRHcvc8b3GLkkNEB9H_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OJnxWeqUbDc"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-23T10:30:13Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Roma Makes a Funny Surprise for Dad!",
+        "description": "Roma is up to something creative — he's making a special surprise for Dad using kinetic sand! Kids Roma Show ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OJnxWeqUbDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OJnxWeqUbDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OJnxWeqUbDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-23T10:30:13Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "hNyLfU2W9QdCJCcV25fFQHefRqc",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-06-27T12:15:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "trA_JTOEmX11LuZyHXCmO09xD3E",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "cUaHOS0KPvg"
-      },
-      "snippet": {
-        "publishedAt": "2025-06-22T12:30:46Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Railway Safety Rules for Kids",
-        "description": "Railway Safety Rules Every Child Should Know Kids Roma Show - http://bit.ly/2kj62uh.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cUaHOS0KPvg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cUaHOS0KPvg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cUaHOS0KPvg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-06-22T12:30:46Z"
       }
     }
   ]
