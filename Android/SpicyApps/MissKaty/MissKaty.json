@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ELE9WxKRzYW9fMU-vXTBrQVej_w",
+  "etag": "hr5QujQSyBaeBQkaRpRZawcffN4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 143,
+    "totalResults": 144,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HuwalkSa87VN0lYRnbr0YFjIRcY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "daPCe181k0w"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-25T09:01:05Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Папин ресторан для Кати и Макса",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/daPCe181k0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/daPCe181k0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/daPCe181k0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-25T09:01:05Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Yk0Wezvl_oVuqqFJnt6Kk3r8-l4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2021-01-31T07:00:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "lYGUiAjReKf_QvX1-Nf3warKdeA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "2X5rFZm0pmY"
-      },
-      "snippet": {
-        "publishedAt": "2021-01-30T08:24:10Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя и Макс веселятся в детском музее",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2X5rFZm0pmY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2X5rFZm0pmY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2X5rFZm0pmY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-01-30T08:24:10Z"
       }
     }
   ]
