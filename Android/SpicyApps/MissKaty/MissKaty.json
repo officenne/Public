@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "O8Zp88-iUIApqjVMXy6f2gxZd8k",
+  "etag": "US73gn3fKutGOW_89RfnwtwuFfQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 151,
+    "totalResults": 152,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "_Etn6qDNSQii7em62ga6e59wg90",
+      "etag": "7RKqKheqBtaHosMjcys81raK3jI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f53COtDkIgo"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-31T10:01:11Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Катя и Макс управляют днём родителей",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f53COtDkIgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f53COtDkIgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f53COtDkIgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-31T10:01:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aYZLjYfRYPkR27KuJuqgM6tlRHY",
       "id": {
         "kind": "youtube#video",
         "videoId": "daPCe181k0w"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2021-03-21T11:02:43Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "lU0a9BZW2SXn8pUiOHSzKYGCgX0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "fn6ebJ4anL8"
-      },
-      "snippet": {
-        "publishedAt": "2021-03-02T05:45:01Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя празднует 20 миллионов на канале Мисс Кейти",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fn6ebJ4anL8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fn6ebJ4anL8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fn6ebJ4anL8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-03-02T05:45:01Z"
       }
     }
   ]
