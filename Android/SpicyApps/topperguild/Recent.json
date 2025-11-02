@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "6FTCVH5D6Q234Rulnzqt_b8e8ao",
+  "etag": "uTsyAJeLDsu66wutkGH4nA-CIX0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 64,
+    "totalResults": 65,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "npvlTUV6okaxpBtLQLmU3SQn9v8",
+      "etag": "ELF6JqLrCUD29tpECWOK57rYcok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v7PfJLurDD8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-02T13:01:56Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Can I Wake Him Up?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v7PfJLurDD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v7PfJLurDD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v7PfJLurDD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-02T13:01:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a2uj6shRP6lzbzvLo18HxGnWnx8",
       "id": {
         "kind": "youtube#video",
         "videoId": "C_0yU_2ib24"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2021-06-09T15:00:19Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "dtNtz-mlcN5zx-h6fU9Wi6sjjhU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "KY6T7lQ1i5A"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-20T19:00:05Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "HIS FACE AFTER HE GOT DOUBLE PRANKED 😂 #shorts",
-        "description": "FOLLOW ME Instagram: https://www.instagram.com/topperguild/?hl=en TikTok: https://www.tiktok.com/@topperguild?lang=en ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KY6T7lQ1i5A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KY6T7lQ1i5A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KY6T7lQ1i5A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-20T19:00:05Z"
       }
     }
   ]
