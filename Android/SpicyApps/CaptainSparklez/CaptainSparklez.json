@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "a8iy7O2ho9ulnpYDHSM75-kI1dw",
+  "etag": "tpZ_AbRROsqXzMDgn0u9ZEAhVlk",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 13,
     "resultsPerPage": 13
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bDbYAFcgZcg3Mo9LIAOsDy3rybU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dyp7oMJlzQU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-09T01:00:54Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "RV There Yet? Please Stop Asking",
+        "description": "Today we do carkour RV Playlist: https://www.youtube.com/playlist?list=PLli4oThJ08ZykLQzs-MK4L5f5StE4guHU Drivers: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dyp7oMJlzQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dyp7oMJlzQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dyp7oMJlzQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-09T01:00:54Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "hQojSEOnvm6Mhu5cJmSpOa6hbzQ",
@@ -413,40 +447,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-11-02T13:01:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "wZgwfSLbHaL1sFCjNcn6iYO1MtI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "WyuW7JPZsSk"
-      },
-      "snippet": {
-        "publishedAt": "2025-11-01T12:01:06Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "A bigger problem",
-        "description": "Full vod: https://www.youtube.com/watch?v=Sok8d8TW93s&t=5649s #shorts #minecraft #funny.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WyuW7JPZsSk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WyuW7JPZsSk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WyuW7JPZsSk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-11-01T12:01:06Z"
       }
     }
   ]
