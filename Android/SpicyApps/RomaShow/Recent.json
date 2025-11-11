@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "pCkXIpxdItp_skBr5KpAQ0VTOcY",
+  "etag": "c_hQ2DckkXz4zG3a7tZLI_oweE0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 565,
+    "totalResults": 566,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bWcH6l_uHbQ8JFEMO0TzXfPhPJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "33VkEKmqQu4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-11T11:30:08Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Hotel Neighbors Adventure with Funny Girls",
+        "description": "Watch these girls turn a hotel stay into a hilarious mini adventure full of fun and mischief!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/33VkEKmqQu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/33VkEKmqQu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/33VkEKmqQu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-11T11:30:08Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "rY1HgOzHDwn2d0ApyMaQkgcQhtI",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-07-27T12:13:51Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "pYiVJz0fNoO38s-k30Ckr1UBRGg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "1WQH-_KTpQU"
-      },
-      "snippet": {
-        "publishedAt": "2025-07-26T13:54:23Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Cinema Rules VS Kids With Candy",
-        "description": "Oliver and friends test the cinema rules with their creative candy hiding tricks! Will they get caught or sneak the sweets inside?",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1WQH-_KTpQU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1WQH-_KTpQU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1WQH-_KTpQU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-07-26T13:54:23Z"
       }
     }
   ]
