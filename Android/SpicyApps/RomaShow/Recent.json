@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "j6QnZkTNXylrHQCfGDA6GuzD9sM",
+  "etag": "4FdEpP0-1iCi5Xd8ewvFzTcAnW0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 554,
+    "totalResults": 555,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NUiKs2lNNqq6dM-nypNyS_MG_1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dFnvgz5X6Pk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-14T14:27:39Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver and Adam Save the Animals",
+        "description": "Oliver, Adam, and Mom use their special rescue monitor to find pets in trouble. Together they help a puppy, a kitten, and many ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dFnvgz5X6Pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dFnvgz5X6Pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dFnvgz5X6Pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-14T14:27:39Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "zGH6KJUHWUCMqLdcERZ7A1CZEIM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-08-06T11:30:21Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "xCF5gaKjh7lcThveoM9RDvDSU18",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ZQwBpPwvHGM"
-      },
-      "snippet": {
-        "publishedAt": "2025-08-03T11:30:22Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma’s Recycling Lesson: Sorting Matters! ♻️👍",
-        "description": "Watch Roma visit a recycling plant where a worker shows him how paper trash can be turned into new things! Roma is so excited ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZQwBpPwvHGM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZQwBpPwvHGM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZQwBpPwvHGM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-08-03T11:30:22Z"
       }
     }
   ]
