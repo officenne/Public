@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "itMLrCqPI-XGDYROIQTg5GQjEd8",
+  "etag": "g4NoxZ1UcN5E1Iuh7p9JSfWueZQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FKbDhhgYvTw4xP-jUKZNdmNHufw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S3VKfPFKsog"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-17T13:01:01Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Someone Stole Puppies!",
+        "description": "Get your Woojer today at https://www.woojer.com/topper.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S3VKfPFKsog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S3VKfPFKsog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S3VKfPFKsog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-17T13:01:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "WcC8qs9uNdTESuHhuIm8WOBcsR8",
@@ -312,40 +346,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2025-11-08T13:01:24Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "71iBkm4ivZVNhsJCefkkJXQdT4k",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Orbiv9bPaCo"
-      },
-      "snippet": {
-        "publishedAt": "2025-11-07T13:00:54Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Guess The K-pop Demon Hunters!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Orbiv9bPaCo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Orbiv9bPaCo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Orbiv9bPaCo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-11-07T13:00:54Z"
       }
     },
     {
