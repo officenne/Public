@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "DkoiY8TOpNtGLZ6wx7kptpXF0QQ",
+  "etag": "Bo0UzyelDz4svY_A0AdZS4OBW8U",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 137,
+    "totalResults": 138,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Axf7vGvsIigRyfFrWSvPtQ4mD2c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F3IMPv65zmY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T10:00:22Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Украсила свою комнату на Рождество",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F3IMPv65zmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F3IMPv65zmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F3IMPv65zmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T10:00:22Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "oM0VF9HLvZdomQWb2w9vLkRqaOk",
@@ -554,7 +588,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "zuAzWwgB0X1PpmD1YB2fWO6j_Qk",
+      "etag": "TRbJmcLH6cTBp5-8qPh5WdQgs6U",
       "id": {
         "kind": "youtube#video",
         "videoId": "VlS7b1XzdSU"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2021-01-26T05:15:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "HNvP-4F-2ytfzHNLEP85QzwoJ_s",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "WevWPO8ujmg"
-      },
-      "snippet": {
-        "publishedAt": "2020-08-25T06:29:42Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя собралась на плавание",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WevWPO8ujmg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WevWPO8ujmg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WevWPO8ujmg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-08-25T06:29:42Z"
       }
     }
   ]
