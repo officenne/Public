@@ -1,10 +1,10 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "0IWsiZ8U6ZeaM9Zs-K9WnBCJlD4",
+  "etag": "o-2WUP5dFZyg30mnA7vvMspPnlY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 556,
+    "totalResults": 563,
     "resultsPerPage": 50
   },
   "items": [
@@ -1268,6 +1268,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "OtApltDw8NIn-i4ugb4zMWBbefw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KpWObjys1UM"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-31T06:00:18Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Trapped! Intense Locker Escape!",
+        "description": "CKNGaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KpWObjys1UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KpWObjys1UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KpWObjys1UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-31T06:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "exH3JrPo_X29IcEe71J4qt9DRYo",
       "id": {
         "kind": "youtube#video",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2025-10-28T05:30:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hzSY0-YaHQwxb0g8ayJNxaqKgVw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Aj0jdFu_Tdk"
-      },
-      "snippet": {
-        "publishedAt": "2025-10-28T05:00:10Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Unlimited Toys vs  Candy  Epic Choice Challenge!",
-        "description": "CKNGaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Aj0jdFu_Tdk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Aj0jdFu_Tdk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Aj0jdFu_Tdk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-10-28T05:00:10Z"
       }
     }
   ]
