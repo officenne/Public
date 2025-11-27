@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "hnpGzCZx8AE68NFi86SVvH-fdnk",
+  "etag": "xw2lCEontkah1O-8pqQ0hWmsmcI",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 12,
     "resultsPerPage": 12
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B8iRn5KPcsFlQTB-Q6jNF09Ua_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2DYMEN581Pw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:00:04Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Mildly Infuriating #5",
+        "description": "Infuriated, but only mildly Mildly Infuriating playlist: https://www.youtube.com/playlist?list=PLli4oThJ08ZzF5jh2htiM_ytt597j6Kic My ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2DYMEN581Pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2DYMEN581Pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2DYMEN581Pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:00:04Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "nhkgQGvheV_vDTuzsZR8C3FWN98",
@@ -379,40 +413,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-11-22T18:00:50Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "7zhsz25zbMDg6Gei8xGk6bw_WSo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ri7XZxVb_Y4"
-      },
-      "snippet": {
-        "publishedAt": "2025-11-20T18:01:08Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Lingo Gango Ep. 17 - Gandalf",
-        "description": "Today we fight a very big mans Thanks to Apex Hosting for sponsoring this series! Use code \"CaptainSparklez\" to get 25% off your ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ri7XZxVb_Y4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ri7XZxVb_Y4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ri7XZxVb_Y4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-11-20T18:01:08Z"
       }
     }
   ]
