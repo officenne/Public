@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "YFXnNNC4Way9ji47WKrJAT9UXG8",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lWpOLaBDOHmilz8-DAOPzHExWZU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MjVstMMZnng"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-28T20:00:19Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "The Hytale Story Is Crazy",
+        "description": "Hytale is back from the dead Get $80 off the A50 X headset with a free copy of EA College Football 26 #sponsor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MjVstMMZnng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MjVstMMZnng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MjVstMMZnng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-28T20:00:19Z"
+      }
+    }
+  ]
 }
