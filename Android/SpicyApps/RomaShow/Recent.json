@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "X9NA0X9xZ6lArEpkRRw6Udm6xBM",
+  "etag": "XWSK_aiqVznxI2QAlLdcYvkbyA4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 547,
+    "totalResults": 548,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "35jPBucvyu2FfA1DmIgKnGxWdfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vwNrGGTGSNQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-03T13:31:09Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Garbage Monsters! Kids Rules &amp; Fun Adventures",
+        "description": "Join the kids for fun learning adventures! Garbage Monsters, safety rules and learning how to sort trash. Positive, educational and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vwNrGGTGSNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vwNrGGTGSNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vwNrGGTGSNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-03T13:31:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "1kBJ-zTrME527in36U6slW_n57k",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-08-24T11:30:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "AOFhbCHRknuYQwA3ez65Cf6Y_ks",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Won9GoaGDfg"
-      },
-      "snippet": {
-        "publishedAt": "2025-08-22T12:30:48Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver and Funny Train Adventure with Unusual Passengers",
-        "description": "Oliver and fun train ride full of surprises! The smart and kind conductor always finds a way to fix everything. 00:00 Oliver and ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Won9GoaGDfg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Won9GoaGDfg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Won9GoaGDfg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-08-22T12:30:48Z"
       }
     }
   ]
