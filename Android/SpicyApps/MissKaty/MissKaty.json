@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ghiHn_GblCJYqNWhKU1tfaX2tNY",
+  "etag": "wsusxpk5YsS8NqgcL_SLvSBt5u0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 122,
+    "totalResults": 123,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZoTe4BWQ-fW1yckxvcsCBXS3wwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lN3eWh1JBDg"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-05T10:01:27Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Устраиваю показ моды",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lN3eWh1JBDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lN3eWh1JBDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lN3eWh1JBDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-05T10:01:27Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xxEORQmqn9xnA16JyYvFXbDsKvI",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2020-03-07T05:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "4zZqsHwNG8EpdGHheOhIFysu1SU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wn_DgOtGHzo"
-      },
-      "snippet": {
-        "publishedAt": "2020-02-22T05:00:09Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Макс и Катя их тортики для друзей",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wn_DgOtGHzo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wn_DgOtGHzo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wn_DgOtGHzo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-02-22T05:00:09Z"
       }
     }
   ]
