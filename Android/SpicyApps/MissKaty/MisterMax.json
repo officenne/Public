@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "lIRc7w09cc64gDhypPnz_Eq3LMY",
+  "etag": "focDm_8T1LvEEqpmjQFL9OOb1uo",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 117,
+    "totalResults": 118,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VpLsgAzBIepJJMVcwCCqGf1I-Hg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_SeUTd0RoN0"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-06T10:01:04Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Новогоднее меню драйв ин",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_SeUTd0RoN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_SeUTd0RoN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_SeUTd0RoN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-06T10:01:04Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "UzGKm5ZMk6mXHlQxGY0YCHPm0vE",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2019-09-11T08:00:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "mZsXJQjSbbnVLJPtDbgeSUS4LqI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "FOJGzfePhak"
-      },
-      "snippet": {
-        "publishedAt": "2019-06-27T10:27:20Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Максим и его комната с  машинками",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FOJGzfePhak/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FOJGzfePhak/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FOJGzfePhak/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-06-27T10:27:20Z"
       }
     }
   ]
