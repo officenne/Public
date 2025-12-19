@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "gnIZ_AzWnfH7JsyrC2-8lqmKIRs",
+  "etag": "os4bhOGI8Kne-QqjNisOpz06sGU",
   "nextPageToken": "CDIQAA",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 132,
+    "totalResults": 133,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r_CuM6xeVLHuleL92F9GY5hZ_Q4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gw4XoCFUGoc"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-19T07:00:00Z",
+        "channelId": "UCBnZ16ahKA2DZ_T5W0FPUXg",
+        "title": "Deck the Halls, Ha Ha Ha Ha Ha! #Shorts #ChuChuTV #NurseryRhymes #merrychristmas #ChuChuTV100M",
+        "description": "Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1 Deck the Halls, Ha Ha Ha Ha Ha!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gw4XoCFUGoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gw4XoCFUGoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gw4XoCFUGoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-19T07:00:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "JAu4GfCQdyVUQSUd9GxAIUHut2A",
@@ -1672,40 +1706,6 @@
         "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-18T11:33:22Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "F_XP6dQ5KRR0G314O__zbugop14",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "35tW65gsCUo"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-24T11:30:01Z",
-        "channelId": "UCBnZ16ahKA2DZ_T5W0FPUXg",
-        "title": "ChuChu TV&#39;s 50 million subscribers play button from YouTube - Thanks to the parents of our lil fans!",
-        "description": "Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1 Get the cute Baby Taku's Toy Bestie ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/35tW65gsCUo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/35tW65gsCUo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/35tW65gsCUo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-24T11:30:01Z"
       }
     }
   ]
