@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "3ZxUubrAP1GiHWDYVQxLYLgR6uo",
+  "etag": "RmSLB5dfX5sSgaG737cyTnzZBzs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 545,
+    "totalResults": 546,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DbnsFPgeNdU2OxtnfRe99SJ0-cY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bpOpDO9RNHU"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-19T22:59:00Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "When Brothers Take NBA Bounce Too Seriously",
+        "description": "nbabounce @CKNGaming When Brothers Take NBA Bounce Too Seriously.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bpOpDO9RNHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bpOpDO9RNHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bpOpDO9RNHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-19T22:59:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "YwFwAQjIzMJLxkTpCvFTFF0gVho",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2025-10-28T05:00:10Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "lARjTf4hfcsSKGjgfnbqgkq0EPQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "KOxrn_xD0hs"
-      },
-      "snippet": {
-        "publishedAt": "2025-10-28T04:30:29Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Unbelievable Discovery  Hidden Obby with Mythical Rewards!",
-        "description": "CKNGaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KOxrn_xD0hs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KOxrn_xD0hs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KOxrn_xD0hs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-10-28T04:30:29Z"
       }
     }
   ]
