@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9iqCDg64zGRTsAldXP2mkUM1vZE",
+  "etag": "lmmRLdQUdRwzajDXdfq5kVP6mTk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 115,
+    "totalResults": 116,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w3s_VgzH45NNZSU54yTLkELrccM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Vajun5bvoc"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-20T10:00:22Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Редкие продукты на заправках",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Vajun5bvoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Vajun5bvoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Vajun5bvoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-20T10:00:22Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "bmxE7jLfIAMg4O3SVpqyxC7lWy4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2019-06-27T10:27:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "4xr89qtxSaN-1nRdxeYJjgAPXYk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "dkgKLO_YO3U"
-      },
-      "snippet": {
-        "publishedAt": "2019-05-03T05:30:00Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Max play Hide and seek with papa",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dkgKLO_YO3U/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dkgKLO_YO3U/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dkgKLO_YO3U/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-05-03T05:30:00Z"
       }
     }
   ]
