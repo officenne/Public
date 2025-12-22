@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "lvf58MmKQ5qN-6tuHf_o5eoczWk",
+  "etag": "Nf1VEhPYcySWsQLZViqswWg8PGQ",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 13,
     "resultsPerPage": 13
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aaNkrXtsb_wom_Goh5dsY-873Kk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YGG5uFPdO2Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-22T18:00:44Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Idiots In Cars #18",
+        "description": "When in doubt, throttle out Idiots In Cars playlist: https://www.youtube.com/playlist?list=PLli4oThJ08ZxedWNHtTbdNf0TmAr6v7vT ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YGG5uFPdO2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YGG5uFPdO2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YGG5uFPdO2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-22T18:00:44Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "sNkjIvt492VhZLej4A6WoQZKHSk",
@@ -413,40 +447,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2025-12-17T17:01:21Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "bkaqTjmDAehQPJGAq4fuQDcoym4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "lBqio3hoXD4"
-      },
-      "snippet": {
-        "publishedAt": "2025-12-16T18:00:49Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Atmos Roguelike",
-        "description": "Today we do a bit of shoosting in a modpack built around a map Thanks to Apex Hosting for sponsoring this video! Use code ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lBqio3hoXD4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lBqio3hoXD4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lBqio3hoXD4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-12-16T18:00:49Z"
       }
     }
   ]
