@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "8iY077QT8Qn1li5BWtrqMvcv7Qg",
+  "etag": "RpeqVeEUlbTtUmQB2SAgyYz5JI4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 563,
+    "totalResults": 564,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vA24VoXHoKqlKayGxeaddirIpQo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0gkIxcAlB-I"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-23T11:30:01Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Frozen Gifts! Kids Save Christmas with Kindness 🎁❄️",
+        "description": "The Grinch freezes all the Christmas gifts! ❄️ Can kindness melt the ice? Kids help others, do good deeds, and save Christmas!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0gkIxcAlB-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0gkIxcAlB-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0gkIxcAlB-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-23T11:30:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "eQ8JFMNSe0SAS_ivkiabrmelbTc",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-09-19T16:41:52Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "_7R2aqCxqq5i6htZjodYTGUYE0w",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "5JnSeNu5dyc"
-      },
-      "snippet": {
-        "publishedAt": "2025-09-17T21:21:18Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "🏃\u200d♂️ PE Class Fun | Kids Helping Each Other 🤝✨",
-        "description": "A fun school PE lesson! Kids work together, support each other, and make exercise more exciting Kids Roma Show ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5JnSeNu5dyc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5JnSeNu5dyc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5JnSeNu5dyc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-09-17T21:21:18Z"
       }
     }
   ]
