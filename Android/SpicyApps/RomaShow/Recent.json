@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "KKloXKg-JkavUDNT8epu9iLfBbg",
+  "etag": "z-4mw5hzXkZaUUtEGu8k33qKDfA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 558,
+    "totalResults": 559,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EM1SqbsQANzqAhiyN9eP00iy3t4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Hdw3VqH1_4"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-02T12:15:02Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Kids Learn Good Habits with Mom | Fun Family Stories",
+        "description": "Enjoy funny family stories with Mom and kids! Oliver tries life with three different mommies and discovers that no one can replace ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Hdw3VqH1_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Hdw3VqH1_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Hdw3VqH1_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-02T12:15:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "4UmZJ1y2EWQeTSlq2r5z5SqNFoE",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-09-25T09:30:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "vAb-O8dzS7ONDPcsYr_sy9Z0YY0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "kinjrWM2b9k"
-      },
-      "snippet": {
-        "publishedAt": "2025-09-24T21:01:05Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "ABC Adventure for Kids",
-        "description": "Join Oliver and his friends as they discover the alphabet — each letter has a new surprise from A to Z. This video helps children ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kinjrWM2b9k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kinjrWM2b9k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kinjrWM2b9k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-09-24T21:01:05Z"
       }
     }
   ]
