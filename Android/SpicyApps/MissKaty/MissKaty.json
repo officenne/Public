@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "1X3GQ8THxtz7GHoHbuI_Gb0WUg4",
+  "etag": "Cg9T8fljtJOZW03XbkcN9p3gav8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -8,6 +8,40 @@
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BgNor7zi6iSo7D-5qrcZx0lXa1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uRwI9vduAAs"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-02T10:01:32Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Вирусные десерты",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uRwI9vduAAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uRwI9vduAAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uRwI9vduAAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-02T10:01:32Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "78zEzm8ZAKRMr4-q579iOXmD8YA",
@@ -40,40 +74,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2025-12-25T10:00:36Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LXyj4dSRs7N_J8yaRrSzoqFPouE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "lbw1U6zy_EM"
-      },
-      "snippet": {
-        "publishedAt": "2025-12-12T10:01:20Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Готовим картошку и делаем слайм / Кто лучше справится?!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/lbw1U6zy_EM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/lbw1U6zy_EM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/lbw1U6zy_EM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-12-12T10:01:20Z"
       }
     },
     {
