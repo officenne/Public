@@ -1,16 +1,50 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "zMaiNNCCGT7JRlDKXnc7HWyrJwc",
+  "etag": "Yj4JUWtQm9iJczfejHJnmoHLLgQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 114,
+    "totalResults": 115,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "JoBD8OumEtrt7gohn29wDVTLjD8",
+      "etag": "JXucWhGIuLSM7HxCmRa9_8qN5w0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k0ApKjHaSgg"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-03T10:01:12Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Что мы загадали на 2026 год",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k0ApKjHaSgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k0ApKjHaSgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k0ApKjHaSgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-03T10:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R0Hu2Q7JhTCagZAoEISucOW_FGY",
       "id": {
         "kind": "youtube#video",
         "videoId": "urfVt8N9N-A"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2019-05-03T05:30:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "psx4jw5I034sE6fD5-wJnw6ELCw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "6cc6lmP4F_k"
-      },
-      "snippet": {
-        "publishedAt": "2019-03-20T05:00:00Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Макс и Катя играют в кафе",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/6cc6lmP4F_k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/6cc6lmP4F_k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/6cc6lmP4F_k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-03-20T05:00:00Z"
       }
     }
   ]
