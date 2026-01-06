@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "ecrNvM8IjeymPE1uYwF0apjybh8",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4TcZE8DG_StapFrucQGkoQBFRfQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M4O5NPJaszA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-06T21:00:34Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Big Life Changes",
+        "description": "New year, new stuff I guess Vlogs Playlist ▻ https://www.youtube.com/playlist?list=PL7CAD74F5CCE09549 My Links ○ My gear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M4O5NPJaszA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M4O5NPJaszA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M4O5NPJaszA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-06T21:00:34Z"
+      }
+    }
+  ]
 }
