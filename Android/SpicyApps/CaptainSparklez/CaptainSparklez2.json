@@ -1,15 +1,49 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "5hCfdzkmTMcTAZBiQpHEoot8mkc",
+  "etag": "mWl-0SEYXOB8u9xp7DC_a49DwmU",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 2,
-    "resultsPerPage": 2
+    "totalResults": 3,
+    "resultsPerPage": 3
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "gRKhu_d0TjJTEmQHag6HXlyVFCQ",
+      "etag": "OKEe79J5ppgYsDB1ODOi-w49XgE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F0N1cRUVuQQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-14T17:00:33Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Hytale Ep. 2 - Into The Depths",
+        "description": "Today in Hytale we explore the underground Thanks to Apex Hosting for sponsoring this series! Use code \"CaptainSparklez\" to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F0N1cRUVuQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F0N1cRUVuQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F0N1cRUVuQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-14T17:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TqNPpEoxQhv3e9U3H7HDkEvene8",
       "id": {
         "kind": "youtube#video",
         "videoId": "pjORAn-o2ok"
