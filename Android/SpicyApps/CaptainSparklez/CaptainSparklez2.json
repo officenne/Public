@@ -1,15 +1,49 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "W7Z9RKVC0wMiluT5YR7dUw6gk-g",
+  "etag": "iJoZChjmMhjTwXZSBsKsKpJ4-3A",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 4,
-    "resultsPerPage": 4
+    "totalResults": 5,
+    "resultsPerPage": 5
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "GMxP-AtyE7RbNViqo1VbSmR_33k",
+      "etag": "mQZgD02jwolWvyXZnymbvd0yGGU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EisJJ6roBOA"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-19T17:00:22Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Hytale Ep. 5 - The Everfrost",
+        "description": "Today in Hytale we venture into the snowy tundra and discover a mine Thanks to Apex Hosting for sponsoring this series!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EisJJ6roBOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EisJJ6roBOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EisJJ6roBOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-19T17:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tvqekxwbDtdCpwD26U5bH3RXV9U",
       "id": {
         "kind": "youtube#video",
         "videoId": "P0frYN-VOOA"
