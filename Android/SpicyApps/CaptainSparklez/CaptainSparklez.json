@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "3ny3iyiQJx6_oBdFSZbTUXX4KNs",
+  "etag": "fH_jMMtlySV7Yt5VrWccmiAoWOw",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4sQxB0EHlkBp3S3I0r2mhGxiuw8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uG-gAyKIVGo"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-22T18:01:00Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Idiots In Cars #19",
+        "description": "Hello insurance I was hit by a house Idiots In Cars playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uG-gAyKIVGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uG-gAyKIVGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uG-gAyKIVGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-22T18:01:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ha6yfG1M_o1OWtWt8PGT7x0Gy9w",
@@ -311,40 +345,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-01-18T18:01:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "G__eFuzv5LaIW9FHSHbMc1PnjJM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "kMO2iDMW9AM"
-      },
-      "snippet": {
-        "publishedAt": "2026-01-18T01:01:03Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Well That Sucks #6",
-        "description": "Don't park in snow plow zone Well that sucks playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kMO2iDMW9AM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kMO2iDMW9AM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kMO2iDMW9AM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-01-18T01:01:03Z"
       }
     }
   ]
