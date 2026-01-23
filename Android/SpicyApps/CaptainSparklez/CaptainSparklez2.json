@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "8e41PsfQXK6XGtZHO4MLwIHD0UQ",
+  "etag": "L7eg2ySrBw7jM_tbAOowY8KYqUw",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 6,
     "resultsPerPage": 6
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mp5Pv4oJaP6hqwIfJtf3yu1zwFg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DLpIITZYYL8"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-23T19:00:00Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Hytale Ep. 7 - Under Attack",
+        "description": "Today in Hytale we try to get good with our daggers Thanks to Apex Hosting for sponsoring this series! Use code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DLpIITZYYL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DLpIITZYYL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DLpIITZYYL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-23T19:00:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "HO7uT5yzQiJwn28BYDmqyhNPomk",
@@ -43,7 +77,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "mQZgD02jwolWvyXZnymbvd0yGGU",
+      "etag": "OMLwc6uXjcxKHE1IRFROul-B3GE",
       "id": {
         "kind": "youtube#video",
         "videoId": "EisJJ6roBOA"
@@ -77,7 +111,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "tvqekxwbDtdCpwD26U5bH3RXV9U",
+      "etag": "vqI-gaQEcaHo4kqjXIr-p8yq55M",
       "id": {
         "kind": "youtube#video",
         "videoId": "P0frYN-VOOA"
@@ -175,40 +209,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2026-01-14T17:00:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "yNGqG2V8d_b8MdL-NyZdffWC5QQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "pjORAn-o2ok"
-      },
-      "snippet": {
-        "publishedAt": "2026-01-13T17:39:53Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Hytale Ep. 1 - Surviving The First Night",
-        "description": "7 years after the reveal trailer, we're finally playing Hytale. Thanks to Apex Hosting for sponsoring this series! Use code ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pjORAn-o2ok/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pjORAn-o2ok/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pjORAn-o2ok/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-01-13T17:39:53Z"
       }
     }
   ]
