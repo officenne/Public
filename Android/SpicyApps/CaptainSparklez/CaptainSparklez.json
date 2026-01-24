@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "jsjSGwtqCDwDxBHQkbH2iTpMUAA",
+  "etag": "Zv4sbyeUq7OdB_G5uzESlPInmqc",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 11,
     "resultsPerPage": 11
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oajYD8tiQ1WwVJrrOWiUM7rwm3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RPwHzcOHIdQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-24T01:00:37Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Cobblemon Academy World Ep. 11 - The Hideout",
+        "description": "Cobblemon Academy is a Minecraft SMP where we must catch Pokemon, join a house, and be the best. Thanks to Apex Hosting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RPwHzcOHIdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RPwHzcOHIdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RPwHzcOHIdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-24T01:00:37Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "gBbz8Kyv-B89_NNE_MNxAZXxXo8",
@@ -345,40 +379,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-01-19T18:00:37Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LKMO37_t9MiT8jrTAuGOtQXxr3E",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zESaRrsLOq0"
-      },
-      "snippet": {
-        "publishedAt": "2026-01-18T18:01:06Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Cobblemon Academy World Ep. 6 - Deep Dark",
-        "description": "Cobblemon Academy is a Minecraft SMP where we must catch Pokemon, join a house, and be the best. Thanks to Apex Hosting ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zESaRrsLOq0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zESaRrsLOq0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zESaRrsLOq0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-01-18T18:01:06Z"
       }
     }
   ]
