@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "xFlkztU85tjiOYTr2vTmxBk74SE",
+  "etag": "d4bSX3W3mlCsvZM4L_8ViiskRXU",
   "nextPageToken": "CDIQAA",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 118,
+    "totalResults": 119,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zIXpN2FZOUbBZIp83OR50GtxrBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cvM0JM9DhkQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-25T12:30:00Z",
+        "channelId": "UCBnZ16ahKA2DZ_T5W0FPUXg",
+        "title": "Learn the Color Brown! 🤠 Cowboy Hats, Coconuts &amp; Shoes | ChuChu TV Colors Song for Infants",
+        "description": "Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1 Let's dive into the magical world of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cvM0JM9DhkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cvM0JM9DhkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cvM0JM9DhkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-25T12:30:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "1E3AJLPQR-tX-3Nsjnk2y9sjt7w",
@@ -1672,40 +1706,6 @@
         "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2022-06-20T11:30:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "11E9QHySon8xUrWDaeUous8C7cM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "9DtJPzSyW7E"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-01T12:00:09Z",
-        "channelId": "UCBnZ16ahKA2DZ_T5W0FPUXg",
-        "title": "ChuChu TV Classics – Learn Utility Vehicles – Part 2  | Ice Cream Van &amp; More | Surprise Eggs",
-        "description": "Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1 Get the cute Baby Taku's Toy Bestie ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9DtJPzSyW7E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9DtJPzSyW7E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9DtJPzSyW7E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ChuChu TV Nursery Rhymes & Kids Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-01T12:00:09Z"
       }
     }
   ]
