@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ktsPwEZr8BIORg9q2cFIZJHkhXQ",
+  "etag": "YeBelVcJs34Z58lUm41U0V3G0gc",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 5,
     "resultsPerPage": 5
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KMwS_xa3lFtR5TNo1jWeCsffX7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "enXS_aoxD40"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-27T17:04:33Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Hytale Ep. 9 - Final Tier",
+        "description": "Today in Hytale we attempt to upgrade the workbench Thanks to Apex Hosting for sponsoring this series! Use code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/enXS_aoxD40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/enXS_aoxD40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/enXS_aoxD40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-27T17:04:33Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "hojrCf38wwtlcqUqYI9V5PDHyx4",
@@ -141,40 +175,6 @@
         "channelTitle": "CaptainSparklez",
         "liveBroadcastContent": "none",
         "publishTime": "2026-01-19T17:00:22Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "efgGbODKosmbDS0W4cEhqeFZPC4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "P0frYN-VOOA"
-      },
-      "snippet": {
-        "publishedAt": "2026-01-17T17:00:42Z",
-        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
-        "title": "Hytale Ep. 4 - Devastated Lands",
-        "description": "Today in Hytale we discover memories and go on an expedition Thanks to Apex Hosting for sponsoring this series! Use code ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/P0frYN-VOOA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/P0frYN-VOOA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/P0frYN-VOOA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-01-17T17:00:42Z"
       }
     }
   ]
