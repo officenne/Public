@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "o6Ts5F7eJvrCusjJ0-A4gCwHEgA",
+  "etag": "j4p44VniuV1wdbBe_E7djUQUZp8",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 43,
+    "totalResults": 44,
     "resultsPerPage": 25
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M44INA7kKFJBMVyD54aZcAiH33c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KfD9UIlnwk4"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-03T13:00:42Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Last Person To Blink wins!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KfD9UIlnwk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KfD9UIlnwk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KfD9UIlnwk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-03T13:00:42Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "McpVETO-WoS0sdx2Ykd4y2DKdxc",
@@ -821,40 +855,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2024-01-15T16:56:28Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "8gKZZdEm9VyGqvNluE0VVKMCItA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "YF2-VSPzLD8"
-      },
-      "snippet": {
-        "publishedAt": "2023-12-25T15:00:25Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Built a Secret Gaming Room To Catch Santa!",
-        "description": "I Built a Secret Gaming Room To Catch Santa Claus! On this Christmas, Topper Guild and his best friend Shutters build a secret ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YF2-VSPzLD8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YF2-VSPzLD8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YF2-VSPzLD8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-12-25T15:00:25Z"
       }
     }
   ]
