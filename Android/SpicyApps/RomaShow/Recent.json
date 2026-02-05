@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9l6W2T5qFGdklDqS_SD7INX9Fp4",
+  "etag": "WDn-RutmATxqXahzfVmuDn_h4xw",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 499,
+    "totalResults": 500,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MN6pdZ9QrtdQaBmiNw5U-uMBg_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WcYrd4yWvSU"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-05T10:00:47Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "100 Tickets House Decor Challenge!",
+        "description": "100 tickets Is it enough to create a cool and cozy room? Watch the FULL video here https://youtu.be/BcAdidGyDtI Kids ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WcYrd4yWvSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WcYrd4yWvSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WcYrd4yWvSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-05T10:00:47Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ev-za-PvsPeHjmoT0XrSPX_Ejas",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-10-07T09:30:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ZGmlOMLlYAEbNVf2FcSLANfIQyE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "8cesBOnA19g"
-      },
-      "snippet": {
-        "publishedAt": "2025-10-05T09:30:05Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Roma in Slime School! 🟢",
-        "description": "Roma finds himself in a magical Slime School! Everywhere is sticky, gooey, and full of funny challenges. He must explore the ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8cesBOnA19g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8cesBOnA19g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8cesBOnA19g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-10-05T09:30:05Z"
       }
     }
   ]
