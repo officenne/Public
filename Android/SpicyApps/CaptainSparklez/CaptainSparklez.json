@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "R66fy9DZZWGiERPJwfQjw3wg208",
+  "etag": "a4zQX10G3rr6UeEgaxQmKW-QCio",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 12,
     "resultsPerPage": 12
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F412JmdnNjn7GRS5XCzmbYtXRMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CyP30IS-CNM"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-13T18:00:19Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: Ascended - Shadow Of Kingdoms Ep. 3",
+        "description": "Ascended: Shadow Of Kingdoms is a pretty epic Minecraft CTM map Thanks to Apex Hosting for sponsoring this series! Use code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CyP30IS-CNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CyP30IS-CNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CyP30IS-CNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-13T18:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "7cNZ0oNBS365TZ9tYU_Jb5-208c",
@@ -379,40 +413,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-02-08T18:00:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "RD-kwl424FVErb-zazElsVHSgPQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Fu8urFjZ-tU"
-      },
-      "snippet": {
-        "publishedAt": "2026-02-07T18:00:26Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Cobblemon Academy World Ep. 25 - Fluttering",
-        "description": "Cobblemon Academy is a Minecraft SMP where we must catch Pokemon, join a house, and be the best. Thanks to Apex Hosting ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Fu8urFjZ-tU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Fu8urFjZ-tU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Fu8urFjZ-tU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-02-07T18:00:26Z"
       }
     }
   ]
