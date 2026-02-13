@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Rsy7uXjICi_IMlU6mwUjJNDhWM4",
+  "etag": "gBGi4OcG6HxhPhisWKsxWRt27mE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 119,
+    "totalResults": 121,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hbEE8f8KhQlOc3LIPa5-pu-jXM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rO9lGqQFKgY"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-13T10:01:30Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Найди эмодзи в реальной жизни",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rO9lGqQFKgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rO9lGqQFKgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rO9lGqQFKgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-13T10:01:30Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "VAXt3KjQ79D_o6ygouL7PKgjpq0",
@@ -1434,40 +1468,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2021-04-18T09:02:55Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "b0ubt-Gjlk6HPjwwqg5I2IBn9ok",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "nb7o5eI2UY8"
-      },
-      "snippet": {
-        "publishedAt": "2021-03-21T11:02:43Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя учится кататься на велосипеде",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nb7o5eI2UY8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nb7o5eI2UY8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nb7o5eI2UY8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-03-21T11:02:43Z"
       }
     },
     {
