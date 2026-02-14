@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "k-sYKpH1pgi0hiamkPr-ohFi2J4",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4n8n63dFjcBoDnrszjwQTdIBUT0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "raDktL_C3L0"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-14T17:00:00Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Hytale Ep. 12 - Dragonspire",
+        "description": "Today we enter the final fragment Thanks to Apex Hosting for sponsoring this series! Use code \"CaptainSparklez\" to get 25% off ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/raDktL_C3L0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/raDktL_C3L0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/raDktL_C3L0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-14T17:00:00Z"
+      }
+    }
+  ]
 }
