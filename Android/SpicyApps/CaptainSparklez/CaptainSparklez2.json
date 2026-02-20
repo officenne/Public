@@ -1,15 +1,49 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "k-sYKpH1pgi0hiamkPr-ohFi2J4",
+  "etag": "8mfrITxUF_SDEfMkWDN3ezbvvxI",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1,
-    "resultsPerPage": 1
+    "totalResults": 2,
+    "resultsPerPage": 2
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "4n8n63dFjcBoDnrszjwQTdIBUT0",
+      "etag": "SsFoGF9p4CLSIENhtvm6lo4lgvg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pUfij1YoY-4"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-20T19:00:00Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "Old",
+        "description": "HBD2ME I guess... Old video: https://www.youtube.com/watch?v=5fPXenM_aUE My Links ○ My gear (code CaptainSparklez): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUfij1YoY-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUfij1YoY-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUfij1YoY-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-20T19:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RHE3wlC8IQr1kpXaOl04dTLHSao",
       "id": {
         "kind": "youtube#video",
         "videoId": "raDktL_C3L0"
