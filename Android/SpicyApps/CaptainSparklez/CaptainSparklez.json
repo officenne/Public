@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "E4-x1LKQ1Ox6RXlpYv_tDH3mdHk",
+  "etag": "SQ7aOg77h5kPUQdsgO02pvY0TsI",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cr6wt8r8rSyqZRpo6YDrhxYd_YI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EEF0S7Bz8Rs"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-24T18:00:22Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Idiots In Cars #20",
+        "description": "Two alphas are behind the wheels Idiots In Cars playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EEF0S7Bz8Rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EEF0S7Bz8Rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EEF0S7Bz8Rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-24T18:00:22Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "NJ2VYyXs2nm-oCWLslEdIsvt2-k",
@@ -311,40 +345,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-02-19T01:01:10Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "EK4yf0b6DoR1gI0QFkUUc0yvEt0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "VutlnVNraL0"
-      },
-      "snippet": {
-        "publishedAt": "2026-02-18T13:01:00Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Chip ASMR",
-        "description": "Full vod: https://www.youtube.com/watch?v=cxhc1HgTAy8&t=5095s #shorts #minecraft #funny.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VutlnVNraL0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VutlnVNraL0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VutlnVNraL0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-02-18T13:01:00Z"
       }
     }
   ]
