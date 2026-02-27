@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "SH_O-CrGkV7ffC6I_pNzhU6svyY",
+  "etag": "4pXV8YlNGLdJ3_qUmw-kQ6krRsc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 120,
+    "totalResults": 121,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I_UX9p6fX6R2kLT9ZFnIlHnjZoc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MWHed9oLpi4"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T10:00:35Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Катя и Макс vs родители",
+        "description": "Андрей и Оксана против Кати и Макса в семейном челлендже Катя с Максом рисуют свои портреты , угадывают песни ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MWHed9oLpi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MWHed9oLpi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MWHed9oLpi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T10:00:35Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "bmiISPeXBA3zVa4m45kmo-_cdTE",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2020-06-13T04:00:13Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Cvt3ZqAB_74d96pRvJFSlR0jaxE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "mYNaODuuw6g"
-      },
-      "snippet": {
-        "publishedAt": "2020-06-09T04:00:10Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя и папа справляются с икотой",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mYNaODuuw6g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mYNaODuuw6g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mYNaODuuw6g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-06-09T04:00:10Z"
       }
     }
   ]
