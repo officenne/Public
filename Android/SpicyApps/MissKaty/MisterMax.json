@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "zuJg1i_vHMnR8FPdA0cYrAYShqM",
+  "etag": "B4PUpjePhhnlAaCjFaRZb0LHrIk",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 91,
+    "totalResults": 92,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "52SJtgMXpoa7bgebBqEPup1snuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sUALjl4l1-Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-28T10:01:27Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Макс готов жить отдельно",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sUALjl4l1-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sUALjl4l1-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sUALjl4l1-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-28T10:01:27Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "nllffXEPb3yn-xHQ30Ex71GyBjY",
@@ -180,7 +214,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MORZ7O6KdYCNOWL_bzpTdTL7TeE",
+      "etag": "inGQpOw92UntR6U3yHqNJCrcIeE",
       "id": {
         "kind": "youtube#video",
         "videoId": "xy8F6-lbB-A"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2016-06-09T15:55:42Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "P-E5qyhPeNm4uCfRIlGpgzz6j2M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "d8KxkRwagnA"
-      },
-      "snippet": {
-        "publishedAt": "2016-05-14T13:24:43Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Кошечка Мурка покупаем питомца Максу и Кате ВЛОГ на рынке животных",
-        "description": "Все Видео Канала Mister Max: https://www.youtube.com/channel/UC_8PAD0Qmi6_gpe77S1Atgg/videos Спасибо, что ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/d8KxkRwagnA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/d8KxkRwagnA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/d8KxkRwagnA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-05-14T13:24:43Z"
       }
     }
   ]
