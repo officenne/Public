@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "QsiNGNQP6PVaH3hBeQcRrm08kc0",
+  "etag": "q_p6b9QNa2fiP-JVXD4sxPJDrcs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 506,
+    "totalResults": 500,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8KeHISscbIHLmTHXBGofecl-Lyw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FY1rF-DZ1mU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-03T15:30:11Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Cupid Makes Too Many Bubbles | Valentine Kids Story",
+        "description": "Cupid sees a child playing with bubbles. He wants to help and makes more bubbles. Cupid learns he must listen and help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FY1rF-DZ1mU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FY1rF-DZ1mU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FY1rF-DZ1mU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-03T15:30:11Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "d3AXxk-rTIZObYjRnAJBKEvxlPw",
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7uObyjAjJuzefr_rzfyBx56jmtU",
+      "etag": "ZulkUzZYleaiDb4jjIoxJaFi6lo",
       "id": {
         "kind": "youtube#video",
         "videoId": "vdMWb_ys_ZM"
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-11-02T11:30:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "T_0EPgQ_wBYJ2Hu20YQPiFx5cRA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "riEvoaKne2Y"
-      },
-      "snippet": {
-        "publishedAt": "2025-10-31T13:15:16Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Funny Monster Café - Kids Save Halloween Night!",
-        "description": "Two friends pretend to be monsters and save the Monster Café! Join them on a magical Halloween adventure with friendly ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/riEvoaKne2Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/riEvoaKne2Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/riEvoaKne2Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-10-31T13:15:16Z"
       }
     }
   ]
