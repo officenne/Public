@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "mFWyD7Pa1HyAF9qfvKJU13l_zeE",
+  "etag": "wVBoqSTOARPcqrl3x9LoUgEvMDs",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 549,
+    "totalResults": 550,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YtqUNp_n60Tng-3hrwfwFgKszgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F30QJQoUHn4"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-13T19:00:25Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Never Give Up CKN Gaming",
+        "description": "CKNGaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F30QJQoUHn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F30QJQoUHn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F30QJQoUHn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-13T19:00:25Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "-Xg1HztelVHH-9xzEeFZci4zkHM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2025-10-31T01:34:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "o4E8iy8LCkjEpxD4zFkqmG-sAkc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "MM8euyUKqxY"
-      },
-      "snippet": {
-        "publishedAt": "2025-10-30T07:00:33Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Escape! The Luckiest Survival Ever!",
-        "description": "CKNGaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MM8euyUKqxY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MM8euyUKqxY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MM8euyUKqxY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-10-30T07:00:33Z"
       }
     }
   ]
