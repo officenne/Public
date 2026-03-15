@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "frvDYIvSxzUaw8X4wtCai7W4s3s",
+  "etag": "T4LPalcUAC5i0NxRUHrYvBmtXKk",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 13,
     "resultsPerPage": 13
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dhhtpY3VFzv91Ltid-SJxbkt_Ec",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E-pqdH-l0vU"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-15T00:00:14Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Mildly Infuriating #8",
+        "description": "Infuriated, but only mildly Mildly Infuriating playlist: https://www.youtube.com/playlist?list=PLli4oThJ08ZzF5jh2htiM_ytt597j6Kic My ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E-pqdH-l0vU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E-pqdH-l0vU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E-pqdH-l0vU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-15T00:00:14Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "I4Xj_BygjFpnhq5oH6ckVXzZErE",
@@ -413,40 +447,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-03-09T17:00:55Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "tunsgz9aXBbPEtTv2zRe1qM0e6U",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "7MIH9VeNwSM"
-      },
-      "snippet": {
-        "publishedAt": "2026-03-07T18:00:08Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Desolate Planet Ep. 4 - The Expedition",
-        "description": "Desolate Planet is a remaster of Crash Landing, one of the first mod packs I played a whole decade ago. Thanks to Apex Hosting ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7MIH9VeNwSM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7MIH9VeNwSM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7MIH9VeNwSM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-03-07T18:00:08Z"
       }
     }
   ]
