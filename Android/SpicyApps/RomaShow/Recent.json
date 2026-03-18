@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "vVGOHih9g-x-sYS_fPaY-SYoG4g",
+  "etag": "tJ4mjTu5zw__U9mYDoDAVuZ4eUQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 476,
+    "totalResults": 477,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YBTsq66JU0eC0P6rwq2jLg42YJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "addXyqZsYgg"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-18T10:15:00Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Oliver &amp; Adam: Balloon Fun Compilation!",
+        "description": "Join Oliver and Adam for exciting balloon adventures! 00:00 Oliver's Balloon House Adventure! 04:28 Adam plays Hide and Seek ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/addXyqZsYgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/addXyqZsYgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/addXyqZsYgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-18T10:15:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "5UJdT1NsDdEtTGRMMx8ABjta2cs",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-11-19T13:30:38Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "uALfXg-RIsNzzpu-U-BtG5UcBB4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "-s9c32j1fug"
-      },
-      "snippet": {
-        "publishedAt": "2025-11-16T11:30:00Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver and Dad Do the Laundry... Oops! The White Shirt Turned Pink!",
-        "description": "Mom Is Sick, so Oliver and Dad decide to help with the housework! They do the laundry... but something goes wrong — the ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-s9c32j1fug/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-s9c32j1fug/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-s9c32j1fug/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-11-16T11:30:00Z"
       }
     }
   ]
