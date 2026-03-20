@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "s9WQcmAMWjcc3vXslBmcKymiZNk",
+  "etag": "7qjasZjdHVA_BtxREoWfHKqyTyc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 104,
+    "totalResults": 105,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sR6w52KD3jTFmmdT13ZmwHdeaCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kHGY3kiV5G0"
+      },
+      "snippet": {
+        "publishedAt": "2026-03-20T10:01:20Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Новый M5 iPad Pro за свои деньги",
+        "description": "https://www.etsy.com/uk/shop/MissKatyCo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kHGY3kiV5G0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kHGY3kiV5G0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kHGY3kiV5G0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-03-20T10:01:20Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xQ5bBmab_Baqw3WBc0-3wef303E",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2019-11-23T05:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "aaVtozVMyaAulYLpfUO5CZWUZ7c",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "hiNsEWErdvY"
-      },
-      "snippet": {
-        "publishedAt": "2019-11-16T09:49:59Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Макс и Катя играют с папой",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hiNsEWErdvY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hiNsEWErdvY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hiNsEWErdvY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-11-16T09:49:59Z"
       }
     }
   ]
