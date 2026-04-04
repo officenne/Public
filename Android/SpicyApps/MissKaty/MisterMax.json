@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "7NO1mvEShT3heDvsR09iVzsIxGU",
+  "etag": "w2nb-oqRbZXeBqz8XM-wLdN5OlI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 83,
+    "totalResults": 84,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jPesmv8gbu2terZHUygRqQsgrmg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HskLDarrvqs"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-04T08:16:25Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Шпионим за Максом в гейминг комнате",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HskLDarrvqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HskLDarrvqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HskLDarrvqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-04T08:16:25Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "LniS7GHEJQ1JfPJ_BiHEj14gjJo",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2016-04-06T12:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "YjZYm2Lnye8Wntde7SG6Hhqs_5A",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "bnVk0aLWChA"
-      },
-      "snippet": {
-        "publishedAt": "2016-04-02T16:53:34Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Угадай напиток Челлендж",
-        "description": "Макс с Катей устраивают Челендж из разных жидкостей Спасибо, что смотрите мое видео! Ставьте лайки!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bnVk0aLWChA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bnVk0aLWChA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bnVk0aLWChA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-04-02T16:53:34Z"
       }
     }
   ]
