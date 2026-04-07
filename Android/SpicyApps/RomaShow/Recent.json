@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Wamky4So-WwlBuDTwnSD_NKBm0A",
+  "etag": "3AE0f_kiGyL1P2U530BMNuf3hbM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 452,
+    "totalResults": 453,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CURq7mZEL0SG7BfMq0dRG8jCx1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1IdjbCCFBWc"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-07T14:30:00Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "🐰 Easter Egg Hunt Adventure",
+        "description": "Kids go on a fun Easter egg hunt full of surprises and a playful bunny! Watch the FULL video here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1IdjbCCFBWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1IdjbCCFBWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1IdjbCCFBWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-07T14:30:00Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "KOlcWSxZ7OvOYY2sYIuWh8r5PL4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2025-12-03T13:31:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "to4qtjJTT4TuDcohLwAMlwM5QbU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "BYvSJj8ZsQc"
-      },
-      "snippet": {
-        "publishedAt": "2025-11-28T13:03:51Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver’s Balloon House Adventure!",
-        "description": "Oliver sees construction near his house and flies away in a balloon house! Fun balloon stories for kids. 00:00 Oliver's Balloon ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BYvSJj8ZsQc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BYvSJj8ZsQc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BYvSJj8ZsQc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-11-28T13:03:51Z"
       }
     }
   ]
