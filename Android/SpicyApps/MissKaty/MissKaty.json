@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "5GUjwv6N_ApJu_4Qu2hKvy_705w",
+  "etag": "tyl3lcORANxPf1EeSSFYAtehrpg",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 104,
+    "totalResults": 105,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SrildF1U0E8VflJEdlC1t_yQ1YI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yXfy1EVXf8I"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-10T09:01:28Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Я нашла популярные и даже сделала сама DIY Giant Dumplings",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXfy1EVXf8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXfy1EVXf8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXfy1EVXf8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-10T09:01:28Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "Ws4i3R7rN1Bf32gtngTwdD5whEA",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2019-11-23T05:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "aaVtozVMyaAulYLpfUO5CZWUZ7c",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "hiNsEWErdvY"
-      },
-      "snippet": {
-        "publishedAt": "2019-11-16T09:49:59Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Макс и Катя играют с папой",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hiNsEWErdvY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hiNsEWErdvY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hiNsEWErdvY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-11-16T09:49:59Z"
       }
     }
   ]
