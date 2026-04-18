@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "tl8JiSHLtMACt2jHY1QPIC_Hb1g",
+  "etag": "898KW1A1zUQc6E_FGJtpNm9KXjA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 75,
+    "totalResults": 76,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8jNNQTT5x0a4eD-gMEiqOWqeTPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lgie9m7SSRk"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-18T09:01:05Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Кто лучше знает Макса",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lgie9m7SSRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lgie9m7SSRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lgie9m7SSRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-18T09:01:05Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "7vO3_OSdP47BXQR88_HFd4iATvw",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2015-12-02T19:20:32Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3IsN4nXVweMpS-Bk_SGLYiHJTSM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "KKK0LmekCQw"
-      },
-      "snippet": {
-        "publishedAt": "2015-10-09T15:32:12Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Распаковка набора делать мячики",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KKK0LmekCQw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KKK0LmekCQw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KKK0LmekCQw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2015-10-09T15:32:12Z"
       }
     }
   ]
