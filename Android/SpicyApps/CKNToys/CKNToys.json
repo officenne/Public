@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "JDuqhkGmAL_3b07S6NaCThbdOBs",
+  "etag": "SYSLmK1vx6RJGYe1i4v7zrSSylM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 542,
+    "totalResults": 543,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NpDu9vLot24DXIEgpB_GsFeIf5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4l0QN5y96V4"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-21T04:46:59Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Rivals But Sneaking Up Behind Them  CKN Gaming",
+        "description": "CKNGaming Rivals Roblox.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4l0QN5y96V4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4l0QN5y96V4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4l0QN5y96V4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-21T04:46:59Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "UgifTRKlzM3pVHls3cDECIu32xE",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2025-10-31T05:00:38Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "DgBMaaB4sRXRwJwYcOKhf_nizqs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "f_FoWPoM9JI"
-      },
-      "snippet": {
-        "publishedAt": "2025-10-31T04:01:01Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Unbelievable Saves! Amazing Power Ups in Action!",
-        "description": "CKNGaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/f_FoWPoM9JI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/f_FoWPoM9JI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/f_FoWPoM9JI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-10-31T04:01:01Z"
       }
     }
   ]
