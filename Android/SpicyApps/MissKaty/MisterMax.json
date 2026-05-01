@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "TehcocPldSawI35sd98kwpbtPf8",
+  "etag": "OK55P8ESlrQawMaRosbUAn-C-Cw",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 85,
+    "totalResults": 86,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7oglaa_D9aGXQvBKz6H3i1aO25A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X-2QIOWjAYI"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-01T09:00:51Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Пробуем все из Drive in кафешек",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X-2QIOWjAYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X-2QIOWjAYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X-2QIOWjAYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-01T09:00:51Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ldEgEDV8LdATSkyU_Ln3C5MHVo4",
@@ -418,7 +452,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "d5niCr4h3A8Yml-O8WDG2kRNueE",
+      "etag": "LVwtWcmbtc3JKXSIboUZ8VP_D_4",
       "id": {
         "kind": "youtube#video",
         "videoId": "lRPXV20IZAo"
@@ -1438,7 +1472,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WoUOvW8AAYxoxR6H_tuHlGTd19g",
+      "etag": "ElSVBGPOrV3L3mDDeSztNTIxfss",
       "id": {
         "kind": "youtube#video",
         "videoId": "jcpF5XhvWug"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2016-05-12T12:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ovjPykOzQFtrKZXERTwQqGDTKiw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "eAizbPZEWVU"
-      },
-      "snippet": {
-        "publishedAt": "2016-04-06T12:00:01Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Акула растущая в воде",
-        "description": "Спасибо, что смотрите мое видео! Ставьте лайки! Подписывайтесь на мой канал ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eAizbPZEWVU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eAizbPZEWVU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eAizbPZEWVU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-04-06T12:00:01Z"
       }
     }
   ]
