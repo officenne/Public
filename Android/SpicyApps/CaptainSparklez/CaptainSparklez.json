@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "HIZ0_fjI_N7lV8Czjp8n9w1I8vs",
+  "etag": "cfQvowhNEkjXRHbf3mxIjzVJz6c",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wy9gS9rhhLYWFvaeOW4bN0N8-6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0u5htPbxZK8"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-04T17:00:03Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: The Sulfur Bomber",
+        "description": "Today we test the new TNT sulfur cube Thanks to Apex Hosting for sponsoring this video! Use code \"CaptainSparklez\" to get 25% ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0u5htPbxZK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0u5htPbxZK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0u5htPbxZK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-04T17:00:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "aNFoXf9uyoh2oil4Jrm9oqYMjbU",
@@ -311,40 +345,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-04-29T12:00:48Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "dbCw4LolkZWcOUMcemhMusCkMKk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wMo9z_hNT5E"
-      },
-      "snippet": {
-        "publishedAt": "2026-04-27T17:01:17Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Creative Cooperation #1",
-        "description": "A very epic map in a modpack using create for puzzles. With @karacorvus Thanks to Apex Hosting for sponsoring this video!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wMo9z_hNT5E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wMo9z_hNT5E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wMo9z_hNT5E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-04-27T17:01:17Z"
       }
     }
   ]
