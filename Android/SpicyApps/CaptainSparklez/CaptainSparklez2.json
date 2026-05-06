@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "cXGYR5WzQJ34r5Zc76i6er-n8rQ",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h-VXeAA1XmQ91glc8VwsaEdi3cw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jnVWofNRse0"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-06T21:00:00Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "We Tried Japanese Snacks... In Japan",
+        "description": "Went to Japan the other week and tried some snackies. Also more videos to come. Kara's vid here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnVWofNRse0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnVWofNRse0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnVWofNRse0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-06T21:00:00Z"
+      }
+    }
+  ]
 }
