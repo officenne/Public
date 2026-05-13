@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "nwyqO9f4h5B8zmns1AA4IwoRC9o",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TS_BJIwp8NdnPPAO9U_YHNEyZZQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UAA29dAdkbs"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-13T19:00:09Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "This Shouldn&#39;t Be Legal",
+        "description": "Would you like some debt? Try leasing solar panels! Vlogs Playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UAA29dAdkbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UAA29dAdkbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UAA29dAdkbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-13T19:00:09Z"
+      }
+    }
+  ]
 }
