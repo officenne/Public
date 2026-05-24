@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "J7kSGEOWSTGVcBwb0UE-5Xaz2yo",
+  "etag": "jdok60lvno30soKtlwmjWKyOndw",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d3iwXaLWRA78Aj3n6P2uZcVn1NQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6jw-CV3e4F8"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-24T17:00:09Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft E2ernal Ep. 10 - Expert Mode",
+        "description": "MC Eternal 2 is a big updated version of the pack we played 5 years ago Thanks to Apex Hosting for sponsoring this series!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6jw-CV3e4F8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6jw-CV3e4F8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6jw-CV3e4F8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-24T17:00:09Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "URqnGerKHZdJli1DJzL9W5p1M-4",
@@ -311,40 +345,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-05-20T17:00:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "EDTM7DcKV69mmYJNssUWAY0G-iE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "xWhfNeYvnnY"
-      },
-      "snippet": {
-        "publishedAt": "2026-05-20T12:01:34Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Stupid jumpscare",
-        "description": "Full vod: https://www.youtube.com/watch?v=mGOcoKJgJFU #shorts #minecraft #funny.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xWhfNeYvnnY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xWhfNeYvnnY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xWhfNeYvnnY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-05-20T12:01:34Z"
       }
     }
   ]
