@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "jdok60lvno30soKtlwmjWKyOndw",
+  "etag": "jaQ1ahDWNP-yfGY2uK7LD9v8AI8",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZEXXUyZvVWMKV5T_epTzfZhTl6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5XCfFpR5AqE"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-25T00:00:16Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Can I Figure Out What&#39;s Not Vanilla Minecraft?",
+        "description": "Jojo's Bizarre Adventure Map 3: https://www.youtube.com/watch?v=erkP7UbeVqs Thanks to Apex Hosting for sponsoring this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5XCfFpR5AqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5XCfFpR5AqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5XCfFpR5AqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-25T00:00:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "d3iwXaLWRA78Aj3n6P2uZcVn1NQ",
@@ -311,40 +345,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-05-21T00:00:13Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "dBrwKszA5KTHUHRLgTIbNIvHE70",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "AtN8gwNFIg0"
-      },
-      "snippet": {
-        "publishedAt": "2026-05-20T17:00:14Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft E2ernal Ep. 7 - The Theater",
-        "description": "MC Eternal 2 is a big updated version of the pack we played 5 years ago Thanks to Apex Hosting for sponsoring this series!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/AtN8gwNFIg0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/AtN8gwNFIg0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/AtN8gwNFIg0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-05-20T17:00:14Z"
       }
     }
   ]
