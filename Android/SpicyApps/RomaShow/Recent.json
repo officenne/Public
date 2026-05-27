@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "an3WkCLHBJia9AWXgBO49wKd0bQ",
+  "etag": "Aq1Q9VW-bkplceGWhEJG8MVStZI",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 398,
+    "totalResults": 399,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jpv8Y-I-DNayQ4NecS7FVpYC00I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Aa07ovJ03eU"
+      },
+      "snippet": {
+        "publishedAt": "2026-05-27T10:15:18Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Fun Cafe Adventures for Kids!",
+        "description": "Fun cooking adventures and playful cafe stories for kids. Kids Roma Show - http://bit.ly/2kj62uh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aa07ovJ03eU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aa07ovJ03eU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aa07ovJ03eU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-05-27T10:15:18Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "a37JS3_h-YPcMvRohYBNEPeV5uk",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2026-01-14T13:30:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "b7KGjLZitc0XIGbs3klJnWPqZWY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "pdzdYvzlG2c"
-      },
-      "snippet": {
-        "publishedAt": "2026-01-08T11:31:01Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Ice vs Fire Princess Dress",
-        "description": "The Fire Princess melts the Ice Princess's frozen dress and helps her. Cold and fire together create magic. ❄️   Watch the FULL ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pdzdYvzlG2c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pdzdYvzlG2c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pdzdYvzlG2c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-01-08T11:31:01Z"
       }
     }
   ]
