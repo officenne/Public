@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "GN3VzByA8F0SLtZJo65P3PBUHL0",
+  "etag": "P6V1dGYeluBMOkDdKwVWCnzFcOw",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 13,
     "resultsPerPage": 13
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eP5mh-HSmFnfPA56IF6YCi9XApw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9hFnDsVyacI"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-06T00:00:35Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "This Minecraft Map Changed My Perspective On Life",
+        "description": "Today we play Anemoia and must look to the sky Thanks to Apex Hosting for sponsoring this video! Use code \"CaptainSparklez\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9hFnDsVyacI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9hFnDsVyacI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9hFnDsVyacI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-06T00:00:35Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "jHomU7o2MFjEFNkh0weVbixVIyw",
@@ -413,40 +447,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-05-30T12:00:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "csvqYWHC64b_vN9D9HenvEpobnQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "0oX1YRzi3HI"
-      },
-      "snippet": {
-        "publishedAt": "2026-05-30T00:00:31Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "The Final Among Us",
-        "description": "Chilled Chaos has retired and... wait why am I here didn't I retire? Among Us playlist: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0oX1YRzi3HI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0oX1YRzi3HI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0oX1YRzi3HI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-05-30T00:00:31Z"
       }
     }
   ]
