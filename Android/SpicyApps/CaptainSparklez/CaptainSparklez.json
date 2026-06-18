@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "JGbbuYS7aNxfZX8qiD5RijPsS8o",
+  "etag": "ZPrs1EVwQQgjQRSicYmHSpLSH6A",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 12,
     "resultsPerPage": 12
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "303BK7h7e07tLNXhICXjQbayTwY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IXFkwskgfQE"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-18T00:00:19Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: Avalon",
+        "description": "Today we play a map that is very complete Thanks to Apex Hosting for sponsoring this video! Use code \"CaptainSparklez\" to get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IXFkwskgfQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IXFkwskgfQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IXFkwskgfQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-18T00:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "5uU50lN9CNlxO6KPfTDyO0JWkPM",
@@ -379,40 +413,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-06-13T00:00:37Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "f4_fDgLKWffcYLh6K63r3PWB0-w",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "13MA1XDvFIM"
-      },
-      "snippet": {
-        "publishedAt": "2026-06-11T17:00:23Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Exploiting On The Lifesteal SMP (#1)",
-        "description": "Lifesteal World is a 2 week long Minecraft anarchy SMP with the Lifesteal plugin, where if you kill a player you steal a heart and if ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/13MA1XDvFIM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/13MA1XDvFIM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/13MA1XDvFIM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-06-11T17:00:23Z"
       }
     }
   ]
