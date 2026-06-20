@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "AzFlow2SZT56e_yORySEszvg-uw",
+  "etag": "5Phw-_TuiYiyCUIpem92r-1xikg",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 82,
+    "totalResults": 83,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7V3bbEKfITofs1D07y2AIucekmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y52AsV0Dg3I"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-20T08:45:39Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Переведи и найди челлендж",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y52AsV0Dg3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y52AsV0Dg3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y52AsV0Dg3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-20T08:45:39Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "a5g-i4m7A_vbcGLmzL_dxBiu1ak",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2016-05-12T12:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "rdStWDf4eBhkoBbPOeDrMy0TPCM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "eAizbPZEWVU"
-      },
-      "snippet": {
-        "publishedAt": "2016-04-06T12:00:01Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Акула растущая в воде",
-        "description": "Спасибо, что смотрите мое видео! Ставьте лайки! Подписывайтесь на мой канал ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eAizbPZEWVU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eAizbPZEWVU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eAizbPZEWVU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-04-06T12:00:01Z"
       }
     }
   ]
