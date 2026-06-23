@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "tLfVYIfZwreUxyW4AuBlb_oPlE0",
+  "etag": "sbDysA3xBFEUJVTLAf6m7cp1W0s",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 13,
     "resultsPerPage": 13
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H-sA7ReiR2IFCxSdR9vXsnyD7T8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dTMWIwpl6_o"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-23T17:00:07Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft E2ernal Ep. 25 - Israphel&#39;s Shadow",
+        "description": "MC Eternal 2 is a big updated version of the pack we played 5 years ago Thanks to Apex Hosting for sponsoring this series!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dTMWIwpl6_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dTMWIwpl6_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dTMWIwpl6_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-23T17:00:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "3c79o5gBDEb700Ceyv_C0H_8elA",
@@ -413,40 +447,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-06-17T17:00:23Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LXSAr7WaSKQdxh7sO_QiFkOnO4E",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "kICSBoxGj1M"
-      },
-      "snippet": {
-        "publishedAt": "2026-06-17T00:00:39Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Minecraft: Flying Blimps In The Scum SMP",
-        "description": "Today we look at the big blimp Thanks to Apex Hosting for sponsoring this server! Use code \"CaptainSparklez\" to get 25% off your ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kICSBoxGj1M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kICSBoxGj1M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kICSBoxGj1M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-06-17T00:00:39Z"
       }
     }
   ]
