@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "zml_CpDJFl1_OeLFr_jfkvAN4iI",
+  "etag": "x3z0F6TY40YFgl_Po-XhqJIAZKc",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 555,
+    "totalResults": 556,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nsDQD8uL8rDa8LJJGOGLexp3PaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rD-3L0ILJuM"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-03T05:18:03Z",
+        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
+        "title": "Escape Mr Mime",
+        "description": "CKNGaming.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rD-3L0ILJuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rD-3L0ILJuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rD-3L0ILJuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CKN Gaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-03T05:18:03Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "cT98rLHi9FEyRkuDD9z0y8REkPM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "CKN Gaming",
         "liveBroadcastContent": "none",
         "publishTime": "2025-10-31T12:45:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KkZTk-J-IqOqJfxoJAgC17GPiHU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "EiIpK6RsbFQ"
-      },
-      "snippet": {
-        "publishedAt": "2025-10-31T12:00:27Z",
-        "channelId": "UC135_IPK8XOEEdXdtcseR4w",
-        "title": "Potato Chaos  Hilarious Gaming Moments with Friends!",
-        "description": "CKNGaming.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EiIpK6RsbFQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EiIpK6RsbFQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EiIpK6RsbFQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CKN Gaming",
-        "liveBroadcastContent": "none",
-        "publishTime": "2025-10-31T12:00:27Z"
       }
     }
   ]
