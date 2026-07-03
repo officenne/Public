@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "DkANLCnztA5U_pQvS0AQ3h993Y4",
+  "etag": "JqNofGtizLej2HVUD7hfuGOj2UQ",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 100,
+    "totalResults": 101,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MDxEy4ipiF8Q5cZy6t9i5ZRCpws",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NgCEeHBuKrE"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-03T09:00:14Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Переведи и найди челлендж",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NgCEeHBuKrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NgCEeHBuKrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NgCEeHBuKrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-03T09:00:14Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "X0JXGQEq7-kLFkP8Wo1ciJYrmy4",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2018-12-11T10:50:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "CprYzxYJPlZdUhyVNA-L0d7WNQM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "4oCzzj2V1Y0"
-      },
-      "snippet": {
-        "publishedAt": "2018-09-30T05:00:00Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя и её новые игрушки для девочек",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4oCzzj2V1Y0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4oCzzj2V1Y0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4oCzzj2V1Y0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-09-30T05:00:00Z"
       }
     }
   ]
