@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "TdQ8wB6e47mlwydcsc1tZNI_NUQ",
+  "etag": "MW1KFdN4PSdpiiYkCZ1MRBnA21E",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 97,
+    "totalResults": 98,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dHTXWrP3EArihMLeZBi93jB9GTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z7LX5fwOagc"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-11T09:00:16Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Мороженое сандай челлендж",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z7LX5fwOagc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z7LX5fwOagc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z7LX5fwOagc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-11T09:00:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "W7dwJbGWJXJ6A6HfqVGsDcuiFSM",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2017-07-09T05:00:03Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ZHxP1UtUStcdSBsm_CIRVdthGg8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "YcQe4VmhZ2A"
-      },
-      "snippet": {
-        "publishedAt": "2017-06-29T05:00:01Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "ЧЕЛЛЕНДЖ Мальчики ПРОТИВ Девочек / Супермаркеты / Японская VS Корейская еда",
-        "description": "Все Видео Канала Mister Max: https://www.youtube.com/channel/UC_8PAD0Qmi6_gpe77S1Atgg/videos Спасибо, что ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YcQe4VmhZ2A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YcQe4VmhZ2A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YcQe4VmhZ2A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-06-29T05:00:01Z"
       }
     }
   ]
