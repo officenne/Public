@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "pipzFZBqGKybE4Q_iwCuJx7iSag",
+  "etag": "vka66TQNXP7sZL5owYUl29G5yP4",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1LSJGVzXMDegX-CwdFmABCK_f3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xz6W_niaFos"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-14T12:00:25Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "It’s Impossible To Make Me Say No!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xz6W_niaFos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xz6W_niaFos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xz6W_niaFos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-14T12:00:25Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "rtp9QtJzOTOSC-iH5ekkwkPbvvk",
@@ -311,40 +345,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2026-07-05T12:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "sge6sn_JhKWf0jYte1PQSpczCM4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "dubaKZmtnlE"
-      },
-      "snippet": {
-        "publishedAt": "2026-07-04T12:00:03Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "I Faked My Death To Hide From KPop Demon Hunters!",
-        "description": "I Faked My Death To Hide From KPop Demon Hunters! Watch as Topper Guild fakes his own death in order to find the killer who ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/dubaKZmtnlE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/dubaKZmtnlE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/dubaKZmtnlE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-07-04T12:00:03Z"
       }
     }
   ]
