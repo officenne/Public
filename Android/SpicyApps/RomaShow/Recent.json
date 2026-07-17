@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "lHVplDvrrM1y-DxvD1V4Z89tOMc",
+  "etag": "hBUUNi66WnDyrdwCA7BiPUl4xE8",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 357,
+    "totalResults": 358,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C6sWpk-IEJ9Pf9dH_YzI6yXq5Ds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GwtJ4j-N9V4"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-17T10:15:16Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Kids Play with Magic Puzzles",
+        "description": "Two girls solve magic puzzles that transform into real toys! They have fun, learn to share, and enjoy exciting pretend play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GwtJ4j-N9V4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GwtJ4j-N9V4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GwtJ4j-N9V4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-17T10:15:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "xqLmZNkbA31dL2TUMzjo5vK7DHI",
@@ -78,7 +112,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5v8xzrpsb0QHSsVG-sLc90Xoago",
+      "etag": "ZugWCb3nXtBN-MLD4V9GEUW0huQ",
       "id": {
         "kind": "youtube#video",
         "videoId": "evZbRffwPNc"
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2026-02-12T10:01:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "g7vw_dMpYo_vXKo7xkSQaL4lyzs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "9YVtAaBed8E"
-      },
-      "snippet": {
-        "publishedAt": "2026-02-11T11:30:11Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Kids Learn Safety Rules - Fun &amp; Educational Stories",
-        "description": "Fun and educational safety stories for kids. Kids learn important rules for playing, home safety, traffic, strangers, school bus, and ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9YVtAaBed8E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9YVtAaBed8E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9YVtAaBed8E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-02-11T11:30:11Z"
       }
     }
   ]
