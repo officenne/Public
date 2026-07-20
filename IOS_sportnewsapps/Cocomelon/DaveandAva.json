@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "emsUGFxF5ZMGrjWoZEru0NkiqO0",
+  "etag": "6Sj9Pt5jVBJWl4DzB_zALHuLxD4",
   "nextPageToken": "CDIQAA",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 106,
+    "totalResults": 107,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4t7RVY3WlT_Xv7tz4cUAPvBYe8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nDCq0a4fLgY"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-20T12:02:08Z",
+        "channelId": "UC6zhI71atP7YLoZyIyCIGNw",
+        "title": "😋 Hot Cross Buns | Nursery Rhymes for Kids | Baby Songs by Dave and Ava 😋",
+        "description": "Download Dave and Ava's App for iOS ▻ https://bit.ly/DaveAndAvaiOSApps and Android ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nDCq0a4fLgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nDCq0a4fLgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nDCq0a4fLgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-20T12:02:08Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "VbSTSVzAoBWk0io-KASBXlbR4ss",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
         "liveBroadcastContent": "none",
         "publishTime": "2023-01-13T10:26:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "BxLwK5dz_yHqskXq4WjOkYdzN8Y",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "o-hZC1xDQrg"
-      },
-      "snippet": {
-        "publishedAt": "2022-12-30T10:14:53Z",
-        "channelId": "UC6zhI71atP7YLoZyIyCIGNw",
-        "title": "🎄 Jingle Bells, Roll Roll Roll the Ball and More Christmas Songs | Nursery Rhymes by Dave and Ava🎄",
-        "description": "Download Dave and Ava's App for iOS ▻ https://bit.ly/DaveAndAvaiOSApps and Android ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/o-hZC1xDQrg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/o-hZC1xDQrg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/o-hZC1xDQrg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Dave and Ava - Nursery Rhymes and Baby Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-12-30T10:14:53Z"
       }
     }
   ]
