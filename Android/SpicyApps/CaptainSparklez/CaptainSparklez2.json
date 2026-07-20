@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "TaPjisLWZENilG39ntRyxXSeZz8",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dZr1zpr5t-x-82jsd71zc4fXwIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mOxhhmJNqIo"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-20T18:30:32Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "16 Years And The Unretirement",
+        "description": "Wowie my YouTube channel can get a driver's license now Vlogs Playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mOxhhmJNqIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mOxhhmJNqIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mOxhhmJNqIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-20T18:30:32Z"
+      }
+    }
+  ]
 }
