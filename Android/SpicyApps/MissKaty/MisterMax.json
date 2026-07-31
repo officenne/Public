@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "wsLb7QNyJ4XauLk4dN-BG3lv8wo",
+  "etag": "ugXzAzn1nmy4T7rp7VunE71sTpM",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 90,
+    "totalResults": 91,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TuyiIR4bocJ-7C6-rc4Y2sTlVkY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nsQMDgWHHds"
+      },
+      "snippet": {
+        "publishedAt": "2026-07-31T09:00:23Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "Дети vs родители летняя версия",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nsQMDgWHHds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nsQMDgWHHds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nsQMDgWHHds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-07-31T09:00:23Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "6HJLO_8V_CQmSaRA9LAjxbyas8s",
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2017-06-29T05:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "XWGMiswdXGYajMzBbUqn68EI6Og",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "OktR_RLxw8g"
-      },
-      "snippet": {
-        "publishedAt": "2017-05-25T05:00:01Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "Кто из вас / Про подписчиков / О Кошечке Мурке / Кто кого обижает?",
-        "description": "Все Видео Канала Mister Max: https://www.youtube.com/channel/UC_8PAD0Qmi6_gpe77S1Atgg/videos Спасибо, что ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OktR_RLxw8g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OktR_RLxw8g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OktR_RLxw8g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-05-25T05:00:01Z"
       }
     }
   ]
