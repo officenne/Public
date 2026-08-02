@@ -1,15 +1,49 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "SLJRDOBl8D9s8nbbnRxvVq3QJns",
+  "etag": "YBqMAjISnjH0SJnTQouTaT3TDwo",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 10,
-    "resultsPerPage": 10
+    "totalResults": 11,
+    "resultsPerPage": 11
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "ta-6T8ItYgZj7vO6CJ8rr-mSPyE",
+      "etag": "o8P2HfZksViy9cojNiVGDTvonMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T6UlZlTFPCg"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-02T16:00:24Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Someone Hacked My YouTube Channel!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T6UlZlTFPCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T6UlZlTFPCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T6UlZlTFPCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-02T16:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_OBTOGwCuo8YXMCtMFCGIhvdDl8",
       "id": {
         "kind": "youtube#video",
         "videoId": "yZCM-0kJEvo"
@@ -145,7 +179,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "wsumZNyOFt3A3-9JoTVnVfx8jz0",
+      "etag": "yPcpWY7txjbJdKs-dgm7tqUzq9Q",
       "id": {
         "kind": "youtube#video",
         "videoId": "IODdgMvHHtE"
