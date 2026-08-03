@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Qs9NsJlx7jGhW5eMtZpe85DQAlQ",
+  "etag": "6oaShNG83OWZgai6SvVGekUL3eU",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 12,
     "resultsPerPage": 12
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6O4qujbxE_qupbE9IjKf5xHvdgE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XI5X2XQpiEk"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-03T12:00:21Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "My YouTube Channel Is Hacked!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XI5X2XQpiEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XI5X2XQpiEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XI5X2XQpiEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-03T12:00:21Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "o8P2HfZksViy9cojNiVGDTvonMQ",
@@ -345,40 +379,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2026-07-25T12:00:28Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "tGbRFm6hSIM_bUUzoaTmcy3yKtw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "gbdtHPj-Q7s"
-      },
-      "snippet": {
-        "publishedAt": "2026-07-24T12:00:37Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Who Is The Quietest?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gbdtHPj-Q7s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gbdtHPj-Q7s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gbdtHPj-Q7s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-07-24T12:00:37Z"
       }
     },
     {
