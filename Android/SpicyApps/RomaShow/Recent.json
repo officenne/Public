@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "cVPkuJ4rNovIISF4UgbDaw_Xx10",
+  "etag": "ZSe8RBZYv_MVFEVz1RggO2_5GqY",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 383,
+    "totalResults": 384,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "evF5A3QZZ6GBOQ0hEPuIMveZMTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rR60Ss8cd7A"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-05T10:15:16Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Pool Safety &amp; Water Adventures for Kids",
+        "description": "MY NEW CHANNEL - http://www.youtube.com/@Roma_Teen Kids learn water safety, beach rules, and fun facts about sea ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rR60Ss8cd7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rR60Ss8cd7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rR60Ss8cd7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-05T10:15:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "gpUFFKKzw6JvNb5DfOJQ06Ep0LU",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2026-02-24T10:00:30Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "eC_BSpQbs-R9kvUCgWgZmNN_tbE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "BbxQ99fXKgE"
-      },
-      "snippet": {
-        "publishedAt": "2026-02-18T10:00:30Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Kids Learn Responsibility &amp; Good Habits",
-        "description": "MY NEW CHANNEL https://www.youtube.com/@Roma_Teen/featured ▷ Fun and educational kids stories about responsibility ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BbxQ99fXKgE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BbxQ99fXKgE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BbxQ99fXKgE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-02-18T10:00:30Z"
       }
     }
   ]
