@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "7hP7yXbk4H5Se2JGCvcBhZJp_RU",
+  "etag": "eUZ-qeO3-YR1JTjwzoKiSe7ewak",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 11,
-    "resultsPerPage": 11
+    "totalResults": 10,
+    "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HadjV5T8V3KeJQAX0MvwiIED8Ys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xUpce85kQxc"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-10T12:00:18Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "I Can’t Believe This Worked!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xUpce85kQxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xUpce85kQxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xUpce85kQxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-10T12:00:18Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "NbOZ-WDDty3EqfImM6eoTovsR8w",
@@ -311,74 +345,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-01T12:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "C3rOG6aJ-GiOXfaHW3VU9jEb7Zo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "NE-0k-7T970"
-      },
-      "snippet": {
-        "publishedAt": "2026-07-31T19:50:40Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "It’s Impossible To Make Me Happy!",
-        "description": "It's Impossible To Make Me Happy! #BombPopPartner.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NE-0k-7T970/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NE-0k-7T970/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NE-0k-7T970/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-07-31T19:50:40Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "4ZE-b1DyeuKVYy_8hdBkXPXxOB0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "FN_0wbkgNec"
-      },
-      "snippet": {
-        "publishedAt": "2026-07-31T16:23:49Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Don&#39;t Pick The Wrong Dumpling!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FN_0wbkgNec/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FN_0wbkgNec/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FN_0wbkgNec/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-07-31T16:23:49Z"
       }
     }
   ]
