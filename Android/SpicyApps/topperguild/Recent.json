@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "i3aVTHi6YDCIyhoJ6PUrfIHiVcA",
+  "etag": "xFymw3UKas52inXwpOkEj8VhNWE",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n2VWY1joXNVYK-6fmEIDWV12GMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZsDXo2isiP0"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-12T12:00:19Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Ketchup Hack! @zackdfilms",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZsDXo2isiP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZsDXo2isiP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZsDXo2isiP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-12T12:00:19Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "d4aFW8VEQKIxhIVkihAmGHo0x5s",
@@ -111,7 +145,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vuNMuI0Rl3YJG4pukhspp9H7nIk",
+      "etag": "_HFbjkmayPzP8vEUbiG_GJNX0vk",
       "id": {
         "kind": "youtube#video",
         "videoId": "yb86q0eFTjk"
@@ -311,40 +345,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-03T12:00:21Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "C06ACZWX1_eUliAliNXy4zifDyo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "T6UlZlTFPCg"
-      },
-      "snippet": {
-        "publishedAt": "2026-08-02T16:00:24Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "Someone Hacked My YouTube Channel!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/T6UlZlTFPCg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/T6UlZlTFPCg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/T6UlZlTFPCg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-08-02T16:00:24Z"
       }
     }
   ]
