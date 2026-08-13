@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "7IutQLIFUtkh6SaK6eoDP4kdXgY",
+  "etag": "IelgedhaQvAZyueX912paI1iFG0",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I-Ayx9uBO3bjHAguOFX7O2UFb7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qn6l4yAAuJI"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-13T12:00:02Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "I Survived 100 Dates In 24 Hours! (KPop Demon Hunters)",
+        "description": "I Survived 100 Dates In 24 Hours! (KPop Demon Hunters)! Watch as Topper and his friends go through a series of challenges ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qn6l4yAAuJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qn6l4yAAuJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qn6l4yAAuJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-13T12:00:02Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "n2VWY1joXNVYK-6fmEIDWV12GMs",
@@ -311,40 +345,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-04T12:00:14Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "4CsvQFtCeXEHt26lGZPVW_35xiE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "XI5X2XQpiEk"
-      },
-      "snippet": {
-        "publishedAt": "2026-08-03T12:00:21Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "My YouTube Channel Is Hacked!!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XI5X2XQpiEk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XI5X2XQpiEk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XI5X2XQpiEk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-08-03T12:00:21Z"
       }
     }
   ]
