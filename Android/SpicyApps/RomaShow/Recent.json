@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "alTIy_E-_WnIaAE9inBkUs1mY20",
+  "etag": "zNi0YiRN1v5HlLJSP8DC1kLsFM4",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 389,
+    "totalResults": 390,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uY1BGdLMX7U4XudnxCI6eHJz1JU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7g3Xo5ItMBE"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-21T10:15:16Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Kids Enter a Secret Soccer World! ⚽",
+        "description": "MY NEW CHANNEL - http://www.youtube.com/@Roma_Teen A soccer ball leads kids into a secret world full of exciting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7g3Xo5ItMBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7g3Xo5ItMBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7g3Xo5ItMBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-21T10:15:16Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "OLKElKdygkeRWQCmaSyBkzrOX8E",
@@ -1672,40 +1706,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2026-03-11T10:15:07Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3uZmSE4QYWOWOA9QF2oJwgJgMno",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "d6xOylY2ooQ"
-      },
-      "snippet": {
-        "publishedAt": "2026-03-10T15:30:24Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver Chooses… and Has to Do It!",
-        "description": "MY NEW CHANNEL https://www.youtube.com/@Roma_Teen/featured ▷ Oliver picks a mystery card… but he doesn't know what ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/d6xOylY2ooQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/d6xOylY2ooQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/d6xOylY2ooQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-03-10T15:30:24Z"
       }
     }
   ]
