@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "eaCO38itKQfVw2DP02I3y_PApQE",
+  "etag": "vOsK2DdlB_A1jvT5Dvi5AKs9AFA",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 90,
+    "totalResults": 91,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2EroOPoWSB2s-jkyQSJuqEoyeS4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oSdYeFp8rMo"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T09:00:27Z",
+        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
+        "title": "60 заданий за 60 минут",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oSdYeFp8rMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oSdYeFp8rMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oSdYeFp8rMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mister Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T09:00:27Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "o3uAUNeG6QpnSScYBu3FEO8yz3E",
@@ -826,7 +860,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qOFhWE9CI4pguGAYQtWhGcxo4vk",
+      "etag": "xLZnviscC51DahMYKxxFsGP4xuM",
       "id": {
         "kind": "youtube#video",
         "videoId": "cF6w0cvLTu8"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Mister Max",
         "liveBroadcastContent": "none",
         "publishTime": "2018-01-14T09:51:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ZHxP1UtUStcdSBsm_CIRVdthGg8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "YcQe4VmhZ2A"
-      },
-      "snippet": {
-        "publishedAt": "2017-06-29T05:00:01Z",
-        "channelId": "UC_8PAD0Qmi6_gpe77S1Atgg",
-        "title": "ЧЕЛЛЕНДЖ Мальчики ПРОТИВ Девочек / Супермаркеты / Японская VS Корейская еда",
-        "description": "Все Видео Канала Mister Max: https://www.youtube.com/channel/UC_8PAD0Qmi6_gpe77S1Atgg/videos Спасибо, что ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/YcQe4VmhZ2A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/YcQe4VmhZ2A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/YcQe4VmhZ2A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Mister Max",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-06-29T05:00:01Z"
       }
     }
   ]
