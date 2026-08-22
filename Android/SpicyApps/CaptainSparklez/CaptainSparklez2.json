@@ -1,10 +1,45 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "UBAOiXjvY0CZ7Ub9tJDO9bUtsU8",
+  "etag": "m87Qe9YCTM6xHLVN2ldaDpBcsPY",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 0,
-    "resultsPerPage": 0
+    "totalResults": 1,
+    "resultsPerPage": 1
   },
-  "items": []
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HXt2k4z7RJSR-Iip-hhJDchpDys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yOnKi4hZxc8"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-22T18:00:30Z",
+        "channelId": "UCshoKvlZGZ20rVgazZp5vnQ",
+        "title": "So I&#39;m In A Game... (Again)",
+        "description": "So Fable Fury has been pretty well received since releasing and now we are doing our first big expansion. Check it out at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOnKi4hZxc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOnKi4hZxc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOnKi4hZxc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-22T18:00:30Z"
+      }
+    }
+  ]
 }
