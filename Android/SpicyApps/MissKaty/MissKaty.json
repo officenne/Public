@@ -1,13 +1,47 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "7e2-Cxpw6Lx1zRi441ABkIakzus",
+  "etag": "Cfno-CuwdcJEIeGXPj9Pj7s4l4M",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 92,
+    "totalResults": 93,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rIylqZh2Hl311hmZUhsBn5AYU1o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iiGsKTo6s60"
+      },
+      "snippet": {
+        "publishedAt": "2026-08-28T10:00:33Z",
+        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
+        "title": "Мы выиграли все игрушки в аркадах",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iiGsKTo6s60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iiGsKTo6s60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iiGsKTo6s60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Miss Katy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-08-28T10:00:33Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "b3xaqheBsBLu0IlkYKql9gVR5jc",
@@ -1404,7 +1438,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VIS_lYIi_9trSIqWbKkNKZlW7hw",
+      "etag": "unnutVslGfXSemPbTBc2i3m3Tnw",
       "id": {
         "kind": "youtube#video",
         "videoId": "5qkTFvxacDU"
@@ -1672,40 +1706,6 @@
         "channelTitle": "Miss Katy",
         "liveBroadcastContent": "none",
         "publishTime": "2017-04-04T05:00:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "qNDEbn_V46jSZPkpBSgabA-gMmc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "KqJ683K4OLI"
-      },
-      "snippet": {
-        "publishedAt": "2017-01-28T06:31:48Z",
-        "channelId": "UCcartHVtvAUzfajflyeT_Gg",
-        "title": "Катя и Максим теперь с велосипедом и самокатом",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KqJ683K4OLI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KqJ683K4OLI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KqJ683K4OLI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Miss Katy",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-01-28T06:31:48Z"
       }
     }
   ]
