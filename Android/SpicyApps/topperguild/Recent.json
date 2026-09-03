@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Q-QjTyFuKTuuuzFGc6wImVGNU-g",
+  "etag": "mhmTgWzhYqyF7LLIpyR4MVTA3jk",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 10,
     "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tSYy8Vck7ExYs0hheWmpYe7aEkE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q5Z5CZ2GKMs"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-03T12:00:22Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Butter Candle Hack! @zackdfilms",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q5Z5CZ2GKMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q5Z5CZ2GKMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q5Z5CZ2GKMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-03T12:00:22Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "AsbICHg8N-_ELaFL7Z_9_8TtrQI",
@@ -311,40 +345,6 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-25T12:00:24Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "jzADxI_kW75N4aUwAwsPMGwOKAk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "PIJmE73ZNeI"
-      },
-      "snippet": {
-        "publishedAt": "2026-08-24T12:00:23Z",
-        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
-        "title": "How Many People Can Fit Inside a Balloon?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PIJmE73ZNeI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PIJmE73ZNeI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PIJmE73ZNeI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Topper Guild",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-08-24T12:00:23Z"
       }
     }
   ]
