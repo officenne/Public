@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Ak6TdX27Li-JsOKp2wEl0yTCWeo",
+  "etag": "tlk2XgeSlbFRbzs-f6ERReqT2Ck",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 9,
-    "resultsPerPage": 9
+    "totalResults": 10,
+    "resultsPerPage": 10
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qzWyMCPsp4lUpaBTDrv5MzSFVEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fos0MYtGeAs"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T12:00:13Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "World&#39;s Strongest Eraser!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fos0MYtGeAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fos0MYtGeAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fos0MYtGeAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T12:00:13Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "cyet_sodjy3s_ZNvzE4gewNGgf8",
@@ -145,7 +179,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DOJYoGP9R7CTc3b-pMLLQZT2x9c",
+      "etag": "TWf64L8vUIS5m8m5P9heqIkFxO8",
       "id": {
         "kind": "youtube#video",
         "videoId": "KK5YifpbQUs"
