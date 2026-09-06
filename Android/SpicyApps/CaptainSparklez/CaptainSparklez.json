@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "v3wwtxlaAsmNS8WiquQBmJBXpl8",
+  "etag": "I0qZJJHWHakzIvjm-h8ye3QOXzI",
   "regionCode": "US",
   "pageInfo": {
     "totalResults": 12,
     "resultsPerPage": 12
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lh8XTl9NZqUVZMspixrLYY4F0Wg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WIUY-Eo5ROE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-06T00:00:29Z",
+        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
+        "title": "Minecraft: Cuboid Outpost Survival Ep. 6",
+        "description": "Cuboid Outpost is a pack where we must upgrade from notsogoodium to thatlldoium and get home Thanks to Apex Hosting for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WIUY-Eo5ROE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WIUY-Eo5ROE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WIUY-Eo5ROE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CaptainSparklez 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-06T00:00:29Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "NqRMwId64OTxA_aumrAVqKdODKM",
@@ -43,7 +77,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "6uZRCWngdb_BKif-2fjdPcUN6Iw",
+      "etag": "MQiGiHorzJb3UZQUk8E_v7Bz6u0",
       "id": {
         "kind": "youtube#video",
         "videoId": "tEaeHP-noDM"
@@ -379,40 +413,6 @@
         "channelTitle": "CaptainSparklez 2",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-28T17:00:30Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "x6rOYItSf1oh7wyABssuZMatBOA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qdVcOnkDjH8"
-      },
-      "snippet": {
-        "publishedAt": "2026-08-28T00:00:35Z",
-        "channelId": "UCAJ41d46i6mcNAsvsWRc9hw",
-        "title": "Learning How To Volcano Fish With Kara",
-        "description": "I learn to fish with @karacorvus and we use super innovative techniques Fable Fury Expansion: https://fablefury.com/magic How ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qdVcOnkDjH8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qdVcOnkDjH8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qdVcOnkDjH8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "CaptainSparklez 2",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-08-28T00:00:35Z"
       }
     }
   ]
