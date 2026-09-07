@@ -1,12 +1,46 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Qs7XrCBfO1XJ5NSTIxNvoSz82oQ",
+  "etag": "5Kl6Yws33NKO2zSN82LasuK7Peg",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 9,
-    "resultsPerPage": 9
+    "totalResults": 11,
+    "resultsPerPage": 11
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gsTBVZWVcEYD9Qc8VYs-gQgXfiA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D42pI58dWds"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-07T12:00:36Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Potato Hack! @zackdfilms",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D42pI58dWds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D42pI58dWds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D42pI58dWds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-07T12:00:36Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "qzWyMCPsp4lUpaBTDrv5MzSFVEs",
@@ -311,6 +345,40 @@
         "channelTitle": "Topper Guild",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-29T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-BeF_Y6yWZg8Q8fmeb6m5p4DP5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vLcoyyVyPg8"
+      },
+      "snippet": {
+        "publishedAt": "2026-06-27T12:00:26Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Escaping 100 Layers VS Foltyn!",
+        "description": "Escaping 100 Layers of KPop Demon Hunters vs Roblox! (Ft. Foltyn) Watch as Topper Guild and @FoltynFamily take on 100 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vLcoyyVyPg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vLcoyyVyPg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vLcoyyVyPg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-06-27T12:00:26Z"
       }
     }
   ]
