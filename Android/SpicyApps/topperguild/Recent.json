@@ -1,15 +1,49 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "D2si42bvied2tv11UJQ-BOc78Wk",
+  "etag": "IKqomEEcgiieCFluYxYQ7H4ZjWY",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 10,
-    "resultsPerPage": 10
+    "totalResults": 11,
+    "resultsPerPage": 11
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "xJmFDizDeBbSVWmdSP-_FrN6NEU",
+      "etag": "eCNghFJDYbVtSWWimuxYvLhdt8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "46LOGyEKYks"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-09T12:00:19Z",
+        "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+        "title": "Give Me Your YouTuber Voice!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/46LOGyEKYks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/46LOGyEKYks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/46LOGyEKYks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Topper Guild",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-09T12:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CaCz1sfPY-NAZd6w5cUvuoopBfE",
       "id": {
         "kind": "youtube#video",
         "videoId": "YkF4hBIQydw"
@@ -111,7 +145,7 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "cyet_sodjy3s_ZNvzE4gewNGgf8",
+      "etag": "t6Lb1CLPEa2H2MIBoZQybxuicSM",
       "id": {
         "kind": "youtube#video",
         "videoId": "21FIO7oPQ_k"
