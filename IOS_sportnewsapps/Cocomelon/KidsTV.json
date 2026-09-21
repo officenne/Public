@@ -1,12 +1,61 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Opy2N-xcrIlQY11H36TG3cbp3Ng",
+  "etag": "xNNWYfdFV_ym812vnnq6UK-Jwe8",
   "regionCode": "IE",
   "pageInfo": {
-    "totalResults": 3,
-    "resultsPerPage": 3
+    "totalResults": 4,
+    "resultsPerPage": 4
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P0MWocKSMc-jG_LDyRg-JBosYYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3UyZI_YfVsE"
+      },
+      "snippet": {
+        "publishedAt": "2026-09-21T10:11:01Z",
+        "channelId": "UC7Pq3Ko42YpkCB_Q4E981jw",
+        "title": "Funny Little Ducks, Quack Quack Quack, Baby Song for Kids",
+        "description": "Welcome to Kids TV, where the warmth of childhood meets the joy of learning through fun nursery rhymes and toddler songs!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3UyZI_YfVsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3UyZI_YfVsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3UyZI_YfVsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3UyZI_YfVsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3UyZI_YfVsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/3UyZI_YfVsE/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Kids TV - Nursery Rhymes And Baby Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-09-21T10:11:01Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "cSZeA2OQwJw4UK-MnJPB-aHCdog",
