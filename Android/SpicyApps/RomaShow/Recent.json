@@ -1,13 +1,62 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "eCXGxveRv2gxyhQBynA2fRo5TLs",
+  "etag": "yC155Bv41DnxPyA8owO17aa_jyE",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1100,
+    "totalResults": 1101,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3cd_tUXIRjxP4zVX3vPzCGggZ-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UdOUZl6nfws"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-03T23:15:06Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Find the Colorful Balls! Learn Colors with Fun Challenges",
+        "description": "Kids search for red, blue, green, and yellow balls in a playful color adventure! Fun challenges and surprises make learning colors ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UdOUZl6nfws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UdOUZl6nfws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UdOUZl6nfws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UdOUZl6nfws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UdOUZl6nfws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/UdOUZl6nfws/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-03T23:15:06Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "LZgloVuXCmUCnP3L68uhnJcdakE",
@@ -2212,50 +2261,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-18T14:30:35Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "scAws21mK1drGTaMHXI0GP6kerw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "uu-YMYfA4Ts"
-      },
-      "snippet": {
-        "publishedAt": "2026-08-16T14:30:37Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Score in the Right Color Goal! ⚽",
-        "description": "Watch the FULL video here https://youtu.be/dzeGyZZy5x8 Kids must follow the color on the screen and score the ball into the ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uu-YMYfA4Ts/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uu-YMYfA4Ts/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uu-YMYfA4Ts/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uu-YMYfA4Ts/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uu-YMYfA4Ts/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-08-16T14:30:37Z"
       }
     }
   ]
