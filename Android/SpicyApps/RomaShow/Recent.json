@@ -1,13 +1,57 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "DAB8gbVQhFywLpEh-hXYw1oGnTE",
+  "etag": "mQcf4ALUAq-_m_5UouKEJWXTZC0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1101,
+    "totalResults": 1102,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KDVJMXIi233HFfX3h93c5I36BN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u27hldg8bPk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-06T11:00:24Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Kids Play Restaurant! More Fun Food Adventures",
+        "description": "Kids try restaurant jobs, build an ice cream truck, and open a play restaurant! Fun pretend play stories about teamwork and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u27hldg8bPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u27hldg8bPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u27hldg8bPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u27hldg8bPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u27hldg8bPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-06T11:00:24Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "3cd_tUXIRjxP4zVX3vPzCGggZ-Y",
@@ -2232,55 +2276,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-19T10:15:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "RHra558NhrBIYmR02kvvrPOpFmg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "9PqIf5G4QPQ"
-      },
-      "snippet": {
-        "publishedAt": "2026-08-18T14:30:35Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Oliver Travels Back in Time to the DINOSAURS!",
-        "description": "Watch the FULL video here https://youtu.be/nB7clHPXhL4 Oliver travels millions of years into the past with a time machine and ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9PqIf5G4QPQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9PqIf5G4QPQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9PqIf5G4QPQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9PqIf5G4QPQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9PqIf5G4QPQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          },
-          "shortsAspectRatio": {
-            "url": "https://i.ytimg.com/vi/9PqIf5G4QPQ/sardefault.jpg",
-            "width": 608,
-            "height": 1080
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-08-18T14:30:35Z"
       }
     }
   ]
