@@ -1,13 +1,57 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "-59vTHB2h1nZW2WREhqnYAkpqGs",
+  "etag": "a_jHfYWTAm7LNt-wPDUk5YIdUB0",
   "nextPageToken": "CDIQAA",
   "regionCode": "US",
   "pageInfo": {
-    "totalResults": 1102,
+    "totalResults": 1103,
     "resultsPerPage": 50
   },
   "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OCyaqhoAvPSFu3Lpwjk2r8Z82Zg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5tRm4TMDicg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-10T11:15:07Z",
+        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
+        "title": "Kids Learn Fire Safety in the Forest!",
+        "description": "Watch the FULL video here https://youtu.be/sKuHLc8Hoys MY NEW CHANNEL - http://www.youtube.com/@Roma_Teen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5tRm4TMDicg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5tRm4TMDicg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5tRm4TMDicg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5tRm4TMDicg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5tRm4TMDicg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "★ Kids Roma Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-10T11:15:07Z"
+      }
+    },
     {
       "kind": "youtube#searchResult",
       "etag": "ZNaCVanaW4rdFIBf2kAPnQmP0Wo",
@@ -2232,50 +2276,6 @@
         "channelTitle": "★ Kids Roma Show",
         "liveBroadcastContent": "none",
         "publishTime": "2026-08-21T10:15:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "HGQrA4bwvXc4vRzJGB5D75bje9U",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "gpoNNyoyMMw"
-      },
-      "snippet": {
-        "publishedAt": "2026-08-20T14:30:29Z",
-        "channelId": "UCx790OVgpTC1UVBQIqu3gnQ",
-        "title": "Paper World Adventure for Kids",
-        "description": "Watch the FULL video here https://youtu.be/a0HzyHnW5rM Paper characters escape from a magic book, and kids go on a fun ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gpoNNyoyMMw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gpoNNyoyMMw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gpoNNyoyMMw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gpoNNyoyMMw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "shortsAspectRatio": {
-            "url": "https://i.ytimg.com/vi/gpoNNyoyMMw/sardefault.jpg",
-            "width": 402,
-            "height": 714
-          }
-        },
-        "channelTitle": "★ Kids Roma Show",
-        "liveBroadcastContent": "none",
-        "publishTime": "2026-08-20T14:30:29Z"
       }
     }
   ]
